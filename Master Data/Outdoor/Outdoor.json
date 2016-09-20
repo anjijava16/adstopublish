@@ -1,0 +1,2290 @@
+{
+   "count":10079,
+   "medias":[
+      {
+         "_id":"55f73f7a8ead0e9c158b4830",
+         "urlSlug":"chembur-mumbai-hoarding-advertising-2324",
+         "name":"Hoarding - Chembur, Mumbai #2324",
+         "mediaOptions":{
+            "regularOptions":{
+               "mediaOption1":{
+                  "area":800,
+                  "leadTime":"3 days",
+                  "printingAndMountingRate":7200,
+                  "ratePerSquareFeet":178,
+                  "cardRate":142500,
+                  "discountedRate":121125,
+                  "vendorRate":109013,
+                  "imageUrl":"/images/mediaOptions/outdoor/Hoarding.png"
+               }
+            }
+         },
+         "geography":[
+            "56bb11848ead0e91068b7fe7",
+            "56bb11848ead0e91068b7fe8"
+         ],
+         "logo":"/images/medias/55f73f7a8ead0e9c158b4830/55f73f7a8ead0e9c158b4830.jpg",
+         "attributes":{
+            "landmark":{
+               "value":"E.E Highway Nr Nitin Company Flyover Lhs"
+            },
+            "mediaType":{
+               "value":"Hoarding"
+            },
+            "cityPopularityIndex":{
+               "value":376,
+               "showName":"TMA Ranking"
+            },
+            "dimensions":{
+               "value":"40 X 20"
+            }
+         },
+         "uniqueId":2324,
+         "toolName":"outdoor",
+         "locality":"Chembur",
+         "city":"Mumbai",
+         "cardRate":142500
+      },
+      {
+         "_id":"55f73f698ead0e9c158b4574",
+         "urlSlug":"jayanagar-bangalore-hoarding-advertising-6",
+         "name":"Hoarding - Jayanagar, Bangalore #6",
+         "mediaOptions":{
+            "regularOptions":{
+               "mediaOption1":{
+                  "area":300,
+                  "leadTime":"3 days",
+                  "printingAndMountingRate":2700,
+                  "ratePerSquareFeet":90,
+                  "cardRate":27000,
+                  "discountedRate":22950,
+                  "vendorRate":20655,
+                  "imageUrl":"/images/mediaOptions/outdoor/Hoarding.png"
+               }
+            }
+         },
+         "geography":[
+            "56bb176c8ead0e820d8b4568",
+            "56bb19288ead0e800d8b46f1"
+         ],
+         "logo":"/images/medias/55f73f698ead0e9c158b4574/55f73f698ead0e9c158b4574.jpg",
+         "attributes":{
+            "landmark":{
+               "value":"Bannerghatta Road,Near Ibm"
+            },
+            "mediaType":{
+               "value":"Hoarding"
+            },
+            "cityPopularityIndex":{
+               "value":219,
+               "showName":"TMA Ranking"
+            },
+            "dimensions":{
+               "value":"25 X 12"
+            }
+         },
+         "uniqueId":6,
+         "toolName":"outdoor",
+         "locality":"Jayanagar",
+         "city":"Bangalore",
+         "cardRate":27000
+      },
+      {
+         "_id":"55f73fd78ead0e9c158b581c",
+         "urlSlug":"malad-east-mumbai-bus-shelter-advertising-9013",
+         "name":"Bus Shelters - Malad East, Mumbai #9013",
+         "mediaOptions":{
+            "regularOptions":{
+               "mediaOption1":{
+                  "imageUrl":"/images/mediaOptions/outdoor/Bus Shelter.png",
+                  "vendorRate":10710,
+                  "discountedRate":11900,
+                  "cardRate":14000,
+                  "ratePerSquareFeet":104,
+                  "printingAndMountingRate":1206,
+                  "leadTime":"3 days",
+                  "area":134
+               }
+            }
+         },
+         "geography":[
+            "56bb177d8ead0e820d8b45c2",
+            "56bb1a338ead0e880d8b464c"
+         ],
+         "logo":"/images/medias/55f73fd78ead0e9c158b581c/55f73fd78ead0e9c158b581c.jpg",
+         "attributes":{
+            "cityPopularityIndex":{
+               "showName":"TMA Ranking",
+               "value":406
+            },
+            "mediaType":{
+               "value":"Bus Shelter"
+            },
+            "landmark":{
+               "value":"Malad East On Station Bus Stop"
+            },
+            "dimensions":{
+               "value":"15 x 4(T) - 4 x 4(S) - 12 x 3.5(B)"
+            }
+         },
+         "uniqueId":9013,
+         "toolName":"outdoor",
+         "locality":"Malad East",
+         "city":"Mumbai",
+         "cardRate":14000
+      },
+      {
+         "_id":"55f73f8d8ead0e9c158b4b3d",
+         "urlSlug":"babatpur-ad-varanasi-hoarding-advertising-4688",
+         "name":"Hoarding - Babatpur Ad, Varanasi #4688",
+         "mediaOptions":{
+            "regularOptions":{
+               "mediaOption1":{
+                  "area":100,
+                  "leadTime":"3 days",
+                  "printingAndMountingRate":900,
+                  "ratePerSquareFeet":20,
+                  "cardRate":2000,
+                  "discountedRate":1700,
+                  "vendorRate":1530,
+                  "imageUrl":"/images/mediaOptions/outdoor/Hoarding.png"
+               }
+            }
+         },
+         "geography":[
+            "56bb17898ead0e820d8b461b",
+            "573ac5998ead0ed45fcdd113",
+            "573ac5998ead0ed45fcdd114"
+         ],
+         "logo":"/images/medias/55f73f8d8ead0e9c158b4b3d/55f73f8d8ead0e9c158b4b3d.jpg",
+         "attributes":{
+            "landmark":{
+               "value":"Babatpur Bazar-2"
+            },
+            "mediaType":{
+               "value":"Hoarding"
+            },
+            "cityPopularityIndex":{
+               "value":2,
+               "showName":"TMA Ranking"
+            },
+            "dimensions":{
+               "value":"10 X 10"
+            }
+         },
+         "uniqueId":4688,
+         "toolName":"outdoor",
+         "locality":"Babatpur Ad",
+         "city":"Varanasi",
+         "cardRate":2000
+      },
+      {
+         "_id":"55f73ff88ead0e9c158b5da9",
+         "urlSlug":"tidel-park-chennai-pole-kiosk-advertising-11012",
+         "name":"Pole Kiosk - Tidel Park, Chennai #11012",
+         "mediaOptions":{
+            "regularOptions":{
+               "mediaOption1":{
+                  "area":12,
+                  "leadTime":"3 days",
+                  "printingAndMountingRate":108,
+                  "ratePerSquareFeet":1667,
+                  "cardRate":20000,
+                  "discountedRate":17000,
+                  "vendorRate":15300,
+                  "imageUrl":"/images/mediaOptions/outdoor/Pole Kiosk.png"
+               }
+            }
+         },
+         "geography":[
+            "56bb182d8ead0e820d8b46f6",
+            "56bb19158ead0e800d8b465b"
+         ],
+         "logo":"/images/medias/55f73ff88ead0e9c158b5da9/55f73ff88ead0e9c158b5da9.jpg",
+         "attributes":{
+            "landmark":{
+               "value":"From Women'S Polytechnic College Bus Terminus To Mgr Film Institute"
+            },
+            "mediaType":{
+               "value":"Pole Kiosk"
+            },
+            "cityPopularityIndex":{
+               "value":3,
+               "showName":"TMA Ranking"
+            },
+            "dimensions":{
+               "value":"3 x 4"
+            }
+         },
+         "uniqueId":11012,
+         "toolName":"outdoor",
+         "locality":"Tidel Park",
+         "city":"Chennai",
+         "cardRate":20000
+      },
+      {
+         "_id":"55f73f9c8ead0e9c158b4dc6",
+         "urlSlug":"andheri-railway-station-mumbai-hoarding-advertising-5800",
+         "name":"Hoarding - Andheri Railway Station, Mumbai #5800",
+         "mediaOptions":{
+            "regularOptions":{
+               "mediaOption1":{
+                  "area":200,
+                  "leadTime":"3 days",
+                  "printingAndMountingRate":1800,
+                  "ratePerSquareFeet":200,
+                  "cardRate":40000,
+                  "discountedRate":34000,
+                  "vendorRate":30600,
+                  "imageUrl":"/images/mediaOptions/outdoor/Hoarding.png"
+               }
+            }
+         },
+         "geography":[
+            "56bb11bb8ead0e91068b8381",
+            "56bb11bb8ead0e91068b8382"
+         ],
+         "logo":"/images/medias/55f73f9c8ead0e9c158b4dc6/55f73f9c8ead0e9c158b4dc6.jpg",
+         "attributes":{
+            "landmark":{
+               "value":"Vile Parle (E), Fac. Road, South Side, 4th Top"
+            },
+            "mediaType":{
+               "value":"Hoarding"
+            },
+            "cityPopularityIndex":{
+               "value":371,
+               "showName":"TMA Ranking"
+            },
+            "dimensions":{
+               "value":"20 X 10"
+            }
+         },
+         "uniqueId":5800,
+         "toolName":"outdoor",
+         "locality":"Andheri Railway Station",
+         "city":"Mumbai",
+         "cardRate":40000
+      },
+      {
+         "_id":"55f73f738ead0e9c158b46f3",
+         "urlSlug":"bhosari-pune-hoarding-advertising-766",
+         "name":"Hoarding - Bhosari, Pune #766",
+         "mediaOptions":{
+            "regularOptions":{
+               "mediaOption1":{
+                  "area":800,
+                  "leadTime":"3 days",
+                  "printingAndMountingRate":7200,
+                  "ratePerSquareFeet":60,
+                  "cardRate":48000,
+                  "discountedRate":40800,
+                  "vendorRate":36720,
+                  "imageUrl":"/images/mediaOptions/outdoor/Hoarding.png"
+               }
+            }
+         },
+         "geography":[
+            "56bb17768ead0e820d8b457f",
+            "56bb1a108ead0e880d8b45c3"
+         ],
+         "logo":"/images/medias/55f73f738ead0e9c158b46f3/55f73f738ead0e9c158b46f3.jpg",
+         "attributes":{
+            "landmark":{
+               "value":"Nashik Highway, Nr Bhosari, Traffic From Pune To Moshi"
+            },
+            "mediaType":{
+               "value":"Hoarding"
+            },
+            "cityPopularityIndex":{
+               "value":59,
+               "showName":"TMA Ranking"
+            },
+            "dimensions":{
+               "value":"40 X 20"
+            }
+         },
+         "uniqueId":766,
+         "toolName":"outdoor",
+         "locality":"Bhosari",
+         "city":"Pune",
+         "cardRate":48000
+      },
+      {
+         "_id":"55f73ffc8ead0e9c158b5e4b",
+         "urlSlug":"banjara-hills-hyderabad-hoarding-advertising-1477",
+         "name":"Hoarding - Banjara Hills, Hyderabad #1477",
+         "mediaOptions":{
+            "regularOptions":{
+               "mediaOption1":{
+                  "area":128,
+                  "leadTime":"3 days",
+                  "printingAndMountingRate":1152,
+                  "ratePerSquareFeet":150,
+                  "cardRate":19200,
+                  "discountedRate":16320,
+                  "vendorRate":14688,
+                  "imageUrl":"/images/mediaOptions/outdoor/Hoarding.png"
+               }
+            }
+         },
+         "geography":[
+            "56bb14218ead0e91068b9f37"
+         ],
+         "logo":"/images/medias/55f73ffc8ead0e9c158b5e4b/55f73ffc8ead0e9c158b5e4b.jpg",
+         "attributes":{
+            "landmark":{
+               "value":"K.B.R. Park"
+            },
+            "mediaType":{
+               "value":"Hoarding"
+            },
+            "cityPopularityIndex":{
+               "value":37,
+               "showName":"TMA Ranking"
+            },
+            "dimensions":{
+               "value":"16 X 8"
+            }
+         },
+         "uniqueId":1477,
+         "toolName":"outdoor",
+         "locality":"Banjara Hills",
+         "city":"Hyderabad",
+         "cardRate":19200
+      },
+      {
+         "_id":"55f73ff58ead0e9c158b5d30",
+         "urlSlug":"industrial-estate-bangalore-pole-kiosk-advertising-10880",
+         "name":"Pole Kiosk - Industrial Estate, Bangalore #10880",
+         "mediaOptions":{
+            "regularOptions":{
+               "mediaOption1":{
+                  "area":12,
+                  "leadTime":"3 days",
+                  "printingAndMountingRate":108,
+                  "ratePerSquareFeet":667,
+                  "cardRate":8000,
+                  "discountedRate":6800,
+                  "vendorRate":6120,
+                  "imageUrl":"/images/mediaOptions/outdoor/Pole Kiosk.png"
+               }
+            }
+         },
+         "geography":[
+            "56bb10618ead0e91068b6d46",
+            "56bb10618ead0e91068b6d47",
+            "56bb10618ead0e91068b6d48"
+         ],
+         "logo":"/images/medias/55f73ff58ead0e9c158b5d30/55f73ff58ead0e9c158b5d30.jpg",
+         "attributes":{
+            "landmark":{
+               "value":"Bhugaon Road Mulshi Road"
+            },
+            "mediaType":{
+               "value":"Pole Kiosk"
+            },
+            "cityPopularityIndex":{
+               "value":20,
+               "showName":"TMA Ranking"
+            },
+            "dimensions":{
+               "value":"3 x 4"
+            }
+         },
+         "uniqueId":10880,
+         "toolName":"outdoor",
+         "locality":"Industrial Estate",
+         "city":"Bangalore",
+         "cardRate":8000
+      },
+      {
+         "_id":"55f73f988ead0e9c158b4d1f",
+         "urlSlug":"dariapur-ahmedabad-hoarding-advertising-5603",
+         "name":"Hoarding - Dariapur, Ahmedabad #5603",
+         "mediaOptions":{
+            "regularOptions":{
+               "mediaOption1":{
+                  "area":800,
+                  "leadTime":"3 days",
+                  "printingAndMountingRate":7200,
+                  "ratePerSquareFeet":75,
+                  "cardRate":60000,
+                  "discountedRate":51000,
+                  "vendorRate":45900,
+                  "imageUrl":"/images/mediaOptions/outdoor/Hoarding.png"
+               }
+            }
+         },
+         "geography":[
+            "56bb0fc38ead0e91068b6102",
+            "56bb0fc38ead0e91068b6103",
+            "56bb0fc38ead0e91068b6104",
+            "56bb0fc38ead0e91068b6105",
+            "56bb0fc38ead0e91068b6106",
+            "56bb0fc38ead0e91068b6107",
+            "56bb0fc38ead0e91068b6108",
+            "56bb0fc38ead0e91068b6109",
+            "56bb0fc38ead0e91068b610a",
+            "56bb0fc38ead0e91068b610b",
+            "56bb0fc38ead0e91068b610c",
+            "56bb0fc38ead0e91068b610d",
+            "56bb0fc38ead0e91068b610e",
+            "56bb0fc38ead0e91068b6102"
+         ],
+         "logo":"/images/medias/55f73f988ead0e9c158b4d1f/55f73f988ead0e9c158b4d1f.jpg",
+         "attributes":{
+            "landmark":{
+               "value":"Delhi Darwaja Circle"
+            },
+            "mediaType":{
+               "value":"Hoarding"
+            },
+            "cityPopularityIndex":{
+               "value":26,
+               "showName":"TMA Ranking"
+            },
+            "dimensions":{
+               "value":"40 X 20"
+            }
+         },
+         "uniqueId":5603,
+         "toolName":"outdoor",
+         "locality":"Dariapur",
+         "city":"Ahmedabad",
+         "cardRate":60000
+      },
+      {
+         "_id":"55f73ff68ead0e9c158b5d43",
+         "urlSlug":"bodakdev-ahmedabad-pole-kiosk-advertising-10900",
+         "name":"Pole Kiosk - Bodakdev, Ahmedabad #10900",
+         "mediaOptions":{
+            "regularOptions":{
+               "mediaOption1":{
+                  "area":12,
+                  "leadTime":"3 days",
+                  "printingAndMountingRate":108,
+                  "ratePerSquareFeet":458,
+                  "cardRate":5500,
+                  "discountedRate":4675,
+                  "vendorRate":4208,
+                  "imageUrl":"/images/mediaOptions/outdoor/Pole Kiosk.png"
+               }
+            }
+         },
+         "geography":[
+            "56bb0fc28ead0e91068b60ff",
+            "56bb0fc28ead0e91068b6100"
+         ],
+         "logo":"/images/medias/55f73ff68ead0e9c158b5d43/55f73ff68ead0e9c158b5d43.jpg",
+         "attributes":{
+            "landmark":{
+               "value":"Chandni Chowk To Wajre Kala Gram Soc"
+            },
+            "mediaType":{
+               "value":"Pole Kiosk"
+            },
+            "cityPopularityIndex":{
+               "value":2,
+               "showName":"TMA Ranking"
+            },
+            "dimensions":{
+               "value":"3 x 4"
+            }
+         },
+         "uniqueId":10900,
+         "toolName":"outdoor",
+         "locality":"Bodakdev",
+         "city":"Ahmedabad",
+         "cardRate":5500
+      },
+      {
+         "_id":"55f73f6a8ead0e9c158b4579",
+         "urlSlug":"koramangala-vi-bk-bangalore-hoarding-advertising-15",
+         "name":"Hoarding - Koramangala VI Bk, Bangalore #15",
+         "mediaOptions":{
+            "regularOptions":{
+               "mediaOption1":{
+                  "area":800,
+                  "leadTime":"3 days",
+                  "printingAndMountingRate":7200,
+                  "ratePerSquareFeet":63,
+                  "cardRate":50000,
+                  "discountedRate":42500,
+                  "vendorRate":38250,
+                  "imageUrl":"/images/mediaOptions/outdoor/Hoarding.png"
+               }
+            }
+         },
+         "geography":[
+            "56bb10548ead0e91068b6cd4"
+         ],
+         "logo":"/images/medias/55f73f6a8ead0e9c158b4579/55f73f6a8ead0e9c158b4579.jpg",
+         "attributes":{
+            "landmark":{
+               "value":"Hosur Road"
+            },
+            "mediaType":{
+               "value":"Hoarding"
+            },
+            "cityPopularityIndex":{
+               "value":235,
+               "showName":"TMA Ranking"
+            },
+            "dimensions":{
+               "value":"40 X 20"
+            }
+         },
+         "uniqueId":15,
+         "toolName":"outdoor",
+         "locality":"Koramangala VI Bk",
+         "city":"Bangalore",
+         "cardRate":50000
+      },
+      {
+         "_id":"55f73f978ead0e9c158b4cfe",
+         "urlSlug":"kaudasar-nashik-hoarding-advertising-5492",
+         "name":"Hoarding - Budhwar Peth, Nashik #5492",
+         "mediaOptions":{
+            "regularOptions":{
+               "mediaOption1":{
+                  "area":750,
+                  "leadTime":"3 days",
+                  "printingAndMountingRate":6750,
+                  "ratePerSquareFeet":43,
+                  "cardRate":32000,
+                  "discountedRate":27200,
+                  "vendorRate":24480,
+                  "imageUrl":"/images/mediaOptions/outdoor/Hoarding.png"
+               }
+            }
+         },
+         "geography":[
+            "572895408ead0ebe40642ff1",
+            "56bb11f18ead0e91068b84c9",
+            "572895408ead0ebe40642ff1",
+            "56bb11f18ead0e91068b84ca"
+         ],
+         "logo":"/images/medias/55f73f978ead0e9c158b4cfe/55f73f978ead0e9c158b4cfe.jpg",
+         "attributes":{
+            "landmark":{
+               "value":"Sarda Circle"
+            },
+            "mediaType":{
+               "value":"Hoarding"
+            },
+            "cityPopularityIndex":{
+               "value":22,
+               "showName":"TMA Ranking"
+            },
+            "dimensions":{
+               "value":"25 X 30"
+            }
+         },
+         "uniqueId":5492,
+         "toolName":"outdoor",
+         "locality":"Kaudasar",
+         "city":"Nashik",
+         "cardRate":32000
+      },
+      {
+         "_id":"55f73f7d8ead0e9c158b48b6",
+         "urlSlug":"chembur-mumbai-hoarding-advertising-2953",
+         "name":"Hoarding - Chembur, Mumbai #2953",
+         "mediaOptions":{
+            "regularOptions":{
+               "mediaOption1":{
+                  "area":800,
+                  "leadTime":"3 days",
+                  "printingAndMountingRate":7200,
+                  "ratePerSquareFeet":178,
+                  "cardRate":142500,
+                  "discountedRate":121125,
+                  "vendorRate":109013,
+                  "imageUrl":"/images/mediaOptions/outdoor/Hoarding.png"
+               }
+            }
+         },
+         "geography":[
+            "56bb11848ead0e91068b7fe7",
+            "56bb11848ead0e91068b7fe8"
+         ],
+         "logo":"/images/medias/55f73f7d8ead0e9c158b48b6/55f73f7d8ead0e9c158b48b6.jpg",
+         "attributes":{
+            "landmark":{
+               "value":"E.E Highway Nr Nitin Company Flyover Rhs"
+            },
+            "mediaType":{
+               "value":"Hoarding"
+            },
+            "cityPopularityIndex":{
+               "value":376,
+               "showName":"TMA Ranking"
+            },
+            "dimensions":{
+               "value":"40 X 20"
+            }
+         },
+         "uniqueId":2953,
+         "toolName":"outdoor",
+         "locality":"Chembur",
+         "city":"Mumbai",
+         "cardRate":142500
+      },
+      {
+         "_id":"55f73ff68ead0e9c158b5d37",
+         "urlSlug":"indiranagar-bangalore-pole-kiosk-advertising-10888",
+         "name":"Pole Kiosk - Indiranagar, Bangalore #10888",
+         "mediaOptions":{
+            "regularOptions":{
+               "mediaOption1":{
+                  "area":36,
+                  "leadTime":"3 days",
+                  "printingAndMountingRate":324,
+                  "ratePerSquareFeet":694,
+                  "cardRate":25000,
+                  "discountedRate":21250,
+                  "vendorRate":19125,
+                  "imageUrl":"/images/mediaOptions/outdoor/Pole Kiosk.png"
+               }
+            }
+         },
+         "geography":[
+            "56bb176e8ead0e820d8b4570"
+         ],
+         "logo":"/images/medias/55f73ff68ead0e9c158b5d37/55f73ff68ead0e9c158b5d37.jpg",
+         "attributes":{
+            "landmark":{
+               "value":"Chandni Chowk To Wajre Dnyanesh Soc"
+            },
+            "mediaType":{
+               "value":"Pole Kiosk"
+            },
+            "cityPopularityIndex":{
+               "value":16,
+               "showName":"TMA Ranking"
+            },
+            "dimensions":{
+               "value":"4 x 9"
+            }
+         },
+         "uniqueId":10888,
+         "toolName":"outdoor",
+         "locality":"Indiranagar",
+         "city":"Bangalore",
+         "cardRate":25000
+      },
+      {
+         "_id":"55f73f8a8ead0e9c158b4ad1",
+         "urlSlug":"shiksha-mandal-bhopal-hoarding-advertising-4452",
+         "name":"Hoarding - Shiksha Mandal, Bhopal #4452",
+         "mediaOptions":{
+            "regularOptions":{
+               "mediaOption1":{
+                  "area":600,
+                  "leadTime":"3 days",
+                  "printingAndMountingRate":5400,
+                  "ratePerSquareFeet":75,
+                  "cardRate":45000,
+                  "discountedRate":38250,
+                  "vendorRate":34425,
+                  "imageUrl":"/images/mediaOptions/outdoor/Hoarding.png"
+               }
+            }
+         },
+         "geography":[
+            "56bb117b8ead0e91068b7f68"
+         ],
+         "logo":"/images/medias/55f73f8a8ead0e9c158b4ad1/55f73f8a8ead0e9c158b4ad1.jpg",
+         "attributes":{
+            "landmark":{
+               "value":"Subhash School Square"
+            },
+            "mediaType":{
+               "value":"Hoarding"
+            },
+            "cityPopularityIndex":{
+               "value":27,
+               "showName":"TMA Ranking"
+            },
+            "dimensions":{
+               "value":"40 X 15"
+            }
+         },
+         "uniqueId":4452,
+         "toolName":"outdoor",
+         "locality":"Shiksha Mandal",
+         "city":"Bhopal",
+         "cardRate":45000
+      },
+      {
+         "_id":"55f73ff58ead0e9c158b5d1f",
+         "urlSlug":"delisle-road-mumbai-pole-kiosk-advertising-10862",
+         "name":"Pole Kiosk - Delisle Road, Mumbai #10862",
+         "mediaOptions":{
+            "regularOptions":{
+               "mediaOption1":{
+                  "imageUrl":"/images/mediaOptions/outdoor/Pole Kiosk.png",
+                  "vendorRate":4973,
+                  "discountedRate":5525,
+                  "cardRate":6500,
+                  "ratePerSquareFeet":361,
+                  "printingAndMountingRate":162,
+                  "leadTime":"3 days",
+                  "area":18
+               }
+            }
+         },
+         "geography":[
+            "56bb11d68ead0e91068b83cf"
+         ],
+         "logo":"/images/medias/55f73ff58ead0e9c158b5d1f/55f73ff58ead0e9c158b5d1f.jpg",
+         "attributes":{
+            "cityPopularityIndex":{
+               "showName":"TMA Ranking",
+               "value":303
+            },
+            "mediaType":{
+               "value":"Pole Kiosk"
+            },
+            "landmark":{
+               "value":"Central Mumbai"
+            },
+            "dimensions":{
+               "value":"3 x 6"
+            }
+         },
+         "uniqueId":10862,
+         "toolName":"outdoor",
+         "locality":"Delisle Road",
+         "city":"Mumbai",
+         "cardRate":6500
+      },
+      {
+         "_id":"55f73f978ead0e9c158b4ce2",
+         "urlSlug":"bhonsala-military-school-nashik-hoarding-advertising-5464",
+         "name":"Hoarding - Bhonsala Military School, Nashik #5464",
+         "mediaOptions":{
+            "regularOptions":{
+               "mediaOption1":{
+                  "area":900,
+                  "leadTime":"3 days",
+                  "printingAndMountingRate":8100,
+                  "ratePerSquareFeet":41,
+                  "cardRate":37000,
+                  "discountedRate":31450,
+                  "vendorRate":28305,
+                  "imageUrl":"/images/mediaOptions/outdoor/Hoarding.png"
+               }
+            }
+         },
+         "geography":[
+            "56bb118b8ead0e91068b80c0",
+            "56bb118b8ead0e91068b80c1",
+            "56bb118b8ead0e91068b80c2"
+         ],
+         "logo":"/images/medias/55f73f978ead0e9c158b4ce2/55f73f978ead0e9c158b4ce2.jpg",
+         "attributes":{
+            "landmark":{
+               "value":"Indian Oil Petrol Pump, Nr City Centre Mall"
+            },
+            "mediaType":{
+               "value":"Hoarding"
+            },
+            "cityPopularityIndex":{
+               "value":24,
+               "showName":"TMA Ranking"
+            },
+            "dimensions":{
+               "value":"30 X 30"
+            }
+         },
+         "uniqueId":5464,
+         "toolName":"outdoor",
+         "locality":"Bhonsala Military School",
+         "city":"Nashik",
+         "cardRate":37000
+      },
+      {
+         "_id":"55f73ff38ead0e9c158b5cde",
+         "urlSlug":"falkland-road-mumbai-pole-kiosk-advertising-10797",
+         "name":"Pole Kiosk - Falkland Road, Mumbai #10797",
+         "mediaOptions":{
+            "regularOptions":{
+               "mediaOption1":{
+                  "area":18,
+                  "leadTime":"3 days",
+                  "printingAndMountingRate":162,
+                  "ratePerSquareFeet":1389,
+                  "cardRate":25000,
+                  "discountedRate":21250,
+                  "vendorRate":19125,
+                  "imageUrl":"/images/mediaOptions/outdoor/Pole Kiosk.png"
+               }
+            }
+         },
+         "geography":[
+            "56bb11c48ead0e91068b8395",
+            "56bb11c48ead0e91068b8396",
+            "56bb11c48ead0e91068b8397",
+            "56bb11c48ead0e91068b8398",
+            "56bb11c48ead0e91068b8399"
+         ],
+         "logo":"/images/medias/55f73ff38ead0e9c158b5cde/55f73ff38ead0e9c158b5cde.jpg",
+         "attributes":{
+            "landmark":{
+               "value":"Gorwa Gorwa Madhunagar Char Rasta To Mankesha Bridge, Gorwa(14 Units)"
+            },
+            "mediaType":{
+               "value":"Pole Kiosk"
+            },
+            "cityPopularityIndex":{
+               "value":35,
+               "showName":"TMA Ranking"
+            },
+            "dimensions":{
+               "value":"3 x 6"
+            }
+         },
+         "uniqueId":10797,
+         "toolName":"outdoor",
+         "locality":"Falkland Road",
+         "city":"Mumbai",
+         "cardRate":25000
+      },
+      {
+         "_id":"55f73f9d8ead0e9c158b4dec",
+         "urlSlug":"gurgaon-road-delhi-hoarding-advertising-5844",
+         "name":"Hoarding - Gurgaon Road, Delhi #5844",
+         "mediaOptions":{
+            "regularOptions":{
+               "mediaOption1":{
+                  "area":700,
+                  "leadTime":"3 days",
+                  "printingAndMountingRate":6300,
+                  "ratePerSquareFeet":714,
+                  "cardRate":500000,
+                  "discountedRate":425000,
+                  "vendorRate":382500,
+                  "imageUrl":"/images/mediaOptions/outdoor/Hoarding.png"
+               }
+            }
+         },
+         "geography":[
+            "572893998ead0e3d4464310c",
+            "572893998ead0e3d4464310d",
+            "572893998ead0e3d4464310e",
+            "572893998ead0e3d4464310f",
+            "572893998ead0e3d44643110"
+         ],
+         "logo":"/images/medias/55f73f9d8ead0e9c158b4dec/55f73f9d8ead0e9c158b4dec.jpg",
+         "attributes":{
+            "landmark":{
+               "value":"Mahipalpur-Gurgaon Facing"
+            },
+            "mediaType":{
+               "value":"Hoarding"
+            },
+            "cityPopularityIndex":{
+               "value":68,
+               "showName":"TMA Ranking"
+            },
+            "dimensions":{
+               "value":"35 X 20"
+            }
+         },
+         "uniqueId":5844,
+         "toolName":"outdoor",
+         "locality":"Gurgaon Road",
+         "city":"Delhi",
+         "cardRate":500000
+      },
+      {
+         "_id":"55f73f998ead0e9c158b4d3a",
+         "urlSlug":"valsad-chhipwad-valsad-hoarding-advertising-5637",
+         "name":"Hoarding - Dhamdachi, Valsad #5637",
+         "mediaOptions":{
+            "regularOptions":{
+               "mediaOption1":{
+                  "area":400,
+                  "leadTime":"3 days",
+                  "printingAndMountingRate":3600,
+                  "ratePerSquareFeet":30,
+                  "cardRate":12000,
+                  "discountedRate":10200,
+                  "vendorRate":9180,
+                  "imageUrl":"/images/mediaOptions/outdoor/Hoarding.png"
+               }
+            }
+         },
+         "geography":[
+            "56bb10138ead0e91068b6796",
+            "56bb10138ead0e91068b678e",
+            "56bb10138ead0e91068b678f",
+            "56bb10138ead0e91068b6790",
+            "56bb10138ead0e91068b6791",
+            "56bb10138ead0e91068b6792",
+            "56bb10138ead0e91068b6793",
+            "56bb10138ead0e91068b6794",
+            "56bb10138ead0e91068b6796",
+            "56bb10138ead0e91068b6796",
+            "56bb10138ead0e91068b6797",
+            "56bb10138ead0e91068b6798"
+         ],
+         "logo":"/images/medias/55f73f998ead0e9c158b4d3a/55f73f998ead0e9c158b4d3a.jpg",
+         "attributes":{
+            "landmark":{
+               "value":"Bardoli Circuit House"
+            },
+            "mediaType":{
+               "value":"Hoarding"
+            },
+            "cityPopularityIndex":{
+               "value":1,
+               "showName":"TMA Ranking"
+            },
+            "dimensions":{
+               "value":"20 X 20"
+            }
+         },
+         "uniqueId":5637,
+         "toolName":"outdoor",
+         "locality":"Valsad Chhipwad",
+         "city":"Valsad",
+         "cardRate":12000
+      },
+      {
+         "_id":"55f73f958ead0e9c158b4c95",
+         "urlSlug":"kaudasar-nashik-hoarding-advertising-5363",
+         "name":"Hoarding - Budhwar Peth, Nashik #5363",
+         "mediaOptions":{
+            "regularOptions":{
+               "mediaOption1":{
+                  "area":1680,
+                  "leadTime":"3 days",
+                  "printingAndMountingRate":15120,
+                  "ratePerSquareFeet":50,
+                  "cardRate":84000,
+                  "discountedRate":71400,
+                  "vendorRate":64260,
+                  "imageUrl":"/images/mediaOptions/outdoor/Hoarding.png"
+               }
+            }
+         },
+         "geography":[
+            "572895408ead0ebe40642ff1",
+            "56bb11f18ead0e91068b84c9",
+            "572895408ead0ebe40642ff1",
+            "56bb11f18ead0e91068b84ca"
+         ],
+         "logo":"/images/medias/55f73f958ead0e9c158b4c95/55f73f958ead0e9c158b4c95.jpg",
+         "attributes":{
+            "landmark":{
+               "value":"Sarda Circle"
+            },
+            "mediaType":{
+               "value":"Hoarding"
+            },
+            "cityPopularityIndex":{
+               "value":16,
+               "showName":"TMA Ranking"
+            },
+            "dimensions":{
+               "value":"40 X 42"
+            }
+         },
+         "uniqueId":5363,
+         "toolName":"outdoor",
+         "locality":"Kaudasar",
+         "city":"Nashik",
+         "cardRate":84000
+      },
+      {
+         "_id":"55f73f8a8ead0e9c158b4ad3",
+         "urlSlug":"bagroda-bhopal-hoarding-advertising-4454",
+         "name":"Hoarding - Bagroda, Bhopal #4454",
+         "mediaOptions":{
+            "regularOptions":{
+               "mediaOption1":{
+                  "area":750,
+                  "leadTime":"3 days",
+                  "printingAndMountingRate":6750,
+                  "ratePerSquareFeet":47,
+                  "cardRate":35000,
+                  "discountedRate":29750,
+                  "vendorRate":26775,
+                  "imageUrl":"/images/mediaOptions/outdoor/Hoarding.png"
+               }
+            }
+         },
+         "geography":[
+            "56bb111c8ead0e91068b78fe",
+            "56bb111c8ead0e91068b78ff",
+            "56bb111c8ead0e91068b7900",
+            "56bb111c8ead0e91068b7901"
+         ],
+         "logo":"/images/medias/55f73f8a8ead0e9c158b4ad3/55f73f8a8ead0e9c158b4ad3.jpg",
+         "attributes":{
+            "landmark":{
+               "value":"Bawaria"
+            },
+            "mediaType":{
+               "value":"Hoarding"
+            },
+            "cityPopularityIndex":{
+               "value":31,
+               "showName":"TMA Ranking"
+            },
+            "dimensions":{
+               "value":"50 X 15"
+            }
+         },
+         "uniqueId":4454,
+         "toolName":"outdoor",
+         "locality":"Bagroda",
+         "city":"Bhopal",
+         "cardRate":35000
+      },
+      {
+         "_id":"55f73f9b8ead0e9c158b4d95",
+         "urlSlug":"andheri-railway-station-mumbai-hoarding-advertising-5736",
+         "name":"Hoarding - Andheri Railway Station, Mumbai #5736",
+         "mediaOptions":{
+            "regularOptions":{
+               "mediaOption1":{
+                  "area":400,
+                  "leadTime":"3 days",
+                  "printingAndMountingRate":3600,
+                  "ratePerSquareFeet":438,
+                  "cardRate":175000,
+                  "discountedRate":148750,
+                  "vendorRate":133875,
+                  "imageUrl":"/images/mediaOptions/outdoor/Hoarding.png"
+               }
+            }
+         },
+         "geography":[
+            "56bb11bb8ead0e91068b8381",
+            "56bb11bb8ead0e91068b8382"
+         ],
+         "logo":"/images/medias/55f73f9b8ead0e9c158b4d95/55f73f9b8ead0e9c158b4d95.jpg",
+         "attributes":{
+            "landmark":{
+               "value":"Vile Parle, On S. V. Road"
+            },
+            "mediaType":{
+               "value":"Hoarding"
+            },
+            "cityPopularityIndex":{
+               "value":256,
+               "showName":"TMA Ranking"
+            },
+            "dimensions":{
+               "value":"20 X 20"
+            }
+         },
+         "uniqueId":5736,
+         "toolName":"outdoor",
+         "locality":"Andheri Railway Station",
+         "city":"Mumbai",
+         "cardRate":175000
+      },
+      {
+         "_id":"55f740038ead0e9c158b5f67",
+         "urlSlug":"chandanagar-hyderabad-hoarding-advertising-1829",
+         "name":"Hoarding - Chandanagar, Hyderabad #1829",
+         "mediaOptions":{
+            "regularOptions":{
+               "mediaOption1":{
+                  "area":800,
+                  "leadTime":"3 days",
+                  "printingAndMountingRate":7200,
+                  "ratePerSquareFeet":50,
+                  "cardRate":40000,
+                  "discountedRate":34000,
+                  "vendorRate":30600,
+                  "imageUrl":"/images/mediaOptions/outdoor/Hoarding.png"
+               }
+            }
+         },
+         "geography":[
+            "56bb14128ead0e91068b9dfb"
+         ],
+         "logo":"/images/medias/55f740038ead0e9c158b5f67/55f740038ead0e9c158b5f67.jpg",
+         "attributes":{
+            "landmark":{
+               "value":"St.Anns"
+            },
+            "mediaType":{
+               "value":"Hoarding"
+            },
+            "cityPopularityIndex":{
+               "value":65,
+               "showName":"TMA Ranking"
+            },
+            "dimensions":{
+               "value":"40 X 20"
+            }
+         },
+         "uniqueId":1829,
+         "toolName":"outdoor",
+         "locality":"Chandanagar",
+         "city":"Hyderabad",
+         "cardRate":40000
+      },
+      {
+         "_id":"55f73f8c8ead0e9c158b4b0f",
+         "urlSlug":"tatibandh-raipur-hoarding-advertising-4545",
+         "name":"Hoarding - Tatibandh, Raipur #4545",
+         "mediaOptions":{
+            "regularOptions":{
+               "mediaOption1":{
+                  "area":800,
+                  "leadTime":"3 days",
+                  "printingAndMountingRate":7200,
+                  "ratePerSquareFeet":50,
+                  "cardRate":40000,
+                  "discountedRate":34000,
+                  "vendorRate":30600,
+                  "imageUrl":"/images/mediaOptions/outdoor/Hoarding.png"
+               }
+            }
+         },
+         "geography":[
+            "56bb0f988ead0e91068b5e91",
+            "56bb0f988ead0e91068b5e92"
+         ],
+         "logo":"/images/medias/55f73f8c8ead0e9c158b4b0f/55f73f8c8ead0e9c158b4b0f.jpg",
+         "attributes":{
+            "landmark":{
+               "value":"Tatibandh"
+            },
+            "mediaType":{
+               "value":"Hoarding"
+            },
+            "cityPopularityIndex":{
+               "value":13,
+               "showName":"TMA Ranking"
+            },
+            "dimensions":{
+               "value":"40 X 20"
+            }
+         },
+         "uniqueId":4545,
+         "toolName":"outdoor",
+         "locality":"Tatibandh",
+         "city":"Raipur",
+         "cardRate":40000
+      },
+      {
+         "_id":"55f73f9d8ead0e9c158b4de6",
+         "urlSlug":"amar-colony-delhi-hoarding-advertising-5838",
+         "name":"Hoarding - Amar Colony, Delhi #5838",
+         "mediaOptions":{
+            "regularOptions":{
+               "mediaOption1":{
+                  "area":240,
+                  "leadTime":"3 days",
+                  "printingAndMountingRate":2160,
+                  "ratePerSquareFeet":2917,
+                  "cardRate":700000,
+                  "discountedRate":595000,
+                  "vendorRate":535500,
+                  "imageUrl":"/images/mediaOptions/outdoor/Hoarding.png"
+               }
+            }
+         },
+         "geography":[
+            "5728937a8ead0e3d44643015",
+            "5728937a8ead0e3d44643016",
+            "5728937a8ead0e3d44643017",
+            "5728937a8ead0e3d44643018"
+         ],
+         "logo":"/images/medias/55f73f9d8ead0e9c158b4de6/55f73f9d8ead0e9c158b4de6.jpg",
+         "attributes":{
+            "landmark":{
+               "value":"Lajpat Nagar Metro Station"
+            },
+            "mediaType":{
+               "value":"Hoarding"
+            },
+            "cityPopularityIndex":{
+               "value":13,
+               "showName":"TMA Ranking"
+            },
+            "dimensions":{
+               "value":"30 X 8"
+            }
+         },
+         "uniqueId":5838,
+         "toolName":"outdoor",
+         "locality":"Amar Colony",
+         "city":"Delhi",
+         "cardRate":700000
+      },
+      {
+         "_id":"55f73fa18ead0e9c158b4e8f",
+         "urlSlug":"anna-road-chennai-hoarding-advertising-6032",
+         "name":"Hoarding - Anna Road, Chennai #6032",
+         "mediaOptions":{
+            "regularOptions":{
+               "mediaOption1":{
+                  "area":400,
+                  "leadTime":"3 days",
+                  "printingAndMountingRate":3600,
+                  "ratePerSquareFeet":625,
+                  "cardRate":250000,
+                  "discountedRate":212500,
+                  "vendorRate":191250,
+                  "imageUrl":"/images/mediaOptions/outdoor/Hoarding.png"
+               }
+            }
+         },
+         "geography":[
+            "56bb13328ead0e91068b9481",
+            "56bb13338ead0e91068b9482",
+            "56bb13338ead0e91068b9483"
+         ],
+         "logo":"/images/medias/55f73fa18ead0e9c158b4e8f/55f73fa18ead0e9c158b4e8f.jpg",
+         "attributes":{
+            "landmark":{
+               "value":"Mount Road - Chintadripet"
+            },
+            "mediaType":{
+               "value":"Hoarding"
+            },
+            "cityPopularityIndex":{
+               "value":27,
+               "showName":"TMA Ranking"
+            },
+            "dimensions":{
+               "value":"25 X 16"
+            }
+         },
+         "uniqueId":6032,
+         "toolName":"outdoor",
+         "locality":"Anna Road",
+         "city":"Chennai",
+         "cardRate":250000
+      },
+      {
+         "_id":"55f73f718ead0e9c158b46bc",
+         "urlSlug":"basaveshwaranagar-bangalore-hoarding-advertising-433",
+         "name":"Hoarding - Basaveshwaranagar, Bangalore #433",
+         "mediaOptions":{
+            "regularOptions":{
+               "mediaOption1":{
+                  "area":450,
+                  "leadTime":"3 days",
+                  "printingAndMountingRate":4050,
+                  "ratePerSquareFeet":210,
+                  "cardRate":94450,
+                  "discountedRate":80283,
+                  "vendorRate":72254,
+                  "imageUrl":"/images/mediaOptions/outdoor/Hoarding.png"
+               }
+            }
+         },
+         "geography":[
+            "56bb10648ead0e91068b6d73",
+            "56bb10648ead0e91068b6d74",
+            "56bb10648ead0e91068b6d75"
+         ],
+         "logo":"/images/medias/55f73f718ead0e9c158b46bc/55f73f718ead0e9c158b46bc.jpg",
+         "attributes":{
+            "landmark":{
+               "value":"Basaveswaranagar Ftt City"
+            },
+            "mediaType":{
+               "value":"Hoarding"
+            },
+            "cityPopularityIndex":{
+               "value":118,
+               "showName":"TMA Ranking"
+            },
+            "dimensions":{
+               "value":"30 X 15"
+            }
+         },
+         "uniqueId":433,
+         "toolName":"outdoor",
+         "locality":"Basaveshwaranagar",
+         "city":"Bangalore",
+         "cardRate":94450
+      },
+      {
+         "_id":"55f73f7d8ead0e9c158b48a7",
+         "urlSlug":"bandra-west-mumbai-hoarding-advertising-2795",
+         "name":"Hoarding - Bandra West, Mumbai #2795",
+         "mediaOptions":{
+            "regularOptions":{
+               "mediaOption1":{
+                  "area":1400,
+                  "leadTime":"3 days",
+                  "printingAndMountingRate":12600,
+                  "ratePerSquareFeet":1500,
+                  "cardRate":2100000,
+                  "discountedRate":1785000,
+                  "vendorRate":1606500,
+                  "imageUrl":"/images/mediaOptions/outdoor/Hoarding.png"
+               }
+            }
+         },
+         "geography":[
+            "56bb11c38ead0e91068b8394"
+         ],
+         "logo":"/images/medias/55f73f7d8ead0e9c158b48a7/55f73f7d8ead0e9c158b48a7.jpg",
+         "attributes":{
+            "landmark":{
+               "value":"Worli Sea Link"
+            },
+            "mediaType":{
+               "value":"Hoarding"
+            },
+            "cityPopularityIndex":{
+               "value":32,
+               "showName":"TMA Ranking"
+            },
+            "dimensions":{
+               "value":"140 X 10"
+            }
+         },
+         "uniqueId":2795,
+         "toolName":"outdoor",
+         "locality":"Bandra West",
+         "city":"Mumbai",
+         "cardRate":2100000
+      },
+      {
+         "_id":"55f73fe28ead0e9c158b59f5",
+         "urlSlug":"hal-hyderabad-bus-shelter-advertising-10033",
+         "name":"Bus Shelters - Hal, Hyderabad #10033",
+         "mediaOptions":{
+            "regularOptions":{
+               "mediaOption1":{
+                  "area":230,
+                  "leadTime":"3 days",
+                  "printingAndMountingRate":2070,
+                  "ratePerSquareFeet":87,
+                  "cardRate":20000,
+                  "discountedRate":17000,
+                  "vendorRate":15300,
+                  "imageUrl":"/images/mediaOptions/outdoor/Bus Shelter.png"
+               }
+            }
+         },
+         "geography":[
+            "56bb143c8ead0e91068b9fab"
+         ],
+         "logo":"/images/medias/55f73fe28ead0e9c158b59f5/55f73fe28ead0e9c158b59f5.jpg",
+         "attributes":{
+            "landmark":{
+               "value":"Azad Pur Raja Garden To Punjabi Bagh/ Wazirpur"
+            },
+            "mediaType":{
+               "value":"Bus Shelter"
+            },
+            "cityPopularityIndex":{
+               "value":58,
+               "showName":"TMA Ranking"
+            },
+            "dimensions":{
+               "value":"30 x 5(T) - 8 x 5 ( 2 Nos )(S)"
+            }
+         },
+         "uniqueId":10033,
+         "toolName":"outdoor",
+         "locality":"Hal",
+         "city":"Hyderabad",
+         "cardRate":20000
+      },
+      {
+         "_id":"55f73f848ead0e9c158b49d3",
+         "urlSlug":"d-n-choultry-tirupati-hoarding-advertising-3618",
+         "name":"Hoarding - Bhavani Nagar, Tirupati #3618",
+         "mediaOptions":{
+            "regularOptions":{
+               "mediaOption1":{
+                  "area":300,
+                  "leadTime":"3 days",
+                  "printingAndMountingRate":2700,
+                  "ratePerSquareFeet":25,
+                  "cardRate":7500,
+                  "discountedRate":6375,
+                  "vendorRate":5738,
+                  "imageUrl":"/images/mediaOptions/outdoor/Hoarding.png"
+               }
+            }
+         },
+         "geography":[
+            "56bb0f4b8ead0e91068b5246",
+            "56bb0f4b8ead0e91068b5246",
+            "56bb0f4b8ead0e91068b5247",
+            "56bb0f4b8ead0e91068b5248",
+            "56bb0f4b8ead0e91068b5249",
+            "56bb0f4b8ead0e91068b524a",
+            "56bb0f4b8ead0e91068b524b",
+            "56bb0f4b8ead0e91068b524d",
+            "56bb0f4b8ead0e91068b524e",
+            "56bb0f4b8ead0e91068b5246",
+            "56bb0f4b8ead0e91068b524f",
+            "56bb0f4b8ead0e91068b5250"
+         ],
+         "logo":"/images/medias/55f73f848ead0e9c158b49d3/55f73f848ead0e9c158b49d3.jpg",
+         "attributes":{
+            "landmark":{
+               "value":"Renigunta Road, Opp. Padmavathi Floor Mill"
+            },
+            "mediaType":{
+               "value":"Hoarding"
+            },
+            "cityPopularityIndex":{
+               "value":4,
+               "showName":"TMA Ranking"
+            },
+            "dimensions":{
+               "value":"20 X 15"
+            }
+         },
+         "uniqueId":3618,
+         "toolName":"outdoor",
+         "locality":"D.N.Choultry",
+         "city":"Tirupati",
+         "cardRate":7500
+      },
+      {
+         "_id":"55f73f8c8ead0e9c158b4b12",
+         "urlSlug":"sk-airport-budgam-hoarding-advertising-4548",
+         "name":"Hoarding - Sk Airport, Budgam #4548",
+         "mediaOptions":{
+            "regularOptions":{
+               "mediaOption1":{
+                  "area":200,
+                  "leadTime":"3 days",
+                  "printingAndMountingRate":1800,
+                  "ratePerSquareFeet":90,
+                  "cardRate":18000,
+                  "discountedRate":15300,
+                  "vendorRate":13770,
+                  "imageUrl":"/images/mediaOptions/outdoor/Hoarding.png"
+               }
+            }
+         },
+         "geography":[
+            "56bb17878ead0e820d8b4609"
+         ],
+         "logo":"/images/medias/55f73f8c8ead0e9c158b4b12/55f73f8c8ead0e9c158b4b12.jpg",
+         "attributes":{
+            "landmark":{
+               "value":"Budgam"
+            },
+            "mediaType":{
+               "value":"Hoarding"
+            },
+            "cityPopularityIndex":{
+               "value":1,
+               "showName":"TMA Ranking"
+            },
+            "dimensions":{
+               "value":"20 X 10"
+            }
+         },
+         "uniqueId":4548,
+         "toolName":"outdoor",
+         "locality":"Sk Airport",
+         "city":"Budgam",
+         "cardRate":18000
+      },
+      {
+         "_id":"55f740018ead0e9c158b5f2d",
+         "urlSlug":"dr-b-r-ambedkar-hyderabad-hoarding-advertising-1723",
+         "name":"Hoarding - Dr.B R Ambedkar, Hyderabad #1723",
+         "mediaOptions":{
+            "regularOptions":{
+               "mediaOption1":{
+                  "area":1500,
+                  "leadTime":"3 days",
+                  "printingAndMountingRate":13500,
+                  "ratePerSquareFeet":30,
+                  "cardRate":45000,
+                  "discountedRate":38250,
+                  "vendorRate":34425,
+                  "imageUrl":"/images/mediaOptions/outdoor/Hoarding.png"
+               }
+            }
+         },
+         "geography":[
+            "56bb142a8ead0e91068b9f41",
+            "56bb142a8ead0e91068b9f42"
+         ],
+         "logo":"/images/medias/55f740018ead0e9c158b5f2d/55f740018ead0e9c158b5f2d.jpg",
+         "attributes":{
+            "landmark":{
+               "value":"Ftf To Jubliee Hills Check Post"
+            },
+            "mediaType":{
+               "value":"Hoarding"
+            },
+            "cityPopularityIndex":{
+               "value":73,
+               "showName":"TMA Ranking"
+            },
+            "dimensions":{
+               "value":"50 X 30"
+            }
+         },
+         "uniqueId":1723,
+         "toolName":"outdoor",
+         "locality":"Dr.B R Ambedkar",
+         "city":"Hyderabad",
+         "cardRate":45000
+      },
+      {
+         "_id":"55f73f6c8ead0e9c158b45e1",
+         "urlSlug":"bangalore-international-airport-bangalore-hoarding-advertising-201",
+         "name":"Hoarding - Bangalore International Airport, Bangalore #201",
+         "mediaOptions":{
+            "regularOptions":{
+               "mediaOption1":{
+                  "area":5459,
+                  "leadTime":"3 days",
+                  "printingAndMountingRate":49131,
+                  "ratePerSquareFeet":122,
+                  "cardRate":666660,
+                  "discountedRate":566661,
+                  "vendorRate":509995,
+                  "imageUrl":"/images/mediaOptions/outdoor/Hoarding.png"
+               }
+            }
+         },
+         "geography":[
+            "56bb176f8ead0e820d8b4576"
+         ],
+         "logo":"/images/medias/55f73f6c8ead0e9c158b45e1/55f73f6c8ead0e9c158b45e1.jpg",
+         "attributes":{
+            "landmark":{
+               "value":"Airport Road Bial Road Exit Towards City"
+            },
+            "mediaType":{
+               "value":"Hoarding"
+            },
+            "cityPopularityIndex":{
+               "value":192,
+               "showName":"TMA Ranking"
+            },
+            "dimensions":{
+               "value":"103 X 53"
+            }
+         },
+         "uniqueId":201,
+         "toolName":"outdoor",
+         "locality":"Bangalore International Airport",
+         "city":"Bangalore",
+         "cardRate":666660
+      },
+      {
+         "_id":"55f73f718ead0e9c158b46bd",
+         "urlSlug":"bannerghatta-road-bangalore-hoarding-advertising-434",
+         "name":"Hoarding - Bannerghatta Road, Bangalore #434",
+         "mediaOptions":{
+            "regularOptions":{
+               "mediaOption1":{
+                  "area":500,
+                  "leadTime":"3 days",
+                  "printingAndMountingRate":4500,
+                  "ratePerSquareFeet":222,
+                  "cardRate":111110,
+                  "discountedRate":94444,
+                  "vendorRate":84999,
+                  "imageUrl":"/images/mediaOptions/outdoor/Hoarding.png"
+               }
+            }
+         },
+         "geography":[
+            "56bb103f8ead0e91068b6bbd",
+            "56bb103f8ead0e91068b6bbe",
+            "56bb103f8ead0e91068b6bbe",
+            "56bb103f8ead0e91068b6bbf",
+            "56bb103f8ead0e91068b6bc0",
+            "56bb103f8ead0e91068b6bc1"
+         ],
+         "logo":"/images/medias/55f73f718ead0e9c158b46bd/55f73f718ead0e9c158b46bd.jpg",
+         "attributes":{
+            "landmark":{
+               "value":"Bannerghatta Rd Ftt Royal Meenakshi Mall On Rhs_Top Unipole"
+            },
+            "mediaType":{
+               "value":"Hoarding"
+            },
+            "cityPopularityIndex":{
+               "value":116,
+               "showName":"TMA Ranking"
+            },
+            "dimensions":{
+               "value":"25 X 20"
+            }
+         },
+         "uniqueId":434,
+         "toolName":"outdoor",
+         "locality":"Bannerghatta Road",
+         "city":"Bangalore",
+         "cardRate":111110
+      },
+      {
+         "_id":"55f73ff48ead0e9c158b5d07",
+         "urlSlug":"best-staff-quarters-mumbai-pole-kiosk-advertising-10838",
+         "name":"Pole Kiosk - BEST STaff Quarters, Mumbai #10838",
+         "mediaOptions":{
+            "regularOptions":{
+               "mediaOption1":{
+                  "area":18,
+                  "leadTime":"3 days",
+                  "printingAndMountingRate":162,
+                  "ratePerSquareFeet":361,
+                  "cardRate":6500,
+                  "discountedRate":5525,
+                  "vendorRate":4973,
+                  "imageUrl":"/images/mediaOptions/outdoor/Pole Kiosk.png"
+               }
+            }
+         },
+         "geography":[
+            "56bb11d98ead0e91068b83db",
+            "56bb11d98ead0e91068b83dc",
+            "56bb11d98ead0e91068b83dd",
+            "56bb11d98ead0e91068b83de",
+            "56bb11d98ead0e91068b83e0",
+            "56bb11d98ead0e91068b83e1",
+            "56bb11d98ead0e91068b83df"
+         ],
+         "logo":"/images/medias/55f73ff48ead0e9c158b5d07/55f73ff48ead0e9c158b5d07.jpg",
+         "attributes":{
+            "landmark":{
+               "value":"Unversity To Baner Tlc Infotech Pune Vidyapith Circle"
+            },
+            "mediaType":{
+               "value":"Pole Kiosk"
+            },
+            "cityPopularityIndex":{
+               "value":303,
+               "showName":"TMA Ranking"
+            },
+            "dimensions":{
+               "value":"3 x 6"
+            }
+         },
+         "uniqueId":10838,
+         "toolName":"outdoor",
+         "locality":"BEST STaff Quarters",
+         "city":"Mumbai",
+         "cardRate":6500
+      },
+      {
+         "_id":"55f740028ead0e9c158b5f52",
+         "urlSlug":"l-b-nagar-hyderabad-hoarding-advertising-1781",
+         "name":"Hoarding - L B Nagar, Hyderabad #1781",
+         "mediaOptions":{
+            "regularOptions":{
+               "mediaOption1":{
+                  "area":800,
+                  "leadTime":"3 days",
+                  "printingAndMountingRate":7200,
+                  "ratePerSquareFeet":50,
+                  "cardRate":40000,
+                  "discountedRate":34000,
+                  "vendorRate":30600,
+                  "imageUrl":"/images/mediaOptions/outdoor/Hoarding.png"
+               }
+            }
+         },
+         "geography":[
+            "56bb14428ead0e91068b9fca",
+            "56bb14428ead0e91068b9fcb"
+         ],
+         "logo":"/images/medias/55f740028ead0e9c158b5f52/55f740028ead0e9c158b5f52.jpg",
+         "attributes":{
+            "landmark":{
+               "value":"Siris Road"
+            },
+            "mediaType":{
+               "value":"Hoarding"
+            },
+            "cityPopularityIndex":{
+               "value":65,
+               "showName":"TMA Ranking"
+            },
+            "dimensions":{
+               "value":"40 X 20"
+            }
+         },
+         "uniqueId":1781,
+         "toolName":"outdoor",
+         "locality":"LB Nagar",
+         "city":"Hyderabad",
+         "cardRate":40000
+      },
+      {
+         "_id":"55f73fb18ead0e9c158b5169",
+         "urlSlug":"a-p-sabha-lucknow-hoarding-advertising-7100",
+         "name":"Hoarding - A P Sabha, Lucknow #7100",
+         "mediaOptions":{
+            "regularOptions":{
+               "mediaOption1":{
+                  "area":450,
+                  "leadTime":"3 days",
+                  "printingAndMountingRate":4050,
+                  "ratePerSquareFeet":120,
+                  "cardRate":54000,
+                  "discountedRate":45900,
+                  "vendorRate":41310,
+                  "imageUrl":"/images/mediaOptions/outdoor/Hoarding.png"
+               }
+            }
+         },
+         "geography":[
+            "56bb14d88ead0e91068ba9ed",
+            "56bb14d88ead0e91068ba9ee",
+            "56bb14d88ead0e91068ba9ef",
+            "56bb14d88ead0e91068ba9f0",
+            "56bb14d88ead0e91068ba9f1",
+            "56bb14d88ead0e91068ba9f2",
+            "56bb14d88ead0e91068ba9f3",
+            "56bb14d88ead0e91068ba9f4",
+            "56bb14d88ead0e91068ba9f6",
+            "56bb14d88ead0e91068ba9ed"
+         ],
+         "logo":"/images/medias/55f73fb18ead0e9c158b5169/55f73fb18ead0e9c158b5169.jpg",
+         "attributes":{
+            "landmark":{
+               "value":"opp saharaganj hazratganj"
+            },
+            "mediaType":{
+               "value":"Hoarding"
+            },
+            "cityPopularityIndex":{
+               "value":3,
+               "showName":"TMA Ranking"
+            },
+            "dimensions":{
+               "value":"30 X 15"
+            }
+         },
+         "uniqueId":7100,
+         "toolName":"outdoor",
+         "locality":"A P Sabha",
+         "city":"Lucknow",
+         "cardRate":54000
+      },
+      {
+         "_id":"55f73f958ead0e9c158b4c98",
+         "urlSlug":"kaudasar-nashik-hoarding-advertising-5366",
+         "name":"Hoarding - Budhwar Peth, Nashik #5366",
+         "mediaOptions":{
+            "regularOptions":{
+               "mediaOption1":{
+                  "area":450,
+                  "leadTime":"3 days",
+                  "printingAndMountingRate":4050,
+                  "ratePerSquareFeet":78,
+                  "cardRate":35000,
+                  "discountedRate":29750,
+                  "vendorRate":26775,
+                  "imageUrl":"/images/mediaOptions/outdoor/Hoarding.png"
+               }
+            }
+         },
+         "geography":[
+            "572895408ead0ebe40642ff1",
+            "56bb11f18ead0e91068b84c9",
+            "572895408ead0ebe40642ff1",
+            "56bb11f18ead0e91068b84ca"
+         ],
+         "logo":"/images/medias/55f73f958ead0e9c158b4c98/55f73f958ead0e9c158b4c98.jpg",
+         "attributes":{
+            "landmark":{
+               "value":"Ambad at Pranay Stampings T Point"
+            },
+            "mediaType":{
+               "value":"Hoarding"
+            },
+            "cityPopularityIndex":{
+               "value":4,
+               "showName":"TMA Ranking"
+            },
+            "dimensions":{
+               "value":"30 X 15"
+            }
+         },
+         "uniqueId":5366,
+         "toolName":"outdoor",
+         "locality":"Kaudasar",
+         "city":"Nashik",
+         "cardRate":35000
+      },
+      {
+         "_id":"55f73f738ead0e9c158b4707",
+         "urlSlug":"infotech-park-pune-hoarding-advertising-1066",
+         "name":"Hoarding - Infotech Park, Pune #1066",
+         "mediaOptions":{
+            "regularOptions":{
+               "mediaOption1":{
+                  "area":1200,
+                  "leadTime":"3 days",
+                  "printingAndMountingRate":10800,
+                  "ratePerSquareFeet":60,
+                  "cardRate":72000,
+                  "discountedRate":61200,
+                  "vendorRate":55080,
+                  "imageUrl":"/images/mediaOptions/outdoor/Hoarding.png"
+               }
+            }
+         },
+         "geography":[
+            "56bb11838ead0e91068b7fd7",
+            "56bb11838ead0e91068b7fd8",
+            "56bb11838ead0e91068b7fd9"
+         ],
+         "logo":"/images/medias/55f73f738ead0e9c158b4707/55f73f738ead0e9c158b4707.jpg",
+         "attributes":{
+            "landmark":{
+               "value":"Nr Hinjewadi Grampanchayat,Trafic From Hinjewadi To Pune"
+            },
+            "mediaType":{
+               "value":"Hoarding"
+            },
+            "cityPopularityIndex":{
+               "value":59,
+               "showName":"TMA Ranking"
+            },
+            "dimensions":{
+               "value":"40 X 30"
+            }
+         },
+         "uniqueId":1066,
+         "toolName":"outdoor",
+         "locality":"Infotech Park",
+         "city":"Pune",
+         "cardRate":72000
+      },
+      {
+         "_id":"55f73ffd8ead0e9c158b5e7b",
+         "urlSlug":"banjara-hills-hyderabad-hoarding-advertising-1527",
+         "name":"Hoarding - Banjara Hills, Hyderabad #1527",
+         "mediaOptions":{
+            "regularOptions":{
+               "mediaOption1":{
+                  "area":1500,
+                  "leadTime":"3 days",
+                  "printingAndMountingRate":13500,
+                  "ratePerSquareFeet":150,
+                  "cardRate":225000,
+                  "discountedRate":191250,
+                  "vendorRate":172125,
+                  "imageUrl":"/images/mediaOptions/outdoor/Hoarding.png"
+               }
+            }
+         },
+         "geography":[
+            "56bb14218ead0e91068b9f37"
+         ],
+         "logo":"/images/medias/55f73ffd8ead0e9c158b5e7b/55f73ffd8ead0e9c158b5e7b.jpg",
+         "attributes":{
+            "landmark":{
+               "value":"Unipole At Rd No.3 Inside Mosque (Obscene, Cigarette, Liquor, Ladies Visuals Strictly Not Allowed)"
+            },
+            "mediaType":{
+               "value":"Hoarding"
+            },
+            "cityPopularityIndex":{
+               "value":37,
+               "showName":"TMA Ranking"
+            },
+            "dimensions":{
+               "value":"50 X 30"
+            }
+         },
+         "uniqueId":1527,
+         "toolName":"outdoor",
+         "locality":"Banjara Hills",
+         "city":"Hyderabad",
+         "cardRate":225000
+      },
+      {
+         "_id":"55f73f968ead0e9c158b4cce",
+         "urlSlug":"kaudasar-nashik-hoarding-advertising-5442",
+         "name":"Hoarding - Budhwar Peth, Nashik #5442",
+         "mediaOptions":{
+            "regularOptions":{
+               "mediaOption1":{
+                  "area":300,
+                  "leadTime":"3 days",
+                  "printingAndMountingRate":2700,
+                  "ratePerSquareFeet":50,
+                  "cardRate":15000,
+                  "discountedRate":12750,
+                  "vendorRate":11475,
+                  "imageUrl":"/images/mediaOptions/outdoor/Hoarding.png"
+               }
+            }
+         },
+         "geography":[
+            "572895408ead0ebe40642ff1",
+            "56bb11f18ead0e91068b84c9",
+            "572895408ead0ebe40642ff1",
+            "56bb11f18ead0e91068b84ca"
+         ],
+         "logo":"/images/medias/55f73f968ead0e9c158b4cce/55f73f968ead0e9c158b4cce.jpg",
+         "attributes":{
+            "landmark":{
+               "value":"CBS Sq."
+            },
+            "mediaType":{
+               "value":"Hoarding"
+            },
+            "cityPopularityIndex":{
+               "value":16,
+               "showName":"TMA Ranking"
+            },
+            "dimensions":{
+               "value":"20 X 15"
+            }
+         },
+         "uniqueId":5442,
+         "toolName":"outdoor",
+         "locality":"Kaudasar",
+         "city":"Nashik",
+         "cardRate":15000
+      },
+      {
+         "_id":"55f73f748ead0e9c158b4722",
+         "urlSlug":"aundh-camp-pune-hoarding-advertising-1122",
+         "name":"Hoarding - Aundh Camp, Pune #1122",
+         "mediaOptions":{
+            "regularOptions":{
+               "mediaOption1":{
+                  "area":625,
+                  "leadTime":"3 days",
+                  "printingAndMountingRate":5625,
+                  "ratePerSquareFeet":60,
+                  "cardRate":37500,
+                  "discountedRate":31875,
+                  "vendorRate":28688,
+                  "imageUrl":"/images/mediaOptions/outdoor/Hoarding.png"
+               }
+            }
+         },
+         "geography":[
+            "56bb17768ead0e820d8b458a",
+            "56bb195a8ead0e800d8b47f4"
+         ],
+         "logo":"/images/medias/55f73f748ead0e9c158b4722/55f73f748ead0e9c158b4722.jpg",
+         "attributes":{
+            "landmark":{
+               "value":"Jagtap Dairy, Traffic From Aundh To Wakad"
+            },
+            "mediaType":{
+               "value":"Hoarding"
+            },
+            "cityPopularityIndex":{
+               "value":59,
+               "showName":"TMA Ranking"
+            },
+            "dimensions":{
+               "value":"25 X 25"
+            }
+         },
+         "uniqueId":1122,
+         "toolName":"outdoor",
+         "locality":"Aundh Camp",
+         "city":"Pune",
+         "cardRate":37500
+      },
+      {
+         "_id":"55f73fdf8ead0e9c158b5985",
+         "urlSlug":"dhanori-pune-bus-shelter-advertising-9670",
+         "name":"Bus Shelters - Dhanori, Pune #9670",
+         "mediaOptions":{
+            "regularOptions":{
+               "mediaOption1":{
+                  "area":100,
+                  "leadTime":"3 days",
+                  "printingAndMountingRate":900,
+                  "ratePerSquareFeet":150,
+                  "cardRate":15000,
+                  "discountedRate":12750,
+                  "vendorRate":11475,
+                  "imageUrl":"/images/mediaOptions/outdoor/Bus Shelter.png"
+               }
+            }
+         },
+         "geography":[
+            "56bb17778ead0e820d8b4590",
+            "56bb19ab8ead0e800d8b4c2d",
+            "56bb19ab8ead0e800d8b4c2e"
+         ],
+         "logo":"/images/medias/55f73fdf8ead0e9c158b5985/55f73fdf8ead0e9c158b5985.jpg",
+         "attributes":{
+            "landmark":{
+               "value":"Alandi Road Gref Centre, Alandi Road"
+            },
+            "mediaType":{
+               "value":"Bus Shelter"
+            },
+            "cityPopularityIndex":{
+               "value":33,
+               "showName":"TMA Ranking"
+            },
+            "dimensions":{
+               "value":"15 x 4(T) - 5 x 4(S)"
+            }
+         },
+         "uniqueId":9670,
+         "toolName":"outdoor",
+         "locality":"Dhanori",
+         "city":"Pune",
+         "cardRate":15000
+      },
+      {
+         "_id":"55f73f9e8ead0e9c158b4e13",
+         "urlSlug":"bharat-nagar-ghaziabad-hoarding-advertising-5886",
+         "name":"Hoarding - Bharat Nagar, Ghaziabad #5886",
+         "mediaOptions":{
+            "regularOptions":{
+               "mediaOption1":{
+                  "area":200,
+                  "leadTime":"3 days",
+                  "printingAndMountingRate":1800,
+                  "ratePerSquareFeet":250,
+                  "cardRate":50000,
+                  "discountedRate":42500,
+                  "vendorRate":38250,
+                  "imageUrl":"/images/mediaOptions/outdoor/Hoarding.png"
+               }
+            }
+         },
+         "geography":[
+            "56bb0fa58ead0e91068b5fb8",
+            "56bb0fa58ead0e91068b5fb9",
+            "56bb0fa58ead0e91068b5fba"
+         ],
+         "logo":"/images/medias/55f73f9e8ead0e9c158b4e13/55f73f9e8ead0e9c158b4e13.jpg",
+         "attributes":{
+            "landmark":{
+               "value":"Indirapuram,Habitat Centre,Shipra Mall"
+            },
+            "mediaType":{
+               "value":"Hoarding"
+            },
+            "cityPopularityIndex":{
+               "value":4,
+               "showName":"TMA Ranking"
+            },
+            "dimensions":{
+               "value":"20 X 10"
+            }
+         },
+         "uniqueId":5886,
+         "toolName":"outdoor",
+         "locality":"Bharat Nagar",
+         "city":"Ghaziabad",
+         "cardRate":50000
+      },
+      {
+         "_id":"55f73f758ead0e9c158b475e",
+         "urlSlug":"dr-b-r-ambedkar-hyderabad-hoarding-advertising-1253",
+         "name":"Hoarding - Dr.B R Ambedkar, Hyderabad #1253",
+         "mediaOptions":{
+            "regularOptions":{
+               "mediaOption1":{
+                  "area":1600,
+                  "leadTime":"3 days",
+                  "printingAndMountingRate":14400,
+                  "ratePerSquareFeet":40,
+                  "cardRate":64000,
+                  "discountedRate":54400,
+                  "vendorRate":48960,
+                  "imageUrl":"/images/mediaOptions/outdoor/Hoarding.png"
+               }
+            }
+         },
+         "geography":[
+            "56bb142a8ead0e91068b9f41",
+            "56bb142a8ead0e91068b9f42"
+         ],
+         "logo":"/images/medias/55f73f758ead0e9c158b475e/55f73f758ead0e9c158b475e.jpg",
+         "attributes":{
+            "landmark":{
+               "value":"Road No. 36 Ftf Madhapur Twds Checkpost (Unipole)"
+            },
+            "mediaType":{
+               "value":"Hoarding"
+            },
+            "cityPopularityIndex":{
+               "value":69,
+               "showName":"TMA Ranking"
+            },
+            "dimensions":{
+               "value":"40 X 40"
+            }
+         },
+         "uniqueId":1253,
+         "toolName":"outdoor",
+         "locality":"Dr.B R Ambedkar",
+         "city":"Hyderabad",
+         "cardRate":64000
+      },
+      {
+         "_id":"55f740088ead0e9c158b6031",
+         "urlSlug":"banjara-hills-hyderabad-pole-kiosk-advertising-11043",
+         "name":"Pole Kiosk - Banjara Hills, Hyderabad #11043",
+         "mediaOptions":{
+            "regularOptions":{
+               "mediaOption1":{
+                  "area":12,
+                  "leadTime":"3 days",
+                  "printingAndMountingRate":108,
+                  "ratePerSquareFeet":500,
+                  "cardRate":6000,
+                  "discountedRate":5100,
+                  "vendorRate":4590,
+                  "imageUrl":"/images/mediaOptions/outdoor/Pole Kiosk.png"
+               }
+            }
+         },
+         "geography":[
+            "56bb14218ead0e91068b9f37"
+         ],
+         "logo":"/images/medias/55f740088ead0e9c158b6031/55f740088ead0e9c158b6031.jpg",
+         "attributes":{
+            "landmark":{
+               "value":"Banjara Hills, Sagar Society X Roads To Lv Prasad"
+            },
+            "mediaType":{
+               "value":"Pole Kiosk"
+            },
+            "cityPopularityIndex":{
+               "value":4,
+               "showName":"TMA Ranking"
+            },
+            "dimensions":{
+               "value":"3 x 4"
+            }
+         },
+         "uniqueId":11043,
+         "toolName":"outdoor",
+         "locality":"Banjara Hills",
+         "city":"Hyderabad",
+         "cardRate":6000
+      },
+      {
+         "_id":"55f7f5cb8ead0e7a178b4683",
+         "urlSlug":"ambedare-bk-satara-hoarding-advertising-11198",
+         "name":"Hoarding - Ambedare Bk, Satara #4928",
+         "mediaOptions":{
+            "regularOptions":{
+               "mediaOption1":{
+                  "area":200,
+                  "leadTime":"3 days",
+                  "printingAndMountingRate":1800,
+                  "ratePerSquareFeet":27,
+                  "cardRate":5400,
+                  "discountedRate":4590,
+                  "vendorRate":4131,
+                  "imageUrl":"/images/mediaOptions/outdoor/Hoarding.png"
+               }
+            }
+         },
+         "geography":[
+            "56bb11fa8ead0e91068b857a",
+            "56bb11fa8ead0e91068b857b",
+            "56bb11fa8ead0e91068b857c",
+            "56bb11fa8ead0e91068b857d",
+            "56bb11fa8ead0e91068b857e",
+            "56bb11fa8ead0e91068b857f",
+            "56bb11fa8ead0e91068b8580",
+            "56bb11fa8ead0e91068b8581",
+            "56bb11fa8ead0e91068b8582",
+            "56bb11fa8ead0e91068b8583",
+            "56bb11fa8ead0e91068b8584",
+            "56bb11fa8ead0e91068b8585",
+            "56bb11fa8ead0e91068b8586",
+            "56bb11fa8ead0e91068b8587",
+            "56bb11fa8ead0e91068b8588",
+            "56bb11fa8ead0e91068b8589",
+            "56bb11fa8ead0e91068b858a",
+            "56bb11fa8ead0e91068b858b",
+            "56bb11fa8ead0e91068b858c",
+            "56bb11fa8ead0e91068b858d",
+            "56bb11fa8ead0e91068b858e",
+            "56bb11fa8ead0e91068b858f"
+         ],
+         "logo":"/images/medias/55f7f5cb8ead0e7a178b4683/55f7f5cb8ead0e7a178b4683.jpg",
+         "attributes":{
+            "landmark":{
+               "value":"Kamani Houd"
+            },
+            "mediaType":{
+               "value":"Hoarding"
+            },
+            "cityPopularityIndex":{
+               "value":6,
+               "showName":"TMA Ranking"
+            },
+            "dimensions":{
+               "value":"20 X 10"
+            }
+         },
+         "uniqueId":11198,
+         "toolName":"outdoor",
+         "locality":"Ambedare Bk",
+         "city":"Satara",
+         "cardRate":5400
+      },
+      {
+         "_id":"55f73fb58ead0e9c158b520c",
+         "urlSlug":"kalbadevi-mumbai-bus-shelter-advertising-7288",
+         "name":"Bus Shelters - Kalbadevi, Mumbai #7288",
+         "mediaOptions":{
+            "regularOptions":{
+               "mediaOption1":{
+                  "area":112,
+                  "leadTime":"3 days",
+                  "printingAndMountingRate":1008,
+                  "ratePerSquareFeet":582,
+                  "cardRate":65000,
+                  "discountedRate":55250,
+                  "vendorRate":49725,
+                  "imageUrl":"/images/mediaOptions/outdoor/Bus Shelter.png"
+               }
+            }
+         },
+         "geography":[
+            "56bb11d98ead0e91068b83e2",
+            "56bb11d98ead0e91068b83e3",
+            "56bb11d98ead0e91068b83e4",
+            "56bb11d98ead0e91068b83e5"
+         ],
+         "logo":"/images/medias/55f73fb58ead0e9c158b520c/55f73fb58ead0e9c158b520c.jpg",
+         "attributes":{
+            "landmark":{
+               "value":"Charni Road Opp. Sk Garden, Between Marine Lines And Charni Road"
+            },
+            "mediaType":{
+               "value":"Bus Shelter"
+            },
+            "cityPopularityIndex":{
+               "value":162,
+               "showName":"TMA Ranking"
+            },
+            "dimensions":{
+               "value":"18.1 x 4(T) - 5.6 x 3.5(B)"
+            }
+         },
+         "uniqueId":7288,
+         "toolName":"outdoor",
+         "locality":"Kalbadevi",
+         "city":"Mumbai",
+         "cardRate":65000
+      }
+   ]
+}
