@@ -33,16 +33,13 @@
                   "discountedRate":0.77,
                   "vendorRate":0.7,
                   "minimumQtyUnit1":500000,
-                  "imageUrl":"/images/mediaOptions
-/airport/E-Ticket.png",
+                  "imageUrl":"/images/mediaOptions/airport/E-Ticket.png",
                   "showName":"E-Ticket"
                }
             },
             "printOptions":{
                "mediaOption1":{
-                  "description":"2 printed
- pages in the Indigo Special Business Standard available in Mumbai, Delhi, Kolkata, Chennai and Bangalore
- routes",
+                  "description":"2 printed pages in the Indigo Special Business Standard available in Mumbai, Delhi, Kolkata, Chennai and Bangalore routes",
                   "pricingUnit1":"Insert",
                   "cardRate":253000,
                   "discountedRate":220000,
@@ -52,22 +49,19 @@
                   "showName":"Half Jacket - Business Standard Newspaper"
                },
                "mediaOption2":{
-                  "description":"4 printed pages in the Indigo Special Business Standard available in Mumbai, Delhi, Kolkata, Chennai
- and Bangalore routes",
+                  "description":"4 printed pages in the Indigo Special Business Standard available in Mumbai, Delhi, Kolkata, Chennai and Bangalore routes",
                   "pricingUnit1":"Insert",
                   "cardRate":310500,
                   "discountedRate":270000,
                   "vendorRate":180000,
                   "minimumQtyUnit1":1,
                   "imageUrl":"/images/mediaOptions/airport/Full Jacket.png",
-                  "showName":"Full
- Jacket - Business Standard Newspaper"
+                  "showName":"Full Jacket - Business Standard Newspaper"
                }
             },
             "aircraftOptions":{
                "mediaOption1":{
-                  "description":"Branding on
- thick cardboard cups used for serving passengers",
+                  "description":"Branding on thick cardboard cups used for serving passengers",
                   "pricingUnit1":"Glass",
                   "cardRate":2,
                   "discountedRate":1,
@@ -85,13 +79,11 @@
                   "vendorRate":275000,
                   "minimumQtyUnit1":5,
                   "minimumQtyUnit2":1,
-                  "imageUrl":"/images/mediaOptions
-/airport/Tray Table Branding.png",
+                  "imageUrl":"/images/mediaOptions/airport/Tray Table Branding.png",
                   "showName":"Tray Table Branding"
                },
                "mediaOption3":{
-                  "description":"Product
- samples are distributed to passengers during the flight",
+                  "description":"Product samples are distributed to passengers during the flight",
                   "pricingUnit1":"Sample",
                   "cardRate":5,
                   "discountedRate":3.2,
@@ -117,8 +109,7 @@
                   "discountedRate":0.85,
                   "vendorRate":0.8,
                   "minimumQtyUnit1":1000000,
-                  "imageUrl":"/images/mediaOptions/airport/Water Cups
-.png",
+                  "imageUrl":"/images/mediaOptions/airport/Water Cups.png",
                   "showName":"Water Cup"
                },
                "mediaOption6":{
@@ -128,13 +119,11 @@
                   "discountedRate":1,
                   "vendorRate":0.9,
                   "minimumQtyUnit1":1000000,
-                  "imageUrl":"/images
-/mediaOptions/airport/Tissues.png",
+                  "imageUrl":"/images/mediaOptions/airport/Tissues.png",
                   "showName":"Tissue"
                },
                "mediaOption7":{
-                  "description":"Advertising on
- Indigo's catchy food packaging.",
+                  "description":"Advertising on Indigo's catchy food packaging.",
                   "pricingUnit1":"Pack",
                   "cardRate":2,
                   "discountedRate":1.9,
@@ -146,15 +135,13 @@
             },
             "popularOptions":{
                "mediaOption1":{
-                  "description":"Branding on
- backside of the boarding pass. Average 30 Lac Boarding Passes",
+                  "description":"Branding on backside of the boarding pass. Average 30 Lac Boarding Passes",
                   "pricingUnit1":"Month",
                   "cardRate":5000000,
                   "discountedRate":2800000,
                   "vendorRate":2500000,
                   "minimumQtyUnit1":1,
-                  "imageUrl":"/images/mediaOptions/airport
-/Boarding Pass.png",
+                  "imageUrl":"/images/mediaOptions/airport/Boarding Pass.png",
                   "minimumQtyUnit2":null,
                   "showName":"Boarding Pass"
                },
@@ -165,14 +152,12 @@
                   "discountedRate":2100000,
                   "vendorRate":1950000,
                   "minimumQtyUnit1":1,
-                  "imageUrl":"/images
-/mediaOptions/airport/Luggage Tags.png",
+                  "imageUrl":"/images/mediaOptions/airport/Luggage Tags.png",
                   "showName":"Luggage Tag"
                }
             }
          },
-         "logo":"/images/medias/55f09bbf8ead0ec50c8b45a3
-/09bf6aa6a808e6c87a8dfe4d26201b2e.jpg",
+         "logo":"/images/medias/55f09bbf8ead0ec50c8b45a3/09bf6aa6a808e6c87a8dfe4d26201b2e.jpg",
          "views":3910,
          "serviceTaxPercentage":15,
          "cardRate":5000000
@@ -199,8 +184,7 @@
                   "vendorRate":4,
                   "discountedRate":4.5,
                   "cardRate":5,
-                  "description":"Boxes used
- to serve food are branded",
+                  "description":"Boxes used to serve food are branded",
                   "imageUrl":"/images/mediaOptions/airport/Food Packaging Branding.png"
                },
                "mediaOption9":{
@@ -211,13 +195,11 @@
                   "discountedRate":2.5,
                   "cardRate":3,
                   "description":"Branding on cups used for serving Tea/Coffee",
-                  "imageUrl":"/images/mediaOptions
-/airport/Hot Beverage Glasses.png"
+                  "imageUrl":"/images/mediaOptions/airport/Hot Beverage Glasses.png"
                },
                "mediaOption8":{
                   "showName":"Aircraft Wrap",
-                  "description":"Aircraft
- is wrapped with the display ad of the product. Also called \"Livery\"",
+                  "description":"Aircraft is wrapped with the display ad of the product. Also called \"Livery\"",
                   "pricingUnit1":"Aircraft",
                   "pricingUnit2":"Year",
                   "cardRate":60000000,
@@ -228,11 +210,8 @@
                   "imageUrl":"/images/mediaOptions/airport/Aircraft Wrap.png"
                },
                "mediaOption7":{
-                  "showName":"Overhead
- Luggage Bin",
-                  "description":"These are the branding opportunities at overhead baggage storage compartments
- which run across the length of the aircraft in the centre and is a constant brand reinforcement for
- passengers.",
+                  "showName":"Overhead Luggage Bin",
+                  "description":"These are the branding opportunities at overhead baggage storage compartments which run across the length of the aircraft in the centre and is a constant brand reinforcement for passengers.",
                   "pricingUnit1":"Aircraft",
                   "pricingUnit2":"Month",
                   "cardRate":350000,
@@ -240,12 +219,10 @@
                   "vendorRate":200000,
                   "minimumQtyUnit1":1,
                   "minimumQtyUnit2":1,
-                  "imageUrl":"/images/mediaOptions/airport
-/Bin.png"
+                  "imageUrl":"/images/mediaOptions/airport/Bin.png"
                },
                "mediaOption6":{
-                  "description":"Ads can be placed on the 162-168 trays which are behind passenger
- seat and visible when trays are in upright position. One can use multiple creatives.",
+                  "description":"Ads can be placed on the 162-168 trays which are behind passenger seat and visible when trays are in upright position. One can use multiple creatives.",
                   "pricingUnit1":"Aircraft",
                   "pricingUnit2":"Month",
                   "cardRate":350000,
@@ -254,14 +231,11 @@
                   "minimumQtyUnit1":1,
                   "minimumQtyUnit2":1,
                   "imageUrl":"/images/mediaOptions/airport/Tray Table Branding.png",
-                  "showName":"Tray
- Table"
+                  "showName":"Tray Table"
                },
                "mediaOption5":{
                   "showName":"Inflight Announcement",
-                  "description":"Upon taking off or landing
-,the crew members will deliver a specific announcement about the brand to passengers.This can be destination
- specific and works well for restaurant chains,retail \n  outlets etc.",
+                  "description":"Upon taking off or landing,the crew members will deliver a specific announcement about the brand to passengers.This can be destination specific and works well for restaurant chains,retail \n  outlets etc.",
                   "pricingUnit1":"Flight",
                   "pricingUnit2":"Month",
                   "cardRate":250000,
@@ -272,22 +246,18 @@
                   "imageUrl":"/images/mediaOptions/airport/Inflight Announcement.png"
                },
                "mediaOption4":{
-                  "showName":"Inflight
- Sampling",
+                  "showName":"Inflight Sampling",
                   "description":"Product samples are distributed to the people inside the aircraft",
                   "pricingUnit1":"Sample",
                   "cardRate":4,
                   "discountedRate":2.2,
                   "vendorRate":2,
                   "minimumQtyUnit1":25000,
-                  "imageUrl":"/images
-/mediaOptions/airport/Sampling.png"
+                  "imageUrl":"/images/mediaOptions/airport/Sampling.png"
                },
                "mediaOption3":{
                   "showName":"Menu Card",
-                  "description":"A full page
- ad in the menu card talks to all customers who open the card to buy their\n  food & beverage in flight
- as well as browse the AirAsia merchandise section.",
+                  "description":"A full page ad in the menu card talks to all customers who open the card to buy their\n  food & beverage in flight as well as browse the AirAsia merchandise section.",
                   "pricingUnit1":"Page",
                   "cardRate":50000,
                   "discountedRate":42000,
@@ -297,10 +267,7 @@
                },
                "mediaOption2":{
                   "showName":"Bulk Head",
-                  "description":"Also known as RH Partition,this is the large
- partition at the entrance of the aircraft which all passengers face while\n seated. This medium especially
- targets the Premium Seat customers over the first five rows that pay a premium for their seats and their
- flying experience.",
+                  "description":"Also known as RH Partition,this is the large partition at the entrance of the aircraft which all passengers face while\n seated. This medium especially targets the Premium Seat customers over the first five rows that pay a premium for their seats and their flying experience.",
                   "pricingUnit1":"Aircraft",
                   "pricingUnit2":"Month",
                   "cardRate":200000,
@@ -308,13 +275,11 @@
                   "vendorRate":110000,
                   "minimumQtyUnit1":1,
                   "minimumQtyUnit2":1,
-                  "imageUrl":"/images/mediaOptions
-/airport/Cabin Separator.png"
+                  "imageUrl":"/images/mediaOptions/airport/Cabin Separator.png"
                },
                "mediaOption1":{
                   "showName":"Head Rest",
-                  "imageUrl":"/images/mediaOptions
-/airport/Headrest.png",
+                  "imageUrl":"/images/mediaOptions/airport/Headrest.png",
                   "description":"Covers on head rests",
                   "cardRate":4,
                   "discountedRate":3.5,
@@ -327,8 +292,7 @@
             },
             "popularOptions":{
                "mediaOption2":{
-                  "description":"Ads can be placed on back side of the boarding pass. Average 1.7 Lac
- Passes.",
+                  "description":"Ads can be placed on back side of the boarding pass. Average 1.7 Lac Passes.",
                   "pricingUnit1":"Pass",
                   "cardRate":4,
                   "discountedRate":2.75,
@@ -339,8 +303,7 @@
                },
                "mediaOption1":{
                   "showName":"Luggage Tag",
-                  "description":"Ads can be placed on the tags that are attached to the baggages
- of the passengers. Average 1.7 Lac Tags",
+                  "description":"Ads can be placed on the tags that are attached to the baggages of the passengers. Average 1.7 Lac Tags",
                   "pricingUnit1":"Tag",
                   "cardRate":3,
                   "discountedRate":2.2,
@@ -350,8 +313,7 @@
                }
             }
          },
-         "logo":"/images
-/medias/55f09bbf8ead0ec50c8b45a8/5cb2c71f56caa7dee7ac8eb84a6b4c11.jpg",
+         "logo":"/images/medias/55f09bbf8ead0ec50c8b45a8/5cb2c71f56caa7dee7ac8eb84a6b4c11.jpg",
          "views":1847,
          "serviceTaxPercentage":15,
          "cardRate":300000
@@ -372,10 +334,8 @@
          "mediaOptions":{
             "securityArea":{
                "mediaOption1":{
-                  "showName":"Back
- Lit Standee - International Immigration Area",
-                  "description":"Ad placed on a large self-standing display
- in the international immigration area.",
+                  "showName":"Back Lit Standee - International Immigration Area",
+                  "description":"Ad placed on a large self-standing display in the international immigration area.",
                   "pricingUnit1":"Standee",
                   "pricingUnit2":"Month",
                   "cardRate":65000,
@@ -383,14 +343,12 @@
                   "vendorRate":46962.5,
                   "minimumQtyUnit1":1,
                   "minimumQtyUnit2":1,
-                  "imageUrl":"/images
-/mediaOptions/airport/Back Lit.png"
+                  "imageUrl":"/images/mediaOptions/airport/Back Lit.png"
                }
             },
             "boardingArea":{
                "mediaOption2":{
-                  "showName":"Back Lit Hoarding 1
- - Waiting Area",
+                  "showName":"Back Lit Hoarding 1 - Waiting Area",
                   "description":"Ad placed on a large Back Lit board placed on the waiting area.",
                   "pricingUnit1":"Hoarding",
                   "pricingUnit2":"Month",
@@ -403,8 +361,7 @@
                },
                "mediaOption1":{
                   "showName":"Back Lit Hoarding 2 - Waiting Area",
-                  "description":"Ad placed on a large Back Lit board placed on the
- waiting area.",
+                  "description":"Ad placed on a large Back Lit board placed on the waiting area.",
                   "pricingUnit1":"Hoarding",
                   "pricingUnit2":"Month",
                   "cardRate":150000,
@@ -412,8 +369,7 @@
                   "vendorRate":108375,
                   "minimumQtyUnit1":1,
                   "minimumQtyUnit2":1,
-                  "imageUrl":"/images/mediaOptions/airport
-/Back Lit.png"
+                  "imageUrl":"/images/mediaOptions/airport/Back Lit.png"
                }
             },
             "arrivalArea":{
@@ -430,8 +386,7 @@
                   "imageUrl":"/images/mediaOptions/airport/Back Lit.png"
                },
                "mediaOption1":{
-                  "description":"An Ad placed
- on a large board on right side of the arrival gate.",
+                  "description":"An Ad placed on a large board on right side of the arrival gate.",
                   "pricingUnit1":"Hoarding",
                   "pricingUnit2":"Month",
                   "cardRate":230000,
@@ -452,8 +407,7 @@
                   "minimumQtyUnit1":1,
                   "minimumQtyUnit2":1,
                   "imageUrl":"/images/mediaOptions/airport/Back Lit.png",
-                  "showName":"Back Lit Standee
- - Arrival"
+                  "showName":"Back Lit Standee - Arrival"
                }
             },
             "departureArea":{
@@ -482,8 +436,7 @@
                   "imageUrl":""
                },
                "mediaOption1":{
-                  "description":"An Ad placed on a large board facing
- main Terminal building as well as the departure gate",
+                  "description":"An Ad placed on a large board facing main Terminal building as well as the departure gate",
                   "pricingUnit1":"Hoarding",
                   "pricingUnit2":"Month",
                   "cardRate":120000,
@@ -498,8 +451,7 @@
             "outsideAirport":{
                "mediaOption6":{
                   "showName":"Back Lit Hoarding 2 - Airport Exit",
-                  "description":"Ad
- placed on a large Back Lit board placed right at the exit of the airport.",
+                  "description":"Ad placed on a large Back Lit board placed right at the exit of the airport.",
                   "pricingUnit1":"Hoarding",
                   "pricingUnit2":"Month",
                   "cardRate":120000,
@@ -519,12 +471,10 @@
                   "minimumQtyUnit1":1,
                   "minimumQtyUnit2":1,
                   "imageUrl":"/images/mediaOptions/airport/Back Lit.png",
-                  "showName":"Back Lit Hoarding 1 - Facing Terminal
- Building"
+                  "showName":"Back Lit Hoarding 1 - Facing Terminal Building"
                },
                "mediaOption2":{
-                  "description":"Ad placed on a large board enroute main entrance of the airport
-.",
+                  "description":"Ad placed on a large board enroute main entrance of the airport.",
                   "pricingUnit1":"Hoarding",
                   "pricingUnit2":"Month",
                   "cardRate":120000,
@@ -536,8 +486,7 @@
                   "showName":"Back Lit Hoarding 2 - Facing Terminal Building"
                },
                "mediaOption3":{
-                  "description":"Ad placed
- on a large board enroute main entrance of the airport.",
+                  "description":"Ad placed on a large board enroute main entrance of the airport.",
                   "pricingUnit1":"Hoarding",
                   "pricingUnit2":"Month",
                   "cardRate":120000,
@@ -546,12 +495,10 @@
                   "minimumQtyUnit1":1,
                   "minimumQtyUnit2":1,
                   "imageUrl":"/images/mediaOptions/airport/Back Lit.png",
-                  "showName":"Back Lit Hoarding 3 - Facing Terminal
- Building"
+                  "showName":"Back Lit Hoarding 3 - Facing Terminal Building"
                },
                "mediaOption4":{
-                  "description":"Ad placed on a large Back Lit board placed right at the entrance
- of the airport.",
+                  "description":"Ad placed on a large Back Lit board placed right at the entrance of the airport.",
                   "pricingUnit1":"Hoarding",
                   "pricingUnit2":"Month",
                   "cardRate":110000,
@@ -559,13 +506,11 @@
                   "vendorRate":79475,
                   "minimumQtyUnit1":1,
                   "minimumQtyUnit2":1,
-                  "imageUrl":"/images/mediaOptions/airport
-/Back Lit.png",
+                  "imageUrl":"/images/mediaOptions/airport/Back Lit.png",
                   "showName":"Back Lit Hoarding - Airport Entrance"
                },
                "mediaOption5":{
-                  "description":"Ad placed
- on a large Back Lit board placed right at the exit of the airport.",
+                  "description":"Ad placed on a large Back Lit board placed right at the exit of the airport.",
                   "pricingUnit1":"Hoarding",
                   "pricingUnit2":"Month",
                   "cardRate":100000,
@@ -580,8 +525,7 @@
             "baggageArea":{
                "mediaOption3":{
                   "showName":"Back Lit Hoarding - Conveyor Belt",
-                  "description":"Ad placed
- on a large Back Lit board placed above conveyor belts.",
+                  "description":"Ad placed on a large Back Lit board placed above conveyor belts.",
                   "pricingUnit1":"Hoarding",
                   "pricingUnit2":"Month",
                   "cardRate":95000,
@@ -592,10 +536,8 @@
                   "imageUrl":"/images/mediaOptions/airport/Back Lit.png"
                },
                "mediaOption2":{
-                  "showName":"Back Lit Hoarding
- - International Conveyor Belt Area",
-                  "description":"Ad placed on a large Back Lit board placed above
- conveyor belts.",
+                  "showName":"Back Lit Hoarding - International Conveyor Belt Area",
+                  "description":"Ad placed on a large Back Lit board placed above conveyor belts.",
                   "pricingUnit1":"Hoarding",
                   "pricingUnit2":"Month",
                   "cardRate":125000,
@@ -603,8 +545,7 @@
                   "vendorRate":90312.5,
                   "minimumQtyUnit1":1,
                   "minimumQtyUnit2":1,
-                  "imageUrl":"/images/mediaOptions
-/airport/Back Lit.png"
+                  "imageUrl":"/images/mediaOptions/airport/Back Lit.png"
                },
                "mediaOption1":{
                   "description":"Ad placed on the luggage trolley",
@@ -621,8 +562,7 @@
             },
             "tarmacCoach/Aerobridge":{
                "mediaOption1":{
-                  "description":"An ad place on a large Back Lit board at
- the aerobridge entrance.",
+                  "description":"An ad place on a large Back Lit board at the aerobridge entrance.",
                   "pricingUnit1":"Hoarding",
                   "pricingUnit2":"Month",
                   "cardRate":85000,
@@ -630,14 +570,12 @@
                   "vendorRate":61412.5,
                   "minimumQtyUnit1":1,
                   "minimumQtyUnit2":1,
-                  "imageUrl":"/images/mediaOptions
-/airport/Back Lit.png",
+                  "imageUrl":"/images/mediaOptions/airport/Back Lit.png",
                   "showName":"Back Lit Hoarding - Aerobridge Entrance"
                }
             }
          },
-         "logo":"/images/medias
-/55f09bbf8ead0ec50c8b45b5/11fe8929054f7f996baeef9e35696c9c.jpg",
+         "logo":"/images/medias/55f09bbf8ead0ec50c8b45b5/11fe8929054f7f996baeef9e35696c9c.jpg",
          "views":1799,
          "serviceTaxPercentage":15,
          "cardRate":85000
@@ -645,8 +583,7 @@
       {
          "_id":"55f09bbf8ead0ec50c8b45a5",
          "category":"Airline",
-         "name":"Airline - Jet Airways
- Domestic, India",
+         "name":"Airline - Jet Airways Domestic, India",
          "urlSlug":"airline-jet-airways-india-advertising",
          "geography":[
             "56bb16ce8ead0e830d8b46f6"
@@ -666,8 +603,7 @@
                   "discountedRate":2000000,
                   "cardRate":3000000,
                   "pricingUnit1":"Month",
-                  "description":"Ads can be placed on the tags that are attached to the cabin baggages of the
- passengers. Average 12 Lac Tags."
+                  "description":"Ads can be placed on the tags that are attached to the cabin baggages of the passengers. Average 12 Lac Tags."
                }
             },
             "aircraftOptions":{
@@ -684,8 +620,7 @@
                   "description":"A complete wrap of the aircraft with brand message"
                },
                "mediaOption2":{
-                  "showName":"Cabin
- Separator",
+                  "showName":"Cabin Separator",
                   "imageUrl":"/images/mediaOptions/airport/Cabin Separator.png",
                   "minimumQtyUnit2":1,
                   "minimumQtyUnit1":3,
@@ -694,8 +629,7 @@
                   "cardRate":150000,
                   "pricingUnit2":"Month",
                   "pricingUnit1":"Aircraft",
-                  "description":"These are separators between buiness and economy class and ads can be placed
- on them"
+                  "description":"These are separators between buiness and economy class and ads can be placed on them"
                },
                "mediaOption1":{
                   "showName":"Seat Back",
@@ -707,8 +641,7 @@
                   "cardRate":200000,
                   "pricingUnit2":"Month",
                   "pricingUnit1":"Aircraft",
-                  "description":"Ads are placed behind the passenger
- seat.\n  the passenger."
+                  "description":"Ads are placed behind the passenger seat.\n  the passenger."
                }
             },
             "digitalOptions":{
@@ -719,18 +652,14 @@
                   "vendorRate":900000,
                   "discountedRate":1058824,
                   "cardRate":1245675,
-                  "imageUrl":"
-/images/mediaOptions/airport/Banner.png",
-                  "description":"Advertisement will be displayed, when passenger
- steam the content using their laptop and mobile",
+                  "imageUrl":"/images/mediaOptions/airport/Banner.png",
+                  "description":"Advertisement will be displayed, when passenger steam the content using their laptop and mobile",
                   "minimumQtyUnit2":1,
-                  "showName":"Leader Board Banner
- - Homepage"
+                  "showName":"Leader Board Banner - Homepage"
                },
                "mediaOption2":{
                   "imageUrl":"/images/mediaOptions/airport/Banner.png",
-                  "description":"Advertisement
- will be displayed, when passenger steam the content using their laptop and mobile",
+                  "description":"Advertisement will be displayed, when passenger steam the content using their laptop and mobile",
                   "cardRate":830450,
                   "discountedRate":705882,
                   "vendorRate":600000,
@@ -741,10 +670,8 @@
                   "showName":"Footer - Movie Page"
                },
                "mediaOption3":{
-                  "imageUrl":"/images/mediaOptions
-/airport/Banner.png",
-                  "description":"Advertisement will be displayed, when passenger steam the content
- using their laptop and mobile",
+                  "imageUrl":"/images/mediaOptions/airport/Banner.png",
+                  "description":"Advertisement will be displayed, when passenger steam the content using their laptop and mobile",
                   "cardRate":553633,
                   "discountedRate":470588,
                   "vendorRate":400000,
@@ -752,13 +679,11 @@
                   "pricingUnit2":"Month",
                   "minimumQtyUnit1":1,
                   "minimumQtyUnit2":1,
-                  "showName":"Footer - Television
- Page"
+                  "showName":"Footer - Television Page"
                },
                "mediaOption4":{
                   "imageUrl":"/images/mediaOptions/airport/Banner.png",
-                  "description":"Advertisement
- will be displayed, when passenger steam the content using their laptop and mobile",
+                  "description":"Advertisement will be displayed, when passenger steam the content using their laptop and mobile",
                   "cardRate":761246,
                   "discountedRate":647059,
                   "vendorRate":550000,
@@ -769,10 +694,8 @@
                   "showName":"Footer - Games Page"
                },
                "mediaOption5":{
-                  "imageUrl":"/images/mediaOptions
-/airport/Banner.png",
-                  "description":"Advertisement will be displayed, when passenger steam the content
- using their laptop and mobile",
+                  "imageUrl":"/images/mediaOptions/airport/Banner.png",
+                  "description":"Advertisement will be displayed, when passenger steam the content using their laptop and mobile",
                   "cardRate":761246,
                   "discountedRate":647059,
                   "vendorRate":550000,
@@ -780,13 +703,11 @@
                   "pricingUnit2":"Month",
                   "minimumQtyUnit2":1,
                   "minimumQtyUnit1":1,
-                  "showName":"Footer - Flight
- Tracker"
+                  "showName":"Footer - Flight Tracker"
                },
                "mediaOption6":{
                   "imageUrl":"/images/mediaOptions/airport/Banner.png",
-                  "description":"Advertisement
- will be displayed, when passenger steam the content using their laptop and mobile",
+                  "description":"Advertisement will be displayed, when passenger steam the content using their laptop and mobile",
                   "cardRate":761246,
                   "discountedRate":647059,
                   "vendorRate":550000,
@@ -798,8 +719,7 @@
                }
             }
          },
-         "logo":"/images/medias/55f09bbf8ead0ec50c8b45a5
-/598535337387e2b3dd91cf205760dfd3.jpg",
+         "logo":"/images/medias/55f09bbf8ead0ec50c8b45a5/598535337387e2b3dd91cf205760dfd3.jpg",
          "views":1453,
          "serviceTaxPercentage":15,
          "cardRate":1245675
@@ -833,8 +753,7 @@
                },
                "mediaOption3":{
                   "showName":"Back Lit - 19.1 x 3.1 ft",
-                  "description":"Ads are placed on back lighted panels and is located behind
- Jet Check-in Counters",
+                  "description":"Ads are placed on back lighted panels and is located behind Jet Check-in Counters",
                   "pricingUnit1":"Back Lit",
                   "pricingUnit2":"Month",
                   "cardRate":1500000,
@@ -842,13 +761,11 @@
                   "vendorRate":1083750,
                   "minimumQtyUnit1":1,
                   "minimumQtyUnit2":1,
-                  "imageUrl":"/images/mediaOptions
-/airport/Back Lit.png"
+                  "imageUrl":"/images/mediaOptions/airport/Back Lit.png"
                },
                "mediaOption2":{
                   "showName":"Back Lit - 33 x 6 ft",
-                  "description":"Back lighted
- ads containing self adhesive pasted located near the Jet Business Class check-in counters",
+                  "description":"Back lighted ads containing self adhesive pasted located near the Jet Business Class check-in counters",
                   "pricingUnit1":"Back Lit",
                   "pricingUnit2":"Month",
                   "cardRate":1100000,
@@ -860,8 +777,7 @@
                },
                "mediaOption1":{
                   "showName":"Pillar Wrap - 9.6 x 21 ft",
-                  "description":"Ads are wrapped on the pillers and is located in the middle
- of Jet SHA - premium departure hall",
+                  "description":"Ads are wrapped on the pillers and is located in the middle of Jet SHA - premium departure hall",
                   "pricingUnit1":"Pillar",
                   "pricingUnit2":"Month",
                   "cardRate":750000,
@@ -869,15 +785,13 @@
                   "vendorRate":541875,
                   "minimumQtyUnit1":1,
                   "minimumQtyUnit2":1,
-                  "imageUrl":"/images
-/mediaOptions/airport/Pillar.png"
+                  "imageUrl":"/images/mediaOptions/airport/Pillar.png"
                }
             },
             "securityArea":{
                "mediaOption6":{
                   "showName":"Back Lit - 8 x 5 ft",
-                  "description":"Back lighted ads containing self adhesive pasted located on overhead route from check-in
- hall to jet security hold",
+                  "description":"Back lighted ads containing self adhesive pasted located on overhead route from check-in hall to jet security hold",
                   "pricingUnit1":"Back Lit",
                   "pricingUnit2":"Month",
                   "cardRate":750000,
@@ -885,14 +799,11 @@
                   "vendorRate":541875,
                   "minimumQtyUnit1":2,
                   "minimumQtyUnit2":1,
-                  "imageUrl":"/images/mediaOptions
-/airport/Back Lit.png"
+                  "imageUrl":"/images/mediaOptions/airport/Back Lit.png"
                },
                "mediaOption5":{
                   "showName":"Wall Wrap - 57 x 14.4 ft",
-                  "description":"This is
- a gigantic site visible to entire waiting area\n and is located on the left of the security gates before
- the security hold",
+                  "description":"This is a gigantic site visible to entire waiting area\n and is located on the left of the security gates before the security hold",
                   "pricingUnit1":"Wrap",
                   "pricingUnit2":"Month",
                   "cardRate":2650000,
@@ -900,13 +811,11 @@
                   "vendorRate":1914625,
                   "minimumQtyUnit1":1,
                   "minimumQtyUnit2":1,
-                  "imageUrl":"/images/mediaOptions
-/airport/Wall.png"
+                  "imageUrl":"/images/mediaOptions/airport/Wall.png"
                },
                "mediaOption4":{
                   "showName":"Back Lit Signage - 10.5 x 9.5 ft",
-                  "description":"Ads
- are placed on back lighted signage located towards boarding gates, Jet SHA",
+                  "description":"Ads are placed on back lighted signage located towards boarding gates, Jet SHA",
                   "pricingUnit1":"Back Lit",
                   "pricingUnit2":"Month",
                   "cardRate":1800000,
@@ -930,8 +839,7 @@
                },
                "mediaOption2":{
                   "showName":"Back Lit - 6.5 x 18.5 ft",
-                  "description":"Ads are displayed on head on site
- visible to seated travelers across the entire SHA Lounge 1",
+                  "description":"Ads are displayed on head on site visible to seated travelers across the entire SHA Lounge 1",
                   "pricingUnit1":"Back Lit",
                   "pricingUnit2":"Month",
                   "cardRate":800000,
@@ -942,10 +850,8 @@
                   "imageUrl":"/images/mediaOptions/airport/Back Lit.png"
                },
                "mediaOption1":{
-                  "showName":"Back Lit - 31
-.1 x 7.2 ft",
-                  "description":"Back Lit ads offer head on visibility to travelers moving towards the lounge
- & high visibility with seated passengers too",
+                  "showName":"Back Lit - 31.1 x 7.2 ft",
+                  "description":"Back Lit ads offer head on visibility to travelers moving towards the lounge & high visibility with seated passengers too",
                   "pricingUnit1":"Back Lit",
                   "pricingUnit2":"Month",
                   "cardRate":550000,
@@ -959,8 +865,7 @@
             "centralConcourse":{
                "mediaOption4":{
                   "showName":"Wall Wrap",
-                  "description":"This site is well positioned to target passengers moving towards the Security Hold Area
- of check-in passage to \nEconomy Airlines",
+                  "description":"This site is well positioned to target passengers moving towards the Security Hold Area of check-in passage to \nEconomy Airlines",
                   "pricingUnit1":"Wrap",
                   "pricingUnit2":"Month",
                   "cardRate":1800000,
@@ -968,8 +873,7 @@
                   "vendorRate":1300500,
                   "minimumQtyUnit1":1,
                   "minimumQtyUnit2":1,
-                  "imageUrl":"/images
-/mediaOptions/airport/Wall.png"
+                  "imageUrl":"/images/mediaOptions/airport/Wall.png"
                },
                "mediaOption3":{
                   "showName":"Back Lit - 41.4 x 7.11 ft",
@@ -984,11 +888,9 @@
                   "imageUrl":"/images/mediaOptions/airport/Back Lit.png"
                },
                "mediaOption2":{
-                  "showName":"Back Lit - 11
-.1 x 9.3 ft",
+                  "showName":"Back Lit - 11.1 x 9.3 ft",
                   "description":"Ads are displayed on Vantage location in SHA Lounge 1",
-                  "pricingUnit1":"Back
- Lit",
+                  "pricingUnit1":"Back Lit",
                   "pricingUnit2":"Month",
                   "cardRate":400000,
                   "discountedRate":340000,
@@ -999,8 +901,7 @@
                },
                "mediaOption1":{
                   "showName":"Multi Poster Scroller - 11 x 5 ft",
-                  "description":"These are dynamic synchronization solution \nclearly
- visible to captive arriving passengers waiting for 20-30 minutes for their baggage",
+                  "description":"These are dynamic synchronization solution \nclearly visible to captive arriving passengers waiting for 20-30 minutes for their baggage",
                   "pricingUnit1":"Scroller",
                   "pricingUnit2":"Month",
                   "cardRate":1200000,
@@ -1014,8 +915,7 @@
             "arrivalArea":{
                "mediaOption7":{
                   "showName":"Hanging Banner - 6.5 x 18.5 ft",
-                  "description":"Ads are placed hanging near to arrival or
- departure of an airport",
+                  "description":"Ads are placed hanging near to arrival or departure of an airport",
                   "pricingUnit1":"Banner",
                   "pricingUnit2":"Month",
                   "cardRate":120000,
@@ -1023,14 +923,11 @@
                   "vendorRate":96000,
                   "minimumQtyUnit1":1,
                   "minimumQtyUnit2":1,
-                  "imageUrl":"/images/mediaOptions/airport
-/Hanging.png"
+                  "imageUrl":"/images/mediaOptions/airport/Hanging.png"
                },
                "mediaOption6":{
                   "showName":"Hanging Front Lit Board - 45 x 25 ft",
-                  "description":"These
- are enormous display overheaded in plain sight of all departing travelers in Jet SHA, Jet lounge and
- arrival hall",
+                  "description":"These are enormous display overheaded in plain sight of all departing travelers in Jet SHA, Jet lounge and arrival hall",
                   "pricingUnit1":"Board",
                   "pricingUnit2":"Month",
                   "cardRate":2400000,
@@ -1038,13 +935,11 @@
                   "vendorRate":1734000,
                   "minimumQtyUnit1":1,
                   "minimumQtyUnit2":1,
-                  "imageUrl":"/images/mediaOptions/airport
-/Hanging.png"
+                  "imageUrl":"/images/mediaOptions/airport/Hanging.png"
                },
                "mediaOption5":{
                   "showName":"Back Lit - 10.5 x 9.5 ft",
-                  "description":"Back lighted ads
- placed on first site towards left of entry of arriving passengers",
+                  "description":"Back lighted ads placed on first site towards left of entry of arriving passengers",
                   "pricingUnit1":"Back Lit",
                   "pricingUnit2":"Month",
                   "cardRate":1200000,
@@ -1055,8 +950,7 @@
                   "imageUrl":"/images/mediaOptions/airport/Back Lit.png"
                },
                "mediaOption4":{
-                  "showName":"Board - 125 x
- 3 ft",
+                  "showName":"Board - 125 x 3 ft",
                   "description":"Ads containing self adhesive pasted above conveyor belts in T1B Arrival Hall",
                   "pricingUnit1":"Board",
                   "pricingUnit2":"Month",
@@ -1069,8 +963,7 @@
                },
                "mediaOption3":{
                   "showName":"Board - 44 x 6 ft",
-                  "description":"Ads containing self adhesive pasted above conveyor belts in T1B Arrival
- Hall",
+                  "description":"Ads containing self adhesive pasted above conveyor belts in T1B Arrival Hall",
                   "pricingUnit1":"Board",
                   "pricingUnit2":"Month",
                   "cardRate":1800000,
@@ -1082,8 +975,7 @@
                },
                "mediaOption2":{
                   "showName":"Board - 58 x 6 ft",
-                  "description":"Ads containing self adhesive pasted above
- conveyor belts in T1B Arrival Hall",
+                  "description":"Ads containing self adhesive pasted above conveyor belts in T1B Arrival Hall",
                   "pricingUnit1":"Board",
                   "pricingUnit2":"Month",
                   "cardRate":1800000,
@@ -1091,13 +983,11 @@
                   "vendorRate":1300500,
                   "minimumQtyUnit1":1,
                   "minimumQtyUnit2":1,
-                  "imageUrl":"/images
-/mediaOptions/airport/Board.png"
+                  "imageUrl":"/images/mediaOptions/airport/Board.png"
                },
                "mediaOption1":{
                   "showName":"Wall Wrap - 28 x 7 ft",
-                  "description":"Ads
- are displayed on the walls directly overhead exit gates in the arrival hall",
+                  "description":"Ads are displayed on the walls directly overhead exit gates in the arrival hall",
                   "pricingUnit1":"Wrap",
                   "pricingUnit2":"Month",
                   "cardRate":800000,
@@ -1135,8 +1025,7 @@
                },
                "mediaOption2":{
                   "showName":"Back Lit - 52.8 x 7.5 ft",
-                  "description":"Ads are displayed on the passageway
- towards SHA lounges & aerobridges",
+                  "description":"Ads are displayed on the passageway towards SHA lounges & aerobridges",
                   "pricingUnit1":"Back Lit",
                   "pricingUnit2":"Month",
                   "cardRate":300000,
@@ -1144,8 +1033,7 @@
                   "vendorRate":216750,
                   "minimumQtyUnit1":1,
                   "minimumQtyUnit2":1,
-                  "imageUrl":"/images
-/mediaOptions/airport/Back Lit.png"
+                  "imageUrl":"/images/mediaOptions/airport/Back Lit.png"
                }
             },
             "baggageArea":{
@@ -1163,8 +1051,7 @@
                },
                "mediaOption2":{
                   "showName":"Scroller - 11 x 5 ft",
-                  "description":"Double sided back lit ads are displayed on Conveyer belts of Arrival
- hall",
+                  "description":"Double sided back lit ads are displayed on Conveyer belts of Arrival hall",
                   "pricingUnit1":"Scroller",
                   "pricingUnit2":"Month",
                   "cardRate":1200000,
@@ -1176,8 +1063,7 @@
                },
                "mediaOption1":{
                   "showName":"Luggage Trolley - 2 x 1 ft",
-                  "description":"Ads can be placed on the luggae
- strolleys used by passengers in the airports.",
+                  "description":"Ads can be placed on the luggae strolleys used by passengers in the airports.",
                   "pricingUnit1":"Trolley",
                   "pricingUnit2":"Month",
                   "cardRate":1350,
@@ -1185,16 +1071,13 @@
                   "vendorRate":1150,
                   "minimumQtyUnit1":200,
                   "minimumQtyUnit2":1,
-                  "imageUrl":"
-/images/mediaOptions/airport/Trolley.png"
+                  "imageUrl":"/images/mediaOptions/airport/Trolley.png"
                }
             },
             "boardingArea":{
                "mediaOption2":{
-                  "showName":"Wall Wrap - 44
- x 6 ft",
-                  "description":"This site is well positioned to target passengers moving towards the Security
- Hold Area after they collect their boarding passes",
+                  "showName":"Wall Wrap - 44 x 6 ft",
+                  "description":"This site is well positioned to target passengers moving towards the Security Hold Area after they collect their boarding passes",
                   "pricingUnit1":"Wrap",
                   "pricingUnit2":"Month",
                   "cardRate":775000,
@@ -1206,8 +1089,7 @@
                },
                "mediaOption1":{
                   "showName":"Back Lit - 15.8 x 2.8 ft",
-                  "description":"These are banners cointaining back light and positioned to target passengers as they queue for boarding
- passes and pass by. Back Lit behind SpiceJet check-in counter",
+                  "description":"These are banners cointaining back light and positioned to target passengers as they queue for boarding passes and pass by. Back Lit behind SpiceJet check-in counter",
                   "pricingUnit1":"Back Lit",
                   "pricingUnit2":"Month",
                   "cardRate":500000,
@@ -1221,9 +1103,7 @@
             "indigoTarmacCoach":{
                "mediaOption1":{
                   "showName":"Internal Branding",
-                  "description":"Tarmac coaches ply between the terminal and the airline carrying
- passengers who want to board and off board. These coaches have the branding options on inside panels
- and grab handles. There are around 8 panel and 25-30 grabhandles per coach.",
+                  "description":"Tarmac coaches ply between the terminal and the airline carrying passengers who want to board and off board. These coaches have the branding options on inside panels and grab handles. There are around 8 panel and 25-30 grabhandles per coach.",
                   "pricingUnit1":"Coach",
                   "pricingUnit2":"Month",
                   "cardRate":75000,
@@ -1235,8 +1115,7 @@
                }
             }
          },
-         "logo":"/images/medias
-/55f09bbf8ead0ec50c8b45b1/e952a3ade265b8fa5c18add216afb47b.jpg",
+         "logo":"/images/medias/55f09bbf8ead0ec50c8b45b1/e952a3ade265b8fa5c18add216afb47b.jpg",
          "views":1359,
          "serviceTaxPercentage":15,
          "cardRate":375000
@@ -1266,12 +1145,10 @@
                   "cardRate":627200,
                   "pricingUnit2":"Month",
                   "pricingUnit1":"Coach",
-                  "description":"Advertisement
- can be placed on all media options available in cobus passenger coach"
+                  "description":"Advertisement can be placed on all media options available in cobus passenger coach"
                },
                "mediaOption8":{
-                  "showName":"Side
- Window - 120 x 60 cm",
+                  "showName":"Side Window - 120 x 60 cm",
                   "imageUrl":"",
                   "minimumQtyUnit2":1,
                   "minimumQtyUnit1":2,
@@ -1280,12 +1157,10 @@
                   "cardRate":239200,
                   "pricingUnit2":"Month",
                   "pricingUnit1":"Coach",
-                  "description":"Advertisement
- can be placed on the 4 windows available cobus passenger coach"
+                  "description":"Advertisement can be placed on the 4 windows available cobus passenger coach"
                },
                "mediaOption7":{
-                  "showName":"Support
- Pole - 24 x 38.1 cm",
+                  "showName":"Support Pole - 24 x 38.1 cm",
                   "imageUrl":"",
                   "minimumQtyUnit2":1,
                   "minimumQtyUnit1":2,
@@ -1294,8 +1169,7 @@
                   "cardRate":106300,
                   "pricingUnit2":"Month",
                   "pricingUnit1":"Coach",
-                  "description":"Advertisement can
- be placed on the 10 support pole that is available in cobus passenger coach"
+                  "description":"Advertisement can be placed on the 10 support pole that is available in cobus passenger coach"
                },
                "mediaOption6":{
                   "showName":"Grab Handle - 11 x 7 cm",
@@ -1319,13 +1193,11 @@
                   "cardRate":453149,
                   "pricingUnit2":"Month",
                   "pricingUnit1":"Bus",
-                  "description":"A branding package that consists of Grab Handles, Side windows and the ceiling
- of every bus."
+                  "description":"A branding package that consists of Grab Handles, Side windows and the ceiling of every bus."
                },
                "mediaOption4":{
                   "showName":"Ceiling - 255 x 1550 cms",
-                  "imageUrl":"/images/mediaOptions
-/airport/transport.png",
+                  "imageUrl":"/images/mediaOptions/airport/transport.png",
                   "minimumQtyUnit2":1,
                   "minimumQtyUnit1":1,
                   "vendorRate":151207,
@@ -1333,8 +1205,7 @@
                   "cardRate":201609,
                   "pricingUnit2":"Month",
                   "pricingUnit1":"Bus",
-                  "description":"Ad placed on the
- ceiling,on the inside of every Bus."
+                  "description":"Ad placed on the ceiling,on the inside of every Bus."
                },
                "mediaOption3":{
                   "showName":"Side Window - 60 x 120 cms",
@@ -1370,8 +1241,7 @@
                   "cardRate":115209,
                   "pricingUnit2":"Month",
                   "pricingUnit1":"Bus",
-                  "description":"A 7 x 11 cm Ad placed on Grab Handles on each Bus.There are around
- 80-90 Grab Handles coach."
+                  "description":"A 7 x 11 cm Ad placed on Grab Handles on each Bus.There are around 80-90 Grab Handles coach."
                }
             },
             "ashokLeylandTarmacCoach":{
@@ -1385,8 +1255,7 @@
                   "cardRate":461400,
                   "pricingUnit2":"Month",
                   "pricingUnit1":"Coach",
-                  "description":"Advertisement
- can be placed on all media options available in ashok leyland passenger coach"
+                  "description":"Advertisement can be placed on all media options available in ashok leyland passenger coach"
                },
                "mediaOption8":{
                   "showName":"Ceiling - 1550 x 256 cm",
@@ -1434,13 +1303,11 @@
                   "cardRate":159450,
                   "pricingUnit2":"Month",
                   "pricingUnit1":"Coach",
-                  "description":"Advertisement can be placed on the 80 to 90 grab handles available in ashok leyland
- passenger coach"
+                  "description":"Advertisement can be placed on the 80 to 90 grab handles available in ashok leyland passenger coach"
                },
                "mediaOption4":{
                   "showName":"Coach Branding",
-                  "imageUrl":"/images/mediaOptions/airport
-/bus.png",
+                  "imageUrl":"/images/mediaOptions/airport/bus.png",
                   "minimumQtyUnit2":1,
                   "minimumQtyUnit1":2,
                   "vendorRate":250012,
@@ -1448,12 +1315,10 @@
                   "cardRate":333349,
                   "pricingUnit2":"Month",
                   "pricingUnit1":"Bus",
-                  "description":"A branding package that consists of
- Grab Handles, Side windows and the ceiling of every bus."
+                  "description":"A branding package that consists of Grab Handles, Side windows and the ceiling of every bus."
                },
                "mediaOption3":{
-                  "showName":"Ceiling - 55
- x 540 cms",
+                  "showName":"Ceiling - 55 x 540 cms",
                   "imageUrl":"/images/mediaOptions/airport/transport.png",
                   "minimumQtyUnit2":1,
                   "minimumQtyUnit1":1,
@@ -1474,13 +1339,11 @@
                   "cardRate":103689,
                   "pricingUnit2":"Month",
                   "pricingUnit1":"Bus",
-                  "description":"A 60 x 120 cm Ad placed on the side Windows of each bus, there are
- 4 side windows on each Coach."
+                  "description":"A 60 x 120 cm Ad placed on the side Windows of each bus, there are 4 side windows on each Coach."
                },
                "mediaOption1":{
                   "showName":"Grab Handle - 7 x 11 cms",
-                  "imageUrl":"/images
-/mediaOptions/airport/grab.png",
+                  "imageUrl":"/images/mediaOptions/airport/grab.png",
                   "minimumQtyUnit2":1,
                   "minimumQtyUnit1":1,
                   "vendorRate":86407,
@@ -1488,8 +1351,7 @@
                   "cardRate":115209,
                   "pricingUnit2":"Month",
                   "pricingUnit1":"Bus",
-                  "description":"A 7 x 11 cm Ad placed
- on Grab Handles on each Bus.There are around 80-90 Grab Handles coach."
+                  "description":"A 7 x 11 cm Ad placed on Grab Handles on each Bus.There are around 80-90 Grab Handles coach."
                }
             },
             "indigoTarmacCoach":{
@@ -1503,9 +1365,7 @@
                   "cardRate":75000,
                   "pricingUnit2":"Month",
                   "pricingUnit1":"Coach",
-                  "description":"Tarmac coaches ply between the terminal and the airline carrying
- passengers who want to board and off board. These coaches have the branding options on inside panels
- and grab handles. There are around 8 panel and 25-30 grabhandles per coach."
+                  "description":"Tarmac coaches ply between the terminal and the airline carrying passengers who want to board and off board. These coaches have the branding options on inside panels and grab handles. There are around 8 panel and 25-30 grabhandles per coach."
                }
             },
             "departureArea":{
@@ -1519,13 +1379,11 @@
                   "cardRate":1200000,
                   "pricingUnit2":"Month",
                   "pricingUnit1":"MUPI",
-                  "description":"Ad placed on a synchronized digital screen which can show up to 4 images on loop placed at the terminal's
- entrance."
+                  "description":"Ad placed on a synchronized digital screen which can show up to 4 images on loop placed at the terminal's entrance."
                },
                "mediaOption2":{
                   "showName":"Billboard - 40 x 10 ft",
-                  "imageUrl":"/images/mediaOptions/airport
-/Billboard.png",
+                  "imageUrl":"/images/mediaOptions/airport/Billboard.png",
                   "minimumQtyUnit2":1,
                   "minimumQtyUnit1":1,
                   "vendorRate":939250,
@@ -1533,12 +1391,10 @@
                   "cardRate":1300000,
                   "pricingUnit2":"Month",
                   "pricingUnit1":"Billboard",
-                  "description":"Ad placed on a large
- board at the entrance of the road towards the terminal."
+                  "description":"Ad placed on a large board at the entrance of the road towards the terminal."
                },
                "mediaOption1":{
-                  "showName":"Billboard - 60
- x 20 ft",
+                  "showName":"Billboard - 60 x 20 ft",
                   "imageUrl":"/images/mediaOptions/airport/Billboard.png",
                   "minimumQtyUnit2":1,
                   "minimumQtyUnit1":1,
@@ -1547,13 +1403,11 @@
                   "cardRate":1500000,
                   "pricingUnit2":"Month",
                   "pricingUnit1":"Billboard",
-                  "description":"Ad placed on a large board at the entrance of the road towards the terminal
-."
+                  "description":"Ad placed on a large board at the entrance of the road towards the terminal."
                },
                "mediaOption4":{
                   "showName":"Kiosk, New Check In Hall - 10 x 10 ft",
-                  "imageUrl":"/images/mediaOptions
-/airport/Kiosk.png",
+                  "imageUrl":"/images/mediaOptions/airport/Kiosk.png",
                   "minimumQtyUnit2":1,
                   "minimumQtyUnit1":1,
                   "vendorRate":1083750,
@@ -1561,13 +1415,11 @@
                   "cardRate":1500000,
                   "pricingUnit2":"Month",
                   "pricingUnit1":"Kiosk",
-                  "description":"Open fronted hut or
- cubicle having ads placed on them."
+                  "description":"Open fronted hut or cubicle having ads placed on them."
                },
                "mediaOption5":{
                   "showName":"Iconic",
-                  "imageUrl":"/images/mediaOptions
-/airport/Option.png",
+                  "imageUrl":"/images/mediaOptions/airport/Option.png",
                   "minimumQtyUnit2":1,
                   "minimumQtyUnit1":1,
                   "vendorRate":1806250,
@@ -1575,8 +1427,7 @@
                   "cardRate":2500000,
                   "pricingUnit2":"Month",
                   "pricingUnit1":"Iconic",
-                  "description":"A customised installation
- can be made of a product or brand, placed just before the terminal's entrance."
+                  "description":"A customised installation can be made of a product or brand, placed just before the terminal's entrance."
                },
                "mediaOption6":{
                   "showName":"Video Wall - 20 x 10 ft",
@@ -1588,8 +1439,7 @@
                   "cardRate":2500000,
                   "pricingUnit2":"Month",
                   "pricingUnit1":"Video Wall",
-                  "description":"Ad placed on large digital screens mounted on the
- wall in the retail zone available with 3 loops."
+                  "description":"Ad placed on large digital screens mounted on the wall in the retail zone available with 3 loops."
                },
                "mediaOption7":{
                   "showName":"Totem - 7.5 x 17.4 ft",
@@ -1613,8 +1463,7 @@
                   "cardRate":1200000,
                   "pricingUnit2":"Month",
                   "pricingUnit1":"Panel",
-                  "description":"Ad placed on a large self-standing display placed enroute to the terminal's entrance
-."
+                  "description":"Ad placed on a large self-standing display placed enroute to the terminal's entrance."
                },
                "mediaOption9":{
                   "showName":"Light Box - 10.5 x 7.9 ft",
@@ -1626,8 +1475,7 @@
                   "cardRate":2000000,
                   "pricingUnit2":"Month",
                   "pricingUnit1":"Light Box",
-                  "description":"Ad placed on a wall mounted Back Lit rectangular box in the check in hall
-."
+                  "description":"Ad placed on a wall mounted Back Lit rectangular box in the check in hall."
                },
                "mediaOption10":{
                   "showName":"Light Box - 13.1 x 4.2 ft",
@@ -1639,13 +1487,11 @@
                   "cardRate":1000000,
                   "pricingUnit2":"Month",
                   "pricingUnit1":"Light Box",
-                  "description":"Ad placed on a wall mounted Back Lit rectangular box placed at the security
- holding area."
+                  "description":"Ad placed on a wall mounted Back Lit rectangular box placed at the security holding area."
                },
                "mediaOption11":{
                   "showName":"Hanging Banner - 20 x 10 ft",
-                  "imageUrl":"/images/mediaOptions
-/airport/Hanging.png",
+                  "imageUrl":"/images/mediaOptions/airport/Hanging.png",
                   "minimumQtyUnit2":1,
                   "minimumQtyUnit1":1,
                   "vendorRate":1083750,
@@ -1653,12 +1499,10 @@
                   "cardRate":1500000,
                   "pricingUnit2":"Month",
                   "pricingUnit1":"Banner",
-                  "description":"Ad placed on a huge
- banner suspended from the ceiling in the boarding lounge area."
+                  "description":"Ad placed on a huge banner suspended from the ceiling in the boarding lounge area."
                },
                "mediaOption12":{
-                  "showName":"Digital
- MUPI - 70 x 24 in",
+                  "showName":"Digital MUPI - 70 x 24 in",
                   "imageUrl":"",
                   "minimumQtyUnit2":1,
                   "minimumQtyUnit1":1,
@@ -1667,9 +1511,7 @@
                   "cardRate":1200000,
                   "pricingUnit2":"Month",
                   "pricingUnit1":"MUPI",
-                  "description":"Ad placed on
- a synchronized digital screen which can show up to 3 images on loop placed at the security holding area
-."
+                  "description":"Ad placed on a synchronized digital screen which can show up to 3 images on loop placed at the security holding area."
                }
             },
             "arrivalArea":{
@@ -1683,13 +1525,11 @@
                   "discountedRate":2353000,
                   "cardRate":2768000,
                   "description":"Open fronted hut or cubicle having ads placed on them.",
-                  "imageUrl":"/images/mediaOptions
-/airport/Kiosk.png"
+                  "imageUrl":"/images/mediaOptions/airport/Kiosk.png"
                },
                "mediaOption2":{
                   "showName":"Digital MUPI - 4 x 9.8 ft",
-                  "imageUrl":"/images/mediaOptions
-/airport/Digital.png",
+                  "imageUrl":"/images/mediaOptions/airport/Digital.png",
                   "minimumQtyUnit2":1,
                   "minimumQtyUnit1":1,
                   "vendorRate":722500,
@@ -1697,12 +1537,10 @@
                   "cardRate":1000000,
                   "pricingUnit2":"Month",
                   "pricingUnit1":"MUPI",
-                  "description":"Ad placed on a synchronized
- digital screen placed at the terminal's entrance."
+                  "description":"Ad placed on a synchronized digital screen placed at the terminal's entrance."
                },
                "mediaOption3":{
-                  "showName":"Light Box - 10 x 10
- ft",
+                  "showName":"Light Box - 10 x 10 ft",
                   "imageUrl":"/images/mediaOptions/airport/LightBox.png",
                   "minimumQtyUnit2":1,
                   "minimumQtyUnit1":1,
@@ -1723,8 +1561,7 @@
                   "cardRate":1000000,
                   "pricingUnit2":"Month",
                   "pricingUnit1":"Light Box",
-                  "description":"Ad placed on a double sided Back Lit rectangular box
- placed at the baggage claim area."
+                  "description":"Ad placed on a double sided Back Lit rectangular box placed at the baggage claim area."
                },
                "mediaOption5":{
                   "showName":"Light Box - 19.6 x 6.88 ft",
@@ -1748,13 +1585,11 @@
                   "cardRate":1200000,
                   "pricingUnit2":"Month",
                   "pricingUnit1":"Screen",
-                  "description":"Ad placed on a digital screen fixed on a pole with 3
- loops of 30 seconds."
+                  "description":"Ad placed on a digital screen fixed on a pole with 3 loops of 30 seconds."
                },
                "mediaOption7":{
                   "showName":"Billboard - 60 x 20 ft",
-                  "imageUrl":"/images/mediaOptions
-/airport/Billboard.png",
+                  "imageUrl":"/images/mediaOptions/airport/Billboard.png",
                   "minimumQtyUnit2":1,
                   "minimumQtyUnit1":1,
                   "vendorRate":1083750,
@@ -1762,14 +1597,12 @@
                   "cardRate":1500000,
                   "pricingUnit2":"Month",
                   "pricingUnit1":"Billboard",
-                  "description":"Ad placed
- on a large board at the entrance parking area."
+                  "description":"Ad placed on a large board at the entrance parking area."
                }
             },
             "outsideAirport":{
                "mediaOption1":{
-                  "showName":"Kiosk
-, Curbside Area - 15 x 15 ft",
+                  "showName":"Kiosk, Curbside Area - 15 x 15 ft",
                   "minimumQtyUnit2":1,
                   "minimumQtyUnit1":1,
                   "pricingUnit2":"Month",
@@ -1777,16 +1610,14 @@
                   "vendorRate":2000000,
                   "discountedRate":2353000,
                   "cardRate":2768000,
-                  "description":"Open fronted
- hut or cubicle having ads placed on them.",
+                  "description":"Open fronted hut or cubicle having ads placed on them.",
                   "imageUrl":"/images/mediaOptions/airport/Kiosk.png"
                }
             },
             "centralConcourse":{
                "mediaOption1":{
                   "showName":"Insertion-Full Page",
-                  "imageUrl":"/images/mediaOptions/airport/rightarrow12
-.png",
+                  "imageUrl":"/images/mediaOptions/airport/rightarrow12.png",
                   "minimumQtyUnit1":23250,
                   "vendorRate":2.15,
                   "discountedRate":2.4,
@@ -1802,8 +1633,7 @@
                   "discountedRate":2.4,
                   "cardRate":2.5,
                   "pricingUnit1":"Insert",
-                  "description":"Pamplets
- or flyers placed inside the newspapers available in Airport"
+                  "description":"Pamplets or flyers placed inside the newspapers available in Airport"
                },
                "mediaOption3":{
                   "showName":"Insertion-A4",
@@ -1813,8 +1643,7 @@
                   "discountedRate":1.7,
                   "cardRate":1.8,
                   "pricingUnit1":"Insert",
-                  "description":"Pamplets or flyers placed
- inside the newspapers available in Airport"
+                  "description":"Pamplets or flyers placed inside the newspapers available in Airport"
                },
                "mediaOption4":{
                   "showName":"Insertion-Quarter Page",
@@ -1824,15 +1653,13 @@
                   "discountedRate":1.4,
                   "cardRate":1.5,
                   "pricingUnit1":"Per Insert",
-                  "description":"Pamplets or flyers placed inside the newspapers
- available in Airport"
+                  "description":"Pamplets or flyers placed inside the newspapers available in Airport"
                }
             },
             "baggageArea":{
                "mediaOption1":{
                   "showName":"Luggage Trolley",
-                  "imageUrl":"/images
-/mediaOptions/airport/Trolley.png",
+                  "imageUrl":"/images/mediaOptions/airport/Trolley.png",
                   "minimumQtyUnit2":1,
                   "minimumQtyUnit1":500,
                   "vendorRate":867,
@@ -1840,13 +1667,11 @@
                   "cardRate":1200,
                   "pricingUnit2":"Month",
                   "pricingUnit1":"Trolley",
-                  "description":"Ad placed on the
- luggage trolley, 3 panels available."
+                  "description":"Ad placed on the luggage trolley, 3 panels available."
                }
             }
          },
-         "logo":"/images/medias/55f09bbf8ead0ec50c8b45b6/d6e62c08ae93bad789b0e8193c196f63
-.jpg",
+         "logo":"/images/medias/55f09bbf8ead0ec50c8b45b6/d6e62c08ae93bad789b0e8193c196f63.jpg",
          "views":1207,
          "serviceTaxPercentage":15,
          "cardRate":600000
@@ -1867,8 +1692,7 @@
          "mediaOptions":{
             "aerobridge":{
                "mediaOption1":{
-                  "description":"Ad is placed on a billboard located in aerobridge which covers arrival and departure
- area",
+                  "description":"Ad is placed on a billboard located in aerobridge which covers arrival and departure area",
                   "pricingUnit1":"Billboard",
                   "pricingUnit2":"Month",
                   "cardRate":90000,
@@ -1882,10 +1706,7 @@
             },
             "indigoTarmacCoach":{
                "mediaOption1":{
-                  "description":"Tarmac
- coaches ply between the terminal and the airline carrying passengers who want to board and off board
-. These coaches have the branding options on inside panels and grab handles. There are around 8 panel
- and 25-30 grabhandles per coach.",
+                  "description":"Tarmac coaches ply between the terminal and the airline carrying passengers who want to board and off board. These coaches have the branding options on inside panels and grab handles. There are around 8 panel and 25-30 grabhandles per coach.",
                   "pricingUnit1":"Coach",
                   "pricingUnit2":"Month",
                   "cardRate":40000,
@@ -1893,15 +1714,13 @@
                   "vendorRate":32000,
                   "minimumQtyUnit1":5,
                   "minimumQtyUnit2":1,
-                  "imageUrl":"/images/mediaOptions/airport
-/Tarmac.png",
+                  "imageUrl":"/images/mediaOptions/airport/Tarmac.png",
                   "showName":"Internal Branding"
                }
             },
             "arrivalArea":{
                "mediaOption1":{
-                  "description":"Ads are pasted
- on billboards located in the airport arrival first floor",
+                  "description":"Ads are pasted on billboards located in the airport arrival first floor",
                   "pricingUnit1":"Billboard",
                   "pricingUnit2":"Month",
                   "cardRate":80000,
@@ -1922,12 +1741,10 @@
                   "minimumQtyUnit1":1,
                   "minimumQtyUnit2":1,
                   "imageUrl":"/images/mediaOptions/airport/Billboard.png",
-                  "showName":"Billboard
- - 6 x 3 ft"
+                  "showName":"Billboard - 6 x 3 ft"
                },
                "mediaOption3":{
-                  "description":"Ad is placed on a light box which is located in arrival
- gate",
+                  "description":"Ad is placed on a light box which is located in arrival gate",
                   "pricingUnit1":"Light Box",
                   "pricingUnit2":"Month",
                   "cardRate":90000,
@@ -1941,8 +1758,7 @@
             },
             "baggageArea":{
                "mediaOption1":{
-                  "description":"Ad is placed on a
- back lit billboard and is located in the luggage area.",
+                  "description":"Ad is placed on a back lit billboard and is located in the luggage area.",
                   "pricingUnit1":"Billboard",
                   "pricingUnit2":"Month",
                   "cardRate":130000,
@@ -1956,8 +1772,7 @@
             },
             "departureArea":{
                "mediaOption1":{
-                  "description":"Ad is placed on a light box which is located in exit
- gate",
+                  "description":"Ad is placed on a light box which is located in exit gate",
                   "pricingUnit1":"Light Box",
                   "pricingUnit2":"Month",
                   "cardRate":150000,
@@ -1969,8 +1784,7 @@
                   "showName":"Light Box - 12 x 4 ft"
                },
                "mediaOption2":{
-                  "description":"Ad is placed on a light box located
- above departure entry gate",
+                  "description":"Ad is placed on a light box located above departure entry gate",
                   "pricingUnit1":"Light Box",
                   "pricingUnit2":"Month",
                   "cardRate":90000,
@@ -1978,13 +1792,11 @@
                   "vendorRate":72000,
                   "minimumQtyUnit1":1,
                   "minimumQtyUnit2":1,
-                  "imageUrl":"/images/mediaOptions/airport
-/LightBox.png",
+                  "imageUrl":"/images/mediaOptions/airport/LightBox.png",
                   "showName":"Light Box - 6 x 4 ft"
                },
                "mediaOption3":{
-                  "description":"Ad is placed on a billboard
- located above airlines boarding counter",
+                  "description":"Ad is placed on a billboard located above airlines boarding counter",
                   "pricingUnit1":"Billboard",
                   "pricingUnit2":"Month",
                   "cardRate":140000,
@@ -2019,8 +1831,7 @@
                   "minimumQtyUnit1":1,
                   "minimumQtyUnit2":1,
                   "imageUrl":"/images/mediaOptions/airport/Back Lit.png",
-                  "showName":"Back Lit Signage
- - 6 x 3 ft"
+                  "showName":"Back Lit Signage - 6 x 3 ft"
                }
             }
          },
@@ -2045,8 +1856,7 @@
          "mediaOptions":{
             "arrivalArea":{
                "mediaOption2":{
-                  "description":"3 x 7 ft Standee Placed at the Arrival Lounge near the
- Exit.",
+                  "description":"3 x 7 ft Standee Placed at the Arrival Lounge near the Exit.",
                   "pricingUnit1":"Standee",
                   "pricingUnit2":"Month",
                   "cardRate":75000,
@@ -2060,8 +1870,7 @@
             },
             "securityArea":{
                "mediaOption1":{
-                  "description":"6 x 12 ft Back Lit
- Wall Mount Unit Placed at the Security Hold Area.",
+                  "description":"6 x 12 ft Back Lit Wall Mount Unit Placed at the Security Hold Area.",
                   "pricingUnit1":"Wall Mount",
                   "pricingUnit2":"Month",
                   "cardRate":65000,
@@ -2084,12 +1893,10 @@
                   "minimumQtyUnit1":1,
                   "minimumQtyUnit2":1,
                   "imageUrl":"/images/mediaOptions/airport/Back Lit.png",
-                  "showName":"Back Lit Wall
- Mount Unit - 12 x 6 ft"
+                  "showName":"Back Lit Wall Mount Unit - 12 x 6 ft"
                },
                "mediaOption2":{
-                  "description":"6 x 12 ft Back Lit Wall Signage Places at the
- Domestic Arrival.",
+                  "description":"6 x 12 ft Back Lit Wall Signage Places at the Domestic Arrival.",
                   "pricingUnit1":"Signage",
                   "pricingUnit2":"Month",
                   "cardRate":130000,
@@ -2097,8 +1904,7 @@
                   "vendorRate":104000,
                   "minimumQtyUnit1":1,
                   "minimumQtyUnit2":1,
-                  "imageUrl":"/images/mediaOptions
-/airport/Back Lit.png",
+                  "imageUrl":"/images/mediaOptions/airport/Back Lit.png",
                   "showName":"Back Lit Wall Signage - 6 x 12 ft"
                }
             },
@@ -2125,8 +1931,7 @@
       {
          "_id":"55f09bbf8ead0ec50c8b45c4",
          "category":"Airport Lounge",
-         "name":"Airport
- Lounge - Port, Vadodara",
+         "name":"Airport Lounge - Port, Vadodara",
          "urlSlug":"airport-lounge-port-vadodara-advertising",
          "geography":[
             "56bb16348ead0e810d8b4585"
@@ -2140,20 +1945,17 @@
             "regularOptions":{
                "mediaOption1":{
                   "showName":"Tent Card",
-                  "description":"A triangular card with printing on either side mounted on a stand
- in the lounge area. 35-40 cards to be placed on each lounge.",
+                  "description":"A triangular card with printing on either side mounted on a stand in the lounge area. 35-40 cards to be placed on each lounge.",
                   "pricingUnit1":"Month",
                   "cardRate":325000,
                   "discountedRate":250000,
                   "vendorRate":225000,
                   "minimumQtyUnit1":1,
-                  "imageUrl":"/images/mediaOptions/airport
-/Tent Card.png"
+                  "imageUrl":"/images/mediaOptions/airport/Tent Card.png"
                },
                "mediaOption2":{
                   "showName":"Newspaper Rack",
-                  "description":"Ad placed on Newspaper Racks
- which have a built-in Back Lit display",
+                  "description":"Ad placed on Newspaper Racks which have a built-in Back Lit display",
                   "pricingUnit1":"Month",
                   "cardRate":300000,
                   "discountedRate":222000,
@@ -2163,8 +1965,7 @@
                },
                "mediaOption3":{
                   "showName":"Newspaper Jacket",
-                  "description":"An additional paper containing ads is
- placed over the newspaper. There are usually 200-300 newspapers placed on every lounge",
+                  "description":"An additional paper containing ads is placed over the newspaper. There are usually 200-300 newspapers placed on every lounge",
                   "pricingUnit1":"Month",
                   "cardRate":275000,
                   "discountedRate":232000,
@@ -2180,13 +1981,11 @@
                   "discountedRate":7,
                   "vendorRate":6,
                   "minimumQtyUnit1":30000,
-                  "imageUrl":"/images/mediaOptions
-/airport/Sampling.png"
+                  "imageUrl":"/images/mediaOptions/airport/Sampling.png"
                },
                "mediaOption5":{
                   "showName":"Product Display",
-                  "description":"A place alloted for
- displaying the advertiser product .",
+                  "description":"A place alloted for displaying the advertiser product .",
                   "pricingUnit1":"Month",
                   "cardRate":325000,
                   "discountedRate":274000,
@@ -2196,8 +1995,7 @@
                },
                "mediaOption6":{
                   "showName":"Mobile laptop Charging unit",
-                  "description":"Ad placed to showcase the brand
- ,along with providing a highly needed service",
+                  "description":"Ad placed to showcase the brand ,along with providing a highly needed service",
                   "pricingUnit1":"Charging Unit",
                   "pricingUnit2":"Month",
                   "cardRate":125000,
@@ -2209,8 +2007,7 @@
                }
             }
          },
-         "logo":"/images/medias
-/55f09bbf8ead0ec50c8b45c4/55f09bbf8ead0ec50c8b45c4.jpg",
+         "logo":"/images/medias/55f09bbf8ead0ec50c8b45c4/55f09bbf8ead0ec50c8b45c4.jpg",
          "views":912,
          "serviceTaxPercentage":15,
          "cardRate":325000

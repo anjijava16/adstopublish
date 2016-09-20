@@ -5,8 +5,7 @@
          "_id":"55e75c4a8ead0e8f2a8b652e",
          "type":"onScreen",
          "isSingleScreen":false,
-         "theatreName":"Brookfields
- Mall",
+         "theatreName":"Brookfields Mall",
          "mediaOptions":{
             "regularOptions":{
                "10SecMuteSlide":{
@@ -25,8 +24,7 @@
                   "cardRate":9000,
                   "discountedRate":7412,
                   "vendorRate":6300,
-                  "imageUrl":"/images/mediaOptions
-/cinema/30SecVideo.png"
+                  "imageUrl":"/images/mediaOptions/cinema/30SecVideo.png"
                },
                "60SecVideo":{
                   "cardRate":9000,
@@ -40,19 +38,16 @@
          "views":412,
          "uniqueId":6185,
          "serviceTaxPercentage":15,
-         "logo":"/images/medias/55e75c4a8ead0e8f2a8b652e
-/55e75c4a8ead0e8f2a8b652e.jpg",
+         "logo":"/images/medias/55e75c4a8ead0e8f2a8b652e/55e75c4a8ead0e8f2a8b652e.jpg",
          "cinemaChain":"Sathyam Cinemas",
          "seats":184,
-         "mallName":"Sathyam Cinemas
-, Brookfields Mall, Coimbatore",
+         "mallName":"Sathyam Cinemas, Brookfields Mall, Coimbatore",
          "attributes":{
             "screenNumber":{
                "value":"Screen 4"
             },
             "seats":{
-               "value":"184
- seats"
+               "value":"184 seats"
             },
             "mediaOption":{
                "value":"10sec mute slide"
@@ -65,8 +60,7 @@
          "city":"Coimbatore",
          "state":"Tamil Nadu",
          "locality":"Sukkirawarapettai",
-         "name":"Brookfields Mall, Coimbatore
-,Tamil Nadu"
+         "name":"Brookfields Mall, Coimbatore,Tamil Nadu"
       },
       {
          "_id":"55e75c458ead0e8f2a8b4ccb",
@@ -85,15 +79,13 @@
                   "cardRate":425,
                   "discountedRate":331,
                   "vendorRate":298,
-                  "imageUrl":"/images/mediaOptions/cinema/10SecAudioSlide
-.png"
+                  "imageUrl":"/images/mediaOptions/cinema/10SecAudioSlide.png"
                },
                "30SecVideo":{
                   "cardRate":1275,
                   "discountedRate":992,
                   "vendorRate":893,
-                  "imageUrl":"/images/mediaOptions
-/cinema/30SecVideo.png"
+                  "imageUrl":"/images/mediaOptions/cinema/30SecVideo.png"
                },
                "60SecVideo":{
                   "cardRate":2550,
@@ -106,13 +98,11 @@
          "urlSlug":"pvr-rama-magneto-the-mall-bilaspur-cgh-1370-onscreen-advertising",
          "views":401,
          "uniqueId":1370,
-         "logo":"/images/medias/55e75c458ead0e8f2a8b4ccb/55e75c458ead0e8f2a8b4ccb
-.jpg",
+         "logo":"/images/medias/55e75c458ead0e8f2a8b4ccb/55e75c458ead0e8f2a8b4ccb.jpg",
          "serviceTaxPercentage":15,
          "cinemaChain":"PVR",
          "seats":169,
-         "mallName":"PVR, Rama Magneto The Mall
-, Bilaspur(CGH)",
+         "mallName":"PVR, Rama Magneto The Mall, Bilaspur(CGH)",
          "attributes":{
             "screenNumber":{
                "value":"Screen 2"
@@ -128,8 +118,7 @@
             }
          },
          "cardRate":425,
-         "city":"Bilaspur(CGH
-)",
+         "city":"Bilaspur(CGH)",
          "state":"Chattisgarh",
          "locality":"Bilaspur",
          "name":"Rama Magneto The Mall, Bilaspur(CGH),Chattisgarh"
@@ -138,8 +127,7 @@
          "_id":"55e75c458ead0e8f2a8b4ccd",
          "type":"onScreen",
          "isSingleScreen":false,
-         "theatreName":"Rama Magneto
- The Mall",
+         "theatreName":"Rama Magneto The Mall",
          "mediaOptions":{
             "regularOptions":{
                "10SecMuteSlide":{
@@ -164,21 +152,18 @@
                   "cardRate":3090,
                   "discountedRate":2404,
                   "vendorRate":2163,
-                  "imageUrl":"/images/mediaOptions
-/cinema/60SecVideo.png"
+                  "imageUrl":"/images/mediaOptions/cinema/60SecVideo.png"
                }
             }
          },
          "urlSlug":"pvr-rama-magneto-the-mall-bilaspur-cgh-1372-onscreen-advertising",
          "views":332,
          "uniqueId":1372,
-         "logo":"/images/medias/55e75c458ead0e8f2a8b4ccd/55e75c458ead0e8f2a8b4ccd
-.jpg",
+         "logo":"/images/medias/55e75c458ead0e8f2a8b4ccd/55e75c458ead0e8f2a8b4ccd.jpg",
          "serviceTaxPercentage":15,
          "cinemaChain":"PVR",
          "seats":223,
-         "mallName":"PVR, Rama Magneto The Mall
-, Bilaspur(CGH)",
+         "mallName":"PVR, Rama Magneto The Mall, Bilaspur(CGH)",
          "attributes":{
             "screenNumber":{
                "value":"Screen 4"
@@ -194,8 +179,7 @@
             }
          },
          "cardRate":515,
-         "city":"Bilaspur(CGH
-)",
+         "city":"Bilaspur(CGH)",
          "state":"Chattisgarh",
          "locality":"Bilaspur",
          "name":"Rama Magneto The Mall, Bilaspur(CGH),Chattisgarh"
@@ -204,8 +188,7 @@
          "_id":"55e75c4a8ead0e8f2a8b6328",
          "type":"onScreen",
          "isSingleScreen":false,
-         "theatreName":"Inox Indira
- Vihar",
+         "theatreName":"Inox Indira Vihar",
          "mediaOptions":{
             "regularOptions":{
                "10SecMuteSlide":{
@@ -224,8 +207,7 @@
                   "cardRate":3105,
                   "discountedRate":2195,
                   "vendorRate":2019,
-                  "imageUrl":"/images/mediaOptions
-/cinema/30SecVideo.png"
+                  "imageUrl":"/images/mediaOptions/cinema/30SecVideo.png"
                },
                "60SecVideo":{
                   "cardRate":6210,
@@ -238,13 +220,11 @@
          "urlSlug":"inox-inox-indira-vihar-kota-5791-onscreen-advertising",
          "views":319,
          "uniqueId":5791,
-         "logo":"/images/medias/55e75c4a8ead0e8f2a8b6328/55e75c4a8ead0e8f2a8b6328
-.jpg",
+         "logo":"/images/medias/55e75c4a8ead0e8f2a8b6328/55e75c4a8ead0e8f2a8b6328.jpg",
          "serviceTaxPercentage":15,
          "cinemaChain":"Inox",
          "seats":476,
-         "mallName":"Inox, Mahaveer Nagar Kota
-, Kota",
+         "mallName":"Inox, Mahaveer Nagar Kota, Kota",
          "attributes":{
             "screenNumber":{
                "value":"Screen 2"
@@ -276,8 +256,7 @@
                   "cardRate":1050,
                   "discountedRate":817,
                   "vendorRate":735,
-                  "imageUrl":"/images/mediaOptions
-/cinema/10SecMuteSlide.png"
+                  "imageUrl":"/images/mediaOptions/cinema/10SecMuteSlide.png"
                },
                "10SecAudioSlide":{
                   "cardRate":1050,
@@ -338,15 +317,13 @@
                   "cardRate":2032,
                   "discountedRate":1547,
                   "vendorRate":1423,
-                  "imageUrl":"/images/mediaOptions/cinema/10SecMuteSlide
-.png"
+                  "imageUrl":"/images/mediaOptions/cinema/10SecMuteSlide.png"
                },
                "10SecAudioSlide":{
                   "cardRate":2032,
                   "discountedRate":1547,
                   "vendorRate":1423,
-                  "imageUrl":"/images
-/mediaOptions/cinema/10SecAudioSlide.png"
+                  "imageUrl":"/images/mediaOptions/cinema/10SecAudioSlide.png"
                },
                "30SecVideo":{
                   "cardRate":6095,
@@ -365,13 +342,11 @@
          "urlSlug":"inox-bmc-bhawani-mall-bhubaneswar-5295-onscreen-advertising",
          "views":302,
          "uniqueId":5295,
-         "logo":"/images/medias/55e75c498ead0e8f2a8b609f/55e75c498ead0e8f2a8b609f
-.jpg",
+         "logo":"/images/medias/55e75c498ead0e8f2a8b609f/55e75c498ead0e8f2a8b609f.jpg",
          "serviceTaxPercentage":15,
          "cinemaChain":"Inox",
          "seats":437,
-         "mallName":"Inox, BMC Bhawani Mall,
- Bhubaneswar",
+         "mallName":"Inox, BMC Bhawani Mall, Bhubaneswar",
          "attributes":{
             "screenNumber":{
                "value":"Screen 1"
@@ -403,8 +378,7 @@
                   "cardRate":7480,
                   "discountedRate":5818,
                   "vendorRate":5236,
-                  "imageUrl":"/images/mediaOptions
-/cinema/10SecMuteSlide.png"
+                  "imageUrl":"/images/mediaOptions/cinema/10SecMuteSlide.png"
                },
                "10SecAudioSlide":{
                   "cardRate":7480,
@@ -436,8 +410,7 @@
          "mallName":"PVR, Forum Mall, Bangalore",
          "attributes":{
             "screenNumber":{
-               "value":"Screen
- 1"
+               "value":"Screen 1"
             },
             "seats":{
                "value":"347 seats"
@@ -472,8 +445,7 @@
                   "cardRate":833,
                   "discountedRate":635,
                   "vendorRate":584,
-                  "imageUrl":"/images/mediaOptions
-/cinema/10SecAudioSlide.png"
+                  "imageUrl":"/images/mediaOptions/cinema/10SecAudioSlide.png"
                },
                "30SecVideo":{
                   "cardRate":2500,
@@ -492,13 +464,11 @@
          "urlSlug":"carnival-cinemas-mangal-city-mall-indore-4025-onscreen-advertising",
          "views":281,
          "uniqueId":4025,
-         "logo":"/images/medias/55e75c488ead0e8f2a8b5a54/55e75c488ead0e8f2a8b5a54
-.jpg",
+         "logo":"/images/medias/55e75c488ead0e8f2a8b5a54/55e75c488ead0e8f2a8b5a54.jpg",
          "serviceTaxPercentage":15,
          "cinemaChain":"Carnival Cinemas",
          "seats":209,
-         "mallName":"Carnival Cinemas
-, Mangal City Mall, Indore",
+         "mallName":"Carnival Cinemas, Mangal City Mall, Indore",
          "attributes":{
             "screenNumber":{
                "value":"Screen 1"
@@ -517,15 +487,13 @@
          "city":"Indore",
          "state":"Madhya Pradesh",
          "locality":"Indore DDU Nagar",
-         "name":"Mangal City Mall, Indore,Madhya
- Pradesh"
+         "name":"Mangal City Mall, Indore,Madhya Pradesh"
       },
       {
          "_id":"55e75c458ead0e8f2a8b4ef3",
          "type":"onScreen",
          "isSingleScreen":false,
-         "theatreName":"Alpha
- One Mall",
+         "theatreName":"Alpha One Mall",
          "mediaOptions":{
             "regularOptions":{
                "10SecMuteSlide":{
@@ -538,15 +506,13 @@
                   "cardRate":1600,
                   "discountedRate":1245,
                   "vendorRate":1120,
-                  "imageUrl":"/images/mediaOptions/cinema/10SecAudioSlide
-.png"
+                  "imageUrl":"/images/mediaOptions/cinema/10SecAudioSlide.png"
                },
                "30SecVideo":{
                   "cardRate":4800,
                   "discountedRate":3734,
                   "vendorRate":3360,
-                  "imageUrl":"/images/mediaOptions
-/cinema/30SecVideo.png"
+                  "imageUrl":"/images/mediaOptions/cinema/30SecVideo.png"
                },
                "60SecVideo":{
                   "cardRate":9600,
@@ -559,13 +525,11 @@
          "urlSlug":"cinepolis-alpha-one-mall-ahmedabad-1823-onscreen-advertising",
          "views":275,
          "uniqueId":1823,
-         "logo":"/images/medias/55e75c458ead0e8f2a8b4ef3/55e75c458ead0e8f2a8b4ef3
-.jpg",
+         "logo":"/images/medias/55e75c458ead0e8f2a8b4ef3/55e75c458ead0e8f2a8b4ef3.jpg",
          "serviceTaxPercentage":15,
          "cinemaChain":"Cinepolis",
          "seats":148,
-         "mallName":"Cinepolis, Alpha One
- Mall, Ahmedabad",
+         "mallName":"Cinepolis, Alpha One Mall, Ahmedabad",
          "attributes":{
             "screenNumber":{
                "value":"Screen 3"
@@ -597,8 +561,7 @@
                   "cardRate":690,
                   "discountedRate":489,
                   "vendorRate":449,
-                  "imageUrl":"/images/mediaOptions
-/cinema/10SecMuteSlide.png"
+                  "imageUrl":"/images/mediaOptions/cinema/10SecMuteSlide.png"
                },
                "10SecAudioSlide":{
                   "cardRate":690,
@@ -659,15 +622,13 @@
                   "cardRate":1917,
                   "discountedRate":1459,
                   "vendorRate":1342,
-                  "imageUrl":"/images/mediaOptions/cinema/10SecMuteSlide
-.png"
+                  "imageUrl":"/images/mediaOptions/cinema/10SecMuteSlide.png"
                },
                "10SecAudioSlide":{
                   "cardRate":1917,
                   "discountedRate":1459,
                   "vendorRate":1342,
-                  "imageUrl":"/images
-/mediaOptions/cinema/10SecAudioSlide.png"
+                  "imageUrl":"/images/mediaOptions/cinema/10SecAudioSlide.png"
                },
                "30SecVideo":{
                   "cardRate":5750,
@@ -686,8 +647,7 @@
          "urlSlug":"inox-forum-value-mall-bangalore-2741-onscreen-advertising",
          "views":264,
          "uniqueId":2741,
-         "logo":"/images/medias/55e75c468ead0e8f2a8b5388/55e75c468ead0e8f2a8b5388
-.jpg",
+         "logo":"/images/medias/55e75c468ead0e8f2a8b5388/55e75c468ead0e8f2a8b5388.jpg",
          "serviceTaxPercentage":15,
          "cinemaChain":"Inox",
          "seats":51,
@@ -723,8 +683,7 @@
                   "cardRate":1820,
                   "discountedRate":1416,
                   "vendorRate":1274,
-                  "imageUrl":"/images/mediaOptions
-/cinema/10SecMuteSlide.png"
+                  "imageUrl":"/images/mediaOptions/cinema/10SecMuteSlide.png"
                },
                "10SecAudioSlide":{
                   "cardRate":1820,
@@ -762,8 +721,7 @@
                "value":"224 seats"
             },
             "mediaOption":{
-               "value":"10sec mute
- slide"
+               "value":"10sec mute slide"
             },
             "pricingUnit":{
                "value":"per week"
@@ -786,8 +744,7 @@
                   "cardRate":1650,
                   "discountedRate":1284,
                   "vendorRate":1155,
-                  "imageUrl":"/images/mediaOptions
-/cinema/10SecMuteSlide.png"
+                  "imageUrl":"/images/mediaOptions/cinema/10SecMuteSlide.png"
                },
                "10SecAudioSlide":{
                   "cardRate":1650,
@@ -854,8 +811,7 @@
                   "cardRate":1200,
                   "discountedRate":934,
                   "vendorRate":840,
-                  "imageUrl":"/images/mediaOptions
-/cinema/10SecAudioSlide.png"
+                  "imageUrl":"/images/mediaOptions/cinema/10SecAudioSlide.png"
                },
                "30SecVideo":{
                   "cardRate":3600,
@@ -874,13 +830,11 @@
          "urlSlug":"pvr-phoenix-market-city-pune-5016-onscreen-advertising",
          "views":250,
          "uniqueId":5016,
-         "logo":"/images/medias/55e75c498ead0e8f2a8b5f22/55e75c498ead0e8f2a8b5f22
-.jpg",
+         "logo":"/images/medias/55e75c498ead0e8f2a8b5f22/55e75c498ead0e8f2a8b5f22.jpg",
          "serviceTaxPercentage":15,
          "cinemaChain":"PVR",
          "seats":46,
-         "mallName":"PVR, Phoenix Market City,
- Pune",
+         "mallName":"PVR, Phoenix Market City, Pune",
          "attributes":{
             "screenNumber":{
                "value":"Screen 8"
@@ -912,8 +866,7 @@
                   "cardRate":2465,
                   "discountedRate":1876,
                   "vendorRate":1726,
-                  "imageUrl":"/images/mediaOptions
-/cinema/10SecMuteSlide.png"
+                  "imageUrl":"/images/mediaOptions/cinema/10SecMuteSlide.png"
                },
                "10SecAudioSlide":{
                   "cardRate":2465,
@@ -959,8 +912,7 @@
          },
          "cardRate":2465,
          "city":"Ghaziabad",
-         "state":"Uttar
- Pradesh",
+         "state":"Uttar Pradesh",
          "locality":"Kaushambi",
          "name":"Euro Park Mall, Ghaziabad,Uttar Pradesh"
       },
@@ -975,8 +927,7 @@
                   "cardRate":3374,
                   "discountedRate":2752,
                   "vendorRate":2531,
-                  "imageUrl":"/images/mediaOptions
-/cinema/10SecMuteSlide.png"
+                  "imageUrl":"/images/mediaOptions/cinema/10SecMuteSlide.png"
                },
                "10SecAudioSlide":{
                   "cardRate":3374,
@@ -1043,15 +994,13 @@
                   "cardRate":1160,
                   "discountedRate":903,
                   "vendorRate":812,
-                  "imageUrl":"/images/mediaOptions/cinema/10SecAudioSlide
-.png"
+                  "imageUrl":"/images/mediaOptions/cinema/10SecAudioSlide.png"
                },
                "30SecVideo":{
                   "cardRate":3480,
                   "discountedRate":2707,
                   "vendorRate":2436,
-                  "imageUrl":"/images/mediaOptions
-/cinema/30SecVideo.png"
+                  "imageUrl":"/images/mediaOptions/cinema/30SecVideo.png"
                },
                "60SecVideo":{
                   "cardRate":6960,
@@ -1064,8 +1013,7 @@
          "urlSlug":"pvr-lulu-mall-kochi-3595-onscreen-advertising",
          "views":244,
          "uniqueId":3595,
-         "logo":"/images/medias/55e75c478ead0e8f2a8b57fd/55e75c478ead0e8f2a8b57fd
-.jpg",
+         "logo":"/images/medias/55e75c478ead0e8f2a8b57fd/55e75c478ead0e8f2a8b57fd.jpg",
          "serviceTaxPercentage":15,
          "cinemaChain":"PVR",
          "seats":167,
@@ -1078,8 +1026,7 @@
                "value":"167 seats"
             },
             "mediaOption":{
-               "value":"10sec mute
- slide"
+               "value":"10sec mute slide"
             },
             "pricingUnit":{
                "value":"per week"
@@ -1102,15 +1049,13 @@
                   "cardRate":5100,
                   "discountedRate":3967,
                   "vendorRate":3570,
-                  "imageUrl":"/images/mediaOptions/cinema/10SecMuteSlide
-.png"
+                  "imageUrl":"/images/mediaOptions/cinema/10SecMuteSlide.png"
                },
                "10SecAudioSlide":{
                   "cardRate":5100,
                   "discountedRate":3967,
                   "vendorRate":3570,
-                  "imageUrl":"/images
-/mediaOptions/cinema/10SecAudioSlide.png"
+                  "imageUrl":"/images/mediaOptions/cinema/10SecAudioSlide.png"
                },
                "30SecVideo":{
                   "cardRate":15300,
@@ -1129,8 +1074,7 @@
          "urlSlug":"pvr-ambience-mall-gurgaon-1726-onscreen-advertising",
          "views":244,
          "uniqueId":1726,
-         "logo":"/images/medias/55e75c458ead0e8f2a8b4e7e/55e75c458ead0e8f2a8b4e7e
-.jpg",
+         "logo":"/images/medias/55e75c458ead0e8f2a8b4e7e/55e75c458ead0e8f2a8b4e7e.jpg",
          "serviceTaxPercentage":15,
          "cinemaChain":"PVR",
          "seats":152,
@@ -1166,8 +1110,7 @@
                   "cardRate":345,
                   "discountedRate":245,
                   "vendorRate":225,
-                  "imageUrl":"/images/mediaOptions
-/cinema/10SecMuteSlide.png"
+                  "imageUrl":"/images/mediaOptions/cinema/10SecMuteSlide.png"
                },
                "10SecAudioSlide":{
                   "cardRate":345,
@@ -1199,8 +1142,7 @@
          "mallName":"Inox, City Pulse Mall, Anand",
          "attributes":{
             "screenNumber":{
-               "value":"Screen
- 3"
+               "value":"Screen 3"
             },
             "seats":{
                "value":"52 seats"
@@ -1209,16 +1151,14 @@
                "value":"10sec mute slide"
             },
             "pricingUnit":{
-               "value":"per
- week"
+               "value":"per week"
             }
          },
          "cardRate":345,
          "city":"Anand",
          "state":"Gujarat",
          "locality":"District Court",
-         "name":"City Pulse
- Mall, Anand,Gujarat"
+         "name":"City Pulse Mall, Anand,Gujarat"
       },
       {
          "_id":"55e75c4a8ead0e8f2a8b65ae",
@@ -1237,15 +1177,13 @@
                   "cardRate":750,
                   "discountedRate":652,
                   "vendorRate":600,
-                  "imageUrl":"/images/mediaOptions/cinema/10SecAudioSlide
-.png"
+                  "imageUrl":"/images/mediaOptions/cinema/10SecAudioSlide.png"
                },
                "30SecVideo":{
                   "cardRate":2250,
                   "discountedRate":1957,
                   "vendorRate":1800,
-                  "imageUrl":"/images/mediaOptions
-/cinema/30SecVideo.png"
+                  "imageUrl":"/images/mediaOptions/cinema/30SecVideo.png"
                },
                "60SecVideo":{
                   "cardRate":4500,
@@ -1258,8 +1196,7 @@
          "urlSlug":"single-screen-new-bombay-theatre-tirunelveli-6279-onscreen-advertising",
          "views":239,
          "uniqueId":6279,
-         "logo":"/images/medias/55e75c4a8ead0e8f2a8b65ae/55e75c4a8ead0e8f2a8b65ae
-.jpg",
+         "logo":"/images/medias/55e75c4a8ead0e8f2a8b65ae/55e75c4a8ead0e8f2a8b65ae.jpg",
          "serviceTaxPercentage":15,
          "cinemaChain":"Single Screen",
          "seats":504,
@@ -1294,15 +1231,13 @@
                   "cardRate":2833,
                   "discountedRate":2156,
                   "vendorRate":1984,
-                  "imageUrl":"/images/mediaOptions/cinema/10SecMuteSlide
-.png"
+                  "imageUrl":"/images/mediaOptions/cinema/10SecMuteSlide.png"
                },
                "10SecAudioSlide":{
                   "cardRate":2833,
                   "discountedRate":2156,
                   "vendorRate":1984,
-                  "imageUrl":"/images
-/mediaOptions/cinema/10SecAudioSlide.png"
+                  "imageUrl":"/images/mediaOptions/cinema/10SecAudioSlide.png"
                },
                "30SecVideo":{
                   "cardRate":8500,
@@ -1321,13 +1256,11 @@
          "urlSlug":"carnival-cinemas-annex-mall-mumbai-4539-onscreen-advertising",
          "views":234,
          "uniqueId":4539,
-         "logo":"/images/medias/55e75c488ead0e8f2a8b5d01/55e75c488ead0e8f2a8b5d01
-.jpg",
+         "logo":"/images/medias/55e75c488ead0e8f2a8b5d01/55e75c488ead0e8f2a8b5d01.jpg",
          "serviceTaxPercentage":15,
          "cinemaChain":"Carnival Cinemas",
          "seats":195,
-         "mallName":"Carnival Cinemas
-, Annex Mall, Mumbai",
+         "mallName":"Carnival Cinemas, Annex Mall, Mumbai",
          "attributes":{
             "screenNumber":{
                "value":"Screen 2"
@@ -1352,8 +1285,7 @@
          "_id":"55e75c488ead0e8f2a8b5b22",
          "type":"onScreen",
          "isSingleScreen":false,
-         "theatreName":"Treasure Bazaar
- Mall",
+         "theatreName":"Treasure Bazaar Mall",
          "mediaOptions":{
             "regularOptions":{
                "10SecMuteSlide":{
@@ -1378,8 +1310,7 @@
                   "cardRate":4347,
                   "discountedRate":3381,
                   "vendorRate":3043,
-                  "imageUrl":"/images/mediaOptions
-/cinema/60SecVideo.png"
+                  "imageUrl":"/images/mediaOptions/cinema/60SecVideo.png"
                }
             }
          },
@@ -1422,15 +1353,13 @@
                   "cardRate":2147,
                   "discountedRate":1634,
                   "vendorRate":1503,
-                  "imageUrl":"/images/mediaOptions/cinema/10SecMuteSlide
-.png"
+                  "imageUrl":"/images/mediaOptions/cinema/10SecMuteSlide.png"
                },
                "10SecAudioSlide":{
                   "cardRate":2147,
                   "discountedRate":1634,
                   "vendorRate":1503,
-                  "imageUrl":"/images
-/mediaOptions/cinema/10SecAudioSlide.png"
+                  "imageUrl":"/images/mediaOptions/cinema/10SecAudioSlide.png"
                },
                "30SecVideo":{
                   "cardRate":6440,
@@ -1449,8 +1378,7 @@
          "urlSlug":"inox-korum-mall-thane-4577-onscreen-advertising",
          "views":225,
          "uniqueId":4577,
-         "logo":"/images/medias/55e75c488ead0e8f2a8b5d2b/55e75c488ead0e8f2a8b5d2b
-.jpg",
+         "logo":"/images/medias/55e75c488ead0e8f2a8b5d2b/55e75c488ead0e8f2a8b5d2b.jpg",
          "serviceTaxPercentage":15,
          "cinemaChain":"Inox",
          "seats":200,
@@ -1486,8 +1414,7 @@
                   "cardRate":950,
                   "discountedRate":739,
                   "vendorRate":665,
-                  "imageUrl":"/images/mediaOptions
-/cinema/10SecMuteSlide.png"
+                  "imageUrl":"/images/mediaOptions/cinema/10SecMuteSlide.png"
                },
                "10SecAudioSlide":{
                   "cardRate":950,
@@ -1554,15 +1481,13 @@
                   "cardRate":857,
                   "discountedRate":706,
                   "vendorRate":600,
-                  "imageUrl":"/images/mediaOptions/cinema/10SecAudioSlide
-.png"
+                  "imageUrl":"/images/mediaOptions/cinema/10SecAudioSlide.png"
                },
                "30SecVideo":{
                   "cardRate":2571,
                   "discountedRate":2118,
                   "vendorRate":1800,
-                  "imageUrl":"/images/mediaOptions
-/cinema/30SecVideo.png"
+                  "imageUrl":"/images/mediaOptions/cinema/30SecVideo.png"
                },
                "60SecVideo":{
                   "cardRate":5143,
@@ -1575,8 +1500,7 @@
          "urlSlug":"single-screen-kesar-talkies-gurdaspur-5480-onscreen-advertising",
          "views":221,
          "uniqueId":5480,
-         "logo":"/images/medias/55e75c498ead0e8f2a8b61a1/55e75c498ead0e8f2a8b61a1
-.jpg",
+         "logo":"/images/medias/55e75c498ead0e8f2a8b61a1/55e75c498ead0e8f2a8b61a1.jpg",
          "serviceTaxPercentage":15,
          "cinemaChain":"Single Screen",
          "seats":{
@@ -1591,8 +1515,7 @@
                "value":"222 seats"
             },
             "mediaOption":{
-               "value":"10sec mute
- slide"
+               "value":"10sec mute slide"
             },
             "pricingUnit":{
                "value":"per week"
@@ -1615,8 +1538,7 @@
                   "cardRate":5823,
                   "discountedRate":4530,
                   "vendorRate":4077,
-                  "imageUrl":"/images/mediaOptions
-/cinema/10SecMuteSlide.png"
+                  "imageUrl":"/images/mediaOptions/cinema/10SecMuteSlide.png"
                },
                "10SecAudioSlide":{
                   "cardRate":5823,
@@ -1654,8 +1576,7 @@
                "value":"386 seats"
             },
             "mediaOption":{
-               "value":"10sec mute
- slide"
+               "value":"10sec mute slide"
             },
             "pricingUnit":{
                "value":"per week"
@@ -1678,8 +1599,7 @@
                   "cardRate":417,
                   "discountedRate":318,
                   "vendorRate":292,
-                  "imageUrl":"/images/mediaOptions
-/cinema/10SecMuteSlide.png"
+                  "imageUrl":"/images/mediaOptions/cinema/10SecMuteSlide.png"
                },
                "10SecAudioSlide":{
                   "cardRate":417,
@@ -1725,8 +1645,7 @@
          },
          "cardRate":417,
          "city":"Indore",
-         "state":"Madhya
- Pradesh",
+         "state":"Madhya Pradesh",
          "locality":"Indore DDU Nagar",
          "name":"Malhar Megha Mall, Indore,Madhya Pradesh"
       },
@@ -1741,8 +1660,7 @@
                   "cardRate":2500,
                   "discountedRate":1945,
                   "vendorRate":1750,
-                  "imageUrl":"/images/mediaOptions
-/cinema/10SecMuteSlide.png"
+                  "imageUrl":"/images/mediaOptions/cinema/10SecMuteSlide.png"
                },
                "10SecAudioSlide":{
                   "cardRate":2500,
@@ -1774,8 +1692,7 @@
          "mallName":"PVR, Fun City Mall, Delhi",
          "attributes":{
             "screenNumber":{
-               "value":"Screen
- 3"
+               "value":"Screen 3"
             },
             "seats":{
                "value":"395 seats"
@@ -1791,8 +1708,7 @@
          "city":"Delhi",
          "state":"Delhi NCR",
          "locality":"Avantika",
-         "name":"Fun City
- Mall, Delhi,Delhi NCR"
+         "name":"Fun City Mall, Delhi,Delhi NCR"
       },
       {
          "_id":"55e75c468ead0e8f2a8b5230",
@@ -1811,15 +1727,13 @@
                   "cardRate":600,
                   "discountedRate":467,
                   "vendorRate":420,
-                  "imageUrl":"/images/mediaOptions/cinema/10SecAudioSlide
-.png"
+                  "imageUrl":"/images/mediaOptions/cinema/10SecAudioSlide.png"
                },
                "30SecVideo":{
                   "cardRate":1800,
                   "discountedRate":1400,
                   "vendorRate":1260,
-                  "imageUrl":"/images/mediaOptions
-/cinema/30SecVideo.png"
+                  "imageUrl":"/images/mediaOptions/cinema/30SecVideo.png"
                },
                "60SecVideo":{
                   "cardRate":3600,
@@ -1832,8 +1746,7 @@
          "urlSlug":"pvr-fun-city-mall-panipat-2487-onscreen-advertising",
          "views":208,
          "uniqueId":2487,
-         "logo":"/images/medias/55e75c468ead0e8f2a8b5230/55e75c468ead0e8f2a8b5230
-.jpg",
+         "logo":"/images/medias/55e75c468ead0e8f2a8b5230/55e75c468ead0e8f2a8b5230.jpg",
          "serviceTaxPercentage":15,
          "cinemaChain":"PVR",
          "seats":162,
@@ -1869,8 +1782,7 @@
                   "cardRate":1189,
                   "discountedRate":841,
                   "vendorRate":773,
-                  "imageUrl":"/images/mediaOptions
-/cinema/10SecMuteSlide.png"
+                  "imageUrl":"/images/mediaOptions/cinema/10SecMuteSlide.png"
                },
                "10SecAudioSlide":{
                   "cardRate":1189,
@@ -1937,15 +1849,13 @@
                   "cardRate":833,
                   "discountedRate":635,
                   "vendorRate":584,
-                  "imageUrl":"/images/mediaOptions/cinema/10SecAudioSlide
-.png"
+                  "imageUrl":"/images/mediaOptions/cinema/10SecAudioSlide.png"
                },
                "30SecVideo":{
                   "cardRate":2500,
                   "discountedRate":1903,
                   "vendorRate":1750,
-                  "imageUrl":"/images/mediaOptions
-/cinema/30SecVideo.png"
+                  "imageUrl":"/images/mediaOptions/cinema/30SecVideo.png"
                },
                "60SecVideo":{
                   "cardRate":5000,
@@ -1958,13 +1868,11 @@
          "urlSlug":"carnival-cinemas-city-mall-bilaspur-cgh-1373-onscreen-advertising",
          "views":205,
          "uniqueId":1373,
-         "logo":"/images/medias/55e75c458ead0e8f2a8b4cce/55e75c458ead0e8f2a8b4cce
-.jpg",
+         "logo":"/images/medias/55e75c458ead0e8f2a8b4cce/55e75c458ead0e8f2a8b4cce.jpg",
          "serviceTaxPercentage":15,
          "cinemaChain":"Carnival Cinemas",
          "seats":171,
-         "mallName":"Carnival Cinemas
-, City Mall, Bilaspur(CGH)",
+         "mallName":"Carnival Cinemas, City Mall, Bilaspur(CGH)",
          "attributes":{
             "screenNumber":{
                "value":"Screen 1"
@@ -2014,8 +1922,7 @@
                   "cardRate":2975,
                   "discountedRate":2450,
                   "vendorRate":2083,
-                  "imageUrl":"/images/mediaOptions
-/cinema/60SecVideo.png"
+                  "imageUrl":"/images/mediaOptions/cinema/60SecVideo.png"
                }
             }
          },
@@ -2035,8 +1942,7 @@
                "value":"251 seats"
             },
             "mediaOption":{
-               "value":"10sec mute
- slide"
+               "value":"10sec mute slide"
             },
             "pricingUnit":{
                "value":"per week"
@@ -2059,8 +1965,7 @@
                   "cardRate":345,
                   "discountedRate":245,
                   "vendorRate":225,
-                  "imageUrl":"/images/mediaOptions
-/cinema/10SecMuteSlide.png"
+                  "imageUrl":"/images/mediaOptions/cinema/10SecMuteSlide.png"
                },
                "10SecAudioSlide":{
                   "cardRate":345,
@@ -2092,8 +1997,7 @@
          "mallName":"Inox, Central Cinema, Manipal",
          "attributes":{
             "screenNumber":{
-               "value":"Screen
- 3"
+               "value":"Screen 3"
             },
             "seats":{
                "value":"98 seats"
@@ -2102,16 +2006,14 @@
                "value":"10sec mute slide"
             },
             "pricingUnit":{
-               "value":"per
- week"
+               "value":"per week"
             }
          },
          "cardRate":345,
          "city":"Manipal",
          "state":"Karnataka",
          "locality":"Manipal East",
-         "name":"Inox Manipal
-, Manipal,Karnataka"
+         "name":"Inox Manipal, Manipal,Karnataka"
       },
       {
          "_id":"55e75c498ead0e8f2a8b627b",
@@ -2130,15 +2032,13 @@
                   "cardRate":767,
                   "discountedRate":543,
                   "vendorRate":499,
-                  "imageUrl":"/images/mediaOptions/cinema/10SecAudioSlide
-.png"
+                  "imageUrl":"/images/mediaOptions/cinema/10SecAudioSlide.png"
                },
                "30SecVideo":{
                   "cardRate":2300,
                   "discountedRate":1625,
                   "vendorRate":1495,
-                  "imageUrl":"/images/mediaOptions
-/cinema/30SecVideo.png"
+                  "imageUrl":"/images/mediaOptions/cinema/30SecVideo.png"
                },
                "60SecVideo":{
                   "cardRate":4600,
@@ -2151,13 +2051,11 @@
          "urlSlug":"inox-city-center-mall-bhilwara-5659-onscreen-advertising",
          "views":198,
          "uniqueId":5659,
-         "logo":"/images/medias/55e75c498ead0e8f2a8b627b/55e75c498ead0e8f2a8b627b
-.jpg",
+         "logo":"/images/medias/55e75c498ead0e8f2a8b627b/55e75c498ead0e8f2a8b627b.jpg",
          "serviceTaxPercentage":15,
          "cinemaChain":"Inox",
          "seats":125,
-         "mallName":"Inox, City Center Mall,
- Bhilwara",
+         "mallName":"Inox, City Center Mall, Bhilwara",
          "attributes":{
             "screenNumber":{
                "value":"Screen 2"
@@ -2189,8 +2087,7 @@
                   "cardRate":1380,
                   "discountedRate":975,
                   "vendorRate":897,
-                  "imageUrl":"/images/mediaOptions
-/cinema/10SecMuteSlide.png"
+                  "imageUrl":"/images/mediaOptions/cinema/10SecMuteSlide.png"
                },
                "10SecAudioSlide":{
                   "cardRate":1380,
@@ -2222,8 +2119,7 @@
          "mallName":"Inox, Devi Nagar, Chandigarh",
          "attributes":{
             "screenNumber":{
-               "value":"Screen
- 2"
+               "value":"Screen 2"
             },
             "seats":{
                "value":"176 seats"
@@ -2239,8 +2135,7 @@
          "city":"Panchkula",
          "state":"Haryana",
          "locality":"Devi Nagar",
-         "name":"Inox
- Shalimar, Panchkula,Haryana"
+         "name":"Inox Shalimar, Panchkula,Haryana"
       },
       {
          "_id":"55e75c468ead0e8f2a8b4fe3",
@@ -2259,15 +2154,13 @@
                   "cardRate":595,
                   "discountedRate":490,
                   "vendorRate":417,
-                  "imageUrl":"/images/mediaOptions/cinema/10SecAudioSlide
-.png"
+                  "imageUrl":"/images/mediaOptions/cinema/10SecAudioSlide.png"
                },
                "30SecVideo":{
                   "cardRate":1785,
                   "discountedRate":1470,
                   "vendorRate":1250,
-                  "imageUrl":"/images/mediaOptions
-/cinema/30SecVideo.png"
+                  "imageUrl":"/images/mediaOptions/cinema/30SecVideo.png"
                },
                "60SecVideo":{
                   "cardRate":2975,
@@ -2280,13 +2173,11 @@
          "urlSlug":"om-cineplex-om-cineplex-gandhidham-2010-onscreen-advertising",
          "views":194,
          "uniqueId":2010,
-         "logo":"/images/medias/55e75c468ead0e8f2a8b4fe3/55e75c468ead0e8f2a8b4fe3
-.jpg",
+         "logo":"/images/medias/55e75c468ead0e8f2a8b4fe3/55e75c468ead0e8f2a8b4fe3.jpg",
          "serviceTaxPercentage":15,
          "cinemaChain":"OM Cineplex",
          "seats":240,
-         "mallName":"OM Cineplex, Gandhidham
-, Gandhidham",
+         "mallName":"OM Cineplex, Gandhidham, Gandhidham",
          "attributes":{
             "screenNumber":{
                "value":"Screen 2"
@@ -2311,8 +2202,7 @@
          "_id":"55e75c488ead0e8f2a8b5d49",
          "type":"onScreen",
          "isSingleScreen":false,
-         "theatreName":"Vishnu Shivam
- Mall",
+         "theatreName":"Vishnu Shivam Mall",
          "mediaOptions":{
             "regularOptions":{
                "10SecMuteSlide":{
@@ -2331,8 +2221,7 @@
                   "cardRate":8000,
                   "discountedRate":6087,
                   "vendorRate":5600,
-                  "imageUrl":"/images/mediaOptions
-/cinema/30SecVideo.png"
+                  "imageUrl":"/images/mediaOptions/cinema/30SecVideo.png"
                },
                "60SecVideo":{
                   "cardRate":16000,
@@ -2345,13 +2234,11 @@
          "urlSlug":"inox-vishnu-shivam-mall-mumbai-4604-onscreen-advertising",
          "views":191,
          "uniqueId":4604,
-         "logo":"/images/medias/55e75c488ead0e8f2a8b5d49/55e75c488ead0e8f2a8b5d49
-.jpg",
+         "logo":"/images/medias/55e75c488ead0e8f2a8b5d49/55e75c488ead0e8f2a8b5d49.jpg",
          "serviceTaxPercentage":15,
          "cinemaChain":"Inox",
          "seats":415,
-         "mallName":"Inox, Vishnu Shivam Mall
-, Mumbai",
+         "mallName":"Inox, Vishnu Shivam Mall, Mumbai",
          "attributes":{
             "screenNumber":{
                "value":"Screen 1"
@@ -2383,8 +2270,7 @@
                   "cardRate":2339,
                   "discountedRate":1781,
                   "vendorRate":1638,
-                  "imageUrl":"/images/mediaOptions
-/cinema/10SecMuteSlide.png"
+                  "imageUrl":"/images/mediaOptions/cinema/10SecMuteSlide.png"
                },
                "10SecAudioSlide":{
                   "cardRate":2339,
@@ -2422,8 +2308,7 @@
                "value":"283 seats"
             },
             "mediaOption":{
-               "value":"10sec mute
- slide"
+               "value":"10sec mute slide"
             },
             "pricingUnit":{
                "value":"per week"
@@ -2446,8 +2331,7 @@
                   "cardRate":750,
                   "discountedRate":652,
                   "vendorRate":600,
-                  "imageUrl":"/images/mediaOptions
-/cinema/10SecMuteSlide.png"
+                  "imageUrl":"/images/mediaOptions/cinema/10SecMuteSlide.png"
                },
                "10SecAudioSlide":{
                   "cardRate":750,
@@ -2494,8 +2378,7 @@
          "city":"Erode",
          "state":"Tamil Nadu",
          "locality":"Erode East",
-         "name":"Vijayan Theatre
-, Erode,Tamil Nadu"
+         "name":"Vijayan Theatre, Erode,Tamil Nadu"
       },
       {
          "_id":"55e75c458ead0e8f2a8b4e9f",
@@ -2514,15 +2397,13 @@
                   "cardRate":1840,
                   "discountedRate":1400,
                   "vendorRate":1288,
-                  "imageUrl":"/images/mediaOptions/cinema/10SecAudioSlide
-.png"
+                  "imageUrl":"/images/mediaOptions/cinema/10SecAudioSlide.png"
                },
                "30SecVideo":{
                   "cardRate":5520,
                   "discountedRate":4200,
                   "vendorRate":3864,
-                  "imageUrl":"/images/mediaOptions
-/cinema/30SecVideo.png"
+                  "imageUrl":"/images/mediaOptions/cinema/30SecVideo.png"
                },
                "60SecVideo":{
                   "cardRate":11040,
@@ -2535,8 +2416,7 @@
          "urlSlug":"inox-msx-mall-noida-1755-onscreen-advertising",
          "views":184,
          "uniqueId":1755,
-         "logo":"/images/medias/55e75c458ead0e8f2a8b4e9f/55e75c458ead0e8f2a8b4e9f
-.jpg",
+         "logo":"/images/medias/55e75c458ead0e8f2a8b4e9f/55e75c458ead0e8f2a8b4e9f.jpg",
          "serviceTaxPercentage":15,
          "cinemaChain":"Inox",
          "seats":124,
@@ -2549,8 +2429,7 @@
                "value":"124 seats"
             },
             "mediaOption":{
-               "value":"10sec mute
- slide"
+               "value":"10sec mute slide"
             },
             "pricingUnit":{
                "value":"per week"
@@ -2573,15 +2452,13 @@
                   "cardRate":1840,
                   "discountedRate":1432,
                   "vendorRate":1288,
-                  "imageUrl":"/images/mediaOptions/cinema/10SecMuteSlide
-.png"
+                  "imageUrl":"/images/mediaOptions/cinema/10SecMuteSlide.png"
                },
                "10SecAudioSlide":{
                   "cardRate":1840,
                   "discountedRate":1432,
                   "vendorRate":1288,
-                  "imageUrl":"/images
-/mediaOptions/cinema/10SecAudioSlide.png"
+                  "imageUrl":"/images/mediaOptions/cinema/10SecAudioSlide.png"
                },
                "30SecVideo":{
                   "cardRate":5520,
@@ -2600,8 +2477,7 @@
          "urlSlug":"pvr-elements-mall-bangalore-2785-onscreen-advertising",
          "views":177,
          "uniqueId":2785,
-         "logo":"/images/medias/55e75c468ead0e8f2a8b53ba/55e75c468ead0e8f2a8b53ba
-.jpg",
+         "logo":"/images/medias/55e75c468ead0e8f2a8b53ba/55e75c468ead0e8f2a8b53ba.jpg",
          "serviceTaxPercentage":15,
          "cinemaChain":"PVR",
          "seats":114,
@@ -2637,8 +2513,7 @@
                   "cardRate":9750,
                   "discountedRate":7584,
                   "vendorRate":6825,
-                  "imageUrl":"/images/mediaOptions
-/cinema/10SecMuteSlide.png"
+                  "imageUrl":"/images/mediaOptions/cinema/10SecMuteSlide.png"
                },
                "10SecAudioSlide":{
                   "cardRate":9750,
@@ -2670,8 +2545,7 @@
          "mallName":"PVR, Ambience Mall, Delhi",
          "attributes":{
             "screenNumber":{
-               "value":"Screen
- 2"
+               "value":"Screen 2"
             },
             "seats":{
                "value":"108 seats"
@@ -2687,8 +2561,7 @@
          "city":"Delhi",
          "state":"Delhi NCR",
          "locality":"Nirman Bhawan",
-         "name":"Ambience
- Mall, Delhi,Delhi NCR"
+         "name":"Ambience Mall, Delhi,Delhi NCR"
       },
       {
          "_id":"55e75c458ead0e8f2a8b4c8a",
@@ -2707,15 +2580,13 @@
                   "cardRate":1530,
                   "discountedRate":1190,
                   "vendorRate":1071,
-                  "imageUrl":"/images/mediaOptions/cinema/10SecAudioSlide
-.png"
+                  "imageUrl":"/images/mediaOptions/cinema/10SecAudioSlide.png"
                },
                "30SecVideo":{
                   "cardRate":4590,
                   "discountedRate":3570,
                   "vendorRate":3213,
-                  "imageUrl":"/images/mediaOptions
-/cinema/30SecVideo.png"
+                  "imageUrl":"/images/mediaOptions/cinema/30SecVideo.png"
                },
                "60SecVideo":{
                   "cardRate":9180,
@@ -2728,8 +2599,7 @@
          "urlSlug":"pvr-elante-mall-chandigarh-1319-onscreen-advertising",
          "views":173,
          "uniqueId":1319,
-         "logo":"/images/medias/55e75c458ead0e8f2a8b4c8a/55e75c458ead0e8f2a8b4c8a
-.jpg",
+         "logo":"/images/medias/55e75c458ead0e8f2a8b4c8a/55e75c458ead0e8f2a8b4c8a.jpg",
          "serviceTaxPercentage":15,
          "cinemaChain":"PVR",
          "seats":148,
@@ -2765,8 +2635,7 @@
                   "cardRate":1700,
                   "discountedRate":1323,
                   "vendorRate":1190,
-                  "imageUrl":"/images/mediaOptions
-/cinema/10SecMuteSlide.png"
+                  "imageUrl":"/images/mediaOptions/cinema/10SecMuteSlide.png"
                },
                "10SecAudioSlide":{
                   "cardRate":1700,
@@ -2833,15 +2702,13 @@
                   "cardRate":750,
                   "discountedRate":652,
                   "vendorRate":600,
-                  "imageUrl":"/images/mediaOptions/cinema/10SecAudioSlide
-.png"
+                  "imageUrl":"/images/mediaOptions/cinema/10SecAudioSlide.png"
                },
                "30SecVideo":{
                   "cardRate":2250,
                   "discountedRate":1957,
                   "vendorRate":1800,
-                  "imageUrl":"/images/mediaOptions
-/cinema/30SecVideo.png"
+                  "imageUrl":"/images/mediaOptions/cinema/30SecVideo.png"
                },
                "60SecVideo":{
                   "cardRate":4500,
@@ -2854,8 +2721,7 @@
          "urlSlug":"single-screen-ak-cine-palace-kannur-3493-onscreen-advertising",
          "views":170,
          "uniqueId":3493,
-         "logo":"/images/medias/55e75c478ead0e8f2a8b576e/55e75c478ead0e8f2a8b576e
-.jpg",
+         "logo":"/images/medias/55e75c478ead0e8f2a8b576e/55e75c478ead0e8f2a8b576e.jpg",
          "serviceTaxPercentage":15,
          "cinemaChain":"Single Screen",
          "seats":{
@@ -2870,8 +2736,7 @@
                "value":"425 seats"
             },
             "mediaOption":{
-               "value":"10sec mute
- slide"
+               "value":"10sec mute slide"
             },
             "pricingUnit":{
                "value":"per week"
@@ -2894,15 +2759,13 @@
                   "cardRate":488,
                   "discountedRate":414,
                   "vendorRate":341,
-                  "imageUrl":"/images/mediaOptions/cinema/10SecMuteSlide
-.png"
+                  "imageUrl":"/images/mediaOptions/cinema/10SecMuteSlide.png"
                },
                "10SecAudioSlide":{
                   "cardRate":488,
                   "discountedRate":414,
                   "vendorRate":341,
-                  "imageUrl":"/images/mediaOptions
-/cinema/10SecAudioSlide.png"
+                  "imageUrl":"/images/mediaOptions/cinema/10SecAudioSlide.png"
                },
                "30SecVideo":{
                   "cardRate":1463,
@@ -2921,8 +2784,7 @@
          "urlSlug":"city-pride-city-pride-mangala-pune-4981-onscreen-advertising",
          "views":167,
          "uniqueId":4981,
-         "logo":"/images/medias/55e75c498ead0e8f2a8b5efc/55e75c498ead0e8f2a8b5efc
-.jpg",
+         "logo":"/images/medias/55e75c498ead0e8f2a8b5efc/55e75c498ead0e8f2a8b5efc.jpg",
          "serviceTaxPercentage":15,
          "cinemaChain":"City Pride",
          "seats":{
@@ -2948,8 +2810,7 @@
          "city":"Pune",
          "state":"Maharashtra",
          "locality":"Congress House Road",
-         "name":"City Pride Mangala
-, Pune,Maharashtra"
+         "name":"City Pride Mangala, Pune,Maharashtra"
       },
       {
          "_id":"55e75c478ead0e8f2a8b59e7",
@@ -2974,8 +2835,7 @@
                   "cardRate":2400,
                   "discountedRate":1867,
                   "vendorRate":1680,
-                  "imageUrl":"/images/mediaOptions
-/cinema/30SecVideo.png"
+                  "imageUrl":"/images/mediaOptions/cinema/30SecVideo.png"
                },
                "60SecVideo":{
                   "cardRate":4800,
@@ -2988,8 +2848,7 @@
          "urlSlug":"pvr-aura-mall-bhopal-3944-onscreen-advertising",
          "views":165,
          "uniqueId":3944,
-         "logo":"/images/medias/55e75c478ead0e8f2a8b59e7/55e75c478ead0e8f2a8b59e7
-.jpg",
+         "logo":"/images/medias/55e75c478ead0e8f2a8b59e7/55e75c478ead0e8f2a8b59e7.jpg",
          "serviceTaxPercentage":15,
          "cinemaChain":"PVR",
          "seats":302,
@@ -3002,8 +2861,7 @@
                "value":"302 seats"
             },
             "mediaOption":{
-               "value":"10sec mute
- slide"
+               "value":"10sec mute slide"
             },
             "pricingUnit":{
                "value":"per week"
@@ -3026,8 +2884,7 @@
                   "cardRate":450,
                   "discountedRate":350,
                   "vendorRate":315,
-                  "imageUrl":"/images/mediaOptions
-/cinema/10SecMuteSlide.png"
+                  "imageUrl":"/images/mediaOptions/cinema/10SecMuteSlide.png"
                },
                "10SecAudioSlide":{
                   "cardRate":450,
@@ -3088,15 +2945,13 @@
                   "cardRate":3275,
                   "discountedRate":2548,
                   "vendorRate":2293,
-                  "imageUrl":"/images/mediaOptions/cinema/10SecMuteSlide
-.png"
+                  "imageUrl":"/images/mediaOptions/cinema/10SecMuteSlide.png"
                },
                "10SecAudioSlide":{
                   "cardRate":3275,
                   "discountedRate":2548,
                   "vendorRate":2293,
-                  "imageUrl":"/images
-/mediaOptions/cinema/10SecAudioSlide.png"
+                  "imageUrl":"/images/mediaOptions/cinema/10SecAudioSlide.png"
                },
                "30SecVideo":{
                   "cardRate":9825,
@@ -3115,8 +2970,7 @@
          "urlSlug":"pvr-forum-mall-bangalore-2791-onscreen-advertising",
          "views":161,
          "uniqueId":2791,
-         "logo":"/images/medias/55e75c468ead0e8f2a8b53c1/55e75c468ead0e8f2a8b53c1
-.jpg",
+         "logo":"/images/medias/55e75c468ead0e8f2a8b53c1/55e75c468ead0e8f2a8b53c1.jpg",
          "serviceTaxPercentage":15,
          "cinemaChain":"PVR",
          "seats":191,
@@ -3152,8 +3006,7 @@
                   "cardRate":857,
                   "discountedRate":706,
                   "vendorRate":600,
-                  "imageUrl":"/images/mediaOptions
-/cinema/10SecMuteSlide.png"
+                  "imageUrl":"/images/mediaOptions/cinema/10SecMuteSlide.png"
                },
                "10SecAudioSlide":{
                   "cardRate":857,
@@ -3185,8 +3038,7 @@
             "value":120,
             "hidden":1
          },
-         "mallName":"Galaxy Paradise, Begur
-, Bangalore",
+         "mallName":"Galaxy Paradise, Begur, Bangalore",
          "attributes":{
             "screenNumber":{
                "value":"Screen 1"
