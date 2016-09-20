@@ -1,0 +1,1139 @@
+{
+   "count":2264,
+   "medias":[
+      {
+         "_id":"560489d38ead0ee770f608ff",
+         "logo":"/images/medias/560489d38ead0ee770f608ff
+/560489d38ead0ee770f608ff.jpg",
+         "name":"YourStory",
+         "urlSlug":"yourstory-website-advertising",
+         "categoryId":[
+            "55fd44998ead0ec6528b456a"
+         ],
+         "medium":"Website",
+         "mediaOptions":{
+            "costPerMille":{
+               "mediaOption2":{
+                  "imageUrl":"/images/mediaOptions/digital/Leaderboard.png",
+                  "vendorRate":350,
+                  "discountedRate":389,
+                  "cardRate":435,
+                  "minimumQtyUnit1":64,
+                  "pricingUnit1":"Thousand Impressions",
+                  "pricingModel":[
+                     "CPM"
+                  ],
+                  "description":"Leaderboard
+ Banner is typically the top most ad followed by the content of the web page.The ad is placed in the
+ second fold.",
+                  "adType":"Display",
+                  "creativeFormat":".JPG",
+                  "showName":"Leaderboard - Second Fold"
+               },
+               "mediaOption4":{
+                  "imageUrl":"/images/mediaOptions/digital/Banner.png",
+                  "vendorRate":190,
+                  "discountedRate":211,
+                  "cardRate":235,
+                  "minimumQtyUnit1":118,
+                  "pricingUnit1":"Thousand Impressions",
+                  "pricingModel":[
+                     "CPM"
+                  ],
+                  "description":"It is a Banner Advertising format.The ad is placed in the first fold",
+                  "adType":"Video",
+                  "creativeFormat":".MOV",
+                  "showName":"Banner - First Fold"
+               },
+               "mediaOption5":{
+                  "imageUrl":"/images/mediaOptions/digital/Banner
+.png",
+                  "vendorRate":190,
+                  "discountedRate":211,
+                  "cardRate":235,
+                  "minimumQtyUnit1":118,
+                  "pricingUnit1":"Thousand
+ Impressions",
+                  "pricingModel":[
+                     "CPM"
+                  ],
+                  "description":"It is a Banner Advertising format.The ad is placed
+ in the second fold",
+                  "creativeFormat":".MOV",
+                  "adType":"Video",
+                  "showName":"Banner - Second Fold"
+               }
+            },
+            "fixed":{
+               "mediaOption1":{
+                  "imageUrl":"/images/mediaOptions/digital/Medium-Rectangle-Banner.png",
+                  "vendorRate":500000,
+                  "discountedRate":555556,
+                  "cardRate":617285,
+                  "minimumQtyUnit1":1,
+                  "pricingUnit1":"Month",
+                  "pricingModel":[
+                     "Fixed"
+                  ],
+                  "description":"It is a Banner Advertising format",
+                  "creativeFormat":".JPG",
+                  "adType":"Display",
+                  "showName":"Medium Rectangle Banner"
+               },
+               "mediaOption2":{
+                  "imageUrl":"/images/mediaOptions/digital/Leaderboard
+.png",
+                  "vendorRate":800000,
+                  "discountedRate":888890,
+                  "cardRate":987655,
+                  "minimumQtyUnit1":1,
+                  "pricingUnit1":"Month",
+                  "pricingModel":[
+                     "Fixed"
+                  ],
+                  "description":"Leaderboard Banner is typically the top most ad followed
+ by the content of the web page.The ad is placed in the first fold.",
+                  "creativeFormat":".JPG",
+                  "adType":"Display",
+                  "showName":"Leaderboard - First Fold"
+               }
+            }
+         },
+         "serviceTaxPercentage":15,
+         "attributes":{
+            "medium":{
+               "value":"Website"
+            },
+            "reach":{
+               "value":"2.3 Mn Monthly Impressions"
+            }
+         },
+         "minimumBilling":617285,
+         "categoryName":"Business and Finance",
+         "cardRate":617285
+      },
+      {
+         "_id":"5666da978ead0e497d8b457b",
+         "logo":"/images/medias/5666da978ead0e497d8b457b
+/5666da978ead0e497d8b457b.jpg",
+         "name":"Hotstar",
+         "urlSlug":"hotstar-app-advertising",
+         "categoryId":[
+            "55e60e7d8ead0e924f8b458b"
+         ],
+         "medium":"App",
+         "mediaOptions":{
+            "costPerView":{
+               "mediaOption3":{
+                  "showName":"Video Banner - Run On Site
+ - 31-60 Sec",
+                  "creativeFormat":".MOV",
+                  "adType":"Video",
+                  "imageUrl":"/images/mediaOptions/digital/Video-Banner
+.png",
+                  "vendorRate":2,
+                  "discountedRate":2.2,
+                  "cardRate":2.5,
+                  "minimumQtyUnit1":21739,
+                  "pricingUnit1":"View",
+                  "pricingModel":[
+                     "CPV"
+                  ],
+                  "description":"A banner ad which incorporates a video of 31-60 seconds which
+ cannot be skipped. Costs can increase with addition of filters"
+               },
+               "mediaOption2":{
+                  "showName":"Video Banner
+ - Run On Site - 21-30 Sec",
+                  "creativeFormat":".MOV",
+                  "adType":"Video",
+                  "imageUrl":"/images/mediaOptions
+/digital/Video-Banner.png",
+                  "vendorRate":1.2,
+                  "discountedRate":1.3,
+                  "cardRate":1.5,
+                  "minimumQtyUnit1":36232,
+                  "pricingUnit1":"View",
+                  "pricingModel":[
+                     "CPV"
+                  ],
+                  "description":"A banner ad which incorporates a video of
+ 21-30 seconds which cannot be skipped. Costs can increase with addition of filters"
+               },
+               "mediaOption1":{
+                  "showName":"Video Banner - Run On Site - 0-20 Sec",
+                  "creativeFormat":".MOV",
+                  "adType":"Video",
+                  "filtersPossible":"Details in the table",
+                  "imageUrl":"/images/mediaOptions/digital/Video-Banner.png",
+                  "vendorRate":0.7,
+                  "discountedRate":0.78,
+                  "cardRate":0.86,
+                  "minimumQtyUnit1":62500,
+                  "pricingUnit1":"View",
+                  "pricingModel":[
+                     "CPV"
+                  ],
+                  "description":"A banner ad which incorporates a video of 0-20 seconds which cannot be skipped. Costs can increase
+ with addition of filters"
+               }
+            }
+         },
+         "serviceTaxPercentage":15,
+         "attributes":{
+            "medium":{
+               "value":"App"
+            },
+            "reach":{
+               "value":"20 Mn Monthly Unique Users"
+            }
+         },
+         "minimumBilling":53750,
+         "categoryName":"Entertainment",
+         "cardRate":53750
+      },
+      {
+         "_id":"560489d38ead0ee770f608ee",
+         "logo":"/images/medias/560489d38ead0ee770f608ee/560489d38ead0ee770f608ee
+.jpg",
+         "name":"Hindustantimes",
+         "urlSlug":"hindustantimes-website-advertising",
+         "categoryId":[
+            "55fd44998ead0ec6528b456a"
+         ],
+         "medium":"Website",
+         "mediaOptions":{
+            "costPerMille":{
+               "mediaOption1":{
+                  "showName":"Leaderboard",
+                  "imageUrl":"/images/mediaOptions/digital/Leaderboard.png",
+                  "vendorRate":100,
+                  "discountedRate":115,
+                  "cardRate":125,
+                  "minimumQtyUnit1":225,
+                  "pricingUnit1":"Thousand Impressions",
+                  "pricingModel":[
+                     "CPM"
+                  ],
+                  "description":"Leaderboard
+ Banner is typically the top most ad followed by the content of the web page.",
+                  "adType":"Display",
+                  "creativeFormat":".JPG"
+               },
+               "mediaOption2":{
+                  "showName":"Banner",
+                  "imageUrl":"/images/mediaOptions/digital/Banner.png",
+                  "vendorRate":100,
+                  "discountedRate":115,
+                  "cardRate":125,
+                  "minimumQtyUnit1":225,
+                  "pricingUnit1":"Thousand Impressions",
+                  "pricingModel":[
+                     "CPM"
+                  ],
+                  "description":"It is a Banner Advertising format",
+                  "adType":"Display",
+                  "creativeFormat":".JPG"
+               },
+               "mediaOption4":{
+                  "showName":"Expandable Leaderboard",
+                  "imageUrl":"/images/mediaOptions/digital
+/Expandable-Leaderboard-Banner.png",
+                  "vendorRate":120,
+                  "discountedRate":135,
+                  "cardRate":150,
+                  "minimumQtyUnit1":188,
+                  "pricingUnit1":"Thousand Impressions",
+                  "pricingModel":[
+                     "CPM"
+                  ],
+                  "description":"Expandable Leaderboard
+ is the top most ad followed by the content of the web page, expanding once the cursor is placed on the
+ ad.",
+                  "adType":"Display",
+                  "creativeFormat":".JPG"
+               },
+               "mediaOption5":{
+                  "showName":"Expandable Banner",
+                  "imageUrl":"/images/mediaOptions/digital/Expandable-Banner.png",
+                  "vendorRate":120,
+                  "discountedRate":135,
+                  "cardRate":150,
+                  "minimumQtyUnit1":188,
+                  "pricingUnit1":"Thousand Impressions",
+                  "pricingModel":[
+                     "CPM"
+                  ],
+                  "description":"Expandable Banner is a static image ad which expands when the cursor is placed on the ad.",
+                  "adType":"Display",
+                  "creativeFormat":".JPG"
+               },
+               "mediaOption6":{
+                  "minimumQtyUnit1":115,
+                  "vendorRate":180,
+                  "discountedRate":200,
+                  "cardRate":225,
+                  "pricingUnit1":"Thousand Impressions",
+                  "description":"Image and text ads that are
+ embedded within the content of the publisher’s editorial streams",
+                  "imageUrl":"/images/mediaOptions/digital
+/Native-Banner-&-Text.png",
+                  "pricingModel":[
+                     "CPM"
+                  ],
+                  "adType":"Native",
+                  "creativeFormat":".JPG",
+                  "showName":"Native Banner & Text"
+               },
+               "mediaOption7":{
+                  "minimumQtyUnit1":100,
+                  "vendorRate":200,
+                  "discountedRate":220,
+                  "cardRate":250,
+                  "pricingUnit1":"Thousand Impressions",
+                  "description":"Image and text ads that are embedded
+ within the content which upon clicking lead to the sponsored article within the website",
+                  "imageUrl":"/images/mediaOptions/digital/Native-Banner-&-Text.png",
+                  "adType":"Native",
+                  "creativeFormat":".JPG",
+                  "showName":"Native Banner & Text - Story Page"
+               }
+            },
+            "fixed":{
+               "mediaOption3":{
+                  "showName":"Roadblock Banner",
+                  "imageUrl":"/images/mediaOptions/digital/Roadblock-Banner.png",
+                  "vendorRate":300000,
+                  "discountedRate":333335,
+                  "cardRate":370370,
+                  "minimumQtyUnit1":1,
+                  "pricingUnit1":"day",
+                  "pricingModel":[
+                     "Fixed"
+                  ],
+                  "description":"Roadblock is
+ when an advertiser places his ad on all the ad spaces available on a web page.",
+                  "adType":"Display",
+                  "creativeFormat":".JPG"
+               }
+            }
+         },
+         "serviceTaxPercentage":15,
+         "attributes":{
+            "medium":{
+               "value":"Website"
+            },
+            "reach":{
+               "value":"36
+ Mn Monthly Impressions"
+            }
+         },
+         "minimumBilling":28125,
+         "categoryName":"Business and Finance",
+         "cardRate":28125
+      },
+      {
+         "_id":"560489d38ead0ee770f6095d",
+         "logo":"/images/medias/560489d38ead0ee770f6095d/560489d38ead0ee770f6095d
+.jpg",
+         "name":"Book My Show",
+         "urlSlug":"book-my-show-website-advertising",
+         "categoryId":[
+            "55e60e7d8ead0e924f8b458b"
+         ],
+         "medium":"Website",
+         "mediaOptions":{
+            "costPerMille":{
+               "mediaOption1":{
+                  "showName":"Interstitial Banner",
+                  "description":"An interstitial is a full screen ad displayed while changing from one content page to
+ another.",
+                  "pricingModel":[
+                     "CPM"
+                  ],
+                  "pricingUnit1":"Thousand Impressions",
+                  "minimumQtyUnit1":147,
+                  "cardRate":185,
+                  "discountedRate":170,
+                  "vendorRate":150,
+                  "imageUrl":"/images/mediaOptions/digital/Interstitial-Banner
+.png",
+                  "estimatedViews":"33 Mn",
+                  "estimatedClicks":"300,000",
+                  "estimatedClickThroughRate":"0.96%",
+                  "adType":"Display",
+                  "creativeFormat":".JPG, .GIF, .FLASH"
+               },
+               "mediaOption2":{
+                  "description":"Leaderboard Banner is
+ typically the top most ad followed by the content of the web page.",
+                  "pricingModel":[
+                     "CPM"
+                  ],
+                  "pricingUnit1":"Thousand Impressions",
+                  "minimumQtyUnit1":147,
+                  "cardRate":185,
+                  "discountedRate":170,
+                  "vendorRate":150,
+                  "imageUrl":"/images/mediaOptions/digital/Leaderboard.png",
+                  "adType":"Display",
+                  "creativeFormat":".JPF, .GIF",
+                  "showName":"Leaderboard - Synopsis Page"
+               },
+               "mediaOption3":{
+                  "description":"Leaderboard Banner is typically the top
+ most ad followed by the content of the web page.",
+                  "pricingModel":[
+                     "CPM"
+                  ],
+                  "pricingUnit1":"Thousand Impressions",
+                  "minimumQtyUnit1":147,
+                  "cardRate":185,
+                  "discountedRate":170,
+                  "vendorRate":150,
+                  "imageUrl":"/images/mediaOptions
+/digital/Leaderboard.png",
+                  "estimatedViews":"5.8 Mn",
+                  "estimatedClicks":"2,641",
+                  "estimatedClickThroughRate":"0.05%",
+                  "adType":"Display",
+                  "creativeFormat":".JPF, .GIF",
+                  "showName":"Leaderboard - Cinema Page"
+               },
+               "mediaOption4":{
+                  "description":"It is a Banner Advertising format",
+                  "pricingModel":[
+                     "CPM"
+                  ],
+                  "pricingUnit1":"Thousand Impressions",
+                  "minimumQtyUnit1":147,
+                  "cardRate":185,
+                  "discountedRate":170,
+                  "vendorRate":150,
+                  "imageUrl":"/images/mediaOptions
+/digital/Banner.png",
+                  "estimatedViews":"400,000",
+                  "estimatedClicks":"2,077",
+                  "estimatedClickThroughRate":"0.47%",
+                  "adType":"Display",
+                  "creativeFormat":".JPG, .GIF, .FLASH",
+                  "showName":"Banner, Right - Book Tickets
+ Page"
+               },
+               "mediaOption5":{
+                  "description":"It is a Banner Advertising format",
+                  "pricingModel":[
+                     "CPM"
+                  ],
+                  "pricingUnit1":"Thousand Impressions",
+                  "minimumQtyUnit1":147,
+                  "cardRate":185,
+                  "discountedRate":170,
+                  "vendorRate":150,
+                  "imageUrl":"/images/mediaOptions/digital/Banner.png",
+                  "estimatedViews":"900,000",
+                  "estimatedClicks":"666",
+                  "estimatedClickThroughRate":"0.07%",
+                  "adType":"Display",
+                  "creativeFormat":".JPF, .GIF",
+                  "showName":"Banner, Right - Movie Ticket Confirmation
+ Page"
+               }
+            }
+         },
+         "serviceTaxPercentage":15,
+         "attributes":{
+            "medium":{
+               "value":"Website"
+            },
+            "reach":{
+               "value":"128
+ Mn Page Views"
+            }
+         },
+         "minimumBilling":27195,
+         "categoryName":"Entertainment",
+         "cardRate":27195
+      },
+      {
+         "_id":"562e9ad78ead0e2b2e2009fd",
+         "logo":"/images/medias/562e9ad78ead0e2b2e2009fd/562e9ad78ead0e2b2e2009fd.jpg",
+         "name":"Gaana",
+         "urlSlug":"gaana-website-advertising",
+         "categoryId":[
+            "55d70b748ead0e960c8b4596"
+         ],
+         "medium":"Website",
+         "mediaOptions":{
+            "costPerMille":{
+               "mediaOption1":{
+                  "showName":"Banner",
+                  "filtersPossible":"Demographic Targeting, Profile
+/Content Targeting, Time Targeting, Device/Operator Targeting, Geo Targeting",
+                  "creativeFormat":".JPG",
+                  "description":"It is a Banner Advertising format",
+                  "pricingModel":[
+                     "CPM"
+                  ],
+                  "pricingUnit1":"Thousand Impressions",
+                  "minimumQtyUnit1":111,
+                  "cardRate":250,
+                  "discountedRate":225,
+                  "vendorRate":200,
+                  "imageUrl":"/images/mediaOptions
+/digital/Banner.png",
+                  "adType":"Display"
+               },
+               "mediaOption2":{
+                  "showName":"Expandable Banner",
+                  "filtersPossible":"Demographic Targeting, Profile/Content Targeting, Time Targeting, Device/Operator Targeting, Geo Targeting",
+                  "creativeFormat":".JPG",
+                  "description":"Expandable Banner is a static image ad which expands when the
+ cursor is placed on the ad.",
+                  "pricingModel":[
+                     "CPM"
+                  ],
+                  "pricingUnit1":"Thousand Impressions",
+                  "minimumQtyUnit1":82,
+                  "cardRate":340,
+                  "discountedRate":305,
+                  "vendorRate":275,
+                  "imageUrl":"/images/mediaOptions/digital/Expandable-Banner
+.png",
+                  "adType":"Display"
+               },
+               "mediaOption3":{
+                  "showName":"Video Banner",
+                  "filtersPossible":"Demographic Targeting
+, Profile/Content Targeting, Time Targeting, Device/Operator Targeting, Geo Targeting",
+                  "creativeFormat":".JPG, .MOV",
+                  "description":"It is a Banner Advertising format with video",
+                  "pricingModel":[
+                     "CPM"
+                  ],
+                  "pricingUnit1":"Thousand Impressions",
+                  "minimumQtyUnit1":82,
+                  "cardRate":340,
+                  "discountedRate":305,
+                  "vendorRate":275,
+                  "imageUrl":"/images/mediaOptions/digital/Video-Banner.png",
+                  "adType":"Video"
+               },
+               "mediaOption5":{
+                  "showName":"Audio
+ Banner",
+                  "filtersPossible":"Demographic Targeting, Profile/Content Targeting, Time Targeting, Device
+/Operator Targeting, Geo Targeting",
+                  "creativeFormat":".AMR, .JPG",
+                  "description":"It is a display ad with
+ preroll audio",
+                  "pricingModel":[
+                     "CPM"
+                  ],
+                  "pricingUnit1":"Thousand Impressions",
+                  "minimumQtyUnit1":56,
+                  "cardRate":495,
+                  "discountedRate":445,
+                  "vendorRate":400,
+                  "imageUrl":"/images/mediaOptions/digital/Audio-Banner.png",
+                  "adType":"Display"
+               },
+               "mediaOption6":{
+                  "showName":"Pre Roll Video",
+                  "filtersPossible":"Demographic Targeting
+, Profile/Content Targeting, Time Targeting, Device/Operator Targeting, Geo Targeting",
+                  "creativeFormat":".MOV",
+                  "description":"Ad in Video format is played",
+                  "pricingModel":[
+                     "CPM"
+                  ],
+                  "pricingUnit1":"Thousand
+ Impressions",
+                  "minimumQtyUnit1":45,
+                  "cardRate":630,
+                  "discountedRate":555,
+                  "vendorRate":500,
+                  "imageUrl":"
+/images/mediaOptions/digital/Pre-Roll-Video.png",
+                  "adType":"Video"
+               },
+               "mediaOption7":{
+                  "showName":"Leaderboard",
+                  "filtersPossible":"Demographic Targeting, Profile/Content Targeting, Time Targeting, Device/Operator
+ Targeting, Geo Targeting",
+                  "creativeFormat":".JPG",
+                  "description":"Leaderboard Banner is typically the
+ top most ad followed by the content of the web page.",
+                  "pricingModel":[
+                     "CPM"
+                  ],
+                  "pricingUnit1":"Thousand
+ Impressions",
+                  "minimumQtyUnit1":147,
+                  "cardRate":185,
+                  "discountedRate":170,
+                  "vendorRate":150,
+                  "imageUrl":"
+/images/mediaOptions/digital/Leaderboard.png",
+                  "adType":"Display"
+               }
+            },
+            "fixed":{
+               "mediaOption8":{
+                  "showName":"Sponsored Banner",
+                  "filtersPossible":"Demographic Targeting, Profile/Content Targeting, Time Targeting
+, Device/Operator Targeting, Geo Targeting",
+                  "creativeFormat":".JPG",
+                  "description":"Promoted ads that
+ appear in between the regular stream of content",
+                  "pricingModel":[
+                     "Fixed"
+                  ],
+                  "pricingUnit1":"Month",
+                  "minimumQtyUnit1":1,
+                  "cardRate":61730,
+                  "discountedRate":55555,
+                  "vendorRate":50000,
+                  "imageUrl":"/images/mediaOptions/digital
+/Sponsored-Banner.png",
+                  "adType":"Display"
+               },
+               "mediaOption9":{
+                  "showName":"Sponsored Audio",
+                  "filtersPossible":"Demographic Targeting, Profile/Content Targeting, Time Targeting, Device/Operator Targeting, Geo Targeting",
+                  "creativeFormat":".AMR, .JPG",
+                  "description":"Promoted ads that appear in between the regular stream
+ of content",
+                  "pricingModel":[
+                     "Fixed"
+                  ],
+                  "pricingUnit1":"Month",
+                  "minimumQtyUnit1":1,
+                  "cardRate":61730,
+                  "discountedRate":55556,
+                  "vendorRate":50000,
+                  "imageUrl":"/images/mediaOptions/digital/Sponsored-Audio.png",
+                  "adType":"Audio"
+               },
+               "mediaOption10":{
+                  "showName":"Native Banner & Text",
+                  "filtersPossible":"Demographic Targeting, Profile
+/Content Targeting, Time Targeting, Device/Operator Targeting, Geo Targeting",
+                  "creativeFormat":".JPG",
+                  "description":"Image and text ads that are embedded within the content of an Album",
+                  "pricingModel":[
+                     "Fixed"
+                  ],
+                  "pricingUnit1":"Month",
+                  "minimumQtyUnit1":1,
+                  "cardRate":86420,
+                  "discountedRate":77780,
+                  "vendorRate":70000,
+                  "imageUrl":"/images/mediaOptions/digital/Native-Banner-&-Text.png",
+                  "adType":"Native"
+               },
+               "mediaOption11":{
+                  "showName":"Page Push & Roadblock Banner",
+                  "filtersPossible":"Demographic Targeting, Profile/Content
+ Targeting, Time Targeting, Device/Operator Targeting, Geo Targeting",
+                  "creativeFormat":".JPG",
+                  "description":"Page Push + Roadblock Banner is an ad which expands and pushes down the content of the web page once
+ the cursor is placed on the ad and all other ads on the web page are utilised by the advertiser.",
+                  "pricingModel":[
+                     "Fixed"
+                  ],
+                  "pricingUnit1":"Day",
+                  "minimumQtyUnit1":1,
+                  "cardRate":246915,
+                  "discountedRate":222225,
+                  "vendorRate":200000,
+                  "imageUrl":"/images/mediaOptions/digital/Page-Push-+-Roadblock-Banner.png",
+                  "adType":"Display"
+               },
+               "mediaOption4":{
+                  "showName":"Interstitial Banner",
+                  "filtersPossible":"Demographic Targeting, Profile
+/Content Targeting, Time Targeting, Device/Operator Targeting, Geo Targeting",
+                  "creativeFormat":".JPG",
+                  "description":"An interstitial is a full screen ad displayed while changing from one content page to
+ another.",
+                  "pricingModel":[
+                     "Fixed"
+                  ],
+                  "pricingUnit1":"Day",
+                  "minimumQtyUnit1":1,
+                  "cardRate":339506,
+                  "discountedRate":305555,
+                  "vendorRate":275000,
+                  "imageUrl":"/images/mediaOptions/digital/Interstitial-Banner.png",
+                  "adType":"Display"
+               }
+            }
+         },
+         "serviceTaxPercentage":15,
+         "attributes":{
+            "medium":{
+               "value":"Website"
+            },
+            "reach":{
+               "value":"60
+ Mn Page Views"
+            }
+         },
+         "minimumBilling":27750,
+         "categoryName":"Music",
+         "cardRate":27750
+      },
+      {
+         "_id":"560489d38ead0ee770f60946",
+         "logo":"/images/medias/560489d38ead0ee770f60946/560489d38ead0ee770f60946.jpg",
+         "name":"Money Control",
+         "urlSlug":"money-control-website-advertising",
+         "categoryId":[
+            "55fd44998ead0ec6528b456a"
+         ],
+         "medium":"Website",
+         "mediaOptions":{
+            "costPerMille":{
+               "mediaOption5":{
+                  "showName":"Half Page Banner - Run On Site",
+                  "minimumQtyUnit1":500,
+                  "creativeFormat":".JPG",
+                  "filtersPossible":"City, Time",
+                  "adType":"Display",
+                  "estimatedClickThroughRate":"0.2%",
+                  "estimatedClicks":"",
+                  "estimatedImpressions":"250,000",
+                  "vendorRate":200,
+                  "discountedRate":222,
+                  "cardRate":247,
+                  "pricingUnit1":"Thousand Impressions",
+                  "description":"ROS is a run of site ad which will be displayed
+ througout all the pages of the website across India",
+                  "imageUrl":"/images/mediaOptions/digital/Half-Page-Banner
+.png"
+               },
+               "mediaOption4":{
+                  "showName":"Medium Rectangle Banner - Run On Site",
+                  "filtersPossible":"City, Time",
+                  "estimatedClickThroughRate":"0.2%",
+                  "estimatedImpressions":"250,000",
+                  "creativeFormat":".JPG",
+                  "adType":"Display",
+                  "imageUrl":"/images/mediaOptions/digital/Medium-Rectangle-Banner.png",
+                  "vendorRate":200,
+                  "discountedRate":222,
+                  "cardRate":247,
+                  "minimumQtyUnit1":500,
+                  "pricingUnit1":"Thousand Impressions",
+                  "pricingModel":[
+                     "CPM"
+                  ],
+                  "description":"ROS is a run of site ad which will be displayed througout all the pages of the website
+."
+               },
+               "mediaOption3":{
+                  "showName":"Skyscraper - Portfolio Page",
+                  "filtersPossible":"City, Time, Gender, Age",
+                  "creativeFormat":".JPG",
+                  "adType":"Display",
+                  "estimatedClickThroughRate":"0.5%",
+                  "estimatedImpressions":"500,000",
+                  "minimumQtyUnit1":290,
+                  "vendorRate":350,
+                  "discountedRate":389,
+                  "cardRate":432,
+                  "pricingUnit1":"Thousand Impressions",
+                  "description":"It is a banner ad on portfolio page",
+                  "imageUrl":"/images/mediaOptions
+/digital/Skyscraper.png"
+               },
+               "mediaOption2":{
+                  "showName":"Medium Rectangle Banner - Portfolio Page",
+                  "filtersPossible":"City, Time, Gender, Age",
+                  "estimatedClickThroughRate":"0.5%",
+                  "estimatedImpressions":"500,000",
+                  "creativeFormat":".JPG",
+                  "adType":"Display",
+                  "imageUrl":"/images/mediaOptions/digital/Medium-Rectangle-Banner.png",
+                  "vendorRate":350,
+                  "discountedRate":389,
+                  "cardRate":432,
+                  "minimumQtyUnit1":290,
+                  "pricingUnit1":"Thousand Impressions",
+                  "pricingModel":[
+                     "CPM"
+                  ],
+                  "description":"It is a banner ad on portfolio page"
+               },
+               "mediaOption1":{
+                  "showName":"Leaderboard - Run On Site",
+                  "filtersPossible":"City, Time",
+                  "creativeFormat":".JPG",
+                  "adType":"Display",
+                  "estimatedClickThroughRate":"0.2%",
+                  "estimatedImpressions":"500,000",
+                  "imageUrl":"/images/mediaOptions
+/digital/Leaderboard.png",
+                  "vendorRate":200,
+                  "discountedRate":222,
+                  "cardRate":247,
+                  "minimumQtyUnit1":500,
+                  "pricingUnit1":"Thousand Impressions",
+                  "pricingModel":[
+                     "CPM"
+                  ],
+                  "description":"Leaderboard Banner is typically
+ the top most ad followed by the content of the web page."
+               }
+            },
+            "fixed":{
+               "mediaOption2":{
+                  "showName":"Jacket
+ & Skinning Banner - Company Page",
+                  "filtersPossible":"Geo",
+                  "creativeFormat":".JPG",
+                  "adType":"Display",
+                  "estimatedClickThroughRate":"0.5%",
+                  "estimatedImpressions":"3 Mn",
+                  "imageUrl":"/images/mediaOptions/digital
+/Jacket-&-Skinning-Banner.png",
+                  "vendorRate":800000,
+                  "discountedRate":888890,
+                  "cardRate":987655,
+                  "minimumQtyUnit1":1,
+                  "pricingUnit1":"Day",
+                  "pricingModel":[
+                     "Fixed"
+                  ],
+                  "description":"Jacket Banner + Skinning is a combination
+ of jacket ad which covers the content of the web page for few seconds with the frame around the content
+ of the web page. Ad will be displayed globally."
+               },
+               "mediaOption1":{
+                  "showName":"Jacket & Skinning Banner
+ - Home Page",
+                  "creativeFormat":".JPG",
+                  "adType":"Display",
+                  "filtersPossible":"Geo",
+                  "estimatedClickThroughRate":"0.5%",
+                  "estimatedImpressions":"2.7 Mn",
+                  "imageUrl":"/images/mediaOptions/digital/Jacket-&-Skinning-Banner
+.png",
+                  "vendorRate":1000000,
+                  "discountedRate":1111110,
+                  "cardRate":1234570,
+                  "minimumQtyUnit1":1,
+                  "pricingUnit1":"Day",
+                  "pricingModel":[
+                     "Fixed"
+                  ],
+                  "description":"Jacket Banner + Skinning is a combination of jacket ad
+ which covers the content of the web page for few seconds with the frame around the content of the web
+ page."
+               }
+            }
+         },
+         "serviceTaxPercentage":15,
+         "attributes":{
+            "medium":{
+               "value":"Website"
+            },
+            "reach":{
+               "value":"23
+.6 Mn Monthly Impressions"
+            }
+         },
+         "minimumBilling":1234570,
+         "categoryName":"Business and Finance",
+         "cardRate":1234570
+      },
+      {
+         "_id":"560489d38ead0ee770f608eb",
+         "logo":"/images/medias/560489d38ead0ee770f608eb/560489d38ead0ee770f608eb
+.jpg",
+         "name":"The Hindu",
+         "urlSlug":"the-hindu-website-advertising",
+         "categoryId":[
+            "57b6d397ece477143dae244b"
+         ],
+         "medium":"Website",
+         "mediaOptions":{
+            "costPerMille":{
+               "mediaOption5":{
+                  "showName":"Expandable Banner",
+                  "creativeFormat":".JPG",
+                  "adType":"Display",
+                  "imageUrl":"/images/mediaOptions/digital/Expandable-Banner.png",
+                  "vendorRate":335,
+                  "discountedRate":370,
+                  "cardRate":410,
+                  "minimumQtyUnit1":68,
+                  "pricingUnit1":"Thousand Impressions",
+                  "pricingModel":[
+                     "CPM"
+                  ],
+                  "description":"Expandable Banner is a static image ad which expands drastically when the cursor
+ is placed on the ad."
+               },
+               "mediaOption4":{
+                  "showName":"Roadblock Banner",
+                  "creativeFormat":".JPG",
+                  "adType":"Display",
+                  "imageUrl":"/images/mediaOptions/digital/Roadblock-Banner.png",
+                  "vendorRate":500,
+                  "discountedRate":555,
+                  "cardRate":620,
+                  "minimumQtyUnit1":45,
+                  "pricingUnit1":"Thousand Impressions",
+                  "pricingModel":[
+                     "CPM"
+                  ],
+                  "description":"Roadblock is when an advertiser places his ad on all the ad spaces available on a web
+ page."
+               },
+               "mediaOption3":{
+                  "showName":"Banner",
+                  "creativeFormat":".JPG",
+                  "adType":"Display",
+                  "imageUrl":"
+/images/mediaOptions/digital/Banner.png",
+                  "vendorRate":145,
+                  "discountedRate":160,
+                  "cardRate":180,
+                  "minimumQtyUnit1":156,
+                  "pricingUnit1":"Thousand Impressions",
+                  "pricingModel":[
+                     "CPM"
+                  ],
+                  "description":"It is a Banner Advertising
+ format"
+               },
+               "mediaOption2":{
+                  "showName":"Banner, Top Right",
+                  "creativeFormat":".JPG",
+                  "adType":"Display",
+                  "imageUrl":"/images/mediaOptions/digital/Banner.png",
+                  "vendorRate":170,
+                  "discountedRate":185,
+                  "cardRate":205,
+                  "minimumQtyUnit1":134,
+                  "pricingUnit1":"Thousand Impressions",
+                  "pricingModel":[
+                     "CPM"
+                  ],
+                  "description":"It is a Banner Advertising
+ format"
+               },
+               "mediaOption1":{
+                  "showName":"Leaderboard",
+                  "creativeFormat":".JPG",
+                  "adType":"Display",
+                  "imageUrl":"/images/mediaOptions/digital/Leaderboard.png",
+                  "vendorRate":145,
+                  "discountedRate":160,
+                  "cardRate":180,
+                  "minimumQtyUnit1":156,
+                  "pricingUnit1":"Thousand Impressions",
+                  "pricingModel":[
+                     "CPM"
+                  ],
+                  "description":"Leaderboard
+ Banner is typically the top most ad followed by the content of the web page."
+               }
+            }
+         },
+         "serviceTaxPercentage":15,
+         "attributes":{
+            "medium":{
+               "value":"Website"
+            },
+            "reach":{
+               "value":"41 Mn Monthly Impressions"
+            }
+         },
+         "minimumBilling":28080,
+         "categoryName":"Current Affairs and Updates",
+         "cardRate":28080
+      },
+      {
+         "_id":"560489d38ead0ee770f608ec",
+         "logo":"/images/medias/560489d38ead0ee770f608ec/560489d38ead0ee770f608ec.jpg",
+         "name":"The Hindu Business
+ Line",
+         "urlSlug":"the-hindu-business-line-website-advertising",
+         "categoryId":[
+            "55fd44998ead0ec6528b456a"
+         ],
+         "medium":"Website",
+         "mediaOptions":{
+            "costPerMille":{
+               "mediaOption5":{
+                  "showName":"Expandable Banner",
+                  "creativeFormat":".JPG",
+                  "adType":"Display",
+                  "imageUrl":"/images/mediaOptions/digital/Expandable-Banner.png",
+                  "vendorRate":300,
+                  "discountedRate":335,
+                  "cardRate":370,
+                  "minimumQtyUnit1":75,
+                  "pricingUnit1":"Thousand Impressions",
+                  "pricingModel":[
+                     "CPM"
+                  ],
+                  "description":"Expandable Banner is a static image ad which expands drastically when the cursor
+ is placed on the ad."
+               },
+               "mediaOption4":{
+                  "showName":"Roadblock Banner",
+                  "creativeFormat":".JPG",
+                  "adType":"Display",
+                  "imageUrl":"/images/mediaOptions/digital/Roadblock-Banner.png",
+                  "vendorRate":450,
+                  "discountedRate":500,
+                  "cardRate":555,
+                  "minimumQtyUnit1":50,
+                  "pricingUnit1":"Thousand Impressions",
+                  "pricingModel":[
+                     "CPM"
+                  ],
+                  "description":"Roadblock is when an advertiser places his ad on all the ad spaces available on a web
+ page."
+               },
+               "mediaOption3":{
+                  "showName":"Banner",
+                  "creativeFormat":".JPG",
+                  "adType":"Display",
+                  "imageUrl":"
+/images/mediaOptions/digital/Banner.png",
+                  "vendorRate":130,
+                  "discountedRate":145,
+                  "cardRate":160,
+                  "minimumQtyUnit1":174,
+                  "pricingUnit1":"Thousand Impressions",
+                  "pricingModel":[
+                     "CPM"
+                  ],
+                  "description":"It is a Banner Advertising
+ format"
+               },
+               "mediaOption2":{
+                  "showName":"Banner, Top Right",
+                  "creativeFormat":".JPG",
+                  "adType":"Display",
+                  "imageUrl":"/images/mediaOptions/digital/Banner.png",
+                  "vendorRate":150,
+                  "discountedRate":170,
+                  "cardRate":185,
+                  "minimumQtyUnit1":150,
+                  "pricingUnit1":"Thousand Impressions",
+                  "pricingModel":[
+                     "CPM"
+                  ],
+                  "description":"It is a Banner Advertising
+ format"
+               },
+               "mediaOption1":{
+                  "showName":"Leaderboard",
+                  "creativeFormat":".JPG",
+                  "adType":"Display",
+                  "imageUrl":"/images/mediaOptions/digital/Leaderboard.png",
+                  "vendorRate":130,
+                  "discountedRate":145,
+                  "cardRate":160,
+                  "minimumQtyUnit1":174,
+                  "pricingUnit1":"Thousand Impressions",
+                  "pricingModel":[
+                     "CPM"
+                  ],
+                  "description":"Leaderboard
+ Banner is typically the top most ad followed by the content of the web page."
+               }
+            }
+         },
+         "serviceTaxPercentage":15,
+         "attributes":{
+            "medium":{
+               "value":"Website"
+            },
+            "reach":{
+               "value":"3.3 Mn Monthly Impressions"
+            }
+         },
+         "minimumBilling":27840,
+         "categoryName":"Business and Finance",
+         "cardRate":27840
+      },
+      {
+         "_id":"562eaf008ead0e2f2f2009cc",
+         "logo":"/images/medias/562eaf008ead0e2f2f2009cc/562eaf008ead0e2f2f2009cc.jpg.png",
+         "name":"Readwhere - Dainik
+ Bhaskar Satna City Edition E-Paper",
+         "urlSlug":"readwhere-dainik-bhaskar-satna-city-edition-e-paper-advertising",
+         "categoryId":[
+            "55fafe248ead0e7d228b7280"
+         ],
+         "medium":"Website",
+         "mediaOptions":{
+            "regularOptions":{
+               "mediaOption1":{
+                  "showName":"Leaderboard - Banner",
+                  "description":"Leaderboard Banner is typically the top most ad followed
+ by the content of the web page.",
+                  "pricingModel":[
+                     "CPM"
+                  ],
+                  "pricingUnit1":"Thousand Impressions",
+                  "minimumQtyUnit1":500,
+                  "cardRate":90,
+                  "discountedRate":85.5,
+                  "vendorRate":81.23,
+                  "imageUrl":"/images/mediaOptions/digital
+/browser.png"
+               },
+               "mediaOption2":{
+                  "name":"Leaderboard",
+                  "showName":"Banner, Footer",
+                  "description":"It is
+ a Banner Advertising format",
+                  "pricingModel":[
+                     "CPM"
+                  ],
+                  "pricingUnit1":"Thousand Impressions",
+                  "minimumQtyUnit1":500,
+                  "cardRate":90,
+                  "discountedRate":85.5,
+                  "vendorRate":81.23,
+                  "imageUrl":"/images/mediaOptions/digital
+/window.png"
+               },
+               "mediaOption3":{
+                  "name":"Banner",
+                  "showName":"Page Push + Roadblock - Banner, Home Page",
+                  "description":"Page Push + Roadblock is an ad which expands and pushes down the content of the web page
+ once the cursor is placed on the ad and all other ads on the web page are utilised by the advertiser
+.",
+                  "pricingModel":[
+                     "CPM"
+                  ],
+                  "pricingUnit1":"Thousand Impressions",
+                  "minimumQtyUnit1":500,
+                  "cardRate":90,
+                  "discountedRate":85.5,
+                  "vendorRate":81.23,
+                  "imageUrl":"/images/mediaOptions/digital/oneee.png"
+               }
+            }
+         },
+         "serviceTaxPercentage":15,
+         "attributes":{
+            "medium":{
+               "value":"Website"
+            }
+         },
+         "minimumBilling":45000,
+         "categoryName":"News",
+         "cardRate":45000
+      }
+   ]
+}

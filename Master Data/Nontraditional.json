@@ -1,0 +1,946 @@
+{
+   "count":2490,
+   "medias":[
+      {
+         "_id":"55f895968ead0e7e228b4d96",
+         "logo":"/images/medias/55f895968ead0e7e228b4d96/55f895968ead0e7e228b4d96.jpg",
+         "name":"IRCTC Catering - All India",
+         "urlSlug":"irctc-catering-all-india-advertising-2063",
+         "geography":{
+            "_id":"56d447be8ead0e58078b4567",
+            "country":"India",
+            "state":"All India",
+            "pincode":"560001"
+         },
+         "serviceTaxPercentage":15,
+         "mediaOptions":{
+            "regularOptions":{
+               "mediaOption10":{
+                  "imageUrl":"/images/mediaOptions/nonTraditional/drink156.png",
+                  "minimumQtyUnit2":1,
+                  "minimumQtyUnit1":10700,
+                  "vendorRate":1.09,
+                  "discountedRate":1.28,
+                  "cardRate":1.5,
+                  "pricingUnit2":"Train",
+                  "pricingUnit1":"Tea Kit",
+                  "description":"Ad placed with thetea kit given to the passengers.",
+                  "showName":"Paper Tea Kit"
+               },
+               "mediaOption9":{
+                  "imageUrl":"/images/mediaOptions/nonTraditional/bags19.png",
+                  "minimumQtyUnit2":1,
+                  "minimumQtyUnit1":4300,
+                  "vendorRate":7.23,
+                  "discountedRate":8.5,
+                  "cardRate":10,
+                  "pricingUnit2":"Train",
+                  "pricingUnit1":"Carry Bag",
+                  "description":"Ad printed on the carry bag given to the passengers.",
+                  "showName":"Paper Carry Bag"
+               },
+               "mediaOption8":{
+                  "imageUrl":"/images/mediaOptions/nonTraditional/overcoat.png",
+                  "minimumQtyUnit2":1,
+                  "minimumQtyUnit1":40,
+                  "vendorRate":1806                  .25,
+                  "discountedRate":2125,
+                  "cardRate":2500,
+                  "pricingUnit2":"Train",
+                  "pricingUnit1":"Uniform",
+                  "description":"Ad printed on the uniform of the IRCTC staff. Ad will be placed on the front,back & sleeves of the shirt.",
+                  "showName":"IRCTC Staff Uniform"
+               },
+               "mediaOption7":{
+                  "imageUrl":"/images/mediaOptions/nonTraditional/water38.png",
+                  "minimumQtyUnit2":1,
+                  "minimumQtyUnit1":71500,
+                  "vendorRate":1.09,
+                  "discountedRate":1.28,
+                  "cardRate":1.5,
+                  "pricingUnit2":"Train",
+                  "pricingUnit1":"Water Bottle",
+                  "description":"Ad printed on the wrapper of the bottle given to the passengers.",
+                  "showName":"Water Bottle Wrapper"
+               },
+               "mediaOption6":{
+                  "imageUrl":"/images/mediaOptions/nonTraditional/breakfast17.png",
+                  "minimumQtyUnit2":1,
+                  "minimumQtyUnit1":26000,
+                  "vendorRate":1.45,
+                  "discountedRate":1.7,
+                  "cardRate":2,
+                  "pricingUnit2":"Train",
+                  "pricingUnit1":"Sandwich Box",
+                  "description":"Ad printed on the box in which the food is given to the passenger.",
+                  "showName":"Food Box"
+               },
+               "mediaOption5":{
+                  "imageUrl":"/images/mediaOptions/nonTraditional/Menu Cards.png",
+                  "minimumQtyUnit2":1,
+                  "minimumQtyUnit1":1,
+                  "vendorRate":25.29,
+                  "discountedRate":29.75,
+                  "cardRate":35,
+                  "pricingUnit2":"Train",
+                  "pricingUnit1":"Menu Card",
+                  "description":"Ad placed on the rear side of the menu given to the passengers.",
+                  "showName":"Paper Menu Card"
+               },
+               "mediaOption4":{
+                  "imageUrl":"/images/mediaOptions/nonTraditional/milk.png",
+                  "minimumQtyUnit2":1,
+                  "minimumQtyUnit1":1100,
+                  "vendorRate":180.63,
+                  "discountedRate":212.5,
+                  "cardRate":250,
+                  "pricingUnit2":"Train",
+                  "pricingUnit1":"Flask",
+                  "description":"Ad printed on the flask given to the passengers.",
+                  "showName":"Flask"
+               },
+               "mediaOption3":{
+                  "imageUrl":"/images/mediaOptions/nonTraditional/gymnasium8.png",
+                  "minimumQtyUnit2":1,
+                  "minimumQtyUnit1":83500,
+                  "vendorRate":1.81,
+                  "discountedRate":2.13,
+                  "cardRate":2.5,
+                  "pricingUnit2":"Train",
+                  "pricingUnit1":"Tray Mat",
+                  "description":"Ad will be printed on a paper and placed on the tray given to the passengers.",
+                  "showName":"Paper Tray Mat"
+               },
+               "mediaOption2":{
+                  "imageUrl":"/images/mediaOptions/nonTraditional/coffeeshop12.png",
+                  "minimumQtyUnit2":1,
+                  "minimumQtyUnit1":64300,
+                  "vendorRate":1.45,
+                  "discountedRate":1.7,
+                  "cardRate":2,
+                  "pricingUnit2":"Train",
+                  "pricingUnit1":"Cup",
+                  "description":"Ad will be printed on the paper cups to the passengers served.",
+                  "showName":"Paper Cup"
+               },
+               "mediaOption1":{
+                  "imageUrl":"/images/mediaOptions/nonTraditional/tissue1.png",
+                  "minimumQtyUnit2":1,
+                  "minimumQtyUnit1":128600,
+                  "vendorRate":0.37,
+                  "discountedRate":0.43,
+                  "cardRate":0.5,
+                  "pricingUnit2":"Train",
+                  "pricingUnit1":"Napkin",
+                  "description":"Ad will be placed on the paper napkins served with the food. Total of 140 trains are available.",
+                  "showName":"Paper Napkin"
+               }
+            }
+         },
+         "attributes":{
+            "reach":{
+               "showName":"Est. Reach",
+               "value":"18,900,000"
+            }
+         },
+         "note":"The above prices are exclusive of Printing and Mounting charges, if applicable"
+      },
+      {
+         "_id":"55f896ef8ead0e78178b457f",
+         "logo":"/images/medias/55f896ef8ead0e78178b457f/55f896ef8ead0e78178b457f.jpg",
+         "name":"Cab - Delhi",
+         "urlSlug":"delhi-cab-advertising-23",
+         "geography":{
+            "_id":"572893b48ead0e3d44643152",
+            "country":"India",
+            "state":"Delhi NCR",
+            "city":"Delhi",
+            "pincode":"110001"
+         },
+         "serviceTaxPercentage":15,
+         "mediaOptions":{
+            "meruCab":{
+               "mediaOption1":{
+                  "showName":"External Branding - Meru Cabs",
+                  "description":"Ads are pasted on the 4 doors and in a few cases on the trunk of the car.",
+                  "pricingUnit1":"Cab",
+                  "pricingUnit2":"Month",
+                  "cardRate":10000,
+                  "discountedRate":8500,
+                  "vendorRate":7225,
+                  "minimumQtyUnit1":10,
+                  "minimumQtyUnit2":1,
+                  "imageUrl":"/images/mediaOptions/nonTraditional/taxi10.png"
+               },
+               "mediaOption2":{
+                  "showName":"Internal Branding - Meru Cabs",
+                  "description":"Ads are put on driver seat back and on 2 door handles inside the car",
+                  "pricingUnit1":"Car",
+                  "pricingUnit2":"Month",
+                  "cardRate":5000,
+                  "discountedRate":4250,
+                  "vendorRate":3612.5,
+                  "minimumQtyUnit1":10,
+                  "minimumQtyUnit2":1,
+                  "imageUrl":"/images/mediaOptions/nonTraditional/cars16.png"
+               },
+               "mediaOption3":{
+                  "showName":"Seat Cover - Meru Cabs",
+                  "description":"Ads are displayed on the seat covers in the cabs.",
+                  "pricingUnit1":"Cab",
+                  "pricingUnit2":"Month",
+                  "cardRate":3500,
+                  "discountedRate":2975,
+                  "vendorRate":2528.75,
+                  "minimumQtyUnit1":10,
+                  "minimumQtyUnit2":1,
+                  "imageUrl":"/images/mediaOptions/nonTraditional/cars16.png"
+               },
+               "mediaOption4":{
+                  "showName":"Product Sampling - Meru Cabs",
+                  "description":"Products can be sampled to the passengers. Drivers handover these samplesat end of the trip",
+                  "pricingUnit1":"Cab",
+                  "pricingUnit2":"Month",
+                  "cardRate":2500,
+                  "discountedRate":2125,
+                  "vendorRate":1806.25,
+                  "minimumQtyUnit1":10,
+                  "minimumQtyUnit2":1,
+                  "imageUrl":"/images/mediaOptions/nonTraditional/Sampling.png"
+               },
+               "mediaOption5":{
+                  "showName":"Luggage Boot - Meru Cab",
+                  "description":"Ads dispalyed onthe Luggage Boot of the cabs,its also a part of External Branding.",
+                  "pricingUnit1":"Cab",
+                  "pricingUnit2":"Month",
+                  "cardRate":2500,
+                  "discountedRate":2125,
+                  "vendorRate":1806.25,
+                  "minimumQtyUnit1":10,
+                  "minimumQtyUnit2":1,
+                  "imageUrl":"/images/mediaOptions/nonTraditional/cab.png"
+               },
+               "mediaOption6":{
+                  "showName":"Back Panel -Meru Cabs",
+                  "description":"Ads are displayed on the back of the cab, Its also a part of External Branding.",
+                  "pricingUnit1":"Cab",
+                  "pricingUnit2":"Month",
+                  "cardRate":2500,
+                  "discountedRate":2125,
+                  "vendorRate":1806                  .25,
+                  "minimumQtyUnit1":10,
+                  "minimumQtyUnit2":1,
+                  "imageUrl":"/images/mediaOptions/nonTraditional/Panel.png"
+               },
+               "mediaOption7":{
+                  "showName":"Roof Top - Meru Cabs",
+                  "description":"Ads are displayed on the roof top (on top) of the cabs.",
+                  "pricingUnit1":"Cab",
+                  "pricingUnit2":"Month",
+                  "cardRate":2000,
+                  "discountedRate":1700,
+                  "vendorRate":1445,
+                  "minimumQtyUnit1":10,
+                  "minimumQtyUnit2":1,
+                  "imageUrl":"/images/mediaOptions/nonTraditional/transport81.png"
+               },
+               "mediaOption8":{
+                  "showName":"SMS Campaign - Meru Cabs",
+                  "description":"SMS Ads sent to the valuable customers of the company.",
+                  "pricingUnit1":"SMS",
+                  "pricingUnit2":"Month",
+                  "cardRate":5,
+                  "discountedRate":4.25,
+                  "vendorRate":3.61,
+                  "minimumQtyUnit1":10000,
+                  "minimumQtyUnit2":1,
+                  "imageUrl":"/images/mediaOptions/nonTraditional/smartphone194.png"
+               },
+               "mediaOption9":{
+                  "showName":"Leaflet - Meru Cabs",
+                  "description":"Leaflets and catalouge Ads given out to the customers.",
+                  "pricingUnit1":"Cab",
+                  "pricingUnit2":"Month",
+                  "cardRate":5000,
+                  "discountedRate":4250,
+                  "vendorRate":3612.5,
+                  "minimumQtyUnit1":10,
+                  "minimumQtyUnit2":1,
+                  "imageUrl":"/images/mediaOptions/nonTraditional/stationery1.png"
+               }
+            }
+         },
+         "attributes":{
+            "reach":{
+               "value":"16,314,800",
+               "showName":"Est. Reach"
+            }
+         },
+         "note":"The above prices are exclusive of Printing and Mounting charges, if applicable"
+      },
+      {
+         "_id":"55f8956d8ead0e7e228b4831",
+         "logo":"/images/medias/55f8956d8ead0e7e228b4831/55f8956d8ead0e7e228b4831.jpg",
+         "name":"Newspaper Inserts - Bangalore",
+         "urlSlug":"newspaper-inserts-bangalore-advertising-1374",
+         "geography":{
+            "_id":"56bb199b8ead0e800d8b4b6a",
+            "country":"India",
+            "state":"Karnataka",
+            "city":"Bangalore",
+            "pincode":"560100"
+         },
+         "serviceTaxPercentage":15,
+         "mediaOptions":{
+            "regularOptions":{
+               "mediaOption1":{
+                  "imageUrl":"/images/mediaOptions/nonTraditional/stationery1.png",
+                  "minimumQtyUnit1":50000,
+                  "vendorRate":0.34,
+                  "discountedRate":0.4,
+                  "cardRate":0.47,
+                  "pricingUnit1":"Insert",
+                  "description":"Inserts or Pamphlets are placed inside the newspaper of your choice.",
+                  "showName":"Newspaper Insert"
+               }
+            }
+         },
+         "attributes":{
+            "reach":{
+               "showName":"Est.Reach",
+               "value":"3,002,800"
+            }
+         },
+         "note":"The above prices are exclusive of Printing and Mounting charges, if applicable"
+      },
+      {
+         "_id":"55f892ca8ead0e13278b456a",
+         "logo":"/images/medias/55f892ca8ead0e13278b456a/55f892ca8ead0e13278b456a.jpg",
+         "name":"AC Bus - Bangalore",
+         "urlSlug":"ac-bus-bangalore-advertising-1229",
+         "geography":{
+            "_id":"56bb196a8ead0e800d8b483a",
+            "country":"India",
+            "state":"Karnataka",
+            "city":"Bangalore",
+            "pincode":"560002"
+         },
+         "serviceTaxPercentage":15,
+         "mediaOptions":{
+            "cityACBus":{
+               "mediaOption5":{
+                  "showName":"Passenger Seat Back",
+                  "imageUrl":"/images/mediaOptions/nonTraditional/cars16.png",
+                  "minimumQtyUnit2":1,
+                  "minimumQtyUnit1":10,
+                  "vendorRate":4335,
+                  "discountedRate":5100,
+                  "cardRate":6000,
+                  "pricingUnit2":"Month",
+                  "pricingUnit1":"Bus",
+                  "description":"Ad is placed on the back side of the passenger's seat in city bus Vajra"
+               },
+               "mediaOption4":{
+                  "showName":"TV Screen",
+                  "imageUrl":"/images/mediaOptions/nonTraditional/tv28.png",
+                  "minimumQtyUnit2":1,
+                  "minimumQtyUnit1":100,
+                  "vendorRate":433.5,
+                  "discountedRate":510,
+                  "cardRate":600,
+                  "pricingUnit2":"Month",
+                  "pricingUnit1":"Bus",
+                  "description":"Ad can be placed in LCD Screen which is located in between driver's cabin and in front of passenger's seat in city bus Vajra.The ad will be displayed 2 times an hour for 10 Hrs a day and 30\ndays a month."
+               },
+               "mediaOption3":{
+                  "showName":"Driver Seat Back",
+                  "imageUrl":"/images/mediaOptions/nonTraditional/car186.png",
+                  "minimumQtyUnit2":1,
+                  "minimumQtyUnit1":5,
+                  "vendorRate":4335,
+                  "discountedRate":5100,
+                  "cardRate":6000,
+                  "pricingUnit2":"Month",
+                  "pricingUnit1":"Bus",
+                  "description":"Ad is placed on the back side of the driver's seat in city bus Vajra"
+               },
+               "mediaOption2":{
+                  "showName":"Grab Handles",
+                  "minimumQtyUnit2":1,
+                  "minimumQtyUnit1":10,
+                  "vendorRate":867,
+                  "discountedRate":1020,
+                  "cardRate":1200,
+                  "pricingUnit2":"Month",
+                  "pricingUnit1":"Bus",
+                  "description":"Ads can be placed on handles  which rise over all passengers inside the bus.There are 40 Grab handles in one bus\npassengers",
+                  "imageUrl":"/images/mediaOptions/nonTraditional/silhouette118.png"
+               },
+               "mediaOption1":{
+                  "showName":"Bus Wrap",
+                  "imageUrl":"/images/mediaOptions/nonTraditional/transport81.png",
+                  "minimumQtyUnit2":1,
+                  "minimumQtyUnit1":3,
+                  "vendorRate":79475,
+                  "discountedRate":93500,
+                  "cardRate":110000,
+                  "pricingUnit2":"Month",
+                  "pricingUnit1":"Bus",
+                  "description":"Full bus is externally wrapped with the ad covering an 400 sqft area"
+               }
+            },
+            "vayuVajraCityBusAndVayuVajraAirportBus":{
+               "mediaOption1":{
+                  "showName":"TV Screen",
+                  "imageUrl":"/images/mediaOptions/nonTraditional/tv28.png",
+                  "minimumQtyUnit2":1,
+                  "minimumQtyUnit1":150,
+                  "vendorRate":361.25,
+                  "discountedRate":425,
+                  "cardRate":500,
+                  "pricingUnit2":"Month",
+                  "pricingUnit1":"Bus",
+                  "description":"Ad can be placed in LCD Screen which is located in between driver's cabin and in front of passenger's seat in both Vayu City & Vayu Airport Buses.The ad will be displayed 2 times an hour for 10 Hrs a day and 30\ndays a month."
+               }
+            },
+            "vayuVajraAirportBus":{
+               "mediaOption3":{
+                  "imageUrl":"/images/mediaOptions/nonTraditional/cars16.png",
+                  "minimumQtyUnit2":1,
+                  "minimumQtyUnit1":10,
+                  "vendorRate":4335,
+                  "discountedRate":5100,
+                  "cardRate":6000,
+                  "pricingUnit2":"Month",
+                  "pricingUnit1":"Bus",
+                  "description":"Ad is placed on the back side of the passenger's seat in Vayu Airport Buses",
+                  "showName":"Passenger Seat Back"
+               },
+               "mediaOption2":{
+                  "imageUrl":"/images/mediaOptions/nonTraditional/tv28.png",
+                  "minimumQtyUnit2":1,
+                  "minimumQtyUnit1":50,
+                  "vendorRate":505.75,
+                  "discountedRate":595,
+                  "cardRate":700,
+                  "pricingUnit2":"Month",
+                  "pricingUnit1":"Bus",
+                  "description":"Ad can be placed in LCD Screen which is located in between driver's cabin and in front of passenger's seat in Vayu Airport Buses.The ad will be displayed 2 times an hour for 10 Hrs a day and 30\ndays a month.",
+                  "showName":"TV Screen"
+               },
+               "mediaOption1":{
+                  "imageUrl":"/images/mediaOptions/nonTraditional/car186.png",
+                  "minimumQtyUnit2":1,
+                  "minimumQtyUnit1":10,
+                  "vendorRate":5780,
+                  "discountedRate":6800,
+                  "cardRate":8000,
+                  "pricingUnit2":"Month",
+                  "pricingUnit1":"Bus",
+                  "description":"Ad is placed on the back side of the driver's seat in Airport bus Vayu",
+                  "showName":"Driver Seat Back"
+               }
+            }
+         },
+         "attributes":{
+            "reach":{
+               "showName":"Est. Reach",
+               "value":"8,443,700"
+            }
+         },
+         "note":"The above prices are exclusive of Printing and Mounting charges, if applicable"
+      },
+      {
+         "_id":"5604604cf3e78410788ba102",
+         "logo":"/images/medias/5604604cf3e78410788ba102/5604604cf3e78410788ba102.jpg",
+         "name":"IT Park - ITPL IT Park,Whitefield, Bangalore",
+         "urlSlug":"it-park-itpl-it-park-whitefield-bangalore-advertising-5207",
+         "serviceTaxPercentage":15,
+         "mediaOptions":{
+            "regularOptions":{
+               "mediaOption1":{
+                  "showName":"Elevator",
+                  "description":"Ads are placed inside the lift walls and on the doors",
+                  "pricingUnit1":"Lift",
+                  "pricingUnit2":"Month",
+                  "cardRate":22000,
+                  "discountedRate":18700,
+                  "vendorRate":15895,
+                  "minimumQtyUnit1":1,
+                  "minimumQtyUnit2":1,
+                  "imageUrl":"/images/mediaOptions/nonTraditional/lift1.png"
+               },
+               "mediaOption2":{
+                  "showName":"Pedal Dock",
+                  "description":"An ad placed at the Pedal Dock Hoarding beside Innovator, Park Square Mall Escalator, Navigator, & Aviator.",
+                  "pricingUnit1":"Unit",
+                  "pricingUnit2":"Month",
+                  "cardRate":80000,
+                  "discountedRate":68000,
+                  "vendorRate":57800,
+                  "minimumQtyUnit1":4,
+                  "minimumQtyUnit2":1,
+                  "imageUrl":"/images/mediaOptions/nonTraditional/stand.png"
+               },
+               "mediaOption3":{
+                  "showName":"Side Panel",
+                  "description":"An ad placed at the Pedal Dock Side Panel beside Innovator, Park Square Mall Escalator, Navigator, & Aviator.",
+                  "pricingUnit1":"Unit",
+                  "pricingUnit2":"Month",
+                  "cardRate":35000,
+                  "discountedRate":29750,
+                  "vendorRate":25287.5,
+                  "minimumQtyUnit1":8,
+                  "minimumQtyUnit2":1,
+                  "imageUrl":"/images/mediaOptions/nonTraditional/Panel.png"
+               },
+               "mediaOption4":{
+                  "showName":"Car Park Signage",
+                  "description":"Well designed Signages displaying the ad of a product is installed in car parking areas of the IT parks",
+                  "pricingUnit1":"Signage",
+                  "pricingUnit2":"Month",
+                  "cardRate":12500,
+                  "discountedRate":10625,
+                  "vendorRate":9031.25,
+                  "minimumQtyUnit1":1,
+                  "minimumQtyUnit2":1,
+                  "imageUrl":"/images/mediaOptions/nonTraditional/carparking.png"
+               },
+               "mediaOption5":{
+                  "showName":"Pillar",
+                  "description":"Pillars inside the foodcourt is wrapped with the advertisement of a product",
+                  "pricingUnit1":"Pillar",
+                  "pricingUnit2":"Month",
+                  "cardRate":14450,
+                  "discountedRate":12282.5,
+                  "vendorRate":10440.13,
+                  "minimumQtyUnit1":1,
+                  "minimumQtyUnit2":1,
+                  "imageUrl":"/images/mediaOptions/nonTraditional/Pillar.png"
+               },
+               "mediaOption6":{
+                  "showName":"Poster Frame",
+                  "description":"Ads are placed on poster holders inside the IT park",
+                  "pricingUnit1":"Frame",
+                  "pricingUnit2":"Month",
+                  "cardRate":3000,
+                  "discountedRate":2550,
+                  "vendorRate":2167.5,
+                  "minimumQtyUnit1":10,
+                  "minimumQtyUnit2":1,
+                  "imageUrl":"/images/mediaOptions/nonTraditional/Panel.png"
+               },
+               "mediaOption7":{
+                  "showName":"Retail Area Facade",
+                  "description":"Retails area facade is basically the area which is comprised of large retail stores inside any IT Park and in the same area display ad is installed.",
+                  "pricingUnit1":"Facade",
+                  "pricingUnit2":"Month",
+                  "cardRate":150000,
+                  "discountedRate":127500,
+                  "vendorRate":108375,
+                  "minimumQtyUnit1":1,
+                  "minimumQtyUnit2":1,
+                  "imageUrl":"/images/mediaOptions/nonTraditional/windows56.png"
+               },
+               "mediaOption8":{
+                  "showName":"Event Promotion",
+                  "description":"Event Conducted in the IT Park",
+                  "pricingUnit1":"Day",
+                  "cardRate":34000,
+                  "discountedRate":28900,
+                  "vendorRate":24565,
+                  "minimumQtyUnit1":1,
+                  "imageUrl":"/images/mediaOptions/nonTraditional/calendar146.png"
+               },
+               "mediaOption9":{
+                  "showName":"TV Screen",
+                  "description":"Live video screens have a mix of content and ads. Ads are shown at least 5 times/ hour and the screens are active for about 10-12 hrs in a day.",
+                  "pricingUnit1":"Screen",
+                  "pricingUnit2":"Day",
+                  "cardRate":100,
+                  "discountedRate":85,
+                  "vendorRate":72.25,
+                  "minimumQtyUnit1":10,
+                  "minimumQtyUnit2":1,
+                  "imageUrl":"/images/mediaOptions/nonTraditional/tv28.png"
+               }
+            }
+         },
+         "attributes":{
+            "reach":{
+               "value":"1,350,000",
+               "showName":"Est. Reach"
+            }
+         },
+         "note":"The above prices are exclusive of Printing and Mounting charges, if applicable"
+      },
+      {
+         "_id":"5604604cf3e78410788ba107",
+         "logo":"/images/medias/5604604cf3e78410788ba107/5604604cf3e78410788ba107.jpg",
+         "name":"IT Park - Manyata Tech Park,Hebbal Kempapura, Bangalore",
+         "urlSlug":"it-park-manyata-tech-park-hebbal-kempapura-bangalore-advertising-5212",
+         "serviceTaxPercentage":15,
+         "mediaOptions":{
+            "regularOptions":{
+               "mediaOption1":{
+                  "showName":"Elevator",
+                  "description":"Ads are placed inside the lift walls and on the doors, 2 units present",
+                  "pricingUnit1":"Lift",
+                  "pricingUnit2":"Month",
+                  "cardRate":35000,
+                  "discountedRate":29750,
+                  "vendorRate":25287.5,
+                  "minimumQtyUnit1":1,
+                  "minimumQtyUnit2":1,
+                  "imageUrl":"/images/mediaOptions/nonTraditional/lift1.png"
+               },
+               "mediaOption2":{
+                  "showName":"Pillar",
+                  "description":"On the Pillars of the IT park well designed display frames of any product is pasted.",
+                  "pricingUnit1":"Pillar Frame",
+                  "pricingUnit2":"Month",
+                  "cardRate":25000,
+                  "discountedRate":21250,
+                  "vendorRate":18062.5,
+                  "minimumQtyUnit1":1,
+                  "minimumQtyUnit2":1,
+                  "imageUrl":"/images/mediaOptions/nonTraditional/Pillar.png"
+               },
+               "mediaOption3":{
+                  "showName":"Car Park Signage",
+                  "description":"Well designed Signages displaying the ad of a product is installed in car parking areas of the IT parks",
+                  "pricingUnit1":"Signage",
+                  "pricingUnit2":"Month",
+                  "cardRate":12000,
+                  "discountedRate":10200,
+                  "vendorRate":8670,
+                  "minimumQtyUnit1":1,
+                  "minimumQtyUnit2":1,
+                  "imageUrl":"/images/mediaOptions/nonTraditional/carparking.png"
+               },
+               "mediaOption4":{
+                  "showName":"Pillar - Food Court",
+                  "description":"Pillars inside the foodcourt is wrapped with the advertisement of a product",
+                  "pricingUnit1":"Pillar",
+                  "pricingUnit2":"Month",
+                  "cardRate":21650,
+                  "discountedRate":18402.5,
+                  "vendorRate":15642.13,
+                  "minimumQtyUnit1":1,
+                  "minimumQtyUnit2":1,
+                  "imageUrl":"/images/mediaOptions/nonTraditional/Pillar.png"
+               },
+               "mediaOption5":{
+                  "showName":"Poster Frame",
+                  "description":"Ads are placed on poster holders inside the IT park",
+                  "pricingUnit1":"Frame",
+                  "pricingUnit2":"Month",
+                  "cardRate":3000,
+                  "discountedRate":2550,
+                  "vendorRate":2167.5,
+                  "minimumQtyUnit1":10,
+                  "minimumQtyUnit2":1,
+                  "imageUrl":"/images/mediaOptions/nonTraditional/Panel.png"
+               },
+               "mediaOption6":{
+                  "showName":"Retail Area Facade",
+                  "description":"Retails area facade is basically the area which is comprised of large retail stores inside any IT Park and in the same area display ad is installed.",
+                  "pricingUnit1":"Facade",
+                  "pricingUnit2":"Month",
+                  "cardRate":150000,
+                  "discountedRate":127500,
+                  "vendorRate":108375,
+                  "minimumQtyUnit1":1,
+                  "minimumQtyUnit2":1,
+                  "imageUrl":"/images/mediaOptions/nonTraditional/windows56.png"
+               },
+               "mediaOption7":{
+                  "showName":"Event Promotion",
+                  "description":"Event Conducted in the IT Park",
+                  "pricingUnit1":"Day",
+                  "cardRate":44000,
+                  "discountedRate":37400,
+                  "vendorRate":31790,
+                  "minimumQtyUnit1":1,
+                  "imageUrl":"/images/mediaOptions/nonTraditional/calendar146.png"
+               }
+            }
+         },
+         "attributes":{
+            "reach":{
+               "value":"1,620,000",
+               "showName":"Est. Reach"
+            }
+         },
+         "note":"The above prices are exclusive of Printing and Mounting charges, if applicable"
+      },
+      {
+         "_id":"55f896f68ead0e78178b4612",
+         "logo":"/images/medias/55f896f68ead0e78178b4612/55f896f68ead0e78178b4612.jpg",
+         "name":"Metro Station- Rajiv Chowk, Delhi",
+         "urlSlug":"delhi-metro-rajiv-chowk-station-advertising-116",
+         "geography":{
+            "_id":"572893e38ead0e3d446431ac",
+            "country":"India",
+            "state":"Delhi NCR",
+            "city":"Delhi",
+            "locality":"Sangam Vihar",
+            "pincode":"110080"
+         },
+         "serviceTaxPercentage":15,
+         "mediaOptions":{
+            "regularOptions":{
+               "mediaOption1":{
+                  "showName":"Back Lit Hoarding",
+                  "description":"Hoardings on the Lower Platform/Concourse",
+                  "pricingUnit1":"Hoarding",
+                  "pricingUnit2":"Month",
+                  "cardRate":72000,
+                  "discountedRate":61200,
+                  "vendorRate":52020,
+                  "minimumQtyUnit1":10,
+                  "minimumQtyUnit2":1,
+                  "imageUrl":"/images/mediaOptions/nonTraditional/Back Lit.png"
+               },
+               "mediaOption2":{
+                  "showName":"Platform - Digital Screen",
+                  "description":"Ads displayed on screens on the Lower Platform",
+                  "pricingUnit1":"Screen",
+                  "pricingUnit2":"Month",
+                  "cardRate":18000,
+                  "discountedRate":15300,
+                  "vendorRate":13005,
+                  "minimumQtyUnit1":5,
+                  "minimumQtyUnit2":1,
+                  "imageUrl":"/images/mediaOptions/nonTraditional/digital.png"
+               },
+               "mediaOption3":{
+                  "showName":"Back Lit Hoarding",
+                  "description":"Illuminated Hoarding at the Entranceof the Station.",
+                  "pricingUnit1":"Hoarding",
+                  "pricingUnit2":"Month",
+                  "cardRate":120000,
+                  "discountedRate":102000,
+                  "vendorRate":86700,
+                  "minimumQtyUnit1":10,
+                  "minimumQtyUnit2":1,
+                  "imageUrl":"/images/mediaOptions/nonTraditional/Back Lit.png"
+               },
+               "mediaOption4":{
+                  "showName":"Back Lit Standee",
+                  "description":"A large self-standing display at the entrance of the Metro Station.",
+                  "pricingUnit1":"Standee",
+                  "pricingUnit2":"Month",
+                  "cardRate":60000,
+                  "discountedRate":51000,
+                  "vendorRate":43350,
+                  "minimumQtyUnit1":5,
+                  "minimumQtyUnit2":1,
+                  "imageUrl":"/images/mediaOptions/nonTraditional/Standee.png"
+               }
+            }
+         },
+         "attributes":{
+            "reach":{
+               "value":"71,580,000",
+               "showName":"Est. Reach"
+            }
+         },
+         "note":"The above prices are exclusive of Printing and Mounting charges, if applicable"
+      },
+      {
+         "_id":"55f898ef8ead0e7d228b58fe",
+         "logo":"/images/medias/55f898ef8ead0e7d228b58fe/55f898ef8ead0e7d228b58fe.jpg",
+         "name":"Railway Station - Pune",
+         "urlSlug":"railway-station-pune-advertising-1214",
+         "geography":{
+            "_id":"56bb18f48ead0e800d8b456f",
+            "country":"India",
+            "state":"Maharashtra",
+            "city":"Pune",
+            "pincode":"411001"
+         },
+         "serviceTaxPercentage":15,
+         "mediaOptions":{
+            "regularOptions":{
+               "mediaOption1":{
+                  "showName":"Back Lit Board 2 Sided",
+                  "description":"An Add placed on a 2 sided back lit board on Platform 1",
+                  "pricingUnit1":"Board",
+                  "pricingUnit2":"Month",
+                  "cardRate":11111,
+                  "discountedRate":9444.35,
+                  "vendorRate":8027.7,
+                  "minimumQtyUnit1":1,
+                  "minimumQtyUnit2":1,
+                  "imageUrl":"/images/mediaOptions/nonTraditional/Back Lit.png"
+               },
+               "mediaOption2":{
+                  "showName":"Back Lit Board 3 Sided",
+                  "description":"Ad placed on a 3 sided back lit board on Platform1",
+                  "pricingUnit1":"Board",
+                  "pricingUnit2":"Month",
+                  "cardRate":16667,
+                  "discountedRate":14166.95,
+                  "vendorRate":12041.91,
+                  "minimumQtyUnit1":1,
+                  "minimumQtyUnit2":1,
+                  "imageUrl":"/images/mediaOptions/nonTraditional/BackLit.png"
+               },
+               "mediaOption3":{
+                  "showName":"Back Lit Board 4 Sided",
+                  "description":"An Ad placed on a 4 sided back lit board on Platform 1",
+                  "pricingUnit1":"Board",
+                  "pricingUnit2":"Month",
+                  "cardRate":25000,
+                  "discountedRate":21250,
+                  "vendorRate":18062.5,
+                  "minimumQtyUnit1":1,
+                  "minimumQtyUnit2":1,
+                  "imageUrl":"/images/mediaOptions/nonTraditional/Back Lit.png"
+               },
+               "mediaOption4":{
+                  "showName":"Non Lit Board 1 Sided",
+                  "description":"Ad placed on a 1 sided non lit board on Platform 2",
+                  "pricingUnit1":"Board",
+                  "pricingUnit2":"Month",
+                  "cardRate":1450,
+                  "discountedRate":1232.5,
+                  "vendorRate":1047.63,
+                  "minimumQtyUnit1":1,
+                  "minimumQtyUnit2":1,
+                  "imageUrl":"/images/mediaOptions/nonTraditional/Signage.png"
+               },
+               "mediaOption5":{
+                  "showName":"Non Lit 2 Sided Board",
+                  "description":"Ad Placed on a 2 sided non lit board on Platform 2",
+                  "pricingUnit1":"Board",
+                  "pricingUnit2":"Month",
+                  "cardRate":2880,
+                  "discountedRate":2448,
+                  "vendorRate":2080.8,
+                  "minimumQtyUnit1":6,
+                  "minimumQtyUnit2":1,
+                  "imageUrl":"/images/mediaOptions/nonTraditional/Ambient.png"
+               },
+               "mediaOption6":{
+                  "showName":"Non Lit 3 Sided Board",
+                  "description":"Ad placed on a 3 sided non lit board on plat form 2",
+                  "pricingUnit1":"Board",
+                  "pricingUnit2":"Month",
+                  "cardRate":4500,
+                  "discountedRate":3825,
+                  "vendorRate":3251.25,
+                  "minimumQtyUnit1":8,
+                  "minimumQtyUnit2":1,
+                  "imageUrl":"/images/mediaOptions/nonTraditional/Ambient.png"
+               },
+               "mediaOption7":{
+                  "showName":"Non Lit4 Sided Board",
+                  "description":"Ad placed on a 4 sided non lit board",
+                  "pricingUnit1":"Board",
+                  "pricingUnit2":"Month",
+                  "cardRate":5761,
+                  "discountedRate":4896.85,
+                  "vendorRate":4162.32,
+                  "minimumQtyUnit1":11,
+                  "minimumQtyUnit2":1,
+                  "imageUrl":"/images/mediaOptions/nonTraditional/Ambient.png"
+               },
+               "mediaOption8":{
+                  "showName":"Non Lit Board 1 Sided Board",
+                  "description":"Ad placed on 1 sided non lit board on Platform 3",
+                  "pricingUnit1":"Board",
+                  "pricingUnit2":"Month",
+                  "cardRate":1500,
+                  "discountedRate":1275,
+                  "vendorRate":1083.75,
+                  "minimumQtyUnit1":1,
+                  "minimumQtyUnit2":1,
+                  "imageUrl":"/images/mediaOptions/nonTraditional/Signage.png"
+               },
+               "mediaOption9":{
+                  "showName":"Non Lit 2 Sided",
+                  "description":"Ad placed on 2 sided non lit board on platform 3",
+                  "pricingUnit1":"Board",
+                  "pricingUnit2":"Month",
+                  "cardRate":2954,
+                  "discountedRate":2510.9,
+                  "vendorRate":2134.27,
+                  "minimumQtyUnit1":7,
+                  "minimumQtyUnit2":1,
+                  "imageUrl":"/images/mediaOptions/nonTraditional/Ambient.png"
+               },
+               "mediaOption10":{
+                  "showName":"Non Lit 3 Sided Board",
+                  "description":"Ad placed on 3 sided non lit board on Platform 3",
+                  "pricingUnit1":"Board",
+                  "pricingUnit2":"Month",
+                  "cardRate":4435,
+                  "discountedRate":3769.75,
+                  "vendorRate":3204.29,
+                  "minimumQtyUnit1":12,
+                  "minimumQtyUnit2":1,
+                  "imageUrl":"/images/mediaOptions/nonTraditional/Ambient.png"
+               }
+            }
+         },
+         "attributes":{
+            "reach":{
+               "value":"3,115,400",
+               "showName":"Est. Reach"
+            }
+         },
+         "note":"The above prices are exclusive of Printing and Mounting charges, if applicable"
+      },
+      {
+         "_id":"560464258ead0ee570f60935",
+         "logo":"/images/medias/560464258ead0ee570f60935/560464258ead0ee570f60935.jpg",
+         "name":"Tram - Kolkata",
+         "urlSlug":"tram-kolkata-advertising-9995",
+         "geography":{
+            "_id":"56bb1b7b8ead0e7f0d8b470a",
+            "country":"India",
+            "state":"West Bengal",
+            "city":"Kolkata",
+            "pincode":"700054"
+         },
+         "serviceTaxPercentage":15,
+         "mediaOptions":{
+            "regularOptions":{
+               "mediaOption1":{
+                  "showName":"Old Tram - Complete Branding",
+                  "description":"Each tram consists of 2 bogies both of which can be completely branded. These trams are the old trams functioning in the city.",
+                  "pricingUnit1":"Tram",
+                  "pricingUnit2":"Month",
+                  "cardRate":36500,
+                  "discountedRate":31025,
+                  "vendorRate":26371.25,
+                  "minimumQtyUnit1":1,
+                  "minimumQtyUnit2":1,
+                  "imageUrl":"/images/mediaOptions/nonTraditional/tram8.png"
+               },
+               "mediaOption2":{
+                  "showName":"New Tram - Complete Branding",
+                  "description":"Each tram consists of 2 bogies both of which can be completely branded. These trams are the new trams functioning in the city.",
+                  "pricingUnit1":"Tram",
+                  "pricingUnit2":"Month",
+                  "cardRate":85000,
+                  "discountedRate":72250,
+                  "vendorRate":61412.5,
+                  "minimumQtyUnit1":1,
+                  "minimumQtyUnit2":1,
+                  "imageUrl":"/images/mediaOptions/nonTraditional/tram8.png"
+               }
+            }
+         },
+         "attributes":{
+            "reach":{
+               "value":"4,496,700",
+               "showName":"Est. Reach"
+            }
+         },
+         "note":"The above prices are exclusive of Printing and Mounting charges, if applicable"
+      }
+   ]
+}

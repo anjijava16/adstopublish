@@ -1,0 +1,4074 @@
+{
+   "medias":[
+      {
+         "_id":"55e986da8ead0e42788b4c58",
+         "urlSlug":"times-of-india-main-noida",
+         "editionName":"Main",
+         "categoryId":[
+            "55d70b748ead0e960c8b4567"
+         ],
+         "geography":[
+            "56cc3c778ead0e53478b4600"
+         ],
+         "mediaOptions":{
+            "otherOptions":{
+               "skyBus":{
+                  "vendorRate":"38394",
+                  "discountedRate":"45169",
+                  "discount%":25,
+                  "minimumQtyUnit1":1,
+                  "pricingUnit1":"Day",
+                  "imageUrl":"/images/mediaOptions/newspaper/skyBus.png",
+                  "cardRate":"60225"
+               },
+               "pointerAd":{
+                  "vendorRate":"174516",
+                  "discountedRate":"205313",
+                  "discount%":25,
+                  "minimumQtyUnit1":1,
+                  "pricingUnit1":"Day",
+                  "imageUrl":"/images/mediaOptions/newspaper/pointerAd.png",
+                  "cardRate":"273750"
+               },
+               "jacketFrontInside":{
+                  "vendorRate":"798584",
+                  "discountedRate":"939510",
+                  "discount%":25,
+                  "minimumQtyUnit1":1,
+                  "pricingUnit1":"Day",
+                  "imageUrl":"/images/mediaOptions/newspaper/jacketFrontInside.png",
+                  "cardRate":"1252680"
+               },
+               "jacketFrontPage":{
+                  "vendorRate":"399292",
+                  "discountedRate":"469755",
+                  "discount%":25,
+                  "minimumQtyUnit1":1,
+                  "pricingUnit1":"Day",
+                  "imageUrl":"/images/mediaOptions/newspaper/jacketFrontPage.png",
+                  "cardRate":"626340"
+               }
+            },
+            "regularOptions":{
+               "anyPage":{
+                  "minimumQtyUnit":1,
+                  "pricingUnit":"Sq Cm",
+                  "minimumQtyUnit2":8,
+                  "pricingUnit2":"height",
+                  "minimumQtyUnit1":12,
+                  "pricingUnit1":"width",
+                  "imageUrl":"/images/mediaOptions/newspaper/anyPage.png",
+                  "cardRate":290,
+                  "discountedRate":261,
+                  "vendorRate":222
+               },
+               "lastPage":{
+                  "minimumQtyUnit":1,
+                  "pricingUnit":"Sq Cm",
+                  "minimumQtyUnit2":8,
+                  "pricingUnit2":"height",
+                  "minimumQtyUnit1":12,
+                  "pricingUnit1":"width",
+                  "imageUrl":"/images/mediaOptions/newspaper/lastPage
+.png",
+                  "cardRate":325,
+                  "discountedRate":293,
+                  "vendorRate":249
+               },
+               "page3":{
+                  "minimumQtyUnit":1,
+                  "pricingUnit":"Sq Cm",
+                  "minimumQtyUnit2":8,
+                  "pricingUnit2":"height",
+                  "minimumQtyUnit1":12,
+                  "pricingUnit1":"width",
+                  "imageUrl":"/images/mediaOptions/newspaper/page3.png",
+                  "cardRate":325,
+                  "discountedRate":293,
+                  "vendorRate":249
+               },
+               "page1":{
+                  "minimumQtyUnit2":12,
+                  "minimumQtyUnit1":20,
+                  "pricingUnit2":"height",
+                  "pricingUnit1":"width",
+                  "minimumQtyUnit":1,
+                  "pricingUnit":"Sq Cm",
+                  "imageUrl":"/images/mediaOptions/newspaper/page1.png",
+                  "cardRate":365,
+                  "discountedRate":329,
+                  "vendorRate":280
+               }
+            }
+         },
+         "logo":"/images/medias/55e986da8ead0e42788b4c58/55e986da8ead0e42788b4c58.jpg",
+         "name":"Times Of India - Main, Noida",
+         "attributes":{
+            "categoryName":{
+               "value":"General Interest"
+            },
+            "circulation":{
+               "value":"35,000 copies"
+            },
+            "areaCovered":{
+               "value":"Noida",
+               "showName":"Edition"
+            },
+            "printDay":{
+               "value":"Daily"
+            },
+            "language":{
+               "value":"English"
+            }
+         },
+         "categoryName":"General Interest"
+      },
+      {
+         "_id":"55e986da8ead0e42788b4c16",
+         "urlSlug":"times-of-india-main-mumbai",
+         "editionName":"Main",
+         "categoryId":[
+            "55d70b748ead0e960c8b4567"
+         ],
+         "geography":[
+            "56cc3c4f8ead0e53478b459f"
+         ],
+         "mediaOptions":{
+            "classifiedOptions":{
+               "education":{
+                  "minimumQtyUnit1":1,
+                  "pricingUnit1":"Sq Cm",
+                  "imageUrl":"/images/mediaOptions/newspaper/education.png",
+                  "discountedRate":653,
+                  "cardRate":725
+               },
+               "retail":{
+                  "minimumQtyUnit1":1,
+                  "pricingUnit1":"Sq Cm",
+                  "imageUrl":"/images/mediaOptions
+/newspaper/retail.png",
+                  "discountedRate":653,
+                  "cardRate":725
+               },
+               "services":{
+                  "minimumQtyUnit1":1,
+                  "pricingUnit1":"Sq Cm",
+                  "imageUrl":"/images/mediaOptions/newspaper/services.png",
+                  "discountedRate":653,
+                  "cardRate":725
+               },
+               "publicNoticeAndTender":{
+                  "minimumQtyUnit1":1,
+                  "pricingUnit1":"Sq Cm",
+                  "imageUrl":"/images/mediaOptions
+/newspaper/publicNoticeAndTender.png",
+                  "discountedRate":315,
+                  "cardRate":350
+               },
+               "computers":{
+                  "minimumQtyUnit1":1,
+                  "pricingUnit1":"Sq Cm",
+                  "imageUrl":"/images/mediaOptions/newspaper/computers.png",
+                  "discountedRate":653,
+                  "cardRate":725
+               },
+               "travel":{
+                  "minimumQtyUnit1":1,
+                  "pricingUnit1":"Sq Cm",
+                  "imageUrl":"/images/mediaOptions
+/newspaper/travel.png",
+                  "discountedRate":653,
+                  "cardRate":725
+               },
+               "announcement":{
+                  "minimumQtyUnit1":1,
+                  "pricingUnit1":"Sq Cm",
+                  "imageUrl":"/images/mediaOptions/newspaper/announcement.png",
+                  "discountedRate":590,
+                  "cardRate":656
+               },
+               "vehicles":{
+                  "minimumQtyUnit1":1,
+                  "pricingUnit1":"Sq Cm",
+                  "imageUrl":"/images/mediaOptions/newspaper
+/vehicles.png",
+                  "discountedRate":653,
+                  "cardRate":725
+               },
+               "personal":{
+                  "minimumQtyUnit1":1,
+                  "pricingUnit1":"Sq
+ Cm",
+                  "imageUrl":"/images/mediaOptions/newspaper/personal.png",
+                  "discountedRate":563,
+                  "cardRate":625
+               },
+               "entertainment":{
+                  "minimumQtyUnit1":1,
+                  "pricingUnit1":"Sq Cm",
+                  "imageUrl":"/images/mediaOptions/newspaper/entertainment
+.png",
+                  "discountedRate":653,
+                  "cardRate":725
+               },
+               "astrology":{
+                  "minimumQtyUnit1":1,
+                  "pricingUnit1":"Sq Cm",
+                  "imageUrl":"/images/mediaOptions/newspaper/astrology.png",
+                  "discountedRate":653,
+                  "cardRate":725
+               },
+               "weddingArrangement":{
+                  "minimumQtyUnit1":1,
+                  "pricingUnit1":"Sq Cm",
+                  "imageUrl":"/images/mediaOptions/newspaper/weddingArrangement
+.png",
+                  "discountedRate":653,
+                  "cardRate":725
+               },
+               "business":{
+                  "minimumQtyUnit1":1,
+                  "pricingUnit1":"Sq Cm",
+                  "imageUrl":"/images/mediaOptions/newspaper/business.png",
+                  "discountedRate":653,
+                  "cardRate":725
+               },
+               "rent":{
+                  "minimumQtyUnit1":1,
+                  "pricingUnit1":"Sq Cm",
+                  "imageUrl":"/images/mediaOptions/newspaper/rent.png",
+                  "discountedRate":1089,
+                  "cardRate":1210
+               },
+               "property":{
+                  "minimumQtyUnit1":1,
+                  "pricingUnit1":"Sq Cm",
+                  "imageUrl":"/images/mediaOptions
+/newspaper/property.png",
+                  "discountedRate":1089,
+                  "cardRate":1210
+               },
+               "matrimonial":{
+                  "minimumQtyUnit1":1,
+                  "pricingUnit1":"Sq Cm",
+                  "imageUrl":"/images/mediaOptions/newspaper/matrimonial.png",
+                  "discountedRate":630,
+                  "cardRate":700
+               },
+               "recruitment":{
+                  "minimumQtyUnit1":1,
+                  "pricingUnit1":"Sq Cm",
+                  "imageUrl":"/images/mediaOptions/newspaper
+/recruitment.png",
+                  "discountedRate":1013,
+                  "cardRate":1125
+               }
+            },
+            "otherOptions":{
+               "skyBus":{
+                  "vendorRate":"819411",
+                  "discountedRate":"964013",
+                  "discount%":25,
+                  "minimumQtyUnit1":1,
+                  "pricingUnit1":"Day",
+                  "imageUrl":"/images
+/mediaOptions/newspaper/skyBus.png",
+                  "cardRate":"1285350"
+               },
+               "pointerAd":{
+                  "vendorRate":"3724594",
+                  "discountedRate":"4381875",
+                  "discount%":25,
+                  "minimumQtyUnit1":1,
+                  "pricingUnit1":"Day",
+                  "imageUrl":"/images/mediaOptions/newspaper
+/pointerAd.png",
+                  "cardRate":"5842500"
+               },
+               "jacketFrontInside":{
+                  "vendorRate":"17043741",
+                  "discountedRate":"20051460",
+                  "discount%":25,
+                  "minimumQtyUnit1":1,
+                  "pricingUnit1":"Day",
+                  "imageUrl":"/images/mediaOptions/newspaper/jacketFrontInside
+.png",
+                  "cardRate":"26735280"
+               },
+               "jacketFrontPage":{
+                  "vendorRate":"8521871",
+                  "discountedRate":"10025730",
+                  "discount
+%":25,
+                  "minimumQtyUnit1":1,
+                  "pricingUnit1":"Day",
+                  "imageUrl":"/images/mediaOptions/newspaper/jacketFrontPage
+.png",
+                  "cardRate":"13367640"
+               }
+            },
+            "regularOptions":{
+               "anyPage":{
+                  "vendorRate":3661,
+                  "discountedRate":4307,
+                  "cardRate":4785,
+                  "minimumQtyUnit":1,
+                  "pricingUnit":"Sq Cm",
+                  "minimumQtyUnit2":8,
+                  "pricingUnit2":"height",
+                  "minimumQtyUnit1":12,
+                  "pricingUnit1":"width",
+                  "imageUrl":"/images/mediaOptions/newspaper/anyPage.png"
+               },
+               "lastPage":{
+                  "vendorRate":4559,
+                  "discountedRate":5364,
+                  "cardRate":5960,
+                  "minimumQtyUnit":1,
+                  "pricingUnit":"Sq Cm",
+                  "minimumQtyUnit2":8,
+                  "pricingUnit2":"height",
+                  "minimumQtyUnit1":12,
+                  "pricingUnit1":"width",
+                  "imageUrl":"/images/mediaOptions
+/newspaper/lastPage.png"
+               },
+               "page3":{
+                  "vendorRate":4338,
+                  "discountedRate":5103,
+                  "cardRate":5670,
+                  "minimumQtyUnit":1,
+                  "pricingUnit":"Sq Cm",
+                  "minimumQtyUnit2":8,
+                  "pricingUnit2":"height",
+                  "minimumQtyUnit1":12,
+                  "pricingUnit1":"width",
+                  "imageUrl":"/images/mediaOptions/newspaper/page3.png"
+               },
+               "page1":{
+                  "vendorRate":5959,
+                  "discountedRate":7011,
+                  "cardRate":7790,
+                  "minimumQtyUnit2":12,
+                  "minimumQtyUnit1":20,
+                  "pricingUnit2":"height",
+                  "pricingUnit1":"width",
+                  "minimumQtyUnit":1,
+                  "pricingUnit":"Sq Cm",
+                  "imageUrl":"/images/mediaOptions/newspaper/page1.png"
+               }
+            }
+         },
+         "logo":"/images/medias/55e986da8ead0e42788b4c16/55e986da8ead0e42788b4c16.jpg",
+         "name":"Times Of India
+ - Main, Mumbai",
+         "attributes":{
+            "categoryName":{
+               "value":"General Interest"
+            },
+            "circulation":{
+               "value":"1
+,026,153 copies"
+            },
+            "areaCovered":{
+               "showName":"Edition",
+               "value":"Mumbai"
+            },
+            "printDay":{
+               "value":"Daily"
+            },
+            "language":{
+               "value":"English"
+            }
+         },
+         "categoryName":"General Interest"
+      },
+      {
+         "_id":"55e986db8ead0e42788b4db3",
+         "urlSlug":"dashpur-express-main-neemuch",
+         "editionName":"Main",
+         "categoryId":[
+            "55d70b748ead0e960c8b4567"
+         ],
+         "geography":[
+            "56cc3cd18ead0e53478b469c"
+         ],
+         "mediaOptions":{
+            "blackAndWhiteOptions":{
+               "anyPage":{
+                  "minimumQtyUnit2":"8",
+                  "minimumQtyUnit1":"12",
+                  "minimumQtyUnit":"1",
+                  "pricingUnit2":"height",
+                  "pricingUnit1":"width",
+                  "pricingUnit":"Sq Cm",
+                  "vendorRate":"21",
+                  "discountedRate":23,
+                  "cardRate":25,
+                  "imageUrl":"/images/mediaOptions/newspaper
+/anyPage.png"
+               }
+            },
+            "regularOptions":{
+               "anyPage":{
+                  "imageUrl":"/images/mediaOptions/newspaper/anyPage.png",
+                  "pricingUnit1":"width",
+                  "minimumQtyUnit1":12,
+                  "pricingUnit2":"height",
+                  "minimumQtyUnit2":8,
+                  "pricingUnit":"Sq Cm",
+                  "minimumQtyUnit":1,
+                  "cardRate":42,
+                  "discountedRate":38,
+                  "vendorRate":32
+               }
+            }
+         },
+         "logo":"/images/medias
+/55e986db8ead0e42788b4db3/55e986db8ead0e42788b4db3.jpg",
+         "name":"Dashpur Express - Main, Neemuch",
+         "attributes":{
+            "categoryName":{
+               "value":"General Interest"
+            },
+            "circulation":{
+               "value":"36,683 copies"
+            },
+            "areaCovered":{
+               "value":"Neemuch",
+               "showName":"Edition"
+            },
+            "printDay":{
+               "value":"Daily"
+            },
+            "language":{
+               "value":"Hindi"
+            }
+         },
+         "categoryName":"General Interest"
+      },
+      {
+         "_id":"55e986db8ead0e42788b4d21",
+         "urlSlug":"daily-desher-katha-main-agartala",
+         "editionName":"Main",
+         "categoryId":[
+            "55d70b748ead0e960c8b4567"
+         ],
+         "geography":[
+            "56cc3c8c8ead0e53478b4626"
+         ],
+         "mediaOptions":{
+            "otherOptions":{
+               "skyBus":{
+                  "vendorRate":12623,
+                  "discountedRate":14850,
+                  "discount%":40,
+                  "minimumQtyUnit1":1,
+                  "pricingUnit1":"Day",
+                  "imageUrl":"/images/mediaOptions/newspaper/skyBus.png",
+                  "cardRate":24750
+               },
+               "pointerAd":{
+                  "vendorRate":45900,
+                  "discountedRate":54000,
+                  "discount%":40,
+                  "minimumQtyUnit1":1,
+                  "pricingUnit1":"Day",
+                  "imageUrl":"/images/mediaOptions/newspaper/pointerAd.png",
+                  "cardRate":90000
+               },
+               "jacketFrontInside":{
+                  "vendorRate":176180,
+                  "discountedRate":207270,
+                  "discount%":40,
+                  "minimumQtyUnit1":1,
+                  "pricingUnit1":"Day",
+                  "imageUrl":"/images
+/mediaOptions/newspaper/jacketFrontInside.png",
+                  "cardRate":518175
+               },
+               "jacketFrontPage":{
+                  "vendorRate":120809,
+                  "discountedRate":142128,
+                  "discount%":40,
+                  "minimumQtyUnit1":1,
+                  "pricingUnit1":"Day",
+                  "imageUrl":"/images
+/mediaOptions/newspaper/jacketFrontPage.png",
+                  "cardRate":435600
+               }
+            },
+            "regularOptions":{
+               "anyPage":{
+                  "vendorRate":48,
+                  "discountedRate":56,
+                  "cardRate":75,
+                  "minimumQtyUnit":1,
+                  "pricingUnit":"Sq Cm",
+                  "minimumQtyUnit2":8,
+                  "pricingUnit2":"height",
+                  "minimumQtyUnit1":12,
+                  "pricingUnit1":"width",
+                  "imageUrl":"/images/mediaOptions/newspaper/anyPage
+.png"
+               },
+               "lastPage":{
+                  "vendorRate":96,
+                  "discountedRate":113,
+                  "cardRate":150,
+                  "minimumQtyUnit":1,
+                  "pricingUnit":"Sq Cm",
+                  "minimumQtyUnit2":8,
+                  "pricingUnit2":"height",
+                  "minimumQtyUnit1":12,
+                  "pricingUnit1":"width",
+                  "imageUrl":"/images/mediaOptions/newspaper/lastPage.png"
+               },
+               "page3":{
+                  "vendorRate":48,
+                  "discountedRate":56,
+                  "cardRate":75,
+                  "minimumQtyUnit":1,
+                  "pricingUnit":"Sq Cm",
+                  "minimumQtyUnit2":8,
+                  "pricingUnit2":"height",
+                  "minimumQtyUnit1":12,
+                  "pricingUnit1":"width",
+                  "imageUrl":"/images/mediaOptions/newspaper/page3.png"
+               },
+               "page1":{
+                  "vendorRate":96,
+                  "discountedRate":113,
+                  "cardRate":150,
+                  "minimumQtyUnit2":12,
+                  "minimumQtyUnit1":20,
+                  "pricingUnit2":"height",
+                  "pricingUnit1":"width",
+                  "minimumQtyUnit":1,
+                  "pricingUnit":"Sq Cm",
+                  "imageUrl":"/images/mediaOptions/newspaper
+/page1.png"
+               }
+            }
+         },
+         "logo":"/images/medias/55e986db8ead0e42788b4d21/55e986db8ead0e42788b4d21.jpg",
+         "name":"Daily
+ Desher Katha - Main, Agartala",
+         "attributes":{
+            "categoryName":{
+               "value":"General Interest"
+            },
+            "circulation":{
+               "value":"44,676 copies"
+            },
+            "areaCovered":{
+               "showName":"Edition",
+               "value":"Agartala"
+            },
+            "printDay":{
+               "value":"Daily"
+            },
+            "language":{
+               "value":"Bengali"
+            }
+         },
+         "categoryName":"General Interest"
+      },
+      {
+         "_id":"55e986da8ead0e42788b4c1e",
+         "urlSlug":"times-of-india-main-bangalore",
+         "editionName":"Main",
+         "categoryId":[
+            "55d70b748ead0e960c8b4567"
+         ],
+         "geography":[
+            "56cc3c4d8ead0e53478b4596"
+         ],
+         "mediaOptions":{
+            "classifiedOptions":{
+               "education":{
+                  "minimumQtyUnit1":1,
+                  "pricingUnit1":"Sq Cm",
+                  "imageUrl":"/images/mediaOptions/newspaper/education.png",
+                  "discountedRate":639,
+                  "cardRate":710
+               },
+               "retail":{
+                  "minimumQtyUnit1":1,
+                  "pricingUnit1":"Sq Cm",
+                  "imageUrl":"/images/mediaOptions
+/newspaper/retail.png",
+                  "discountedRate":639,
+                  "cardRate":710
+               },
+               "services":{
+                  "minimumQtyUnit1":1,
+                  "pricingUnit1":"Sq Cm",
+                  "imageUrl":"/images/mediaOptions/newspaper/services.png",
+                  "discountedRate":639,
+                  "cardRate":710
+               },
+               "publicNoticeAndTender":{
+                  "minimumQtyUnit1":1,
+                  "pricingUnit1":"Sq Cm",
+                  "imageUrl":"/images/mediaOptions
+/newspaper/publicNoticeAndTender.png",
+                  "discountedRate":585,
+                  "cardRate":650
+               },
+               "computers":{
+                  "minimumQtyUnit1":1,
+                  "pricingUnit1":"Sq Cm",
+                  "imageUrl":"/images/mediaOptions/newspaper/computers.png",
+                  "discountedRate":405,
+                  "cardRate":450
+               },
+               "travel":{
+                  "minimumQtyUnit1":1,
+                  "pricingUnit1":"Sq Cm",
+                  "imageUrl":"/images/mediaOptions
+/newspaper/travel.png",
+                  "discountedRate":405,
+                  "cardRate":450
+               },
+               "announcement":{
+                  "minimumQtyUnit1":1,
+                  "pricingUnit1":"Sq Cm",
+                  "imageUrl":"/images/mediaOptions/newspaper/announcement.png",
+                  "discountedRate":373,
+                  "cardRate":414
+               },
+               "vehicles":{
+                  "minimumQtyUnit1":1,
+                  "pricingUnit1":"Sq Cm",
+                  "imageUrl":"/images/mediaOptions/newspaper
+/vehicles.png",
+                  "discountedRate":585,
+                  "cardRate":650
+               },
+               "personal":{
+                  "minimumQtyUnit1":1,
+                  "pricingUnit1":"Sq
+ Cm",
+                  "imageUrl":"/images/mediaOptions/newspaper/personal.png",
+                  "discountedRate":356,
+                  "cardRate":395
+               },
+               "entertainment":{
+                  "minimumQtyUnit1":1,
+                  "pricingUnit1":"Sq Cm",
+                  "imageUrl":"/images/mediaOptions/newspaper/entertainment
+.png",
+                  "discountedRate":626,
+                  "cardRate":695
+               },
+               "astrology":{
+                  "minimumQtyUnit1":1,
+                  "pricingUnit1":"Sq Cm",
+                  "imageUrl":"/images/mediaOptions/newspaper/astrology.png",
+                  "discountedRate":626,
+                  "cardRate":695
+               },
+               "weddingArrangement":{
+                  "minimumQtyUnit1":1,
+                  "pricingUnit1":"Sq Cm",
+                  "imageUrl":"/images/mediaOptions/newspaper/weddingArrangement
+.png",
+                  "discountedRate":626,
+                  "cardRate":695
+               },
+               "business":{
+                  "minimumQtyUnit1":1,
+                  "pricingUnit1":"Sq Cm",
+                  "imageUrl":"/images/mediaOptions/newspaper/business.png",
+                  "discountedRate":626,
+                  "cardRate":695
+               },
+               "rent":{
+                  "minimumQtyUnit1":1,
+                  "pricingUnit1":"Sq Cm",
+                  "imageUrl":"/images/mediaOptions/newspaper/rent.png",
+                  "discountedRate":891,
+                  "cardRate":990
+               },
+               "property":{
+                  "minimumQtyUnit1":1,
+                  "pricingUnit1":"Sq Cm",
+                  "imageUrl":"/images/mediaOptions/newspaper
+/property.png",
+                  "discountedRate":891,
+                  "cardRate":990
+               },
+               "matrimonial":{
+                  "minimumQtyUnit1":1,
+                  "pricingUnit1":"Sq Cm",
+                  "imageUrl":"/images/mediaOptions/newspaper/matrimonial.png",
+                  "discountedRate":428,
+                  "cardRate":475
+               },
+               "recruitment":{
+                  "minimumQtyUnit1":1,
+                  "pricingUnit1":"Sq Cm",
+                  "imageUrl":"/images/mediaOptions/newspaper
+/recruitment.png",
+                  "discountedRate":689,
+                  "cardRate":765
+               }
+            },
+            "otherOptions":{
+               "jacketFrontPage":{
+                  "vendorRate":"5245490",
+                  "discountedRate":"6171165",
+                  "discount%":25,
+                  "minimumQtyUnit1":1,
+                  "pricingUnit1":"Day",
+                  "imageUrl":"/images/mediaOptions/newspaper/jacketFrontPage.png",
+                  "cardRate":"8228220"
+               },
+               "jacketFrontInside":{
+                  "vendorRate":"10490981",
+                  "discountedRate":"12342330",
+                  "discount%":25,
+                  "minimumQtyUnit1":1,
+                  "pricingUnit1":"Day",
+                  "imageUrl":"/images/mediaOptions/newspaper/jacketFrontInside.png",
+                  "cardRate":"16456440"
+               },
+               "pointerAd":{
+                  "vendorRate":"2292610",
+                  "discountedRate":"2697188",
+                  "discount%":25,
+                  "minimumQtyUnit1":1,
+                  "pricingUnit1":"Day",
+                  "imageUrl":"/images/mediaOptions/newspaper/pointerAd.png",
+                  "cardRate":"3596250"
+               },
+               "skyBus":{
+                  "vendorRate":"504374",
+                  "discountedRate":"593381",
+                  "discount%":25,
+                  "minimumQtyUnit1":1,
+                  "pricingUnit1":"Day",
+                  "imageUrl":"/images
+/mediaOptions/newspaper/skyBus.png",
+                  "cardRate":"791175"
+               }
+            },
+            "regularOptions":{
+               "page1":{
+                  "vendorRate":3669,
+                  "discountedRate":4316,
+                  "cardRate":4795,
+                  "minimumQtyUnit2":12,
+                  "minimumQtyUnit1":20,
+                  "pricingUnit2":"height",
+                  "pricingUnit1":"width",
+                  "minimumQtyUnit":1,
+                  "pricingUnit":"Sq Cm",
+                  "imageUrl":"/images/mediaOptions/newspaper
+/page1.png"
+               },
+               "page3":{
+                  "vendorRate":2785,
+                  "discountedRate":3276,
+                  "cardRate":3640,
+                  "minimumQtyUnit":1,
+                  "pricingUnit":"Sq Cm",
+                  "minimumQtyUnit2":8,
+                  "pricingUnit2":"height",
+                  "minimumQtyUnit1":12,
+                  "pricingUnit1":"width",
+                  "imageUrl":"/images/mediaOptions/newspaper/page3.png"
+               },
+               "lastPage":{
+                  "vendorRate":2950,
+                  "discountedRate":3470,
+                  "cardRate":3855,
+                  "minimumQtyUnit":1,
+                  "pricingUnit":"Sq Cm",
+                  "minimumQtyUnit2":8,
+                  "pricingUnit2":"height",
+                  "minimumQtyUnit1":12,
+                  "pricingUnit1":"width",
+                  "imageUrl":"/images/mediaOptions/newspaper/lastPage.png"
+               },
+               "anyPage":{
+                  "vendorRate":2394,
+                  "discountedRate":2817,
+                  "cardRate":3130,
+                  "minimumQtyUnit":1,
+                  "pricingUnit":"Sq Cm",
+                  "minimumQtyUnit2":8,
+                  "pricingUnit2":"height",
+                  "minimumQtyUnit1":12,
+                  "pricingUnit1":"width",
+                  "imageUrl":"/images/mediaOptions
+/newspaper/anyPage.png"
+               }
+            }
+         },
+         "logo":"/images/medias/55e986da8ead0e42788b4c1e/55e986da8ead0e42788b4c1e.jpg",
+         "name":"Times Of India - Main, Bangalore",
+         "attributes":{
+            "categoryName":{
+               "value":"General Interest"
+            },
+            "circulation":{
+               "value":"535,501 copies"
+            },
+            "areaCovered":{
+               "showName":"Edition",
+               "value":"Bangalore"
+            },
+            "printDay":{
+               "value":"Daily"
+            },
+            "language":{
+               "value":"English"
+            }
+         },
+         "categoryName":"General Interest"
+      },
+      {
+         "_id":"55e986db8ead0e42788b4dde",
+         "urlSlug":"rakhewal-daily-main-palanpur",
+         "editionName":"Main",
+         "categoryId":[
+            "55d70b748ead0e960c8b4567"
+         ],
+         "geography":[
+            "56cc3cd48ead0e53478b46ad"
+         ],
+         "mediaOptions":{
+            "regularOptions":{
+               "page1":{
+                  "imageUrl":"/images
+/mediaOptions/newspaper/page1.png",
+                  "pricingUnit":"Sq Cm",
+                  "minimumQtyUnit":1,
+                  "pricingUnit1":"width",
+                  "pricingUnit2":"height",
+                  "minimumQtyUnit1":20,
+                  "minimumQtyUnit2":12,
+                  "cardRate":800,
+                  "discountedRate":600,
+                  "vendorRate":510
+               },
+               "page3":{
+                  "imageUrl":"/images/mediaOptions/newspaper/page3.png",
+                  "pricingUnit1":"width",
+                  "minimumQtyUnit1":12,
+                  "pricingUnit2":"height",
+                  "minimumQtyUnit2":8,
+                  "pricingUnit":"Sq Cm",
+                  "minimumQtyUnit":1,
+                  "cardRate":400,
+                  "discountedRate":300,
+                  "vendorRate":255
+               },
+               "lastPage":{
+                  "imageUrl":"/images/mediaOptions/newspaper/lastPage
+.png",
+                  "pricingUnit1":"width",
+                  "minimumQtyUnit1":12,
+                  "pricingUnit2":"height",
+                  "minimumQtyUnit2":8,
+                  "pricingUnit":"Sq Cm",
+                  "minimumQtyUnit":1,
+                  "cardRate":600,
+                  "discountedRate":450,
+                  "vendorRate":383
+               },
+               "anyPage":{
+                  "imageUrl":"/images/mediaOptions/newspaper/anyPage.png",
+                  "pricingUnit1":"width",
+                  "minimumQtyUnit1":12,
+                  "pricingUnit2":"height",
+                  "minimumQtyUnit2":8,
+                  "pricingUnit":"Sq Cm",
+                  "minimumQtyUnit":1,
+                  "cardRate":400,
+                  "discountedRate":300,
+                  "vendorRate":255
+               }
+            },
+            "otherOptions":{
+               "jacketFrontPage":{
+                  "cardRate":2323200,
+                  "imageUrl":"/images/mediaOptions
+/newspaper/jacketFrontPage.png",
+                  "pricingUnit1":"Day",
+                  "minimumQtyUnit1":1,
+                  "discount%":40,
+                  "discountedRate":758016,
+                  "vendorRate":644314
+               },
+               "jacketFrontInside":{
+                  "cardRate":2763600,
+                  "imageUrl":"/images/mediaOptions
+/newspaper/jacketFrontInside.png",
+                  "pricingUnit1":"Day",
+                  "minimumQtyUnit1":1,
+                  "discount%":40,
+                  "discountedRate":1105440,
+                  "vendorRate":939624
+               },
+               "pointerAd":{
+                  "cardRate":480000,
+                  "imageUrl":"/images/mediaOptions/newspaper
+/pointerAd.png",
+                  "pricingUnit1":"Day",
+                  "minimumQtyUnit1":1,
+                  "discount%":40,
+                  "discountedRate":288000,
+                  "vendorRate":244800
+               },
+               "skyBus":{
+                  "cardRate":132000,
+                  "imageUrl":"/images/mediaOptions/newspaper/skyBus.png",
+                  "pricingUnit1":"Day",
+                  "minimumQtyUnit1":1,
+                  "discount%":40,
+                  "discountedRate":79200,
+                  "vendorRate":67320
+               }
+            }
+         },
+         "logo":"/images
+/medias/55e986db8ead0e42788b4dde/55e986db8ead0e42788b4dde.jpg",
+         "name":"Rakhewal Daily - Main, Palanpur",
+         "attributes":{
+            "categoryName":{
+               "value":"General Interest"
+            },
+            "circulation":{
+               "value":"463,170 copies"
+            },
+            "areaCovered":{
+               "value":"Palanpur",
+               "showName":"Edition"
+            },
+            "printDay":{
+               "value":"Daily"
+            },
+            "language":{
+               "value":"Gujarati"
+            }
+         },
+         "categoryName":"General Interest"
+      },
+      {
+         "_id":"55e986d98ead0e42788b48e4",
+         "urlSlug":"mirror-main-bangalore",
+         "editionName":"Main",
+         "categoryId":[
+            "55d70b748ead0e960c8b4567"
+         ],
+         "geography":[
+            "56cc3c4d8ead0e53478b4596"
+         ],
+         "mediaOptions":{
+            "otherOptions":{
+               "skyBus":{
+                  "vendorRate":"85202",
+                  "discountedRate":"100238",
+                  "discount
+%":25,
+                  "minimumQtyUnit1":1,
+                  "pricingUnit1":"Day",
+                  "imageUrl":"/images/mediaOptions/newspaper/skyBus.png",
+                  "cardRate":"133650"
+               },
+               "pointerAd":{
+                  "vendorRate":"387281",
+                  "discountedRate":"455625",
+                  "discount%":25,
+                  "minimumQtyUnit1":1,
+                  "pricingUnit1":"Day",
+                  "imageUrl":"/images/mediaOptions/newspaper/pointerAd.png",
+                  "cardRate":"607500"
+               },
+               "jacketFrontInside":{
+                  "vendorRate":"1772199",
+                  "discountedRate":"2084940",
+                  "discount%":25,
+                  "minimumQtyUnit1":1,
+                  "pricingUnit1":"Day",
+                  "imageUrl":"/images/mediaOptions/newspaper/jacketFrontInside.png",
+                  "cardRate":"2779920"
+               },
+               "jacketFrontPage":{
+                  "vendorRate":"886100",
+                  "discountedRate":"1042470",
+                  "discount%":25,
+                  "minimumQtyUnit1":1,
+                  "pricingUnit1":"Day",
+                  "imageUrl":"/images/mediaOptions/newspaper/jacketFrontPage.png",
+                  "cardRate":"1389960"
+               }
+            },
+            "regularOptions":{
+               "anyPage":{
+                  "minimumQtyUnit":1,
+                  "pricingUnit":"Sq Cm",
+                  "minimumQtyUnit2":8,
+                  "pricingUnit2":"height",
+                  "minimumQtyUnit1":12,
+                  "pricingUnit1":"width",
+                  "imageUrl":"/images/mediaOptions/newspaper/anyPage
+.png",
+                  "cardRate":500,
+                  "discountedRate":450,
+                  "vendorRate":383
+               },
+               "lastPage":{
+                  "minimumQtyUnit":1,
+                  "pricingUnit":"Sq Cm",
+                  "minimumQtyUnit2":8,
+                  "pricingUnit2":"height",
+                  "minimumQtyUnit1":12,
+                  "pricingUnit1":"width",
+                  "imageUrl":"/images/mediaOptions/newspaper/lastPage.png",
+                  "cardRate":640,
+                  "discountedRate":576,
+                  "vendorRate":490
+               },
+               "page3":{
+                  "minimumQtyUnit":1,
+                  "pricingUnit":"Sq Cm",
+                  "minimumQtyUnit2":8,
+                  "pricingUnit2":"height",
+                  "minimumQtyUnit1":12,
+                  "pricingUnit1":"width",
+                  "imageUrl":"/images/mediaOptions/newspaper/page3.png",
+                  "cardRate":640,
+                  "discountedRate":576,
+                  "vendorRate":490
+               },
+               "page1":{
+                  "minimumQtyUnit2":12,
+                  "minimumQtyUnit1":20,
+                  "pricingUnit2":"height",
+                  "pricingUnit1":"width",
+                  "minimumQtyUnit":1,
+                  "pricingUnit":"Sq Cm",
+                  "imageUrl":"/images/mediaOptions/newspaper/page1.png",
+                  "cardRate":810,
+                  "discountedRate":729,
+                  "vendorRate":620
+               }
+            }
+         },
+         "logo":"/images/medias/55e986d98ead0e42788b48e4
+/5268ddd10e9574b748620beae63cb217.jpg",
+         "name":"Mirror - Main, Bangalore",
+         "attributes":{
+            "categoryName":{
+               "value":"General Interest"
+            },
+            "circulation":{
+               "value":"158,230 copies"
+            },
+            "areaCovered":{
+               "value":"Bangalore",
+               "showName":"Edition"
+            },
+            "printDay":{
+               "value":"Daily"
+            },
+            "language":{
+               "value":"English"
+            }
+         },
+         "categoryName":"General
+ Interest"
+      },
+      {
+         "_id":"55e986d88ead0e42788b4860",
+         "urlSlug":"hindustan-times-main-delhi",
+         "editionName":"Main",
+         "categoryId":[
+            "55d70b748ead0e960c8b4567"
+         ],
+         "geography":[
+            "56cc3c4f8ead0e53478b45a0"
+         ],
+         "mediaOptions":{
+            "regularOptions":{
+               "page1":{
+                  "vendorRate":6732,
+                  "discountedRate":7920,
+                  "cardRate":8800,
+                  "imageUrl":"/images/mediaOptions/newspaper
+/page1.png",
+                  "pricingUnit":"Sq Cm",
+                  "minimumQtyUnit":1,
+                  "pricingUnit1":"width",
+                  "pricingUnit2":"height",
+                  "minimumQtyUnit1":20,
+                  "minimumQtyUnit2":12
+               },
+               "page3":{
+                  "vendorRate":4437,
+                  "discountedRate":5220,
+                  "cardRate":5800,
+                  "imageUrl":"/images/mediaOptions/newspaper/page3.png",
+                  "pricingUnit1":"width",
+                  "minimumQtyUnit1":12,
+                  "pricingUnit2":"height",
+                  "minimumQtyUnit2":8,
+                  "pricingUnit":"Sq Cm",
+                  "minimumQtyUnit":1
+               },
+               "lastPage":{
+                  "vendorRate":4437,
+                  "discountedRate":5220,
+                  "cardRate":5800,
+                  "imageUrl":"/images/mediaOptions/newspaper/lastPage.png",
+                  "pricingUnit1":"width",
+                  "minimumQtyUnit1":12,
+                  "pricingUnit2":"height",
+                  "minimumQtyUnit2":8,
+                  "pricingUnit":"Sq Cm",
+                  "minimumQtyUnit":1
+               },
+               "anyPage":{
+                  "vendorRate":3672,
+                  "discountedRate":4320,
+                  "cardRate":4800,
+                  "imageUrl":"/images/mediaOptions
+/newspaper/anyPage.png",
+                  "pricingUnit1":"width",
+                  "minimumQtyUnit1":12,
+                  "pricingUnit2":"height",
+                  "minimumQtyUnit2":8,
+                  "pricingUnit":"Sq Cm",
+                  "minimumQtyUnit":1
+               }
+            },
+            "otherOptions":{
+               "jacketFrontPage":{
+                  "cardRate":15100800,
+                  "imageUrl":"/images/mediaOptions/newspaper/jacketFrontPage.png",
+                  "pricingUnit1":"Day",
+                  "minimumQtyUnit1":1,
+                  "discount%":25,
+                  "discountedRate":11325600,
+                  "vendorRate":"9626760"
+               },
+               "jacketFrontInside":{
+                  "cardRate":30201600,
+                  "imageUrl":"/images/mediaOptions/newspaper/jacketFrontInside.png",
+                  "pricingUnit1":"Day",
+                  "minimumQtyUnit1":1,
+                  "discount%":25,
+                  "discountedRate":22651200,
+                  "vendorRate":"19253520"
+               },
+               "pointerAd":{
+                  "cardRate":6600000,
+                  "imageUrl":"/images/mediaOptions/newspaper/pointerAd.png",
+                  "pricingUnit1":"Day",
+                  "minimumQtyUnit1":1,
+                  "discount
+%":25,
+                  "discountedRate":4950000,
+                  "vendorRate":"4207500"
+               },
+               "skyBus":{
+                  "cardRate":1452000,
+                  "imageUrl":"/images
+/mediaOptions/newspaper/skyBus.png",
+                  "pricingUnit1":"Day",
+                  "minimumQtyUnit1":1,
+                  "discount%":25,
+                  "discountedRate":1089000,
+                  "vendorRate":"925650"
+               }
+            }
+         },
+         "logo":"/images/medias/55e986d88ead0e42788b4860/55e986d88ead0e42788b4860
+.jpg",
+         "name":"Hindustan Times - Main, Delhi",
+         "attributes":{
+            "categoryName":{
+               "value":"General Interest"
+            },
+            "circulation":{
+               "value":"975,737 copies"
+            },
+            "areaCovered":{
+               "showName":"Edition",
+               "value":"Delhi"
+            },
+            "printDay":{
+               "value":"Daily"
+            },
+            "language":{
+               "value":"English"
+            }
+         },
+         "categoryName":"General Interest"
+      },
+      {
+         "_id":"55e986da8ead0e42788b4c78",
+         "urlSlug":"vanglaini-main-aizawl",
+         "editionName":"Main",
+         "categoryId":[
+            "55d70b748ead0e960c8b4567"
+         ],
+         "geography":[
+            "56cc3ca38ead0e53478b462b"
+         ],
+         "mediaOptions":{
+            "regularOptions":{
+               "page1":{
+                  "imageUrl":"/images/mediaOptions
+/newspaper/page1.png",
+                  "pricingUnit":"Sq Cm",
+                  "minimumQtyUnit":1,
+                  "pricingUnit1":"width",
+                  "pricingUnit2":"height",
+                  "minimumQtyUnit1":20,
+                  "minimumQtyUnit2":12,
+                  "cardRate":200,
+                  "discountedRate":150,
+                  "vendorRate":134
+               },
+               "page3":{
+                  "imageUrl":"/images/mediaOptions/newspaper/page3.png",
+                  "pricingUnit1":"width",
+                  "minimumQtyUnit1":12,
+                  "pricingUnit2":"height",
+                  "minimumQtyUnit2":8,
+                  "pricingUnit":"Sq Cm",
+                  "minimumQtyUnit":1,
+                  "cardRate":156,
+                  "discountedRate":133,
+                  "vendorRate":120
+               },
+               "lastPage":{
+                  "imageUrl":"/images/mediaOptions/newspaper/lastPage
+.png",
+                  "pricingUnit1":"width",
+                  "minimumQtyUnit1":12,
+                  "pricingUnit2":"height",
+                  "minimumQtyUnit2":8,
+                  "pricingUnit":"Sq Cm",
+                  "minimumQtyUnit":1,
+                  "cardRate":150,
+                  "discountedRate":128,
+                  "vendorRate":115
+               },
+               "anyPage":{
+                  "imageUrl":"/images/mediaOptions/newspaper/anyPage.png",
+                  "pricingUnit1":"width",
+                  "minimumQtyUnit1":12,
+                  "pricingUnit2":"height",
+                  "minimumQtyUnit2":8,
+                  "pricingUnit":"Sq Cm",
+                  "minimumQtyUnit":1,
+                  "cardRate":125,
+                  "discountedRate":106,
+                  "vendorRate":95
+               }
+            },
+            "otherOptions":{
+               "jacketFrontPage":{
+                  "cardRate":580800,
+                  "imageUrl":"/images/mediaOptions
+/newspaper/jacketFrontPage.png",
+                  "pricingUnit1":"Day",
+                  "minimumQtyUnit1":1,
+                  "discount%":40,
+                  "discountedRate":225225,
+                  "vendorRate":202703
+               },
+               "jacketFrontInside":{
+                  "cardRate":690900,
+                  "imageUrl":"/images/mediaOptions
+/newspaper/jacketFrontInside.png",
+                  "pricingUnit1":"Day",
+                  "minimumQtyUnit1":1,
+                  "discount%":40,
+                  "discountedRate":450450,
+                  "vendorRate":405405
+               },
+               "pointerAd":{
+                  "cardRate":131250,
+                  "imageUrl":"/images/mediaOptions/newspaper
+/pointerAd.png",
+                  "pricingUnit1":"Day",
+                  "minimumQtyUnit1":1,
+                  "discount%":40,
+                  "discountedRate":98438,
+                  "vendorRate":88594
+               },
+               "skyBus":{
+                  "cardRate":33000,
+                  "imageUrl":"/images/mediaOptions/newspaper/skyBus.png",
+                  "pricingUnit1":"Day",
+                  "minimumQtyUnit1":1,
+                  "discount%":40,
+                  "discountedRate":21656,
+                  "vendorRate":19490
+               }
+            }
+         },
+         "logo":"/images
+/medias/55e986da8ead0e42788b4c78/55e986da8ead0e42788b4c78.jpg",
+         "name":"Vanglaini - Main, Aizawl",
+         "attributes":{
+            "categoryName":{
+               "value":"General Interest"
+            },
+            "circulation":{
+               "value":"47,200 copies"
+            },
+            "areaCovered":{
+               "value":"Aizawl",
+               "showName":"Edition"
+            },
+            "printDay":{
+               "value":"Daily"
+            },
+            "language":{
+               "value":"Mizo"
+            }
+         },
+         "categoryName":"General Interest"
+      },
+      {
+         "_id":"55e986d78ead0e42788b4584",
+         "urlSlug":"ananda-bazar-patrika-kajer-bazar-kolkata",
+         "editionName":"Kajer Bazar",
+         "categoryId":[
+            "56d5495f8ead0e2b0f8b4571"
+         ],
+         "geography":[
+            "56cc3c4a8ead0e53478b457d"
+         ],
+         "mediaOptions":{
+            "otherOptions":{
+               "skyBus":{
+                  "vendorRate":163041,
+                  "discountedRate":191813,
+                  "discount%":25,
+                  "minimumQtyUnit1":1,
+                  "pricingUnit1":"Day",
+                  "imageUrl":"/images/mediaOptions/newspaper/skyBus.png",
+                  "cardRate":255750
+               },
+               "pointerAd":{
+                  "vendorRate":"741094",
+                  "discountedRate":"871875",
+                  "discount%":25,
+                  "minimumQtyUnit1":1,
+                  "pricingUnit1":"Day",
+                  "imageUrl":"/images/mediaOptions/newspaper/pointerAd.png",
+                  "cardRate":"1162500"
+               },
+               "jacketFrontInside":{
+                  "vendorRate":"3391245",
+                  "discountedRate":"3989700",
+                  "discount%":25,
+                  "minimumQtyUnit1":1,
+                  "pricingUnit1":"Day",
+                  "imageUrl":"/images/mediaOptions/newspaper/jacketFrontInside.png",
+                  "cardRate":"5319600"
+               },
+               "jacketFrontPage":{
+                  "vendorRate":"1695623",
+                  "discountedRate":"1994850",
+                  "discount%":25,
+                  "minimumQtyUnit1":1,
+                  "pricingUnit1":"Day",
+                  "imageUrl":"/images/mediaOptions/newspaper/jacketFrontPage.png",
+                  "cardRate":"2659800"
+               }
+            },
+            "regularOptions":{
+               "anyPage":{
+                  "minimumQtyUnit":1,
+                  "pricingUnit":"Sq Cm",
+                  "minimumQtyUnit2":8,
+                  "pricingUnit2":"height",
+                  "minimumQtyUnit1":12,
+                  "pricingUnit1":"width",
+                  "imageUrl":"/images/mediaOptions/newspaper/anyPage
+.png",
+                  "cardRate":1550,
+                  "discountedRate":1395,
+                  "vendorRate":1186
+               },
+               "lastPage":{
+                  "minimumQtyUnit":1,
+                  "pricingUnit":"Sq Cm",
+                  "minimumQtyUnit2":8,
+                  "pricingUnit2":"height",
+                  "minimumQtyUnit1":12,
+                  "pricingUnit1":"width",
+                  "imageUrl":"/images/mediaOptions/newspaper/lastPage.png",
+                  "cardRate":1550,
+                  "discountedRate":1395,
+                  "vendorRate":1186
+               },
+               "page3":{
+                  "minimumQtyUnit":1,
+                  "pricingUnit":"Sq Cm",
+                  "minimumQtyUnit2":8,
+                  "pricingUnit2":"height",
+                  "minimumQtyUnit1":12,
+                  "pricingUnit1":"width",
+                  "imageUrl":"/images/mediaOptions/newspaper/page3.png",
+                  "cardRate":1550,
+                  "discountedRate":1395,
+                  "vendorRate":1186
+               },
+               "page1":{
+                  "minimumQtyUnit2":12,
+                  "minimumQtyUnit1":20,
+                  "pricingUnit2":"height",
+                  "pricingUnit1":"width",
+                  "minimumQtyUnit":1,
+                  "pricingUnit":"Sq Cm",
+                  "imageUrl":"/images/mediaOptions/newspaper/page1.png",
+                  "cardRate":1550,
+                  "discountedRate":1395,
+                  "vendorRate":1186
+               }
+            }
+         },
+         "logo":"/images/medias/55e986d78ead0e42788b4584
+/55e986d78ead0e42788b4584.jpg",
+         "name":"Ananda Bazar Patrika - Kajer Bazar, Kolkata",
+         "attributes":{
+            "categoryName":{
+               "value":"Health and Fitness"
+            },
+            "circulation":{
+               "value":"1,000,000 copies"
+            },
+            "areaCovered":{
+               "value":"Kolkata",
+               "showName":"Edition"
+            },
+            "printDay":{
+               "value":"Tuesday"
+            },
+            "language":{
+               "value":"Bengali"
+            }
+         },
+         "categoryName":"Health and Fitness"
+      },
+      {
+         "_id":"55e986d98ead0e42788b48e6",
+         "urlSlug":"mylapore-times-main-chennai",
+         "editionName":"Main",
+         "categoryId":[
+            "55d70b748ead0e960c8b4567"
+         ],
+         "geography":[
+            "56cc3c4d8ead0e53478b4595"
+         ],
+         "mediaOptions":{
+            "otherOptions":{
+               "skyBus":{
+                  "vendorRate":"34712",
+                  "discountedRate":"40838",
+                  "discount%":40,
+                  "minimumQtyUnit1":1,
+                  "pricingUnit1":"Day",
+                  "imageUrl":"/images/mediaOptions/newspaper/skyBus.png",
+                  "cardRate":"54450"
+               },
+               "pointerAd":{
+                  "vendorRate":"157781",
+                  "discountedRate":"185625",
+                  "discount%":40,
+                  "minimumQtyUnit1":1,
+                  "pricingUnit1":"Day",
+                  "imageUrl":"/images/mediaOptions/newspaper/pointerAd.png",
+                  "cardRate":"247500"
+               },
+               "jacketFrontInside":{
+                  "vendorRate":"722007",
+                  "discountedRate":"849420",
+                  "discount%":40,
+                  "minimumQtyUnit1":1,
+                  "pricingUnit1":"Day",
+                  "imageUrl":"/images/mediaOptions/newspaper/jacketFrontInside.png",
+                  "cardRate":"1132560"
+               },
+               "jacketFrontPage":{
+                  "vendorRate":"361004",
+                  "discountedRate":"424710",
+                  "discount%":40,
+                  "minimumQtyUnit1":1,
+                  "pricingUnit1":"Day",
+                  "imageUrl":"/images/mediaOptions/newspaper/jacketFrontPage.png",
+                  "cardRate":"566280"
+               }
+            },
+            "regularOptions":{
+               "anyPage":{
+                  "minimumQtyUnit":1,
+                  "pricingUnit":"Sq Cm",
+                  "minimumQtyUnit2":8,
+                  "pricingUnit2":"height",
+                  "minimumQtyUnit1":12,
+                  "pricingUnit1":"width",
+                  "imageUrl":"/images/mediaOptions/newspaper/anyPage.png",
+                  "cardRate":220,
+                  "discountedRate":198,
+                  "vendorRate":168
+               },
+               "lastPage":{
+                  "minimumQtyUnit":1,
+                  "pricingUnit":"Sq Cm",
+                  "minimumQtyUnit2":8,
+                  "pricingUnit2":"height",
+                  "minimumQtyUnit1":12,
+                  "pricingUnit1":"width",
+                  "imageUrl":"/images/mediaOptions/newspaper/lastPage
+.png",
+                  "cardRate":330,
+                  "discountedRate":297,
+                  "vendorRate":252
+               },
+               "page3":{
+                  "minimumQtyUnit":1,
+                  "pricingUnit":"Sq Cm",
+                  "minimumQtyUnit2":8,
+                  "pricingUnit2":"height",
+                  "minimumQtyUnit1":12,
+                  "pricingUnit1":"width",
+                  "imageUrl":"/images/mediaOptions/newspaper/page3.png",
+                  "cardRate":280,
+                  "discountedRate":252,
+                  "vendorRate":214
+               },
+               "page1":{
+                  "minimumQtyUnit2":12,
+                  "minimumQtyUnit1":20,
+                  "pricingUnit2":"height",
+                  "pricingUnit1":"width",
+                  "minimumQtyUnit":1,
+                  "pricingUnit":"Sq Cm",
+                  "imageUrl":"/images/mediaOptions/newspaper/page1.png",
+                  "cardRate":330,
+                  "discountedRate":297,
+                  "vendorRate":252
+               }
+            }
+         },
+         "logo":"/images/medias/55e986d98ead0e42788b48e6/55e986d98ead0e42788b48e6.jpg",
+         "name":"Mylapore Times - Main, Chennai",
+         "attributes":{
+            "categoryName":{
+               "value":"General Interest"
+            },
+            "circulation":{
+               "value":"30,000 copies"
+            },
+            "areaCovered":{
+               "value":"Chennai",
+               "showName":"Edition"
+            },
+            "printDay":{
+               "value":"Saturday"
+            },
+            "language":{
+               "value":"English"
+            }
+         },
+         "categoryName":"General Interest"
+      },
+      {
+         "_id":"5656e41b8ead0ef007d1b3a2",
+         "urlSlug":"the-pioneer-main-delhi",
+         "name":"The Pioneer - Main, Delhi",
+         "editionName":"Main",
+         "categoryId":[
+            "55d70b748ead0e960c8b4567"
+         ],
+         "mediaOptions":{
+            "regularOptions":{
+               "lastPage":{
+                  "imageUrl":"/images/mediaOptions
+/newspaper/lastPage.png",
+                  "pricingUnit1":"width",
+                  "minimumQtyUnit1":12,
+                  "pricingUnit2":"height",
+                  "minimumQtyUnit2":8,
+                  "pricingUnit":"Sq Cm",
+                  "minimumQtyUnit":1,
+                  "cardRate":3375,
+                  "discountedRate":3038,
+                  "vendorRate":2582
+               },
+               "anyPage":{
+                  "imageUrl":"/images/mediaOptions/newspaper/anyPage.png",
+                  "pricingUnit1":"width",
+                  "minimumQtyUnit1":12,
+                  "pricingUnit2":"height",
+                  "minimumQtyUnit2":8,
+                  "pricingUnit":"Sq Cm",
+                  "minimumQtyUnit":1,
+                  "cardRate":2250,
+                  "discountedRate":2025,
+                  "vendorRate":1721
+               },
+               "page1":{
+                  "imageUrl":"/images/mediaOptions/newspaper/page1.png",
+                  "pricingUnit":"Sq Cm",
+                  "minimumQtyUnit":1,
+                  "pricingUnit1":"width",
+                  "pricingUnit2":"height",
+                  "minimumQtyUnit1":20,
+                  "minimumQtyUnit2":12,
+                  "cardRate":3375,
+                  "discountedRate":3038,
+                  "vendorRate":2582
+               },
+               "page3":{
+                  "imageUrl":"/images/mediaOptions/newspaper/page3.png",
+                  "pricingUnit1":"width",
+                  "minimumQtyUnit1":12,
+                  "pricingUnit2":"height",
+                  "minimumQtyUnit2":8,
+                  "pricingUnit":"Sq Cm",
+                  "minimumQtyUnit":1,
+                  "cardRate":2813,
+                  "discountedRate":2532,
+                  "vendorRate":2152
+               }
+            },
+            "otherOptions":{
+               "skyBus":{
+                  "cardRate":"556875",
+                  "imageUrl":"/images/mediaOptions
+/newspaper/skyBus.png",
+                  "pricingUnit1":"Day",
+                  "minimumQtyUnit1":1,
+                  "discount%":40,
+                  "discountedRate":"417656",
+                  "vendorRate":"355008"
+               },
+               "pointerAd":{
+                  "cardRate":"2531250",
+                  "imageUrl":"/images/mediaOptions/newspaper
+/pointerAd.png",
+                  "pricingUnit1":"Day",
+                  "minimumQtyUnit1":1,
+                  "discount%":40,
+                  "discountedRate":"1898438",
+                  "vendorRate":"1613672"
+               },
+               "jacketFrontInside":{
+                  "vendorRate":"7384160",
+                  "cardRate":"11583000",
+                  "discountedRate":"8687250",
+                  "discount%":"25",
+                  "minimumQtyUnit1":"1",
+                  "pricingUnit1":"Day",
+                  "imageUrl":"/images/mediaOptions/newspaper
+/jacketFrontInside.png"
+               },
+               "jacketFrontPage":{
+                  "cardRate":"5791500",
+                  "imageUrl":"/images/mediaOptions/newspaper
+/jacketFrontPage.png",
+                  "pricingUnit1":"Day",
+                  "minimumQtyUnit1":1,
+                  "discount%":40,
+                  "discountedRate":"4343625",
+                  "vendorRate":"3692081"
+               }
+            }
+         },
+         "logo":"/images/medias/5656e41b8ead0ef007d1b3a2/5656e41b8ead0ef007d1b3a2.jpg",
+         "attributes":{
+            "categoryName":{
+               "value":"General Interest"
+            },
+            "circulation":{
+               "value":"695,000 copies"
+            },
+            "areaCovered":{
+               "value":"Delhi",
+               "showName":"Edition"
+            },
+            "printDay":{
+               "value":"Daily"
+            },
+            "language":{
+               "value":"English"
+            }
+         },
+         "geography":[
+            "56cc3ce48ead0e53478b46f3"
+         ],
+         "categoryName":"General Interest"
+      },
+      {
+         "_id":"55e986d98ead0e42788b49ca",
+         "urlSlug":"star-of-mysore-main-mysore",
+         "editionName":"Main",
+         "categoryId":[
+            "55d70b748ead0e960c8b4567"
+         ],
+         "geography":[
+            "56cc3c5c8ead0e53478b45d7"
+         ],
+         "mediaOptions":{
+            "otherOptions":{
+               "skyBus":{
+                  "vendorRate":26928,
+                  "discountedRate":31680,
+                  "discount%":40,
+                  "minimumQtyUnit1":1,
+                  "pricingUnit1":"Day",
+                  "imageUrl":"/images/mediaOptions
+/newspaper/skyBus.png",
+                  "cardRate":52800
+               },
+               "pointerAd":{
+                  "vendorRate":97920,
+                  "discountedRate":115200,
+                  "discount
+%":40,
+                  "minimumQtyUnit1":1,
+                  "pricingUnit1":"Day",
+                  "imageUrl":"/images/mediaOptions/newspaper/pointerAd.png",
+                  "cardRate":192000
+               },
+               "jacketFrontInside":{
+                  "vendorRate":375850,
+                  "discountedRate":442176,
+                  "discount%":40,
+                  "minimumQtyUnit1":1,
+                  "pricingUnit1":"Day",
+                  "imageUrl":"/images/mediaOptions/newspaper/jacketFrontInside.png",
+                  "cardRate":1105440
+               },
+               "jacketFrontPage":{
+                  "vendorRate":257725,
+                  "discountedRate":303206,
+                  "discount%":40,
+                  "minimumQtyUnit1":1,
+                  "pricingUnit1":"Day",
+                  "imageUrl":"/images/mediaOptions/newspaper/jacketFrontPage.png",
+                  "cardRate":929280
+               }
+            },
+            "regularOptions":{
+               "anyPage":{
+                  "vendorRate":102,
+                  "discountedRate":120,
+                  "cardRate":160,
+                  "minimumQtyInc1":4.5,
+                  "minimumQtyUnit2":4,
+                  "minimumQtyUnit1":4.5,
+                  "pricingUnit2":"Height",
+                  "pricingUnit1":"Width",
+                  "minimumQtyUnit":1,
+                  "pricingUnit":"Sq Cm",
+                  "imageUrl":"/images/mediaOptions/newspaper/anyPage.png"
+               },
+               "lastPage":{
+                  "vendorRate":128,
+                  "discountedRate":150,
+                  "cardRate":200,
+                  "minimumQtyInc1":4.5,
+                  "minimumQtyUnit2":4,
+                  "minimumQtyUnit1":4                  .5,
+                  "pricingUnit2":"Height",
+                  "pricingUnit1":"Width",
+                  "minimumQtyUnit":1,
+                  "pricingUnit":"Sq Cm",
+                  "imageUrl":"/images/mediaOptions/newspaper/lastPage.png"
+               },
+               "page3":{
+                  "vendorRate":128,
+                  "discountedRate":150,
+                  "cardRate":200,
+                  "minimumQtyInc1":4.5,
+                  "minimumQtyUnit2":4,
+                  "minimumQtyUnit1":4.5,
+                  "pricingUnit2":"Height",
+                  "pricingUnit1":"Width",
+                  "minimumQtyUnit":1,
+                  "pricingUnit":"Sq Cm",
+                  "imageUrl":"/images/mediaOptions/newspaper/page3.png"
+               },
+               "page1":{
+                  "vendorRate":204,
+                  "discountedRate":240,
+                  "cardRate":320,
+                  "minimumQtyInc1":4.5,
+                  "minimumQtyUnit2":4,
+                  "minimumQtyUnit1":4.5,
+                  "pricingUnit2":"Height",
+                  "pricingUnit1":"Width",
+                  "minimumQtyUnit":1,
+                  "pricingUnit":"Sq Cm",
+                  "imageUrl":"/images/mediaOptions/newspaper/page1.png"
+               }
+            }
+         },
+         "logo":"/images/medias/55e986d98ead0e42788b49ca
+/55e986d98ead0e42788b49ca.jpg",
+         "name":"Star Of Mysore - Main, Mysore",
+         "attributes":{
+            "categoryName":{
+               "value":"General Interest"
+            },
+            "circulation":{
+               "value":"33,003 copies"
+            },
+            "areaCovered":{
+               "showName":"Edition",
+               "value":"Mysore"
+            },
+            "printDay":{
+               "value":"Daily"
+            },
+            "language":{
+               "value":"English"
+            }
+         },
+         "categoryName":"General Interest"
+      },
+      {
+         "_id":"55e986db8ead0e42788b4ea8",
+         "urlSlug":"mail-today-newspaper-main-delhi",
+         "editionName":"Main",
+         "categoryId":[
+            "55d70b748ead0e960c8b4567"
+         ],
+         "geography":[
+            "56cc3c4f8ead0e53478b45a0"
+         ],
+         "mediaOptions":{
+            "regularOptions":{
+               "page1":{
+                  "imageUrl":"/images/mediaOptions/newspaper/page1.png",
+                  "pricingUnit":"Sq Cm",
+                  "minimumQtyUnit":1,
+                  "pricingUnit1":"width",
+                  "pricingUnit2":"height",
+                  "minimumQtyUnit1":20,
+                  "minimumQtyUnit2":12,
+                  "cardRate":2700,
+                  "discountedRate":2025,
+                  "vendorRate":1721
+               },
+               "page3":{
+                  "imageUrl":"/images/mediaOptions/newspaper/page3
+.png",
+                  "pricingUnit1":"width",
+                  "minimumQtyUnit1":12,
+                  "pricingUnit2":"height",
+                  "minimumQtyUnit2":8,
+                  "pricingUnit":"Sq Cm",
+                  "minimumQtyUnit":1,
+                  "cardRate":1850,
+                  "discountedRate":1388,
+                  "vendorRate":1180
+               },
+               "lastPage":{
+                  "imageUrl":"/images/mediaOptions/newspaper/lastPage.png",
+                  "pricingUnit1":"width",
+                  "minimumQtyUnit1":12,
+                  "pricingUnit2":"height",
+                  "minimumQtyUnit2":8,
+                  "pricingUnit":"Sq Cm",
+                  "minimumQtyUnit":1,
+                  "cardRate":1950,
+                  "discountedRate":1463,
+                  "vendorRate":1244
+               },
+               "anyPage":{
+                  "imageUrl":"/images/mediaOptions/newspaper/anyPage.png",
+                  "pricingUnit1":"width",
+                  "minimumQtyUnit1":12,
+                  "pricingUnit2":"height",
+                  "minimumQtyUnit2":8,
+                  "pricingUnit":"Sq Cm",
+                  "minimumQtyUnit":1,
+                  "cardRate":1600,
+                  "discountedRate":1200,
+                  "vendorRate":1020
+               }
+            },
+            "otherOptions":{
+               "jacketFrontPage":{
+                  "cardRate":6969600,
+                  "imageUrl":"/images/mediaOptions/newspaper/jacketFrontPage.png",
+                  "pricingUnit1":"Day",
+                  "minimumQtyUnit1":1,
+                  "discount%":40,
+                  "discountedRate":2558304,
+                  "vendorRate":2174558
+               },
+               "jacketFrontInside":{
+                  "cardRate":9327150,
+                  "imageUrl":"/images/mediaOptions/newspaper/jacketFrontInside.png",
+                  "pricingUnit1":"Day",
+                  "minimumQtyUnit1":1,
+                  "discount%":40,
+                  "discountedRate":3730860,
+                  "vendorRate":3171231
+               },
+               "pointerAd":{
+                  "cardRate":1620000,
+                  "imageUrl":"/images/mediaOptions/newspaper/pointerAd.png",
+                  "pricingUnit1":"Day",
+                  "minimumQtyUnit1":1,
+                  "discount%":40,
+                  "discountedRate":972000,
+                  "vendorRate":826200
+               },
+               "skyBus":{
+                  "cardRate":445500,
+                  "imageUrl":"/images/mediaOptions
+/newspaper/skyBus.png",
+                  "pricingUnit1":"Day",
+                  "minimumQtyUnit1":1,
+                  "discount%":40,
+                  "discountedRate":267300,
+                  "vendorRate":227205
+               }
+            }
+         },
+         "logo":"/images/medias/55e986db8ead0e42788b4ea8/55e986db8ead0e42788b4ea8.jpg",
+         "name":"Mail Today Newspaper - Main, Delhi",
+         "attributes":{
+            "categoryName":{
+               "value":"General Interest"
+            },
+            "circulation":{
+               "value":"150,000 copies"
+            },
+            "areaCovered":{
+               "value":"Delhi",
+               "showName":"Edition"
+            },
+            "printDay":{
+               "value":"Daily"
+            },
+            "language":{
+               "value":"English"
+            }
+         },
+         "categoryName":"General Interest"
+      },
+      {
+         "_id":"5656e41a8ead0ef007d1b3a1",
+         "urlSlug":"the-afternoon-despatch-courier-main-mumbai",
+         "name":"The Afternoon Despatch & Courier - Main
+, Mumbai",
+         "editionName":"Main",
+         "categoryId":[
+            "55d70b748ead0e960c8b4577"
+         ],
+         "mediaOptions":{
+            "otherOptions":{
+               "skyBus":{
+                  "vendorRate":"42075",
+                  "discountedRate":"49500",
+                  "discount%":40,
+                  "minimumQtyUnit1":1,
+                  "pricingUnit1":"Day",
+                  "imageUrl":"/images/mediaOptions/newspaper/skyBus.png",
+                  "cardRate":"66000"
+               },
+               "pointerAd":{
+                  "vendorRate":"191250",
+                  "discountedRate":"225000",
+                  "discount%":40,
+                  "minimumQtyUnit1":1,
+                  "pricingUnit1":"Day",
+                  "imageUrl":"/images/mediaOptions/newspaper/pointerAd.png",
+                  "cardRate":"300000"
+               },
+               "jacketFrontInside":{
+                  "vendorRate":"875160",
+                  "discountedRate":"1029600",
+                  "discount%":40,
+                  "minimumQtyUnit1":1,
+                  "pricingUnit1":"Day",
+                  "imageUrl":"/images/mediaOptions/newspaper/jacketFrontInside.png",
+                  "cardRate":"1372800"
+               },
+               "jacketFrontPage":{
+                  "vendorRate":"437580",
+                  "discountedRate":"514800",
+                  "discount%":40,
+                  "minimumQtyUnit1":1,
+                  "pricingUnit1":"Day",
+                  "imageUrl":"/images/mediaOptions/newspaper/jacketFrontPage.png",
+                  "cardRate":686400
+               }
+            },
+            "regularOptions":{
+               "anyPage":{
+                  "minimumQtyUnit":1,
+                  "pricingUnit":"Sq Cm",
+                  "minimumQtyUnit2":8,
+                  "pricingUnit2":"height",
+                  "minimumQtyUnit1":12,
+                  "pricingUnit1":"width",
+                  "imageUrl":"/images/mediaOptions/newspaper/anyPage.png",
+                  "cardRate":200,
+                  "discountedRate":180,
+                  "vendorRate":153
+               },
+               "lastPage":{
+                  "minimumQtyUnit":1,
+                  "pricingUnit":"Sq Cm",
+                  "minimumQtyUnit2":8,
+                  "pricingUnit2":"height",
+                  "minimumQtyUnit1":12,
+                  "pricingUnit1":"width",
+                  "imageUrl":"/images/mediaOptions/newspaper/lastPage
+.png",
+                  "cardRate":300,
+                  "discountedRate":270,
+                  "vendorRate":230
+               },
+               "page3":{
+                  "minimumQtyUnit":1,
+                  "pricingUnit":"Sq Cm",
+                  "minimumQtyUnit2":8,
+                  "pricingUnit2":"height",
+                  "minimumQtyUnit1":12,
+                  "pricingUnit1":"width",
+                  "imageUrl":"/images/mediaOptions/newspaper/page3.png",
+                  "cardRate":250,
+                  "discountedRate":225,
+                  "vendorRate":191
+               },
+               "page1":{
+                  "minimumQtyUnit2":12,
+                  "minimumQtyUnit1":20,
+                  "pricingUnit2":"height",
+                  "pricingUnit1":"width",
+                  "minimumQtyUnit":1,
+                  "pricingUnit":"Sq Cm",
+                  "imageUrl":"/images/mediaOptions/newspaper/page1.png",
+                  "cardRate":400,
+                  "discountedRate":360,
+                  "vendorRate":306
+               }
+            }
+         },
+         "logo":"/images/medias/5656e41a8ead0ef007d1b3a1/5656e41a8ead0ef007d1b3a1.jpg",
+         "attributes":{
+            "categoryName":{
+               "value":"Current Affairs"
+            },
+            "circulation":{
+               "value":"74,000 copies"
+            },
+            "areaCovered":{
+               "value":"Mumbai",
+               "showName":"Edition"
+            },
+            "printDay":{
+               "value":"Daily"
+            },
+            "language":{
+               "value":"English"
+            }
+         },
+         "geography":[
+            "56cc3cf98ead0e53478b4734"
+         ],
+         "categoryName":"Current Affairs"
+      },
+      {
+         "_id":"55e986da8ead0e42788b4c55",
+         "urlSlug":"times-of-india-main-delhi",
+         "editionName":"Main",
+         "categoryId":[
+            "55d70b748ead0e960c8b4567"
+         ],
+         "geography":[
+            "56cc3c4f8ead0e53478b45a0"
+         ],
+         "mediaOptions":{
+            "regularOptions":{
+               "page1":{
+                  "vendorRate":4261,
+                  "discountedRate":5013,
+                  "cardRate":5570,
+                  "imageUrl":"/images/mediaOptions/newspaper/page1.png",
+                  "pricingUnit":"Sq Cm",
+                  "minimumQtyUnit":1,
+                  "pricingUnit1":"width",
+                  "pricingUnit2":"height",
+                  "minimumQtyUnit1":20,
+                  "minimumQtyUnit2":12
+               },
+               "page3":{
+                  "vendorRate":3228,
+                  "discountedRate":3798,
+                  "cardRate":4220,
+                  "imageUrl":"/images/mediaOptions
+/newspaper/page3.png",
+                  "pricingUnit1":"width",
+                  "minimumQtyUnit1":12,
+                  "pricingUnit2":"height",
+                  "minimumQtyUnit2":8,
+                  "pricingUnit":"Sq Cm",
+                  "minimumQtyUnit":1
+               },
+               "lastPage":{
+                  "vendorRate":3420,
+                  "discountedRate":4023,
+                  "cardRate":4470,
+                  "imageUrl":"/images/mediaOptions/newspaper/lastPage.png",
+                  "pricingUnit1":"width",
+                  "minimumQtyUnit1":12,
+                  "pricingUnit2":"height",
+                  "minimumQtyUnit2":8,
+                  "pricingUnit":"Sq Cm",
+                  "minimumQtyUnit":1
+               },
+               "anyPage":{
+                  "vendorRate":2785,
+                  "discountedRate":3276,
+                  "cardRate":3640,
+                  "imageUrl":"/images/mediaOptions/newspaper/anyPage
+.png",
+                  "pricingUnit1":"width",
+                  "minimumQtyUnit1":12,
+                  "pricingUnit2":"height",
+                  "minimumQtyUnit2":8,
+                  "pricingUnit":"Sq Cm",
+                  "minimumQtyUnit":1
+               }
+            },
+            "otherOptions":{
+               "jacketFrontPage":{
+                  "cardRate":"9558120",
+                  "imageUrl":"/images
+/mediaOptions/newspaper/jacketFrontPage.png",
+                  "pricingUnit1":"Day",
+                  "minimumQtyUnit1":1,
+                  "discount%":25,
+                  "discountedRate":"7168590",
+                  "vendorRate":"6093302"
+               },
+               "jacketFrontInside":{
+                  "cardRate":"19116240",
+                  "imageUrl":"/images/mediaOptions/newspaper/jacketFrontInside.png",
+                  "pricingUnit1":"Day",
+                  "minimumQtyUnit1":1,
+                  "discount
+%":25,
+                  "discountedRate":"14337180",
+                  "vendorRate":"12186603"
+               },
+               "pointerAd":{
+                  "cardRate":"4177500",
+                  "imageUrl":"/images/mediaOptions/newspaper/pointerAd.png",
+                  "pricingUnit1":"Day",
+                  "minimumQtyUnit1":1,
+                  "discount%":25,
+                  "discountedRate":"3133125",
+                  "vendorRate":"2663156"
+               },
+               "skyBus":{
+                  "cardRate":"919050",
+                  "imageUrl":"/images
+/mediaOptions/newspaper/skyBus.png",
+                  "pricingUnit1":"Day",
+                  "minimumQtyUnit1":1,
+                  "discount%":25,
+                  "discountedRate":"689288",
+                  "vendorRate":"585895"
+               }
+            },
+            "classifiedOptions":{
+               "recruitment":{
+                  "cardRate":1100,
+                  "discountedRate":990,
+                  "imageUrl":"/images/mediaOptions/newspaper/recruitment.png",
+                  "pricingUnit1":"Sq Cm",
+                  "minimumQtyUnit1":1
+               },
+               "matrimonial":{
+                  "cardRate":875,
+                  "discountedRate":788,
+                  "imageUrl":"/images/mediaOptions/newspaper/matrimonial
+.png",
+                  "pricingUnit1":"Sq Cm",
+                  "minimumQtyUnit1":1
+               },
+               "property":{
+                  "cardRate":1201,
+                  "discountedRate":1081,
+                  "imageUrl":"/images/mediaOptions/newspaper/property.png",
+                  "pricingUnit1":"Sq Cm",
+                  "minimumQtyUnit1":1
+               },
+               "rent":{
+                  "cardRate":1201,
+                  "discountedRate":1081,
+                  "imageUrl":"/images/mediaOptions/newspaper/rent.png",
+                  "pricingUnit1":"Sq Cm",
+                  "minimumQtyUnit1":1
+               },
+               "business":{
+                  "cardRate":900,
+                  "discountedRate":810,
+                  "imageUrl":"/images/mediaOptions
+/newspaper/business.png",
+                  "pricingUnit1":"Sq Cm",
+                  "minimumQtyUnit1":1
+               },
+               "weddingArrangement":{
+                  "cardRate":900,
+                  "discountedRate":810,
+                  "imageUrl":"/images/mediaOptions/newspaper/weddingArrangement.png",
+                  "pricingUnit1":"Sq Cm",
+                  "minimumQtyUnit1":1
+               },
+               "astrology":{
+                  "cardRate":900,
+                  "discountedRate":810,
+                  "imageUrl":"/images/mediaOptions
+/newspaper/astrology.png",
+                  "pricingUnit1":"Sq Cm",
+                  "minimumQtyUnit1":1
+               },
+               "entertainment":{
+                  "cardRate":900,
+                  "discountedRate":810,
+                  "imageUrl":"/images/mediaOptions/newspaper/entertainment.png",
+                  "pricingUnit1":"Sq
+ Cm",
+                  "minimumQtyUnit1":1
+               },
+               "personal":{
+                  "cardRate":290,
+                  "discountedRate":261,
+                  "imageUrl":"/images/mediaOptions
+/newspaper/personal.png",
+                  "pricingUnit1":"Sq Cm",
+                  "minimumQtyUnit1":1
+               },
+               "vehicles":{
+                  "cardRate":900,
+                  "discountedRate":810,
+                  "imageUrl":"/images/mediaOptions/newspaper/vehicles.png",
+                  "pricingUnit1":"Sq Cm",
+                  "minimumQtyUnit1":1
+               },
+               "announcement":{
+                  "cardRate":304,
+                  "discountedRate":274,
+                  "imageUrl":"/images/mediaOptions/newspaper/announcement
+.png",
+                  "pricingUnit1":"Sq Cm",
+                  "minimumQtyUnit1":1
+               },
+               "travel":{
+                  "cardRate":900,
+                  "discountedRate":810,
+                  "imageUrl":"/images/mediaOptions/newspaper/travel.png",
+                  "pricingUnit1":"Sq Cm",
+                  "minimumQtyUnit1":1
+               },
+               "computers":{
+                  "cardRate":900,
+                  "discountedRate":810,
+                  "imageUrl":"/images/mediaOptions/newspaper/computers.png",
+                  "pricingUnit1":"Sq Cm",
+                  "minimumQtyUnit1":1
+               },
+               "publicNoticeAndTender":{
+                  "cardRate":510,
+                  "discountedRate":459,
+                  "imageUrl":"/images/mediaOptions/newspaper/publicNoticeAndTender.png",
+                  "pricingUnit1":"Sq Cm",
+                  "minimumQtyUnit1":1
+               },
+               "services":{
+                  "cardRate":950,
+                  "discountedRate":855,
+                  "imageUrl":"/images/mediaOptions/newspaper/services
+.png",
+                  "pricingUnit1":"Sq Cm",
+                  "minimumQtyUnit1":1
+               },
+               "retail":{
+                  "cardRate":900,
+                  "discountedRate":810,
+                  "imageUrl":"/images/mediaOptions/newspaper/retail.png",
+                  "pricingUnit1":"Sq Cm",
+                  "minimumQtyUnit1":1
+               },
+               "education":{
+                  "cardRate":950,
+                  "discountedRate":855,
+                  "imageUrl":"/images/mediaOptions/newspaper/education.png",
+                  "pricingUnit1":"Sq Cm",
+                  "minimumQtyUnit1":1
+               }
+            }
+         },
+         "logo":"/images/medias/55e986da8ead0e42788b4c55/55e986da8ead0e42788b4c55
+.jpg",
+         "name":"Times Of India - Main, Delhi",
+         "attributes":{
+            "categoryName":{
+               "value":"General Interest"
+            },
+            "circulation":{
+               "value":"995,823 copies"
+            },
+            "areaCovered":{
+               "showName":"Edition",
+               "value":"Delhi"
+            },
+            "printDay":{
+               "value":"Daily"
+            },
+            "language":{
+               "value":"English"
+            }
+         },
+         "categoryName":"General Interest"
+      },
+      {
+         "_id":"55e986da8ead0e42788b4b16",
+         "urlSlug":"the-indian-express-financial-express-ahmedabad",
+         "editionName":"Financial Express",
+         "categoryId":[
+            "55fd44998ead0ec6528b456a"
+         ],
+         "geography":[
+            "56cc3c4f8ead0e53478b45a1"
+         ],
+         "mediaOptions":{
+            "regularOptions":{
+               "page3":{
+                  "imageUrl":"/images/mediaOptions/newspaper/page3.png",
+                  "pricingUnit1":"width",
+                  "minimumQtyUnit1":12,
+                  "pricingUnit2":"height",
+                  "minimumQtyUnit2":8,
+                  "pricingUnit":"Sq Cm",
+                  "minimumQtyUnit":1,
+                  "cardRate":313,
+                  "discountedRate":282,
+                  "vendorRate":240
+               },
+               "lastPage":{
+                  "imageUrl":"/images/mediaOptions/newspaper/lastPage
+.png",
+                  "pricingUnit1":"width",
+                  "minimumQtyUnit1":12,
+                  "pricingUnit2":"height",
+                  "minimumQtyUnit2":8,
+                  "pricingUnit":"Sq Cm",
+                  "minimumQtyUnit":1,
+                  "cardRate":375,
+                  "discountedRate":338,
+                  "vendorRate":287
+               },
+               "anyPage":{
+                  "imageUrl":"/images/mediaOptions/newspaper/anyPage.png",
+                  "pricingUnit1":"width",
+                  "minimumQtyUnit1":12,
+                  "pricingUnit2":"height",
+                  "minimumQtyUnit2":8,
+                  "pricingUnit":"Sq Cm",
+                  "minimumQtyUnit":1,
+                  "cardRate":250,
+                  "discountedRate":225,
+                  "vendorRate":191
+               }
+            }
+         },
+         "logo":"/images/medias/55e986da8ead0e42788b4b16/55e986da8ead0e42788b4b16.jpg",
+         "name":"The Indian Express - Financial Express, Ahmedabad",
+         "attributes":{
+            "categoryName":{
+               "value":"Business
+ and Finance"
+            },
+            "circulation":{
+               "value":"25,000 copies"
+            },
+            "areaCovered":{
+               "value":"Ahmedabad",
+               "showName":"Edition"
+            },
+            "printDay":{
+               "value":"Daily"
+            },
+            "language":{
+               "value":"English"
+            }
+         },
+         "categoryName":"Business and
+ Finance"
+      },
+      {
+         "_id":"55e986d88ead0e42788b4702",
+         "urlSlug":"dna-main-mumbai",
+         "editionName":"Main",
+         "categoryId":[
+            "55d70b748ead0e960c8b4567"
+         ],
+         "geography":[
+            "56cc3c4f8ead0e53478b459f"
+         ],
+         "mediaOptions":{
+            "regularOptions":{
+               "page1":{
+                  "vendorRate":3959,
+                  "discountedRate":4658,
+                  "cardRate":5175,
+                  "imageUrl":"/images/mediaOptions/newspaper
+/page1.png",
+                  "pricingUnit":"Sq Cm",
+                  "minimumQtyUnit":1,
+                  "pricingUnit1":"width",
+                  "pricingUnit2":"height",
+                  "minimumQtyUnit1":20,
+                  "minimumQtyUnit2":12
+               },
+               "page3":{
+                  "vendorRate":3167,
+                  "discountedRate":3726,
+                  "cardRate":4140,
+                  "imageUrl":"/images/mediaOptions/newspaper/page3.png",
+                  "pricingUnit1":"width",
+                  "minimumQtyUnit1":12,
+                  "pricingUnit2":"height",
+                  "minimumQtyUnit2":8,
+                  "pricingUnit":"Sq Cm",
+                  "minimumQtyUnit":1
+               },
+               "lastPage":{
+                  "vendorRate":3167,
+                  "discountedRate":3726,
+                  "cardRate":4140,
+                  "imageUrl":"/images/mediaOptions/newspaper/lastPage.png",
+                  "pricingUnit1":"width",
+                  "minimumQtyUnit1":12,
+                  "pricingUnit2":"height",
+                  "minimumQtyUnit2":8,
+                  "pricingUnit":"Sq Cm",
+                  "minimumQtyUnit":1
+               },
+               "anyPage":{
+                  "vendorRate":2639,
+                  "discountedRate":3105,
+                  "cardRate":3450,
+                  "imageUrl":"/images/mediaOptions
+/newspaper/anyPage.png",
+                  "pricingUnit1":"width",
+                  "minimumQtyUnit1":12,
+                  "pricingUnit2":"height",
+                  "minimumQtyUnit2":8,
+                  "pricingUnit":"Sq Cm",
+                  "minimumQtyUnit":1
+               }
+            },
+            "otherOptions":{
+               "jacketFrontPage":{
+                  "cardRate":"8880300",
+                  "imageUrl":"/images/mediaOptions/newspaper/jacketFrontPage.png",
+                  "pricingUnit1":"Day",
+                  "minimumQtyUnit1":1,
+                  "discount%":40,
+                  "discountedRate":"6660225",
+                  "vendorRate":"5661191"
+               },
+               "jacketFrontInside":{
+                  "cardRate":"17760600",
+                  "imageUrl":"/images/mediaOptions/newspaper/jacketFrontInside.png",
+                  "pricingUnit1":"Day",
+                  "minimumQtyUnit1":1,
+                  "discount%":40,
+                  "discountedRate":"13320450",
+                  "vendorRate":"11322383"
+               },
+               "pointerAd":{
+                  "cardRate":"3881250",
+                  "imageUrl":"/images/mediaOptions/newspaper/pointerAd.png",
+                  "pricingUnit1":"Day",
+                  "minimumQtyUnit1":1,
+                  "discount
+%":40,
+                  "discountedRate":"2910938",
+                  "vendorRate":"2474297"
+               },
+               "skyBus":{
+                  "cardRate":853875,
+                  "imageUrl":"/images
+/mediaOptions/newspaper/skyBus.png",
+                  "pricingUnit1":"Day",
+                  "minimumQtyUnit1":1,
+                  "discount%":40,
+                  "discountedRate":"640406",
+                  "vendorRate":"544345"
+               }
+            }
+         },
+         "logo":"/images/medias/55e986d88ead0e42788b4702/55e986d88ead0e42788b4702
+.jpg",
+         "name":"DNA - Main, Mumbai",
+         "attributes":{
+            "categoryName":{
+               "value":"General Interest"
+            },
+            "circulation":{
+               "value":"576,507 copies"
+            },
+            "areaCovered":{
+               "showName":"Edition",
+               "value":"Mumbai"
+            },
+            "printDay":{
+               "value":"Daily"
+            },
+            "language":{
+               "value":"English"
+            }
+         },
+         "categoryName":"General Interest"
+      },
+      {
+         "_id":"55e986d88ead0e42788b4711",
+         "urlSlug":"economic-times-main-mumbai",
+         "editionName":"Main",
+         "categoryId":[
+            "55fd44998ead0ec6528b456a"
+         ],
+         "geography":[
+            "56cc3c4f8ead0e53478b459f"
+         ],
+         "mediaOptions":{
+            "otherOptions":{
+               "skyBus":{
+                  "vendorRate":"369209",
+                  "discountedRate":"434363",
+                  "discount%":10,
+                  "minimumQtyUnit1":1,
+                  "pricingUnit1":"Day",
+                  "imageUrl":"/images
+/mediaOptions/newspaper/skyBus.png",
+                  "cardRate":579150
+               },
+               "pointerAd":{
+                  "vendorRate":"1678219",
+                  "discountedRate":"1974375",
+                  "discount%":10,
+                  "minimumQtyUnit1":1,
+                  "pricingUnit1":"Day",
+                  "imageUrl":"/images/mediaOptions/newspaper
+/pointerAd.png",
+                  "cardRate":"2632500"
+               },
+               "jacketFrontInside":{
+                  "vendorRate":"7679529",
+                  "discountedRate":9034740,
+                  "discount%":25,
+                  "minimumQtyUnit1":1,
+                  "pricingUnit1":"Day",
+                  "imageUrl":"/images/mediaOptions/newspaper/jacketFrontInside
+.png",
+                  "cardRate":12046320
+               },
+               "jacketFrontPage":{
+                  "vendorRate":"3839765",
+                  "discountedRate":"4517370",
+                  "discount
+%":25,
+                  "minimumQtyUnit1":1,
+                  "pricingUnit1":"Day",
+                  "imageUrl":"/images/mediaOptions/newspaper/jacketFrontPage
+.png",
+                  "cardRate":6023160
+               }
+            },
+            "regularOptions":{
+               "anyPage":{
+                  "vendorRate":1817,
+                  "discountedRate":2138,
+                  "cardRate":2375,
+                  "minimumQtyUnit":1,
+                  "pricingUnit":"Sq Cm",
+                  "minimumQtyUnit2":8,
+                  "pricingUnit2":"height",
+                  "minimumQtyUnit1":12,
+                  "pricingUnit1":"width",
+                  "imageUrl":"/images/mediaOptions/newspaper/anyPage.png"
+               },
+               "lastPage":{
+                  "vendorRate":2024,
+                  "discountedRate":2381,
+                  "cardRate":2645,
+                  "minimumQtyUnit":1,
+                  "pricingUnit":"Sq Cm",
+                  "minimumQtyUnit2":8,
+                  "pricingUnit2":"height",
+                  "minimumQtyUnit1":12,
+                  "pricingUnit1":"width",
+                  "imageUrl":"/images/mediaOptions
+/newspaper/lastPage.png"
+               },
+               "page3":{
+                  "vendorRate":1958,
+                  "discountedRate":2304,
+                  "cardRate":2560,
+                  "minimumQtyUnit":1,
+                  "pricingUnit":"Sq Cm",
+                  "minimumQtyUnit2":8,
+                  "pricingUnit2":"height",
+                  "minimumQtyUnit1":12,
+                  "pricingUnit1":"width",
+                  "imageUrl":"/images/mediaOptions/newspaper/page3.png"
+               },
+               "page1":{
+                  "vendorRate":2685,
+                  "discountedRate":3159,
+                  "cardRate":3510,
+                  "minimumQtyUnit2":12,
+                  "minimumQtyUnit1":20,
+                  "pricingUnit2":"height",
+                  "pricingUnit1":"width",
+                  "minimumQtyUnit":1,
+                  "pricingUnit":"Sq Cm",
+                  "imageUrl":"/images/mediaOptions/newspaper/page1.png"
+               }
+            }
+         },
+         "logo":"/images/medias/55e986d88ead0e42788b4711/55e986d88ead0e42788b4711.jpg",
+         "name":"Economic Times
+ - Main, Mumbai",
+         "attributes":{
+            "categoryName":{
+               "value":"Business and Finance"
+            },
+            "circulation":{
+               "value":"221,742 copies"
+            },
+            "areaCovered":{
+               "showName":"Edition",
+               "value":"Mumbai"
+            },
+            "printDay":{
+               "value":"Daily"
+            },
+            "language":{
+               "value":"English"
+            }
+         },
+         "categoryName":"Business and Finance"
+      },
+      {
+         "_id":"55e986d98ead0e42788b489b",
+         "urlSlug":"lokmat-main-nandurbar",
+         "editionName":"Main",
+         "categoryId":[
+            "55d70b748ead0e960c8b4567"
+         ],
+         "geography":[
+            "56cc3c598ead0e53478b45d3"
+         ],
+         "mediaOptions":{
+            "regularOptions":{
+               "page1":{
+                  "vendorRate":"98",
+                  "discountedRate":115,
+                  "cardRate":128,
+                  "imageUrl":"/images/mediaOptions/newspaper/page1.png",
+                  "pricingUnit":"Sq Cm",
+                  "minimumQtyUnit":1,
+                  "pricingUnit1":"width",
+                  "pricingUnit2":"height",
+                  "minimumQtyUnit1":20,
+                  "minimumQtyUnit2":12
+               },
+               "page3":{
+                  "vendorRate":81,
+                  "discountedRate":95,
+                  "cardRate":106,
+                  "imageUrl":"/images/mediaOptions/newspaper/page3
+.png",
+                  "pricingUnit1":"width",
+                  "minimumQtyUnit1":12,
+                  "pricingUnit2":"height",
+                  "minimumQtyUnit2":8,
+                  "pricingUnit":"Sq Cm",
+                  "minimumQtyUnit":1
+               },
+               "lastPage":{
+                  "vendorRate":"88",
+                  "discountedRate":104,
+                  "cardRate":115,
+                  "imageUrl":"/images/mediaOptions/newspaper/lastPage.png",
+                  "pricingUnit1":"width",
+                  "minimumQtyUnit1":12,
+                  "pricingUnit2":"height",
+                  "minimumQtyUnit2":8,
+                  "pricingUnit":"Sq Cm",
+                  "minimumQtyUnit":1
+               },
+               "anyPage":{
+                  "vendorRate":"81",
+                  "discountedRate":95,
+                  "cardRate":106,
+                  "imageUrl":"/images/mediaOptions/newspaper/anyPage.png",
+                  "pricingUnit1":"width",
+                  "minimumQtyUnit1":12,
+                  "pricingUnit2":"height",
+                  "minimumQtyUnit2":8,
+                  "pricingUnit":"Sq Cm",
+                  "minimumQtyUnit":1
+               }
+            },
+            "otherOptions":{
+               "jacketFrontPage":{
+                  "cardRate":219648,
+                  "imageUrl":"/images/mediaOptions/newspaper
+/jacketFrontPage.png",
+                  "pricingUnit1":"Day",
+                  "minimumQtyUnit1":1,
+                  "discount%":40,
+                  "discountedRate":197683,
+                  "vendorRate":"168031"
+               },
+               "jacketFrontInside":{
+                  "cardRate":439296,
+                  "imageUrl":"/images/mediaOptions/newspaper
+/jacketFrontInside.png",
+                  "pricingUnit1":"Day",
+                  "minimumQtyUnit1":1,
+                  "discount%":40,
+                  "discountedRate":395366,
+                  "vendorRate":"336061"
+               },
+               "pointerAd":{
+                  "cardRate":96000,
+                  "imageUrl":"/images/mediaOptions/newspaper/pointerAd
+.png",
+                  "pricingUnit1":"Day",
+                  "minimumQtyUnit1":1,
+                  "discount%":40,
+                  "discountedRate":86400,
+                  "vendorRate":"73440"
+               },
+               "skyBus":{
+                  "cardRate":21120,
+                  "imageUrl":"/images/mediaOptions/newspaper/skyBus.png",
+                  "pricingUnit1":"Day",
+                  "minimumQtyUnit1":1,
+                  "discount%":40,
+                  "discountedRate":19008,
+                  "vendorRate":"16157"
+               }
+            }
+         },
+         "logo":"/images/medias
+/55e986d98ead0e42788b489b/55e986d98ead0e42788b489b.jpg",
+         "name":"Lokmat Hello Nadurbar - Main, Nandurbar",
+         "attributes":{
+            "categoryName":{
+               "value":"General Interest"
+            },
+            "circulation":{
+               "value":"119,467 copies"
+            },
+            "areaCovered":{
+               "showName":"Edition",
+               "value":"Nandurbar"
+            },
+            "printDay":{
+               "value":"Daily"
+            },
+            "language":{
+               "value":"Marathi"
+            }
+         },
+         "categoryName":"General Interest"
+      },
+      {
+         "_id":"55e986d88ead0e42788b482a",
+         "urlSlug":"ei-samay-main-kolkata",
+         "editionName":"Main",
+         "categoryId":[
+            "55d70b748ead0e960c8b4567"
+         ],
+         "geography":[
+            "56cc3c4a8ead0e53478b457d"
+         ],
+         "mediaOptions":{
+            "otherOptions":{
+               "skyBus":{
+                  "vendorRate":"90987",
+                  "discountedRate":"107044",
+                  "discount
+%":40,
+                  "minimumQtyUnit1":1,
+                  "pricingUnit1":"Day",
+                  "imageUrl":"/images/mediaOptions/newspaper/skyBus.png",
+                  "cardRate":"142725"
+               },
+               "pointerAd":{
+                  "vendorRate":"413579",
+                  "discountedRate":"486563",
+                  "discount%":40,
+                  "minimumQtyUnit1":1,
+                  "pricingUnit1":"Day",
+                  "imageUrl":"/images/mediaOptions/newspaper/pointerAd.png",
+                  "cardRate":"648750"
+               },
+               "jacketFrontInside":{
+                  "vendorRate":"1892534",
+                  "discountedRate":"2226510",
+                  "discount%":40,
+                  "minimumQtyUnit1":1,
+                  "pricingUnit1":"Day",
+                  "imageUrl":"/images/mediaOptions/newspaper/jacketFrontInside.png",
+                  "cardRate":"2968680"
+               },
+               "jacketFrontPage":{
+                  "vendorRate":"946267",
+                  "discountedRate":"1113255",
+                  "discount%":40,
+                  "minimumQtyUnit1":1,
+                  "pricingUnit1":"Day",
+                  "imageUrl":"/images/mediaOptions/newspaper/jacketFrontPage.png",
+                  "cardRate":"1484340"
+               }
+            },
+            "regularOptions":{
+               "anyPage":{
+                  "minimumQtyUnit":1,
+                  "pricingUnit":"Sq Cm",
+                  "minimumQtyUnit2":8,
+                  "pricingUnit2":"height",
+                  "minimumQtyUnit1":12,
+                  "pricingUnit1":"width",
+                  "imageUrl":"/images/mediaOptions/newspaper/anyPage
+.png",
+                  "cardRate":690,
+                  "discountedRate":621,
+                  "vendorRate":528
+               },
+               "lastPage":{
+                  "minimumQtyUnit":1,
+                  "pricingUnit":"Sq Cm",
+                  "minimumQtyUnit2":8,
+                  "pricingUnit2":"height",
+                  "minimumQtyUnit1":12,
+                  "pricingUnit1":"width",
+                  "imageUrl":"/images/mediaOptions/newspaper/lastPage.png",
+                  "cardRate":805,
+                  "discountedRate":725,
+                  "vendorRate":616
+               },
+               "page3":{
+                  "minimumQtyUnit":1,
+                  "pricingUnit":"Sq Cm",
+                  "minimumQtyUnit2":8,
+                  "pricingUnit2":"height",
+                  "minimumQtyUnit1":12,
+                  "pricingUnit1":"width",
+                  "imageUrl":"/images/mediaOptions/newspaper/page3.png",
+                  "cardRate":785,
+                  "discountedRate":707,
+                  "vendorRate":601
+               },
+               "page1":{
+                  "minimumQtyUnit2":12,
+                  "minimumQtyUnit1":20,
+                  "pricingUnit2":"height",
+                  "pricingUnit1":"width",
+                  "minimumQtyUnit":1,
+                  "pricingUnit":"Sq Cm",
+                  "imageUrl":"/images/mediaOptions/newspaper/page1.png",
+                  "cardRate":865,
+                  "discountedRate":779,
+                  "vendorRate":662
+               }
+            }
+         },
+         "logo":"/images/medias/55e986d88ead0e42788b482a
+/55e986d88ead0e42788b482a.jpg",
+         "name":"Ei Samay - Main, Kolkata",
+         "attributes":{
+            "categoryName":{
+               "value":"General Interest"
+            },
+            "circulation":{
+               "value":"380,000 copies"
+            },
+            "areaCovered":{
+               "value":"Kolkata",
+               "showName":"Edition"
+            },
+            "printDay":{
+               "value":"Daily"
+            },
+            "language":{
+               "value":"Bengali"
+            }
+         },
+         "categoryName":"General Interest"
+      },
+      {
+         "_id":"55e986db8ead0e42788b4cd1",
+         "urlSlug":"gangaputra-times-main-jind",
+         "editionName":"Main",
+         "categoryId":[
+            "55d70b748ead0e960c8b4567"
+         ],
+         "geography":[
+            "56cc3cc28ead0e53478b4649"
+         ],
+         "mediaOptions":{
+            "otherOptions":{
+               "skyBus":{
+                  "vendorRate":8836,
+                  "discountedRate":10395,
+                  "discount%":40,
+                  "minimumQtyUnit1":1,
+                  "pricingUnit1":"Day",
+                  "imageUrl":"/images/mediaOptions/newspaper/skyBus.png",
+                  "cardRate":17325
+               },
+               "pointerAd":{
+                  "vendorRate":32130,
+                  "discountedRate":37800,
+                  "discount%":40,
+                  "minimumQtyUnit1":1,
+                  "pricingUnit1":"Day",
+                  "imageUrl":"/images
+/mediaOptions/newspaper/pointerAd.png",
+                  "cardRate":63000
+               },
+               "jacketFrontInside":{
+                  "vendorRate":123326,
+                  "discountedRate":145089,
+                  "discount%":40,
+                  "minimumQtyUnit1":1,
+                  "pricingUnit1":"Day",
+                  "imageUrl":"/images/mediaOptions/newspaper
+/jacketFrontInside.png",
+                  "cardRate":362723
+               },
+               "jacketFrontPage":{
+                  "vendorRate":84567,
+                  "discountedRate":99490,
+                  "discount%":40,
+                  "minimumQtyUnit1":1,
+                  "pricingUnit1":"Day",
+                  "imageUrl":"/images/mediaOptions/newspaper/jacketFrontPage
+.png",
+                  "cardRate":304920
+               }
+            },
+            "regularOptions":{
+               "anyPage":{
+                  "minimumQtyUnit":1,
+                  "pricingUnit":"Sq Cm",
+                  "minimumQtyUnit2":8,
+                  "pricingUnit2":"height",
+                  "minimumQtyUnit1":12,
+                  "pricingUnit1":"width",
+                  "imageUrl":"/images/mediaOptions
+/newspaper/anyPage.png",
+                  "cardRate":105,
+                  "discountedRate":79,
+                  "vendorRate":67
+               },
+               "lastPage":{
+                  "minimumQtyUnit":1,
+                  "pricingUnit":"Sq Cm",
+                  "minimumQtyUnit2":8,
+                  "pricingUnit2":"height",
+                  "minimumQtyUnit1":12,
+                  "pricingUnit1":"width",
+                  "imageUrl":"/images/mediaOptions/newspaper/lastPage.png",
+                  "cardRate":105,
+                  "discountedRate":79,
+                  "vendorRate":67
+               },
+               "page3":{
+                  "minimumQtyUnit":1,
+                  "pricingUnit":"Sq Cm",
+                  "minimumQtyUnit2":8,
+                  "pricingUnit2":"height",
+                  "minimumQtyUnit1":12,
+                  "pricingUnit1":"width",
+                  "imageUrl":"/images/mediaOptions/newspaper/page3
+.png",
+                  "cardRate":105,
+                  "discountedRate":79,
+                  "vendorRate":67
+               },
+               "page1":{
+                  "minimumQtyUnit2":12,
+                  "minimumQtyUnit1":20,
+                  "pricingUnit2":"height",
+                  "pricingUnit1":"width",
+                  "minimumQtyUnit":1,
+                  "pricingUnit":"Sq Cm",
+                  "imageUrl":"/images/mediaOptions/newspaper/page1.png",
+                  "cardRate":105,
+                  "discountedRate":79,
+                  "vendorRate":67
+               }
+            }
+         },
+         "logo":"/images/medias/55e986db8ead0e42788b4cd1/55e986db8ead0e42788b4cd1.jpg",
+         "name":"Gangaputra Times - Main
+, Jind",
+         "attributes":{
+            "categoryName":{
+               "value":"General Interest"
+            },
+            "circulation":{
+               "value":"70,000 copies"
+            },
+            "areaCovered":{
+               "value":"Jind",
+               "showName":"Edition"
+            },
+            "printDay":{
+               "value":"Daily"
+            },
+            "language":{
+               "value":"Hindi"
+            }
+         },
+         "categoryName":"General Interest"
+      },
+      {
+         "_id":"55e986d88ead0e42788b46f6",
+         "urlSlug":"divya-bhaskar-main-ahmedabad",
+         "editionName":"Main",
+         "categoryId":[
+            "55d70b748ead0e960c8b4567"
+         ],
+         "geography":[
+            "56cc3c4f8ead0e53478b45a1"
+         ],
+         "mediaOptions":{
+            "otherOptions":{
+               "jacketFrontPage":{
+                  "vendorRate":"2242598",
+                  "discountedRate":"2638350",
+                  "discount%":40,
+                  "minimumQtyUnit1":1,
+                  "pricingUnit1":"Day",
+                  "imageUrl":"/images/mediaOptions/newspaper/jacketFrontPage
+.png",
+                  "cardRate":"3517800"
+               },
+               "jacketFrontInside":{
+                  "vendorRate":"4485195",
+                  "discountedRate":"5276700",
+                  "discount
+%":40,
+                  "minimumQtyUnit1":1,
+                  "pricingUnit1":"Day",
+                  "imageUrl":"/images/mediaOptions/newspaper/jacketFrontInside
+.png",
+                  "cardRate":"7035600"
+               },
+               "pointerAd":{
+                  "vendorRate":"980156",
+                  "discountedRate":"1153125",
+                  "discount%":40,
+                  "minimumQtyUnit1":1,
+                  "pricingUnit1":"Day",
+                  "imageUrl":"/images/mediaOptions/newspaper/pointerAd.png",
+                  "cardRate":"1537500"
+               },
+               "skyBus":{
+                  "vendorRate":"215635",
+                  "discountedRate":"253688",
+                  "discount%":40,
+                  "minimumQtyUnit1":1,
+                  "pricingUnit1":"Day",
+                  "imageUrl":"/images/mediaOptions/newspaper/skyBus.png",
+                  "cardRate":"338250"
+               }
+            },
+            "regularOptions":{
+               "page1":{
+                  "vendorRate":1568,
+                  "discountedRate":1845,
+                  "cardRate":2050,
+                  "minimumQtyUnit2":12,
+                  "minimumQtyUnit1":20,
+                  "pricingUnit2":"height",
+                  "pricingUnit1":"width",
+                  "minimumQtyUnit":1,
+                  "pricingUnit":"Sq Cm",
+                  "imageUrl":"/images/mediaOptions/newspaper/page1.png"
+               },
+               "page3":{
+                  "vendorRate":977,
+                  "discountedRate":1149,
+                  "cardRate":1277,
+                  "minimumQtyUnit":1,
+                  "pricingUnit":"Sq Cm",
+                  "minimumQtyUnit2":8,
+                  "pricingUnit2":"height",
+                  "minimumQtyUnit1":12,
+                  "pricingUnit1":"width",
+                  "imageUrl":"/images/mediaOptions/newspaper/page3.png"
+               },
+               "lastPage":{
+                  "vendorRate":1174,
+                  "discountedRate":1381,
+                  "cardRate":1534,
+                  "minimumQtyUnit":1,
+                  "pricingUnit":"Sq Cm",
+                  "minimumQtyUnit2":8,
+                  "pricingUnit2":"height",
+                  "minimumQtyUnit1":12,
+                  "pricingUnit1":"width",
+                  "imageUrl":"/images/mediaOptions
+/newspaper/lastPage.png"
+               },
+               "anyPage":{
+                  "vendorRate":785,
+                  "discountedRate":923,
+                  "cardRate":1025,
+                  "minimumQtyUnit":1,
+                  "pricingUnit":"Sq Cm",
+                  "minimumQtyUnit2":8,
+                  "pricingUnit2":"height",
+                  "minimumQtyUnit1":12,
+                  "pricingUnit1":"width",
+                  "imageUrl":"/images/mediaOptions/newspaper/anyPage.png"
+               }
+            }
+         },
+         "logo":"/images/medias/55e986d88ead0e42788b46f6
+/55e986d88ead0e42788b46f6.jpg",
+         "name":"Divya Bhaskar - Main, Ahmedabad",
+         "attributes":{
+            "categoryName":{
+               "value":"General Interest"
+            },
+            "circulation":{
+               "value":"484,979 copies"
+            },
+            "areaCovered":{
+               "showName":"Edition",
+               "value":"Ahmedabad"
+            },
+            "printDay":{
+               "value":"Daily"
+            },
+            "language":{
+               "value":"Gujarati"
+            }
+         },
+         "categoryName":"General
+ Interest"
+      },
+      {
+         "_id":"55e986db8ead0e42788b4ddf",
+         "urlSlug":"gujarat-samachar-main-palanpur",
+         "editionName":"Main",
+         "categoryId":[
+            "55d70b748ead0e960c8b4567"
+         ],
+         "geography":[
+            "56cc3cd48ead0e53478b46ad"
+         ],
+         "mediaOptions":{
+            "otherOptions":{
+               "skyBus":{
+                  "vendorRate":"52594",
+                  "discountedRate":"61875",
+                  "discount%":40,
+                  "minimumQtyUnit1":1,
+                  "pricingUnit1":"Day",
+                  "imageUrl":"/images/mediaOptions/newspaper/skyBus.png",
+                  "cardRate":82500
+               },
+               "pointerAd":{
+                  "vendorRate":"239063",
+                  "discountedRate":"281250",
+                  "discount%":40,
+                  "minimumQtyUnit1":1,
+                  "pricingUnit1":"Day",
+                  "imageUrl":"/images/mediaOptions/newspaper/pointerAd.png",
+                  "cardRate":"375000"
+               },
+               "jacketFrontInside":{
+                  "vendorRate":"1093950",
+                  "discountedRate":"1287000",
+                  "discount%":40,
+                  "minimumQtyUnit1":1,
+                  "pricingUnit1":"Day",
+                  "imageUrl":"/images/mediaOptions/newspaper/jacketFrontInside.png",
+                  "cardRate":"1716000"
+               },
+               "jacketFrontPage":{
+                  "vendorRate":"546975",
+                  "discountedRate":"643500",
+                  "discount%":40,
+                  "minimumQtyUnit1":1,
+                  "pricingUnit1":"Day",
+                  "imageUrl":"/images/mediaOptions/newspaper/jacketFrontPage.png",
+                  "cardRate":"858000"
+               }
+            },
+            "regularOptions":{
+               "anyPage":{
+                  "minimumQtyUnit":1,
+                  "pricingUnit":"Sq Cm",
+                  "minimumQtyUnit2":8,
+                  "pricingUnit2":"height",
+                  "minimumQtyUnit1":12,
+                  "pricingUnit1":"width",
+                  "imageUrl":"/images/mediaOptions/newspaper/anyPage.png",
+                  "cardRate":200,
+                  "discountedRate":180,
+                  "vendorRate":153
+               },
+               "lastPage":{
+                  "minimumQtyUnit":1,
+                  "pricingUnit":"Sq Cm",
+                  "minimumQtyUnit2":8,
+                  "pricingUnit2":"height",
+                  "minimumQtyUnit1":12,
+                  "pricingUnit1":"width",
+                  "imageUrl":"/images/mediaOptions/newspaper/lastPage
+.png",
+                  "cardRate":400,
+                  "discountedRate":360,
+                  "vendorRate":306
+               },
+               "page3":{
+                  "minimumQtyUnit":1,
+                  "pricingUnit":"Sq Cm",
+                  "minimumQtyUnit2":8,
+                  "pricingUnit2":"height",
+                  "minimumQtyUnit1":12,
+                  "pricingUnit1":"width",
+                  "imageUrl":"/images/mediaOptions/newspaper/page3.png",
+                  "cardRate":300,
+                  "discountedRate":270,
+                  "vendorRate":230
+               },
+               "page1":{
+                  "minimumQtyUnit2":12,
+                  "minimumQtyUnit1":20,
+                  "pricingUnit2":"height",
+                  "pricingUnit1":"width",
+                  "minimumQtyUnit":1,
+                  "pricingUnit":"Sq Cm",
+                  "imageUrl":"/images/mediaOptions/newspaper/page1.png",
+                  "cardRate":500,
+                  "discountedRate":450,
+                  "vendorRate":383
+               }
+            }
+         },
+         "logo":"/images/medias/55e986db8ead0e42788b4ddf/55e986db8ead0e42788b4ddf.jpg",
+         "name":"Gujarat Samachar - Main, Palanpur",
+         "attributes":{
+            "categoryName":{
+               "value":"General Interest"
+            },
+            "circulation":{
+               "value":"54,000 copies"
+            },
+            "areaCovered":{
+               "value":"Palanpur",
+               "showName":"Edition"
+            },
+            "printDay":{
+               "value":"Daily"
+            },
+            "language":{
+               "value":"Gujarati"
+            }
+         },
+         "categoryName":"General Interest"
+      },
+      {
+         "_id":"55e986da8ead0e42788b4b73",
+         "urlSlug":"the-shillong-times-main-shillong",
+         "editionName":"Main",
+         "categoryId":[
+            "55d70b748ead0e960c8b4567"
+         ],
+         "geography":[
+            "56cc3c7d8ead0e53478b461c"
+         ],
+         "mediaOptions":{
+            "regularOptions":{
+               "page1":{
+                  "vendorRate":526,
+                  "discountedRate":619,
+                  "cardRate":825,
+                  "imageUrl":"/images/mediaOptions/newspaper/page1.png",
+                  "pricingUnit":"Sq Cm",
+                  "minimumQtyUnit":1,
+                  "pricingUnit1":"width",
+                  "pricingUnit2":"height",
+                  "minimumQtyUnit1":20,
+                  "minimumQtyUnit2":12
+               },
+               "page3":{
+                  "vendorRate":421,
+                  "discountedRate":495,
+                  "cardRate":660,
+                  "imageUrl":"/images/mediaOptions/newspaper
+/page3.png",
+                  "pricingUnit1":"width",
+                  "minimumQtyUnit1":12,
+                  "pricingUnit2":"height",
+                  "minimumQtyUnit2":8,
+                  "pricingUnit":"Sq Cm (B/W Only)",
+                  "minimumQtyUnit":1
+               },
+               "lastPage":{
+                  "vendorRate":421,
+                  "discountedRate":495,
+                  "cardRate":660,
+                  "imageUrl":"/images/mediaOptions/newspaper/lastPage.png",
+                  "pricingUnit1":"width",
+                  "minimumQtyUnit1":12,
+                  "pricingUnit2":"height",
+                  "minimumQtyUnit2":8,
+                  "pricingUnit":"Sq Cm",
+                  "minimumQtyUnit":1
+               },
+               "anyPage":{
+                  "vendorRate":351,
+                  "discountedRate":413,
+                  "cardRate":550,
+                  "imageUrl":"/images/mediaOptions/newspaper/anyPage
+.png",
+                  "pricingUnit1":"width",
+                  "minimumQtyUnit1":12,
+                  "pricingUnit2":"height",
+                  "minimumQtyUnit2":8,
+                  "pricingUnit":"Sq Cm",
+                  "minimumQtyUnit":1
+               }
+            },
+            "otherOptions":{
+               "jacketFrontPage":{
+                  "cardRate":2395800,
+                  "imageUrl":"/images
+/mediaOptions/newspaper/jacketFrontPage.png",
+                  "pricingUnit1":"Day",
+                  "minimumQtyUnit1":1,
+                  "discount%":40,
+                  "discountedRate":781704,
+                  "vendorRate":664448
+               },
+               "jacketFrontInside":{
+                  "cardRate":2849963,
+                  "imageUrl":"/images
+/mediaOptions/newspaper/jacketFrontInside.png",
+                  "pricingUnit1":"Day",
+                  "minimumQtyUnit1":1,
+                  "discount%":40,
+                  "discountedRate":1139985,
+                  "vendorRate":968987
+               },
+               "pointerAd":{
+                  "cardRate":495000,
+                  "imageUrl":"/images/mediaOptions
+/newspaper/pointerAd.png",
+                  "pricingUnit1":"Day",
+                  "minimumQtyUnit1":1,
+                  "discount%":40,
+                  "discountedRate":297000,
+                  "vendorRate":252450
+               },
+               "skyBus":{
+                  "cardRate":136125,
+                  "imageUrl":"/images/mediaOptions/newspaper/skyBus.png",
+                  "pricingUnit1":"Day",
+                  "minimumQtyUnit1":1,
+                  "discount%":40,
+                  "discountedRate":81675,
+                  "vendorRate":69424
+               }
+            }
+         },
+         "logo":"/images/medias/55e986da8ead0e42788b4b73/55e986da8ead0e42788b4b73.jpg",
+         "name":"The Shillong
+ Times - Main, Shillong",
+         "attributes":{
+            "categoryName":{
+               "value":"General Interest"
+            },
+            "circulation":{
+               "value":"40,000 copies"
+            },
+            "areaCovered":{
+               "showName":"Edition",
+               "value":"Shillong"
+            },
+            "printDay":{
+               "value":"Daily"
+            },
+            "language":{
+               "value":"English"
+            }
+         },
+         "categoryName":"General Interest"
+      },
+      {
+         "_id":"56cae53c8ead0e12178b4797",
+         "urlSlug":"poknapham-main-imphal-manipuri",
+         "logo":"/images/medias/56cae53c8ead0e12178b4797/56cae53c8ead0e12178b4797
+.jpg",
+         "name":"Poknapham - Main, Imphal",
+         "editionName":"Main",
+         "categoryId":[
+            "55d70b748ead0e960c8b4567"
+         ],
+         "geography":[
+            "56cc3cc88ead0e53478b4673"
+         ],
+         "attributes":{
+            "categoryName":{
+               "value":"General Interest"
+            },
+            "circulation":{
+               "value":"48,909 copies"
+            },
+            "areaCovered":{
+               "value":"Imphal",
+               "showName":"Edition"
+            },
+            "printDay":{
+               "value":"Daily"
+            },
+            "language":{
+               "value":"Manipuri"
+            }
+         },
+         "mediaOptions":{
+            "regularOptions":{
+               "page1":{
+                  "imageUrl":"/images/mediaOptions/newspaper/page1.png",
+                  "pricingUnit":"Sq Cm",
+                  "minimumQtyUnit":1,
+                  "pricingUnit1":"width",
+                  "pricingUnit2":"height",
+                  "minimumQtyUnit1":20,
+                  "minimumQtyUnit2":12,
+                  "cardRate":800,
+                  "discountedRate":680,
+                  "vendorRate":612
+               },
+               "page3":{
+                  "imageUrl":"/images/mediaOptions/newspaper/page3.png",
+                  "pricingUnit1":"width",
+                  "minimumQtyUnit1":12,
+                  "pricingUnit2":"height",
+                  "minimumQtyUnit2":8,
+                  "pricingUnit":"Sq Cm",
+                  "minimumQtyUnit":1,
+                  "cardRate":500,
+                  "discountedRate":425,
+                  "vendorRate":383
+               },
+               "lastPage":{
+                  "imageUrl":"/images/mediaOptions
+/newspaper/lastPage.png",
+                  "pricingUnit1":"width",
+                  "minimumQtyUnit1":12,
+                  "pricingUnit2":"height",
+                  "minimumQtyUnit2":8,
+                  "pricingUnit":"Sq Cm",
+                  "minimumQtyUnit":1,
+                  "cardRate":600,
+                  "discountedRate":510,
+                  "vendorRate":459
+               },
+               "anyPage":{
+                  "imageUrl":"/images/mediaOptions/newspaper/anyPage.png",
+                  "pricingUnit1":"width",
+                  "minimumQtyUnit1":12,
+                  "pricingUnit2":"height",
+                  "minimumQtyUnit2":8,
+                  "pricingUnit":"Sq Cm",
+                  "minimumQtyUnit":1,
+                  "cardRate":400,
+                  "discountedRate":340,
+                  "vendorRate":306
+               }
+            },
+            "otherOptions":{
+               "jacketFrontPage":{
+                  "cardRate":1372800,
+                  "imageUrl":"/images/mediaOptions/newspaper/jacketFrontPage.png",
+                  "pricingUnit1":"Day",
+                  "minimumQtyUnit1":1,
+                  "discount
+%":25,
+                  "discountedRate":1029600,
+                  "vendorRate":926640
+               },
+               "jacketFrontInside":{
+                  "cardRate":2745600,
+                  "imageUrl":"/images/mediaOptions/newspaper/jacketFrontInside.png",
+                  "pricingUnit1":"Day",
+                  "minimumQtyUnit1":1,
+                  "discount
+%":25,
+                  "discountedRate":2059200,
+                  "vendorRate":1853280
+               },
+               "pointerAd":{
+                  "cardRate":600000,
+                  "imageUrl":"/images
+/mediaOptions/newspaper/pointerAd.png",
+                  "pricingUnit1":"Day",
+                  "minimumQtyUnit1":1,
+                  "discount%":25,
+                  "discountedRate":450000,
+                  "vendorRate":405000
+               },
+               "skyBus":{
+                  "cardRate":132000,
+                  "imageUrl":"/images/mediaOptions/newspaper/skyBus
+.png",
+                  "pricingUnit1":"Day",
+                  "minimumQtyUnit1":1,
+                  "discount%":25,
+                  "discountedRate":99000,
+                  "vendorRate":89100
+               }
+            }
+         },
+         "categoryName":"General Interest"
+      },
+      {
+         "_id":"55e986da8ead0e42788b4b31",
+         "urlSlug":"the-meghalaya-guardian-main-shillong",
+         "editionName":"Main",
+         "categoryId":[
+            "55d70b748ead0e960c8b4567"
+         ],
+         "geography":[
+            "56cc3c7d8ead0e53478b461c"
+         ],
+         "mediaOptions":{
+            "otherOptions":{
+               "skyBus":{
+                  "vendorRate":50490,
+                  "discountedRate":59400,
+                  "discount%":40,
+                  "minimumQtyUnit1":1,
+                  "pricingUnit1":"Day",
+                  "imageUrl":"/images/mediaOptions/newspaper/skyBus.png",
+                  "cardRate":99000
+               },
+               "pointerAd":{
+                  "vendorRate":183600,
+                  "discountedRate":216000,
+                  "discount%":40,
+                  "minimumQtyUnit1":1,
+                  "pricingUnit1":"Day",
+                  "imageUrl":"/images/mediaOptions/newspaper/pointerAd.png",
+                  "cardRate":360000
+               },
+               "jacketFrontInside":{
+                  "vendorRate":704718,
+                  "discountedRate":829080,
+                  "discount%":40,
+                  "minimumQtyUnit1":1,
+                  "pricingUnit1":"Day",
+                  "imageUrl":"/images/mediaOptions/newspaper/jacketFrontInside.png",
+                  "cardRate":2072700
+               },
+               "jacketFrontPage":{
+                  "vendorRate":483235,
+                  "discountedRate":568512,
+                  "discount%":40,
+                  "minimumQtyUnit1":1,
+                  "pricingUnit1":"Day",
+                  "imageUrl":"/images/mediaOptions/newspaper/jacketFrontPage.png",
+                  "cardRate":1742400
+               }
+            },
+            "regularOptions":{
+               "anyPage":{
+                  "vendorRate":191,
+                  "discountedRate":225,
+                  "cardRate":300,
+                  "minimumQtyUnit":1,
+                  "pricingUnit":"Sq
+ Cm",
+                  "minimumQtyUnit2":8,
+                  "pricingUnit2":"height",
+                  "minimumQtyUnit1":12,
+                  "pricingUnit1":"width",
+                  "imageUrl":"/images/mediaOptions/newspaper/anyPage.png"
+               },
+               "lastPage":{
+                  "vendorRate":239,
+                  "discountedRate":281,
+                  "cardRate":375,
+                  "minimumQtyUnit":1,
+                  "pricingUnit":"Sq Cm",
+                  "minimumQtyUnit2":8,
+                  "pricingUnit2":"height",
+                  "minimumQtyUnit1":12,
+                  "pricingUnit1":"width",
+                  "imageUrl":"/images/mediaOptions/newspaper/lastPage.png"
+               },
+               "page3":{
+                  "vendorRate":239,
+                  "discountedRate":281,
+                  "cardRate":375,
+                  "minimumQtyUnit":1,
+                  "pricingUnit":"Sq Cm",
+                  "minimumQtyUnit2":8,
+                  "pricingUnit2":"height",
+                  "minimumQtyUnit1":12,
+                  "pricingUnit1":"width",
+                  "imageUrl":"/images/mediaOptions
+/newspaper/page3.png"
+               },
+               "page1":{
+                  "vendorRate":383,
+                  "discountedRate":450,
+                  "cardRate":600,
+                  "minimumQtyUnit2":12,
+                  "minimumQtyUnit1":20,
+                  "pricingUnit2":"height",
+                  "pricingUnit1":"width",
+                  "minimumQtyUnit":1,
+                  "pricingUnit":"Sq Cm",
+                  "imageUrl":"/images/mediaOptions/newspaper/page1.png"
+               }
+            }
+         },
+         "logo":"/images/medias/55e986da8ead0e42788b4b31
+/55e986da8ead0e42788b4b31.jpg",
+         "name":"The Meghalaya Guardian - Main, Shillong",
+         "attributes":{
+            "categoryName":{
+               "value":"General Interest"
+            },
+            "circulation":{
+               "value":"11,767 copies"
+            },
+            "areaCovered":{
+               "showName":"Edition",
+               "value":"Shillong"
+            },
+            "printDay":{
+               "value":"Daily"
+            },
+            "language":{
+               "value":"English"
+            }
+         },
+         "categoryName":"General
+ Interest"
+      },
+      {
+         "_id":"55e986d98ead0e42788b48e3",
+         "urlSlug":"mirror-main-ahmedabad",
+         "editionName":"Main",
+         "categoryId":[
+            "55d70b748ead0e960c8b4567"
+         ],
+         "geography":[
+            "56cc3c4f8ead0e53478b45a1"
+         ],
+         "mediaOptions":{
+            "regularOptions":{
+               "page1":{
+                  "imageUrl":"/images/mediaOptions/newspaper/page1.png",
+                  "pricingUnit":"Sq Cm",
+                  "minimumQtyUnit":1,
+                  "pricingUnit1":"width",
+                  "pricingUnit2":"height",
+                  "minimumQtyUnit1":20,
+                  "minimumQtyUnit2":12,
+                  "cardRate":340,
+                  "discountedRate":306,
+                  "vendorRate":260
+               },
+               "page3":{
+                  "imageUrl":"/images/mediaOptions/newspaper/page3
+.png",
+                  "pricingUnit1":"width",
+                  "minimumQtyUnit1":12,
+                  "pricingUnit2":"height",
+                  "minimumQtyUnit2":8,
+                  "pricingUnit":"Sq Cm",
+                  "minimumQtyUnit":1,
+                  "cardRate":250,
+                  "discountedRate":225,
+                  "vendorRate":191
+               },
+               "lastPage":{
+                  "imageUrl":"/images/mediaOptions/newspaper/lastPage.png",
+                  "pricingUnit1":"width",
+                  "minimumQtyUnit1":12,
+                  "pricingUnit2":"height",
+                  "minimumQtyUnit2":8,
+                  "pricingUnit":"Sq Cm",
+                  "minimumQtyUnit":1,
+                  "cardRate":280,
+                  "discountedRate":252,
+                  "vendorRate":214
+               },
+               "anyPage":{
+                  "imageUrl":"/images/mediaOptions/newspaper/anyPage.png",
+                  "pricingUnit1":"width",
+                  "minimumQtyUnit1":12,
+                  "pricingUnit2":"height",
+                  "minimumQtyUnit2":8,
+                  "pricingUnit":"Sq Cm",
+                  "minimumQtyUnit":1,
+                  "cardRate":220,
+                  "discountedRate":198,
+                  "vendorRate":168
+               }
+            },
+            "otherOptions":{
+               "jacketFrontPage":{
+                  "cardRate":"583440",
+                  "imageUrl":"/images/mediaOptions/newspaper/jacketFrontPage.png",
+                  "pricingUnit1":"Day",
+                  "minimumQtyUnit1":1,
+                  "discount%":25,
+                  "discountedRate":"437580",
+                  "vendorRate":"371943"
+               },
+               "jacketFrontInside":{
+                  "cardRate":"1166880",
+                  "imageUrl":"/images/mediaOptions/newspaper/jacketFrontInside.png",
+                  "pricingUnit1":"Day",
+                  "minimumQtyUnit1":1,
+                  "discount%":25,
+                  "discountedRate":"875160",
+                  "vendorRate":"743886"
+               },
+               "pointerAd":{
+                  "cardRate":"255000",
+                  "imageUrl":"/images/mediaOptions/newspaper/pointerAd.png",
+                  "pricingUnit1":"Day",
+                  "minimumQtyUnit1":1,
+                  "discount%":25,
+                  "discountedRate":"191250",
+                  "vendorRate":"162563"
+               },
+               "skyBus":{
+                  "cardRate":"56100",
+                  "imageUrl":"/images
+/mediaOptions/newspaper/skyBus.png",
+                  "pricingUnit1":"Day",
+                  "minimumQtyUnit1":1,
+                  "discount%":25,
+                  "discountedRate":"42075",
+                  "vendorRate":"35764"
+               }
+            }
+         },
+         "logo":"/images/medias/55e986d98ead0e42788b48e3/fd629c698ce03da1090ee6490e9a63b7
+.jpg",
+         "name":"Mirror - Main, Ahmedabad",
+         "attributes":{
+            "categoryName":{
+               "value":"General Interest"
+            },
+            "circulation":{
+               "value":"64,835 copies"
+            },
+            "areaCovered":{
+               "value":"Ahmedabad",
+               "showName":"Edition"
+            },
+            "printDay":{
+               "value":"Daily"
+            },
+            "language":{
+               "value":"English"
+            }
+         },
+         "categoryName":"General Interest"
+      },
+      {
+         "_id":"55e986d88ead0e42788b46a0",
+         "urlSlug":"deccan-herald-main-bangalore",
+         "editionName":"Main",
+         "categoryId":[
+            "55d70b748ead0e960c8b4567"
+         ],
+         "geography":[
+            "56cc3c4d8ead0e53478b4596"
+         ],
+         "mediaOptions":{
+            "regularOptions":{
+               "page1":{
+                  "vendorRate":1913,
+                  "discountedRate":2250,
+                  "cardRate":2500,
+                  "imageUrl":"/images/mediaOptions/newspaper/page1.png",
+                  "pricingUnit":"Sq Cm",
+                  "minimumQtyUnit":1,
+                  "pricingUnit1":"width",
+                  "pricingUnit2":"height",
+                  "minimumQtyUnit1":20,
+                  "minimumQtyUnit2":12
+               },
+               "page3":{
+                  "vendorRate":1499,
+                  "discountedRate":1764,
+                  "cardRate":1960,
+                  "imageUrl":"/images/mediaOptions
+/newspaper/page3.png",
+                  "pricingUnit1":"width",
+                  "minimumQtyUnit1":12,
+                  "pricingUnit2":"height",
+                  "minimumQtyUnit2":8,
+                  "pricingUnit":"Sq Cm",
+                  "minimumQtyUnit":1
+               },
+               "lastPage":{
+                  "vendorRate":1499,
+                  "discountedRate":1764,
+                  "cardRate":1960,
+                  "imageUrl":"/images/mediaOptions/newspaper/lastPage.png",
+                  "pricingUnit1":"width",
+                  "minimumQtyUnit1":12,
+                  "pricingUnit2":"height",
+                  "minimumQtyUnit2":8,
+                  "pricingUnit":"Sq Cm",
+                  "minimumQtyUnit":1
+               },
+               "anyPage":{
+                  "vendorRate":1377,
+                  "discountedRate":1620,
+                  "cardRate":1800,
+                  "imageUrl":"/images/mediaOptions/newspaper/anyPage
+.png",
+                  "pricingUnit1":"width",
+                  "minimumQtyUnit1":12,
+                  "pricingUnit2":"height",
+                  "minimumQtyUnit2":8,
+                  "pricingUnit":"Sq Cm",
+                  "minimumQtyUnit":1
+               }
+            },
+            "otherOptions":{
+               "jacketFrontPage":{
+                  "cardRate":"4290000",
+                  "imageUrl":"/images
+/mediaOptions/newspaper/jacketFrontPage.png",
+                  "pricingUnit1":"Day",
+                  "minimumQtyUnit1":1,
+                  "discount%":25,
+                  "discountedRate":"3217500",
+                  "vendorRate":"2734875"
+               },
+               "jacketFrontInside":{
+                  "cardRate":"8580000",
+                  "imageUrl":"/images/mediaOptions/newspaper/jacketFrontInside.png",
+                  "pricingUnit1":"Day",
+                  "minimumQtyUnit1":1,
+                  "discount
+%":25,
+                  "discountedRate":"6435000",
+                  "vendorRate":"5469750"
+               },
+               "pointerAd":{
+                  "cardRate":"1875000",
+                  "imageUrl":"/images/mediaOptions/newspaper/pointerAd.png",
+                  "pricingUnit1":"Day",
+                  "minimumQtyUnit1":1,
+                  "discount%":25,
+                  "discountedRate":"1406250",
+                  "vendorRate":"1195313"
+               },
+               "skyBus":{
+                  "cardRate":412500,
+                  "imageUrl":"/images
+/mediaOptions/newspaper/skyBus.png",
+                  "pricingUnit1":"Day",
+                  "minimumQtyUnit1":1,
+                  "discount%":25,
+                  "discountedRate":309375,
+                  "vendorRate":262969
+               }
+            }
+         },
+         "logo":"/images/medias/55e986d88ead0e42788b46a0/55e986d88ead0e42788b46a0
+.jpg",
+         "name":"Deccan Herald - Main, Bangalore",
+         "attributes":{
+            "categoryName":{
+               "value":"General Interest"
+            },
+            "circulation":{
+               "value":"203,619 copies"
+            },
+            "areaCovered":{
+               "showName":"Edition",
+               "value":"Bangalore"
+            },
+            "printDay":{
+               "value":"Daily"
+            },
+            "language":{
+               "value":"English"
+            }
+         },
+         "categoryName":"General Interest"
+      },
+      {
+         "_id":"5656e41a8ead0ef007d1b39f",
+         "urlSlug":"millenium-post-main-delhi",
+         "name":"Millenium Post - Main, Delhi",
+         "editionName":"Main",
+         "categoryId":[
+            "55d70b748ead0e960c8b4567"
+         ],
+         "mediaOptions":{
+            "regularOptions":{
+               "page1":{
+                  "imageUrl":"/images/mediaOptions
+/newspaper/page1.png",
+                  "pricingUnit":"Sq Cm",
+                  "minimumQtyUnit":1,
+                  "pricingUnit1":"width",
+                  "pricingUnit2":"height",
+                  "minimumQtyUnit1":20,
+                  "minimumQtyUnit2":12,
+                  "cardRate":3600,
+                  "discountedRate":3240,
+                  "vendorRate":2754
+               },
+               "page3":{
+                  "imageUrl":"/images/mediaOptions/newspaper/page3.png",
+                  "pricingUnit1":"width",
+                  "minimumQtyUnit1":12,
+                  "pricingUnit2":"height",
+                  "minimumQtyUnit2":8,
+                  "pricingUnit":"Sq Cm",
+                  "minimumQtyUnit":1,
+                  "cardRate":2250,
+                  "discountedRate":2025,
+                  "vendorRate":1721
+               },
+               "lastPage":{
+                  "imageUrl":"/images/mediaOptions/newspaper/lastPage
+.png",
+                  "pricingUnit1":"width",
+                  "minimumQtyUnit1":12,
+                  "pricingUnit2":"height",
+                  "minimumQtyUnit2":8,
+                  "pricingUnit":"Sq Cm",
+                  "minimumQtyUnit":1,
+                  "cardRate":2700,
+                  "discountedRate":2430,
+                  "vendorRate":2066
+               },
+               "anyPage":{
+                  "imageUrl":"/images/mediaOptions/newspaper/anyPage.png",
+                  "pricingUnit1":"width",
+                  "minimumQtyUnit1":12,
+                  "pricingUnit2":"height",
+                  "minimumQtyUnit2":8,
+                  "pricingUnit":"Sq Cm",
+                  "minimumQtyUnit":1,
+                  "cardRate":1800,
+                  "discountedRate":1620,
+                  "vendorRate":1377
+               }
+            },
+            "otherOptions":{
+               "jacketFrontInside":{
+                  "vendorRate":"7876440",
+                  "discountedRate":"9266400",
+                  "cardRate":"12355200",
+                  "discount%":"25",
+                  "minimumQtyUnit1":"1",
+                  "pricingUnit1":"Day",
+                  "imageUrl":"/images/mediaOptions/newspaper/jacketFrontInside.png"
+               },
+               "jacketFrontPage":{
+                  "cardRate":"6177600",
+                  "imageUrl":"/images/mediaOptions/newspaper/jacketFrontPage.png",
+                  "pricingUnit1":"Day",
+                  "minimumQtyUnit1":1,
+                  "discount
+%":40,
+                  "discountedRate":"4633200",
+                  "vendorRate":"3938220"
+               },
+               "skyBus":{
+                  "cardRate":"594000",
+                  "imageUrl":"/images
+/mediaOptions/newspaper/skyBus.png",
+                  "pricingUnit1":"Day",
+                  "minimumQtyUnit1":1,
+                  "discount%":40,
+                  "discountedRate":"445500",
+                  "vendorRate":"378675"
+               },
+               "pointerAd":{
+                  "cardRate":"2700000",
+                  "imageUrl":"/images/mediaOptions/newspaper
+/pointerAd.png",
+                  "pricingUnit1":"Day",
+                  "minimumQtyUnit1":1,
+                  "discount%":40,
+                  "discountedRate":"2025000",
+                  "vendorRate":"1721250"
+               }
+            }
+         },
+         "logo":"/images/medias/5656e41a8ead0ef007d1b39f/5656e41a8ead0ef007d1b39f.jpg",
+         "attributes":{
+            "categoryName":{
+               "value":"General Interest"
+            },
+            "circulation":{
+               "value":"150,000 copies"
+            },
+            "areaCovered":{
+               "value":"Delhi",
+               "showName":"Edition"
+            },
+            "printDay":{
+               "value":"Daily"
+            },
+            "language":{
+               "value":"English"
+            }
+         },
+         "geography":[
+            "56cc3ce48ead0e53478b46f3"
+         ],
+         "categoryName":"General Interest"
+      }
+   ],
+   "count":4152
+}

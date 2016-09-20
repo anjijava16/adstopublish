@@ -1,0 +1,2463 @@
+{
+   "count":953,
+   "medias":[
+      {
+         "_id":"55fb00a38ead0e79178b5ed9",
+         "geography":[
+            "56d097ed8ead0e78498b4567"
+         ],
+         "name":"Colors",
+         "urlSlug":"colors-advertising",
+         "categoryId":[
+            "55e60e7d8ead0e924f8b458b"
+         ],
+         "mediaOptions":{
+            "regularOptions":{
+               "mediaOption5":{
+                  "imageUrl":"/images/mediaOptions/television/time.png",
+                  "discountedRate":42146,
+                  "cardRate":44360,
+                  "showName":"20:00-22:00"
+               },
+               "mediaOption4":{
+                  "imageUrl":"/images/mediaOptions/television/time.png",
+                  "discountedRate":29713,
+                  "cardRate":31280,
+                  "showName":"19:00-20:00"
+               },
+               "mediaOption3":{
+                  "imageUrl":"/images
+/mediaOptions/television/time.png",
+                  "discountedRate":3830,
+                  "cardRate":4030,
+                  "showName":"07:00-09:00"
+               },
+               "mediaOption2":{
+                  "imageUrl":"/images/mediaOptions/television/time.png",
+                  "discountedRate":10007,
+                  "cardRate":10530,
+                  "showName":"12:00-19:00"
+               },
+               "mediaOption1":{
+                  "imageUrl":"/images/mediaOptions/television/time.png",
+                  "discountedRate":43554,
+                  "cardRate":45850,
+                  "showName":"22:00-22:30"
+               }
+            },
+            "planningOptions":{
+               "allDayPlan":{
+                  "imageUrl":"/images
+/mediaOptions/television/time.png",
+                  "discountedRate":32448,
+                  "cardRate":34160,
+                  "showName":"Mixed Time"
+               }
+            }
+         },
+         "logo":"/images/medias/55fb00a38ead0e79178b5ed9/55fb00a38ead0e79178b5ed9.jpg",
+         "serviceTaxPercentage":15,
+         "attributes":{
+            "genres":{
+               "value":[
+                  "Entertainment"
+               ]
+            },
+            "language":{
+               "value":[
+                  "Hindi"
+               ]
+            },
+            "weeklyReach":{
+               "showName":"Weekly Viewers (000s)",
+               "value":"164,210 viewers ('000s)"
+            },
+            "pricingUnit":{
+               "value":"per 10
+ sec"
+            }
+         },
+         "weeklyReach":164210,
+         "rate":34160,
+         "toolName":"television",
+         "cardRate":34160
+      },
+      {
+         "_id":"55fb00a38ead0e79178b5edf",
+         "geography":[
+            "56d097ed8ead0e78498b4567"
+         ],
+         "name":"STAR Plus",
+         "urlSlug":"star-plus-advertising",
+         "categoryId":[
+            "55e60e7d8ead0e924f8b458b"
+         ],
+         "mediaOptions":{
+            "regularOptions":{
+               "mediaOption10":{
+                  "imageUrl":"/images
+/mediaOptions/television/time.png",
+                  "discountedRate":97412,
+                  "cardRate":102540,
+                  "showName":"22:00-23:00,
+ Mon-Sat"
+               },
+               "mediaOption9":{
+                  "imageUrl":"/images/mediaOptions/television/time.png",
+                  "discountedRate":220588,
+                  "cardRate":232200,
+                  "showName":"21:00-22:00, Mon-Sat"
+               },
+               "mediaOption8":{
+                  "imageUrl":"/images/mediaOptions
+/television/time.png",
+                  "discountedRate":97412,
+                  "cardRate":102540,
+                  "showName":"20:00-21:00, Mon-Sat"
+               },
+               "mediaOption7":{
+                  "imageUrl":"/images/mediaOptions/television/time.png",
+                  "discountedRate":198529,
+                  "cardRate":208980,
+                  "showName":"19:00-20:00, Mon-Sat"
+               },
+               "mediaOption6":{
+                  "imageUrl":"/images/mediaOptions/television/time.png",
+                  "discountedRate":54000,
+                  "cardRate":56840,
+                  "showName":"17:00-19:00, Mon-Sat"
+               },
+               "mediaOption5":{
+                  "imageUrl":"/images/mediaOptions
+/television/time.png",
+                  "discountedRate":15724,
+                  "cardRate":16550,
+                  "showName":"16:00-17:00, Mon-Sat"
+               },
+               "mediaOption4":{
+                  "imageUrl":"/images/mediaOptions/television/time.png",
+                  "discountedRate":14442,
+                  "cardRate":15200,
+                  "showName":"14:00-16:00, Mon-Sat"
+               },
+               "mediaOption3":{
+                  "imageUrl":"/images/mediaOptions/television/time.png",
+                  "discountedRate":13394,
+                  "cardRate":14100,
+                  "showName":"12:00-14:00, Mon-Sat"
+               },
+               "mediaOption2":{
+                  "imageUrl":"/images/mediaOptions
+/television/time.png",
+                  "discountedRate":11269,
+                  "cardRate":11860,
+                  "showName":"09:00-12:00, Mon-Sat"
+               },
+               "mediaOption1":{
+                  "imageUrl":"/images/mediaOptions/television/time.png",
+                  "discountedRate":5008,
+                  "cardRate":5270,
+                  "showName":"07:00-09:00, Mon-Sat"
+               }
+            },
+            "planningOptions":{
+               "allDayPlan":{
+                  "imageUrl":"/images/mediaOptions/television
+/time.png",
+                  "discountedRate":46882,
+                  "cardRate":49350,
+                  "showName":"Mixed Time"
+               }
+            }
+         },
+         "logo":"/images/medias
+/55fb00a38ead0e79178b5edf/55fb00a38ead0e79178b5edf.jpg",
+         "serviceTaxPercentage":15,
+         "attributes":{
+            "genres":{
+               "value":[
+                  "Entertainment"
+               ]
+            },
+            "language":{
+               "value":[
+                  "Hindi"
+               ]
+            },
+            "weeklyReach":{
+               "showName":"Weekly Viewers
+ (000s)",
+               "value":"182,120 viewers ('000s)"
+            },
+            "pricingUnit":{
+               "value":"per 10 sec"
+            }
+         },
+         "weeklyReach":182120,
+         "rate":49350,
+         "toolName":"television",
+         "cardRate":49350
+      },
+      {
+         "_id":"55fb00a28ead0e79178b5e4a",
+         "geography":[
+            "56d097ed8ead0e78498b4567"
+         ],
+         "name":"STAR Vijay",
+         "urlSlug":"star-vijay-advertising",
+         "categoryId":[
+            "55e60e7d8ead0e924f8b458b"
+         ],
+         "mediaOptions":{
+            "regularOptions":{
+               "mediaOption3":{
+                  "imageUrl":"/images/mediaOptions/television/time
+.png",
+                  "discountedRate":17647,
+                  "cardRate":18580,
+                  "showName":"11:00-19:00, Sun"
+               },
+               "mediaOption2":{
+                  "imageUrl":"/images/mediaOptions/television/time.png",
+                  "discountedRate":10000,
+                  "cardRate":10530,
+                  "showName":"11:00-18
+:00, Sat"
+               },
+               "mediaOption1":{
+                  "imageUrl":"/images/mediaOptions/television/time.png",
+                  "discountedRate":17647,
+                  "cardRate":18580,
+                  "showName":"18:00-24:00, Mon-Fri"
+               }
+            },
+            "planningOptions":{
+               "allDayPlan":{
+                  "imageUrl":"/images
+/mediaOptions/television/time.png",
+                  "discountedRate":18309,
+                  "cardRate":19270,
+                  "showName":"Mixed Time"
+               }
+            }
+         },
+         "logo":"/images/medias/55fb00a28ead0e79178b5e4a/55fb00a28ead0e79178b5e4a.jpg",
+         "serviceTaxPercentage":15,
+         "attributes":{
+            "genres":{
+               "value":[
+                  "Entertainment"
+               ]
+            },
+            "language":{
+               "value":[
+                  "Tamil"
+               ]
+            },
+            "weeklyReach":{
+               "showName":"Weekly Viewers (000s)",
+               "value":"57,040 viewers ('000s)"
+            },
+            "pricingUnit":{
+               "value":"per 10
+ sec"
+            }
+         },
+         "weeklyReach":57040,
+         "rate":19270,
+         "toolName":"television",
+         "cardRate":19270
+      },
+      {
+         "_id":"55fb00a28ead0e79178b5e50",
+         "geography":[
+            "56d097ed8ead0e78498b4567"
+         ],
+         "name":"Sun TV",
+         "urlSlug":"sun-tv-advertising",
+         "categoryId":[
+            "55e60e7d8ead0e924f8b458b"
+         ],
+         "mediaOptions":{
+            "planningOptions":{
+               "allDayPlan":{
+                  "showName":"Mixed Time",
+                  "cardRate":29406,
+                  "discountedRate":27900,
+                  "imageUrl":"/images/mediaOptions/television/time.png"
+               }
+            },
+            "regularOptions":{
+               "mediaOption1":{
+                  "showName":"06:00-11:00, Mon-Sat",
+                  "cardRate":11100,
+                  "discountedRate":10000,
+                  "imageUrl":"/images/mediaOptions/television/time.png"
+               },
+               "mediaOption2":{
+                  "showName":"11:00-13:00, Mon-Sat",
+                  "cardRate":16100,
+                  "discountedRate":14500,
+                  "imageUrl":"/images/mediaOptions/television/time.png"
+               },
+               "mediaOption3":{
+                  "showName":"13:00-15:30, Mon-Sat",
+                  "cardRate":23900,
+                  "discountedRate":21500,
+                  "imageUrl":"/images/mediaOptions
+/television/time.png"
+               },
+               "mediaOption4":{
+                  "showName":"15:30-18:00, Mon-Sat",
+                  "cardRate":11100,
+                  "discountedRate":10000,
+                  "imageUrl":"/images/mediaOptions/television/time.png"
+               },
+               "mediaOption5":{
+                  "showName":"18:00-18:59
+, Mon-Sat",
+                  "cardRate":27700,
+                  "discountedRate":25000,
+                  "imageUrl":"/images/mediaOptions/television/time.png"
+               },
+               "mediaOption6":{
+                  "showName":"18:59-19:00, Mon-Sun",
+                  "cardRate":8900,
+                  "discountedRate":8000,
+                  "imageUrl":"/images/mediaOptions/television/time.png"
+               },
+               "mediaOption7":{
+                  "showName":"19:00-19:30, Mon-Sun",
+                  "cardRate":29400,
+                  "discountedRate":26500,
+                  "imageUrl":"/images/mediaOptions/television/time.png"
+               },
+               "mediaOption8":{
+                  "showName":"19:30-20:00, Mon-Sat",
+                  "cardRate":50000,
+                  "discountedRate":45000,
+                  "imageUrl":"/images/mediaOptions
+/television/time.png"
+               },
+               "mediaOption9":{
+                  "showName":"20:00-20:30, Mon-Sat",
+                  "cardRate":64100,
+                  "discountedRate":57750,
+                  "imageUrl":"/images/mediaOptions/television/time.png"
+               },
+               "mediaOption10":{
+                  "showName":"20:30-21:30
+, Mon-Sat",
+                  "cardRate":52500,
+                  "discountedRate":47250,
+                  "imageUrl":"/images/mediaOptions/television/time.png"
+               },
+               "mediaOption11":{
+                  "showName":"21:30-22:00, Mon-Sat",
+                  "cardRate":50000,
+                  "discountedRate":45000,
+                  "imageUrl":"/images/mediaOptions/television/time.png"
+               },
+               "mediaOption12":{
+                  "showName":"22:00-22:30, Mon-Fri",
+                  "cardRate":27775,
+                  "discountedRate":25000,
+                  "imageUrl":"/images/mediaOptions/television/time.png"
+               },
+               "mediaOption13":{
+                  "showName":"22:30-23:00, Mon-Fri",
+                  "cardRate":25000,
+                  "discountedRate":22500,
+                  "imageUrl":"/images/mediaOptions
+/television/time.png"
+               },
+               "mediaOption14":{
+                  "showName":"22:00-23:00, Sat",
+                  "cardRate":26665,
+                  "discountedRate":24000,
+                  "imageUrl":"/images/mediaOptions/television/time.png"
+               },
+               "mediaOption15":{
+                  "showName":"23:00-25:30
+, Mon-Sat",
+                  "cardRate":11100,
+                  "discountedRate":10000,
+                  "imageUrl":"/images/mediaOptions/television/time.png"
+               },
+               "mediaOption16":{
+                  "showName":"09:00-10:00, Sat",
+                  "cardRate":22200,
+                  "discountedRate":20000,
+                  "imageUrl":"
+/images/mediaOptions/television/time.png"
+               },
+               "mediaOption17":{
+                  "showName":"07:00-07:30, Sun",
+                  "cardRate":11100,
+                  "discountedRate":10000,
+                  "imageUrl":"/images/mediaOptions/television/time.png"
+               },
+               "mediaOption18":{
+                  "showName":"08:00-08:30, Sun",
+                  "cardRate":13300,
+                  "discountedRate":12000,
+                  "imageUrl":"/images/mediaOptions
+/television/time.png"
+               },
+               "mediaOption19":{
+                  "showName":"08:30-10:00, Sun",
+                  "cardRate":22200,
+                  "discountedRate":20000,
+                  "imageUrl":"/images/mediaOptions/television/time.png"
+               },
+               "mediaOption20":{
+                  "showName":"10:00-11:00
+, Sun",
+                  "cardRate":33300,
+                  "discountedRate":30000,
+                  "imageUrl":"/images/mediaOptions/television/time.png"
+               },
+               "mediaOption21":{
+                  "showName":"11:00-12:00, Sun",
+                  "cardRate":36650,
+                  "discountedRate":33000,
+                  "imageUrl":"
+/images/mediaOptions/television/time.png"
+               },
+               "mediaOption22":{
+                  "showName":"12:00-18:00, Sun",
+                  "cardRate":33300,
+                  "discountedRate":30000,
+                  "imageUrl":"/images/mediaOptions/television/time.png"
+               },
+               "mediaOption23":{
+                  "showName":"18:00-18:30, Sun",
+                  "cardRate":36650,
+                  "discountedRate":33000,
+                  "imageUrl":"/images/mediaOptions
+/television/time.png"
+               },
+               "mediaOption24":{
+                  "showName":"18:30-22:00, Sun",
+                  "cardRate":40000,
+                  "discountedRate":36000,
+                  "imageUrl":"/images/mediaOptions/television/time.png"
+               },
+               "mediaOption25":{
+                  "showName":"22:00-23:00
+, Sun",
+                  "cardRate":33300,
+                  "discountedRate":30000,
+                  "imageUrl":"/images/mediaOptions/television/time.png"
+               },
+               "mediaOption26":{
+                  "showName":"23:00-24:00, Sun",
+                  "cardRate":11100,
+                  "discountedRate":10000,
+                  "imageUrl":"
+/images/mediaOptions/television/time.png"
+               }
+            }
+         },
+         "logo":"/images/medias/55fb00a28ead0e79178b5e50/55fb00a28ead0e79178b5e50
+.jpg",
+         "serviceTaxPercentage":15,
+         "attributes":{
+            "genres":{
+               "value":[
+                  "Entertainment"
+               ]
+            },
+            "language":{
+               "value":[
+                  "Tamil"
+               ]
+            },
+            "weeklyReach":{
+               "value":"79,400 viewers ('000s)",
+               "showName":"Weekly Viewers (000s)"
+            },
+            "pricingUnit":{
+               "value":"per 10 sec"
+            }
+         },
+         "weeklyReach":79400,
+         "rate":29406,
+         "toolName":"television",
+         "cardRate":29406
+      },
+      {
+         "_id":"55fb00a28ead0e79178b5ca9",
+         "geography":[
+            "56d097ed8ead0e78498b4567"
+         ],
+         "name":"ABP News",
+         "urlSlug":"abp-news-advertising",
+         "categoryId":[
+            "55fafe248ead0e7d228b7280"
+         ],
+         "mediaOptions":{
+            "regularOptions":{
+               "mediaOption1":{
+                  "imageUrl":"/images/mediaOptions/television/time.png",
+                  "discountedRate":3200,
+                  "cardRate":3370,
+                  "showName":"06:00-24:00, Mon-Sun"
+               }
+            },
+            "planningOptions":{
+               "allDayPlan":{
+                  "imageUrl":"/images/mediaOptions/television
+/time.png",
+                  "discountedRate":3200,
+                  "cardRate":3370,
+                  "showName":"Mixed Time"
+               }
+            }
+         },
+         "logo":"/images/medias/55fb00a28ead0e79178b5ca9
+/55fb00a28ead0e79178b5ca9.jpg",
+         "serviceTaxPercentage":15,
+         "attributes":{
+            "genres":{
+               "value":[
+                  "News"
+               ]
+            },
+            "language":{
+               "value":[
+                  "Hindi"
+               ]
+            },
+            "weeklyReach":{
+               "showName":"Weekly Viewers (000s)",
+               "value":"105,140 viewers ('000s
+)"
+            },
+            "pricingUnit":{
+               "value":"per 10 sec"
+            }
+         },
+         "weeklyReach":105140,
+         "rate":3370,
+         "toolName":"television",
+         "cardRate":3370
+      },
+      {
+         "_id":"55fb00a28ead0e79178b5caa",
+         "geography":[
+            "56d097ed8ead0e78498b4567"
+         ],
+         "name":"Aaj Tak",
+         "urlSlug":"aaj-tak-tv-advertising",
+         "categoryId":[
+            "55fafe248ead0e7d228b7280"
+         ],
+         "mediaOptions":{
+            "regularOptions":{
+               "mediaOption8":{
+                  "showName":"21:00-25:00",
+                  "imageUrl":"/images/mediaOptions/television/time.png",
+                  "discountedRate":7500,
+                  "cardRate":7800
+               },
+               "mediaOption7":{
+                  "imageUrl":"/images/mediaOptions/television/time.png",
+                  "discountedRate":17200,
+                  "cardRate":17900,
+                  "showName":"20:00-21:00"
+               },
+               "mediaOption6":{
+                  "imageUrl":"/images/mediaOptions/television
+/time.png",
+                  "discountedRate":11500,
+                  "cardRate":12000,
+                  "showName":"17:00-20:00"
+               },
+               "mediaOption5":{
+                  "imageUrl":"/images/mediaOptions/television/time.png",
+                  "discountedRate":5500,
+                  "cardRate":5720,
+                  "showName":"10:00-17
+:00, Sat-Sun"
+               },
+               "mediaOption4":{
+                  "imageUrl":"/images/mediaOptions/television/time.png",
+                  "discountedRate":5100,
+                  "cardRate":5300,
+                  "showName":"10:00-17:00"
+               },
+               "mediaOption3":{
+                  "imageUrl":"/images/mediaOptions/television
+/time.png",
+                  "discountedRate":11000,
+                  "cardRate":11450,
+                  "showName":"09:00-10:00, Sat-Sun"
+               },
+               "mediaOption2":{
+                  "imageUrl":"/images/mediaOptions/television/time.png",
+                  "discountedRate":9100,
+                  "cardRate":9500,
+                  "showName":"09:00-10:00"
+               },
+               "mediaOption1":{
+                  "imageUrl":"/images/mediaOptions/television/time.png",
+                  "discountedRate":5500,
+                  "cardRate":5720,
+                  "showName":"06:00-09:00"
+               }
+            },
+            "planningOptions":{
+               "allDayPlan":{
+                  "imageUrl":"/images
+/mediaOptions/television/time.png",
+                  "discountedRate":5900,
+                  "cardRate":6250,
+                  "showName":"Mixed Time"
+               }
+            }
+         },
+         "logo":"/images/medias/55fb00a28ead0e79178b5caa/55fb00a28ead0e79178b5caa.jpg",
+         "serviceTaxPercentage":15,
+         "attributes":{
+            "genres":{
+               "value":[
+                  "News"
+               ]
+            },
+            "language":{
+               "value":[
+                  "Hindi"
+               ]
+            },
+            "weeklyReach":{
+               "showName":"Weekly Viewers
+ (000s)",
+               "value":"130,780 viewers ('000s)"
+            },
+            "pricingUnit":{
+               "value":"per 10 sec"
+            }
+         },
+         "weeklyReach":130780,
+         "rate":6250,
+         "toolName":"television",
+         "cardRate":6250
+      },
+      {
+         "_id":"55fb00a38ead0e79178b5ed5",
+         "geography":[
+            "56d097ed8ead0e78498b4567"
+         ],
+         "name":"Zee Marathi",
+         "urlSlug":"zee-marathi-advertising",
+         "categoryId":[
+            "55e60e7d8ead0e924f8b458b"
+         ],
+         "mediaOptions":{
+            "regularOptions":{
+               "mediaOption3":{
+                  "imageUrl":"/images/mediaOptions/television/time
+.png",
+                  "discountedRate":19000,
+                  "cardRate":20000,
+                  "showName":"18:30-19:00, Mon-Sat"
+               },
+               "mediaOption2":{
+                  "imageUrl":"/images/mediaOptions/television/time.png",
+                  "discountedRate":4500,
+                  "cardRate":4740,
+                  "showName":"11:30-12
+:30, Mon-Sat"
+               },
+               "mediaOption1":{
+                  "imageUrl":"/images/mediaOptions/television/time.png",
+                  "discountedRate":3000,
+                  "cardRate":3160,
+                  "showName":"07:30-09:00, Mon-Sat"
+               }
+            },
+            "planningOptions":{
+               "allDayPlan":{
+                  "imageUrl":"/images/mediaOptions/television/time.png",
+                  "discountedRate":5825,
+                  "cardRate":6130,
+                  "showName":"Mixed Time"
+               }
+            }
+         },
+         "logo":"/images/medias/55fb00a38ead0e79178b5ed5/55fb00a38ead0e79178b5ed5.jpg",
+         "serviceTaxPercentage":15,
+         "attributes":{
+            "genres":{
+               "value":[
+                  "Entertainment"
+               ]
+            },
+            "language":{
+               "value":[
+                  "Marathi"
+               ]
+            },
+            "weeklyReach":{
+               "showName":"Weekly Viewers (000s)",
+               "value":"30,530 viewers ('000s)"
+            },
+            "pricingUnit":{
+               "value":"per 10
+ sec"
+            }
+         },
+         "weeklyReach":30530,
+         "rate":6130,
+         "toolName":"television",
+         "cardRate":6130
+      },
+      {
+         "_id":"55fb00a38ead0e79178b5ede",
+         "geography":[
+            "56d097ed8ead0e78498b4567"
+         ],
+         "name":"Sony SAB",
+         "urlSlug":"sony-sab-advertising",
+         "categoryId":[
+            "55e60e7d8ead0e924f8b458b"
+         ],
+         "mediaOptions":{
+            "regularOptions":{
+               "mediaOption5":{
+                  "imageUrl":"/images/mediaOptions
+/television/time.png",
+                  "discountedRate":20638,
+                  "cardRate":21720,
+                  "showName":"20:00-22:00"
+               },
+               "mediaOption4":{
+                  "imageUrl":"/images/mediaOptions/television/time.png",
+                  "discountedRate":5784,
+                  "cardRate":6090,
+                  "showName":"19:00-20:00"
+               },
+               "mediaOption3":{
+                  "imageUrl":"/images/mediaOptions/television/time.png",
+                  "discountedRate":5252,
+                  "cardRate":5530,
+                  "showName":"07:00-09:00"
+               },
+               "mediaOption2":{
+                  "imageUrl":"/images/mediaOptions/television
+/time.png",
+                  "discountedRate":6253,
+                  "cardRate":6580,
+                  "showName":"12:00-19:00"
+               },
+               "mediaOption1":{
+                  "imageUrl":"/images/mediaOptions/television/time.png",
+                  "discountedRate":17045,
+                  "cardRate":17940,
+                  "showName":"22:00-22
+:30"
+               }
+            },
+            "planningOptions":{
+               "allDayPlan":{
+                  "imageUrl":"/images/mediaOptions/television/time.png",
+                  "discountedRate":7346,
+                  "cardRate":7730,
+                  "showName":"Mixed Time"
+               }
+            }
+         },
+         "logo":"/images/medias/55fb00a38ead0e79178b5ede/55fb00a38ead0e79178b5ede
+.jpg",
+         "serviceTaxPercentage":15,
+         "attributes":{
+            "genres":{
+               "value":[
+                  "Entertainment"
+               ]
+            },
+            "language":{
+               "value":[
+                  "Hindi"
+               ]
+            },
+            "weeklyReach":{
+               "showName":"Weekly Viewers (000s)",
+               "value":"115,670 viewers ('000s)"
+            },
+            "pricingUnit":{
+               "value":"per 10 sec"
+            }
+         },
+         "weeklyReach":115670,
+         "rate":7730,
+         "toolName":"television",
+         "cardRate":7730
+      },
+      {
+         "_id":"55fb00a38ead0e79178b5eba",
+         "geography":[
+            "56d097ed8ead0e78498b4567"
+         ],
+         "name":"Asianet",
+         "urlSlug":"asianet-advertising",
+         "categoryId":[
+            "55e60e7d8ead0e924f8b458b"
+         ],
+         "mediaOptions":{
+            "regularOptions":{
+               "mediaOption6":{
+                  "imageUrl":"/images/mediaOptions/television/time.png",
+                  "discountedRate":910,
+                  "cardRate":960,
+                  "showName":"09:00-12
+:00"
+               },
+               "mediaOption5":{
+                  "imageUrl":"/images/mediaOptions/television/time.png",
+                  "discountedRate":6956,
+                  "cardRate":7320,
+                  "showName":"20:00-22:00"
+               },
+               "mediaOption4":{
+                  "imageUrl":"/images/mediaOptions/television/time.png",
+                  "discountedRate":6018,
+                  "cardRate":6330,
+                  "showName":"19:00-20:00"
+               },
+               "mediaOption3":{
+                  "imageUrl":"/images
+/mediaOptions/television/time.png",
+                  "discountedRate":747,
+                  "cardRate":790,
+                  "showName":"07:00-09:00"
+               },
+               "mediaOption2":{
+                  "imageUrl":"/images/mediaOptions/television/time.png",
+                  "discountedRate":1795,
+                  "cardRate":1890,
+                  "showName":"12:00-19:00"
+               },
+               "mediaOption1":{
+                  "imageUrl":"/images/mediaOptions/television/time.png",
+                  "discountedRate":3907,
+                  "cardRate":4110,
+                  "showName":"22:00-22:30"
+               }
+            },
+            "planningOptions":{
+               "allDayPlan":{
+                  "imageUrl":"/images
+/mediaOptions/television/time.png",
+                  "discountedRate":3251,
+                  "cardRate":3420,
+                  "showName":"Mixed Time"
+               }
+            }
+         },
+         "logo":"/images/medias/55fb00a38ead0e79178b5eba/55fb00a38ead0e79178b5eba.jpg",
+         "serviceTaxPercentage":15,
+         "attributes":{
+            "genres":{
+               "value":[
+                  "Entertainment"
+               ]
+            },
+            "language":{
+               "value":[
+                  "Malayalam"
+               ]
+            },
+            "weeklyReach":{
+               "showName":"Weekly
+ Viewers (000s)",
+               "value":"32,940 viewers ('000s)"
+            },
+            "pricingUnit":{
+               "value":"per 10 sec"
+            }
+         },
+         "weeklyReach":32940,
+         "rate":3420,
+         "toolName":"television",
+         "cardRate":3420
+      },
+      {
+         "_id":"55fb00a28ead0e79178b5cb7",
+         "geography":[
+            "56d097ed8ead0e78498b4567"
+         ],
+         "name":"Zee News",
+         "urlSlug":"zee-news-advertising",
+         "categoryId":[
+            "55fafe248ead0e7d228b7280"
+         ],
+         "mediaOptions":{
+            "planningOptions":{
+               "allDayPlan":{
+                  "showName":"Mixed Time",
+                  "cardRate":4306,
+                  "discountedRate":4091,
+                  "imageUrl":"/images/mediaOptions/television/time.png"
+               }
+            },
+            "regularOptions":{
+               "mediaOption1":{
+                  "showName":"07:00-09:00, Mon-Sun",
+                  "cardRate":4143,
+                  "discountedRate":3936,
+                  "imageUrl":"/images/mediaOptions/television
+/time.png"
+               },
+               "mediaOption2":{
+                  "showName":"09:00-12:00, Mon-Sun",
+                  "cardRate":3168,
+                  "discountedRate":3010,
+                  "imageUrl":"/images/mediaOptions/television/time.png"
+               },
+               "mediaOption3":{
+                  "showName":"12:00-19:00, Mon-Sun",
+                  "cardRate":2680,
+                  "discountedRate":2546,
+                  "imageUrl":"/images/mediaOptions/television/time.png"
+               },
+               "mediaOption4":{
+                  "showName":"19:00-20:00, Mon-Sun",
+                  "cardRate":4630,
+                  "discountedRate":4399,
+                  "imageUrl":"/images/mediaOptions/television
+/time.png"
+               },
+               "mediaOption5":{
+                  "showName":"20:00-23:00, Mon-Sun",
+                  "cardRate":5363,
+                  "discountedRate":5095,
+                  "imageUrl":"/images/mediaOptions/television/time.png"
+               }
+            }
+         },
+         "logo":"/images/medias/55fb00a28ead0e79178b5cb7/55fb00a28ead0e79178b5cb7
+.jpg",
+         "serviceTaxPercentage":15,
+         "attributes":{
+            "genres":{
+               "value":[
+                  "News"
+               ]
+            },
+            "language":{
+               "value":[
+                  "Hindi"
+               ]
+            },
+            "weeklyReach":{
+               "value":"88,990 viewers ('000s)",
+               "showName":"Weekly Viewers (000s)"
+            },
+            "pricingUnit":{
+               "value":"per 10 sec"
+            }
+         },
+         "weeklyReach":88990,
+         "rate":4306,
+         "toolName":"television",
+         "cardRate":4306
+      },
+      {
+         "_id":"55fb00a38ead0e79178b5eb3",
+         "geography":[
+            "56d097ed8ead0e78498b4567"
+         ],
+         "name":"TV9 Kannada",
+         "urlSlug":"tv9-kannada-advertising",
+         "categoryId":[
+            "55fafe248ead0e7d228b7280"
+         ],
+         "mediaOptions":{
+            "otherOptions":{
+               "mediaOption1":{
+                  "showName":"Scrollers",
+                  "minimumQtyUnit1":100,
+                  "pricingUnit1":"Scrollers",
+                  "description":"Scroller Ad runs at the
+ bottom of the TV screen",
+                  "vendorRate":450,
+                  "discountedRate":500,
+                  "cardRate":555,
+                  "imageUrl":"/images/mediaOptions
+/television/Scroller.png"
+               }
+            },
+            "regularOptions":{
+               "mediaOption4":{
+                  "imageUrl":"/images/mediaOptions/television
+/time.png",
+                  "discountedRate":2500,
+                  "cardRate":2630,
+                  "showName":"24:00-05:00 (US)"
+               },
+               "mediaOption3":{
+                  "imageUrl":"/images/mediaOptions/television/time.png",
+                  "discountedRate":4600,
+                  "cardRate":6000,
+                  "showName":"06:00-12
+:00"
+               },
+               "mediaOption2":{
+                  "imageUrl":"/images/mediaOptions/television/time.png",
+                  "discountedRate":5000,
+                  "cardRate":6500,
+                  "showName":"17:00-23:00"
+               },
+               "mediaOption1":{
+                  "imageUrl":"/images/mediaOptions/television/time.png",
+                  "discountedRate":3200,
+                  "cardRate":4500,
+                  "showName":"12:00-17:00"
+               }
+            },
+            "planningOptions":{
+               "allDayPlan":{
+                  "imageUrl":"/images/mediaOptions/television/time.png",
+                  "discountedRate":3600,
+                  "cardRate":5000,
+                  "showName":"Mixed Time"
+               }
+            }
+         },
+         "logo":"/images/medias/55fb00a38ead0e79178b5eb3/fa627c75e7af7b3436326767cb77dd4e.jpg",
+         "serviceTaxPercentage":15,
+         "attributes":{
+            "genres":{
+               "value":[
+                  "News"
+               ]
+            },
+            "language":{
+               "value":[
+                  "Kannada"
+               ]
+            },
+            "weeklyReach":{
+               "showName":"Weekly Viewers (000s)",
+               "value":"30,500 viewers ('000s)"
+            },
+            "pricingUnit":{
+               "value":"per 10 sec"
+            }
+         },
+         "weeklyReach":30500,
+         "rate":5000,
+         "toolName":"television",
+         "cardRate":5000
+      },
+      {
+         "_id":"55fb00a28ead0e79178b5cc4",
+         "geography":[
+            "56d097ed8ead0e78498b4567"
+         ],
+         "name":"NDTV 24x7",
+         "urlSlug":"ndtv-24x7-advertising",
+         "categoryId":[
+            "55fafe248ead0e7d228b7280"
+         ],
+         "mediaOptions":{
+            "planningOptions":{
+               "mediaOption1":{
+                  "showName":"All Day Plan",
+                  "cardRate":3670,
+                  "discountedRate":3300,
+                  "imageUrl":"/images/mediaOptions/television/time.png"
+               }
+            },
+            "regularOptions":{
+               "mediaOption7":{
+                  "showName":"22:00-23:00",
+                  "imageUrl":"/images/mediaOptions/television/time.png",
+                  "cardRate":12220,
+                  "discountedRate":11000
+               },
+               "mediaOption6":{
+                  "showName":"21:00-22:00",
+                  "imageUrl":"/images/mediaOptions/television/time.png",
+                  "cardRate":14440,
+                  "discountedRate":13000
+               },
+               "mediaOption5":{
+                  "showName":"20:00-21:00",
+                  "cardRate":16670,
+                  "discountedRate":15000,
+                  "imageUrl":"/images/mediaOptions/television/time.png"
+               },
+               "mediaOption4":{
+                  "showName":"06:00-17:00
+, Sat-Sun",
+                  "imageUrl":"/images/mediaOptions/television/time.png",
+                  "cardRate":3560,
+                  "discountedRate":3200
+               },
+               "mediaOption3":{
+                  "showName":"17:00-24:00, Mon-Sun",
+                  "imageUrl":"/images/mediaOptions/television/time
+.png",
+                  "discountedRate":6200,
+                  "cardRate":6890
+               },
+               "mediaOption2":{
+                  "showName":"11:00-17:00, Mon-Fri",
+                  "discountedRate":1800,
+                  "cardRate":2000,
+                  "imageUrl":"/images/mediaOptions/television/time.png"
+               },
+               "mediaOption1":{
+                  "showName":"07:00-11:00, Mon-Fri",
+                  "discountedRate":2600,
+                  "cardRate":2890,
+                  "imageUrl":"/images/mediaOptions/television
+/time.png"
+               }
+            }
+         },
+         "logo":"/images/medias/55fb00a28ead0e79178b5cc4/55fb00a28ead0e79178b5cc4.jpg",
+         "serviceTaxPercentage":15,
+         "attributes":{
+            "genres":{
+               "value":[
+                  "News"
+               ]
+            },
+            "language":{
+               "value":[
+                  "English"
+               ]
+            },
+            "weeklyReach":{
+               "value":"3,950 viewers ('000s)",
+               "showName":"Weekly Viewers (000s)"
+            },
+            "pricingUnit":{
+               "value":"per 10 sec"
+            }
+         },
+         "weeklyReach":3950,
+         "toolName":"television"
+      },
+      {
+         "_id":"55fb00a28ead0e79178b5e36",
+         "geography":[
+            "56d097ed8ead0e78498b4567"
+         ],
+         "name":"PTC Punjabi",
+         "urlSlug":"ptc-punjabi-advertising",
+         "categoryId":[
+            "55d70b748ead0e960c8b4596"
+         ],
+         "mediaOptions":{
+            "planningOptions":{
+               "allDayPlan":{
+                  "showName":"Mixed Time",
+                  "cardRate":1260,
+                  "discountedRate":1200,
+                  "imageUrl":"/images/mediaOptions/television/time.png"
+               }
+            },
+            "regularOptions":{
+               "mediaOption1":{
+                  "showName":"09:30-24:00, Mon-Fri",
+                  "cardRate":1260,
+                  "discountedRate":1200,
+                  "imageUrl":"/images/mediaOptions/television
+/time.png"
+               },
+               "mediaOption2":{
+                  "showName":"09:30-24:00, Sat-Sun",
+                  "cardRate":2110,
+                  "discountedRate":2000,
+                  "imageUrl":"/images/mediaOptions/television/time.png"
+               },
+               "mediaOption3":{
+                  "showName":"08:30-09:30, Mon-Sun",
+                  "cardRate":3160,
+                  "discountedRate":3000,
+                  "imageUrl":"/images/mediaOptions/television/time.png"
+               }
+            }
+         },
+         "logo":"/images
+/medias/55fb00a28ead0e79178b5e36/55fb00a28ead0e79178b5e36.jpg",
+         "serviceTaxPercentage":15,
+         "attributes":{
+            "genres":{
+               "value":[
+                  "Music"
+               ]
+            },
+            "language":{
+               "value":[
+                  "Punjabi"
+               ]
+            },
+            "weeklyReach":{
+               "value":"17,590 viewers
+ ('000s)",
+               "showName":"Weekly Viewers (000s)"
+            },
+            "pricingUnit":{
+               "value":"per 10 sec"
+            }
+         },
+         "weeklyReach":17590,
+         "rate":1260,
+         "toolName":"television",
+         "cardRate":1260
+      },
+      {
+         "_id":"55fb00a28ead0e79178b5e60",
+         "geography":[
+            "56d097ed8ead0e78498b4567"
+         ],
+         "name":"Zee Q",
+         "urlSlug":"zee-q-advertising",
+         "categoryId":[
+            "55fafe258ead0e7d228b745b"
+         ],
+         "logo":"/images/medias/55fb00a28ead0e79178b5e60/55fb00a28ead0e79178b5e60.jpg",
+         "serviceTaxPercentage":15,
+         "attributes":{
+            "genres":{
+               "value":[
+                  "Kids"
+               ]
+            },
+            "language":{
+               "value":[
+                  "English"
+               ]
+            },
+            "weeklyReach":{
+               "showName":"Weekly Viewers (000s)",
+               "value":"17,380 viewers ('000s)"
+            },
+            "pricingUnit":{
+               "value":"per 10 sec"
+            }
+         },
+         "weeklyReach":17380,
+         "toolName":"television"
+      },
+      {
+         "_id":"55fb00a28ead0e79178b5ca2",
+         "geography":[
+            "56d097ed8ead0e78498b4567"
+         ],
+         "name":"MTV",
+         "urlSlug":"mtv-advertising",
+         "categoryId":[
+            "55d70b748ead0e960c8b4596"
+         ],
+         "mediaOptions":{
+            "regularOptions":{
+               "mediaOption3":{
+                  "showName":"22:00-23:00, Mon-Sun",
+                  "imageUrl":"/images/mediaOptions
+/television/time.png",
+                  "discountedRate":3330,
+                  "cardRate":3700
+               },
+               "mediaOption2":{
+                  "showName":"21:00-22:00
+, Mon-Sun",
+                  "imageUrl":"/images/mediaOptions/television/time.png",
+                  "discountedRate":1780,
+                  "cardRate":1980
+               },
+               "mediaOption1":{
+                  "showName":"20:00-21:00, Mon-Sun",
+                  "imageUrl":"/images/mediaOptions/television/time
+.png",
+                  "discountedRate":3890,
+                  "cardRate":4320
+               }
+            },
+            "planningOptions":{
+               "allDayPlan":{
+                  "showName":"Mixed Time",
+                  "imageUrl":"/images/mediaOptions/television/time.png",
+                  "discountedRate":3500,
+                  "cardRate":3890
+               }
+            }
+         },
+         "logo":"/images/medias/55fb00a28ead0e79178b5ca2/55fb00a28ead0e79178b5ca2.jpg",
+         "serviceTaxPercentage":15,
+         "attributes":{
+            "genres":{
+               "value":[
+                  "Music"
+               ]
+            },
+            "language":{
+               "value":[
+                  "Hindi"
+               ]
+            },
+            "weeklyReach":{
+               "showName":"Weekly Viewers
+ (000s)",
+               "value":"62,680 viewers ('000s)"
+            },
+            "pricingUnit":{
+               "value":"per 10 sec"
+            }
+         },
+         "weeklyReach":62680,
+         "rate":3890,
+         "toolName":"television",
+         "cardRate":3890
+      },
+      {
+         "_id":"55fb00a28ead0e79178b5c95",
+         "geography":[
+            "56d097ed8ead0e78498b4567"
+         ],
+         "name":"HBO",
+         "urlSlug":"hbo-tv-advertising",
+         "categoryId":[
+            "564482c08ead0e6a1e8bca0f"
+         ],
+         "mediaOptions":{
+            "regularOptions":{
+               "mediaOption10":{
+                  "imageUrl":"/images/mediaOptions/television/time
+.png",
+                  "discountedRate":4750,
+                  "cardRate":5000,
+                  "showName":"23:00-24:00, Fri-Sun"
+               },
+               "mediaOption9":{
+                  "imageUrl":"/images/mediaOptions/television/time.png",
+                  "discountedRate":7600,
+                  "cardRate":8000,
+                  "showName":"21:00-23
+:00, Fri-Sun"
+               },
+               "mediaOption8":{
+                  "imageUrl":"/images/mediaOptions/television/time.png",
+                  "discountedRate":4750,
+                  "cardRate":5000,
+                  "showName":"19:00-21:00, Fri-Sun"
+               },
+               "mediaOption7":{
+                  "imageUrl":"/images/mediaOptions
+/television/time.png",
+                  "discountedRate":3800,
+                  "cardRate":4000,
+                  "showName":"16:00-19:00, Fri-Sun"
+               },
+               "mediaOption6":{
+                  "imageUrl":"/images/mediaOptions/television/time.png",
+                  "discountedRate":2280,
+                  "cardRate":2400,
+                  "showName":"07:00-16:00, Fri-Sun"
+               },
+               "mediaOption5":{
+                  "imageUrl":"/images/mediaOptions/television/time.png",
+                  "discountedRate":4275,
+                  "cardRate":4500,
+                  "showName":"23:00-24:00, Mon-Thu"
+               },
+               "mediaOption4":{
+                  "imageUrl":"/images/mediaOptions
+/television/time.png",
+                  "discountedRate":5225,
+                  "cardRate":5500,
+                  "showName":"21:00-23:00, Mon-Thu"
+               },
+               "mediaOption3":{
+                  "imageUrl":"/images/mediaOptions/television/time.png",
+                  "discountedRate":4275,
+                  "cardRate":4500,
+                  "showName":"19:00-21:00, Mon-Thu"
+               },
+               "mediaOption2":{
+                  "imageUrl":"/images/mediaOptions/television/time.png",
+                  "discountedRate":3325,
+                  "cardRate":3500,
+                  "showName":"16:00-19:00, Mon-Thu"
+               },
+               "mediaOption1":{
+                  "imageUrl":"/images/mediaOptions
+/television/time.png",
+                  "discountedRate":380,
+                  "cardRate":400,
+                  "showName":"07:00-16:00, Mon-Thu"
+               }
+            },
+            "planningOptions":{
+               "allDayPlan":{
+                  "imageUrl":"/images/mediaOptions/television/time.png",
+                  "discountedRate":4560,
+                  "cardRate":4800,
+                  "showName":"Mixed Time"
+               }
+            }
+         },
+         "logo":"/images/medias/55fb00a28ead0e79178b5c95/55fb00a28ead0e79178b5c95
+.jpg",
+         "serviceTaxPercentage":15,
+         "attributes":{
+            "genres":{
+               "value":[
+                  "Movies"
+               ]
+            },
+            "language":{
+               "value":[
+                  "English"
+               ]
+            },
+            "weeklyReach":{
+               "showName":"Weekly Viewers (000s)",
+               "value":"25,940 viewers ('000s)"
+            },
+            "pricingUnit":{
+               "value":"per 10 sec"
+            }
+         },
+         "weeklyReach":25940,
+         "rate":4800,
+         "toolName":"television",
+         "cardRate":4800
+      },
+      {
+         "_id":"55fb00a28ead0e79178b5e9c",
+         "geography":[
+            "56d097ed8ead0e78498b4567"
+         ],
+         "name":"Zee Bangla",
+         "urlSlug":"zee-bangla-advertising",
+         "categoryId":[
+            "55e60e7d8ead0e924f8b458b"
+         ],
+         "mediaOptions":{
+            "planningOptions":{
+               "allDayPlan":{
+                  "showName":"Mixed Time",
+                  "cardRate":7630,
+                  "discountedRate":7244,
+                  "imageUrl":"/images/mediaOptions/television/time
+.png"
+               }
+            },
+            "regularOptions":{
+               "mediaOption1":{
+                  "showName":"08:30-17:00, Mon-Sat",
+                  "cardRate":2630,
+                  "discountedRate":2500,
+                  "imageUrl":"/images/mediaOptions/television/time.png"
+               },
+               "mediaOption2":{
+                  "showName":"17:00-24:30
+, Mon-Sat",
+                  "cardRate":16720,
+                  "discountedRate":15883,
+                  "imageUrl":"/images/mediaOptions/television/time.png"
+               },
+               "mediaOption3":{
+                  "showName":"17:00-24:30, Sun",
+                  "cardRate":10530,
+                  "discountedRate":10000,
+                  "imageUrl":"
+/images/mediaOptions/television/time.png"
+               },
+               "mediaOption4":{
+                  "showName":"08:30-17:00, Sun",
+                  "cardRate":2110,
+                  "discountedRate":2000,
+                  "imageUrl":"/images/mediaOptions/television/time.png"
+               }
+            }
+         },
+         "logo":"/images/medias
+/55fb00a28ead0e79178b5e9c/55fb00a28ead0e79178b5e9c.jpg",
+         "serviceTaxPercentage":15,
+         "attributes":{
+            "genres":{
+               "value":[
+                  "Entertainment"
+               ]
+            },
+            "language":{
+               "value":[
+                  "Bengali",
+                  "Odiya"
+               ]
+            },
+            "weeklyReach":{
+               "value":"27,160
+ viewers ('000s)",
+               "showName":"Weekly Viewers (000s)"
+            },
+            "pricingUnit":{
+               "value":"per 10 sec"
+            }
+         },
+         "weeklyReach":27160,
+         "rate":7630,
+         "toolName":"television",
+         "cardRate":7630
+      },
+      {
+         "_id":"55fb00a28ead0e79178b5cab",
+         "geography":[
+            "56d097ed8ead0e78498b4567"
+         ],
+         "name":"CNBC Awaaz",
+         "urlSlug":"cnbc-awaaz-advertising",
+         "categoryId":[
+            "55fafe248ead0e7d228b7280"
+         ],
+         "logo":"/images/medias/55fb00a28ead0e79178b5cab/55fb00a28ead0e79178b5cab.jpg",
+         "serviceTaxPercentage":15,
+         "mediaOptions":{
+            "regularOptions":{
+               "mediaOption4":{
+                  "showName":"06:00-18:00, Sat-Sun",
+                  "imageUrl":"
+/images/mediaOptions/television/time.png",
+                  "discountedRate":1750,
+                  "cardRate":1945
+               },
+               "mediaOption3":{
+                  "showName":"18:00-24:00, Mon-Sun",
+                  "imageUrl":"/images/mediaOptions/television/time.png",
+                  "discountedRate":1750,
+                  "cardRate":1945
+               },
+               "mediaOption2":{
+                  "showName":"10:00-18:00, Mon-Fri",
+                  "imageUrl":"/images/mediaOptions/television
+/time.png",
+                  "discountedRate":1750,
+                  "cardRate":1945
+               },
+               "mediaOption1":{
+                  "showName":"06:00-10:00, Mon-Fri",
+                  "imageUrl":"/images/mediaOptions/television/time.png",
+                  "discountedRate":1750,
+                  "cardRate":1945
+               }
+            },
+            "planningOptions":{
+               "allDayPlan":{
+                  "imageUrl":"/images/mediaOptions/television/time.png",
+                  "discountedRate":1400,
+                  "cardRate":1750,
+                  "showName":"Mixed Time"
+               }
+            }
+         },
+         "attributes":{
+            "genres":{
+               "value":[
+                  "News"
+               ]
+            },
+            "language":{
+               "value":[
+                  "Hindi"
+               ]
+            },
+            "weeklyReach":{
+               "showName":"Weekly Viewers (000s)",
+               "value":"7,110 viewers ('000s)"
+            },
+            "pricingUnit":{
+               "value":"per 10 sec"
+            }
+         },
+         "weeklyReach":7110,
+         "rate":1750,
+         "toolName":"television",
+         "cardRate":1750
+      },
+      {
+         "_id":"55fb00a28ead0e79178b5cd4",
+         "geography":[
+            "56d097ed8ead0e78498b4567"
+         ],
+         "name":"MAA TV",
+         "urlSlug":"maa-tv-advertising",
+         "categoryId":[
+            "55e60e7d8ead0e924f8b458b"
+         ],
+         "mediaOptions":{
+            "regularOptions":{
+               "mediaOption6":{
+                  "imageUrl":"/images/mediaOptions/television/time.png",
+                  "discountedRate":22000,
+                  "cardRate":23160,
+                  "showName":"18:00-24
+:00, Sat-Sun"
+               },
+               "mediaOption5":{
+                  "imageUrl":"/images/mediaOptions/television/time.png",
+                  "discountedRate":6000,
+                  "cardRate":6320,
+                  "showName":"07:00-18:00, Sat-Sun"
+               },
+               "mediaOption4":{
+                  "imageUrl":"/images/mediaOptions
+/television/time.png",
+                  "discountedRate":4000,
+                  "cardRate":4210,
+                  "showName":"23:00-24:00, Mon-Fri"
+               },
+               "mediaOption3":{
+                  "imageUrl":"/images/mediaOptions/television/time.png",
+                  "discountedRate":20000,
+                  "cardRate":21050,
+                  "showName":"18:00-23:00, Mon-Fri"
+               },
+               "mediaOption2":{
+                  "imageUrl":"/images/mediaOptions/television/time.png",
+                  "discountedRate":4000,
+                  "cardRate":4210,
+                  "showName":"12:00-18:00, Mon-Fri"
+               },
+               "mediaOption1":{
+                  "imageUrl":"/images/mediaOptions
+/television/time.png",
+                  "discountedRate":2000,
+                  "cardRate":2110,
+                  "showName":"07:00-12:00, Mon-fri"
+               }
+            },
+            "planningOptions":{
+               "allDayPlan":{
+                  "imageUrl":"/images/mediaOptions/television/time.png",
+                  "discountedRate":6334,
+                  "cardRate":6670,
+                  "showName":"Mixed Time"
+               }
+            }
+         },
+         "logo":"/images/medias/55fb00a28ead0e79178b5cd4/55fb00a28ead0e79178b5cd4
+.jpg",
+         "serviceTaxPercentage":15,
+         "attributes":{
+            "genres":{
+               "value":[
+                  "Entertainment"
+               ]
+            },
+            "language":{
+               "value":[
+                  "Telugu"
+               ]
+            },
+            "weeklyReach":{
+               "showName":"Weekly Viewers (000s)",
+               "value":"67,010 viewers ('000s)"
+            },
+            "pricingUnit":{
+               "value":"per 10 sec"
+            }
+         },
+         "weeklyReach":67010,
+         "rate":6670,
+         "toolName":"television",
+         "cardRate":6670
+      },
+      {
+         "_id":"55fb00a38ead0e79178b5ee6",
+         "geography":[
+            "56d097ed8ead0e78498b4567"
+         ],
+         "name":"Zee TV",
+         "urlSlug":"zee-tv-advertising",
+         "categoryId":[
+            "55e60e7d8ead0e924f8b458b"
+         ],
+         "mediaOptions":{
+            "planningOptions":{
+               "allDayPlan":{
+                  "showName":"Mixed Time",
+                  "cardRate":30480,
+                  "discountedRate":28954,
+                  "imageUrl":"/images/mediaOptions/television/time
+.png"
+               }
+            },
+            "regularOptions":{
+               "mediaOption1":{
+                  "showName":"07:30-08:30, Mon-Fri",
+                  "cardRate":5260,
+                  "discountedRate":5000,
+                  "imageUrl":"/images/mediaOptions/television/time.png"
+               },
+               "mediaOption2":{
+                  "showName":"09:00-10:30
+, Mon-Fri",
+                  "cardRate":21050,
+                  "discountedRate":20000,
+                  "imageUrl":"/images/mediaOptions/television/time.png"
+               },
+               "mediaOption3":{
+                  "showName":"11:00-18:00, Mon-Fri",
+                  "cardRate":36840,
+                  "discountedRate":35000,
+                  "imageUrl":"/images/mediaOptions/television/time.png"
+               },
+               "mediaOption4":{
+                  "showName":"18:00-19:00, Mon-Fri",
+                  "cardRate":78950,
+                  "discountedRate":75000,
+                  "imageUrl":"/images/mediaOptions/television/time.png"
+               },
+               "mediaOption5":{
+                  "showName":"09:00-10:30, Sat-Sun",
+                  "cardRate":26320,
+                  "discountedRate":25000,
+                  "imageUrl":"/images/mediaOptions
+/television/time.png"
+               }
+            }
+         },
+         "logo":"/images/medias/55fb00a38ead0e79178b5ee6/55fb00a38ead0e79178b5ee6.jpg",
+         "serviceTaxPercentage":15,
+         "attributes":{
+            "genres":{
+               "value":[
+                  "Entertainment"
+               ]
+            },
+            "language":{
+               "value":[
+                  "Hindi"
+               ]
+            },
+            "weeklyReach":{
+               "value":"173,020 viewers ('000s)",
+               "showName":"Weekly Viewers (000s)"
+            },
+            "pricingUnit":{
+               "value":"per 10 sec"
+            }
+         },
+         "weeklyReach":173020,
+         "rate":30480,
+         "toolName":"television",
+         "cardRate":30480
+      },
+      {
+         "_id":"55fb00a28ead0e79178b5e95",
+         "geography":[
+            "56d097ed8ead0e78498b4567"
+         ],
+         "name":"STAR Jalsha",
+         "urlSlug":"star-jalsha-tv-advertising",
+         "categoryId":[
+            "55e60e7d8ead0e924f8b458b"
+         ],
+         "mediaOptions":{
+            "regularOptions":{
+               "mediaOption10":{
+                  "imageUrl":"/images/mediaOptions/television/time.png",
+                  "discountedRate":23304,
+                  "cardRate":24530,
+                  "showName":"21:30-22:00, Mon-Sun"
+               },
+               "mediaOption9":{
+                  "imageUrl":"/images/mediaOptions/television
+/time.png",
+                  "discountedRate":18414,
+                  "cardRate":19380,
+                  "showName":"21:00-21:30, Mon-Sun"
+               },
+               "mediaOption8":{
+                  "imageUrl":"/images/mediaOptions/television/time.png",
+                  "discountedRate":29865,
+                  "cardRate":31440,
+                  "showName":"20:30-21:00, Mon-Sun"
+               },
+               "mediaOption7":{
+                  "imageUrl":"/images/mediaOptions/television/time.png",
+                  "discountedRate":22495,
+                  "cardRate":23680,
+                  "showName":"20:00-20:30, Mon-Sun"
+               },
+               "mediaOption6":{
+                  "imageUrl":"/images/mediaOptions
+/television/time.png",
+                  "discountedRate":23815,
+                  "cardRate":25070,
+                  "showName":"19:30-20:00, Mon-Sun"
+               },
+               "mediaOption5":{
+                  "imageUrl":"/images/mediaOptions/television/time.png",
+                  "discountedRate":26345,
+                  "cardRate":27730,
+                  "showName":"19:00-19:30, Mon-Sun"
+               },
+               "mediaOption4":{
+                  "imageUrl":"/images/mediaOptions/television/time.png",
+                  "discountedRate":24112,
+                  "cardRate":25380,
+                  "showName":"18:30-19:00, Mon-Sun"
+               },
+               "mediaOption3":{
+                  "imageUrl":"/images/mediaOptions
+/television/time.png",
+                  "discountedRate":23430,
+                  "cardRate":24660,
+                  "showName":"18:00-18:30, Mon-Sun"
+               },
+               "mediaOption2":{
+                  "imageUrl":"/images/mediaOptions/television/time.png",
+                  "discountedRate":5676,
+                  "cardRate":5970,
+                  "showName":"13:00-17:00, Mon-Sun"
+               },
+               "mediaOption1":{
+                  "imageUrl":"/images/mediaOptions/television/time.png",
+                  "discountedRate":3806,
+                  "cardRate":4010,
+                  "showName":"09:00-13:00, Mon-Sun"
+               }
+            },
+            "planningOptions":{
+               "allDayPlan":{
+                  "imageUrl":"/images/mediaOptions/television/time.png",
+                  "discountedRate":24659,
+                  "cardRate":25960,
+                  "showName":"Mixed
+ Time"
+               }
+            }
+         },
+         "logo":"/images/medias/55fb00a28ead0e79178b5e95/55fb00a28ead0e79178b5e95.jpg",
+         "serviceTaxPercentage":15,
+         "attributes":{
+            "genres":{
+               "value":[
+                  "Entertainment"
+               ]
+            },
+            "language":{
+               "value":[
+                  "Bengali",
+                  "Odiya"
+               ]
+            },
+            "weeklyReach":{
+               "showName":"Weekly Viewers (000s)",
+               "value":"28,970 viewers ('000s)"
+            },
+            "pricingUnit":{
+               "value":"per 10
+ sec"
+            }
+         },
+         "weeklyReach":28970,
+         "rate":25960,
+         "toolName":"television",
+         "cardRate":25960
+      },
+      {
+         "_id":"55fb00a28ead0e79178b5e2f",
+         "geography":[
+            "56d097ed8ead0e78498b4567"
+         ],
+         "name":"9X Tashan",
+         "urlSlug":"9x-tashan-advertising",
+         "categoryId":[
+            "55d70b748ead0e960c8b4596"
+         ],
+         "mediaOptions":{
+            "planningOptions":{
+               "allDayPlan":{
+                  "imageUrl":"/images/mediaOptions
+/television/time.png",
+                  "discountedRate":500,
+                  "cardRate":600,
+                  "showName":"Mixed Time"
+               }
+            }
+         },
+         "logo":"/images
+/medias/55fb00a28ead0e79178b5e2f/55fb00a28ead0e79178b5e2f.jpg",
+         "serviceTaxPercentage":15,
+         "attributes":{
+            "genres":{
+               "value":[
+                  "Music"
+               ]
+            },
+            "language":{
+               "value":[
+                  "Punjabi"
+               ]
+            },
+            "weeklyReach":{
+               "showName":"Weekly Viewers
+ (000s)",
+               "value":"18,470 viewers ('000s)"
+            },
+            "pricingUnit":{
+               "value":"per 10 sec"
+            }
+         },
+         "weeklyReach":18470,
+         "rate":600,
+         "toolName":"television",
+         "cardRate":600
+      },
+      {
+         "_id":"55fb00a28ead0e79178b5c8c",
+         "geography":[
+            "56d097ed8ead0e78498b4567"
+         ],
+         "name":"Movies Ok",
+         "urlSlug":"movies-ok-tv-advertising",
+         "categoryId":[
+            "564482c08ead0e6a1e8bca0f"
+         ],
+         "logo":"/images/medias/55fb00a28ead0e79178b5c8c/55fb00a28ead0e79178b5c8c.jpg",
+         "serviceTaxPercentage":15,
+         "attributes":{
+            "genres":{
+               "value":[
+                  "Movies"
+               ]
+            },
+            "language":{
+               "value":[
+                  "Hindi"
+               ]
+            },
+            "weeklyReach":{
+               "showName":"Weekly Viewers
+ (000s)",
+               "value":"153,170 viewers ('000s)"
+            },
+            "pricingUnit":{
+               "value":"per 10 sec"
+            }
+         },
+         "weeklyReach":153170,
+         "toolName":"television"
+      },
+      {
+         "_id":"55fb00a28ead0e79178b5e8a",
+         "geography":[
+            "56d097ed8ead0e78498b4567"
+         ],
+         "name":"ABP Ananda",
+         "urlSlug":"abp-ananda-tv-advertising",
+         "categoryId":[
+            "55fafe248ead0e7d228b7280"
+         ],
+         "mediaOptions":{
+            "planningOptions":{
+               "allDayPlan":{
+                  "showName":"Mixed Time",
+                  "cardRate":1800,
+                  "discountedRate":1710,
+                  "imageUrl":"/images/mediaOptions/television/time.png"
+               }
+            },
+            "regularOptions":{
+               "mediaOption1":{
+                  "showName":"17:00-23:00, Mon-Fri",
+                  "cardRate":2910,
+                  "discountedRate":2765,
+                  "imageUrl":"/images/mediaOptions/television
+/time.png"
+               },
+               "mediaOption2":{
+                  "showName":"17:00-23:00, Sat-Sun",
+                  "cardRate":2910,
+                  "discountedRate":2765,
+                  "imageUrl":"/images/mediaOptions/television/time.png"
+               }
+            }
+         },
+         "logo":"/images/medias/55fb00a28ead0e79178b5e8a/55fb00a28ead0e79178b5e8a
+.jpg",
+         "serviceTaxPercentage":15,
+         "attributes":{
+            "genres":{
+               "value":[
+                  "News"
+               ]
+            },
+            "language":{
+               "value":[
+                  "Bengali",
+                  "Odiya"
+               ]
+            },
+            "weeklyReach":{
+               "value":"17,080 viewers ('000s)",
+               "showName":"Weekly Viewers (000s)"
+            },
+            "pricingUnit":{
+               "value":"per 10 sec"
+            }
+         },
+         "weeklyReach":17080,
+         "rate":1800,
+         "toolName":"television",
+         "cardRate":1800
+      },
+      {
+         "_id":"55fb00a28ead0e79178b5cc7",
+         "geography":[
+            "56d097ed8ead0e78498b4567"
+         ],
+         "name":"Times Now",
+         "urlSlug":"times-now-advertising",
+         "categoryId":[
+            "55fafe248ead0e7d228b7280"
+         ],
+         "mediaOptions":{
+            "planningOptions":{
+               "allDayPlan":{
+                  "showName":"Mixed Time",
+                  "cardRate":4150,
+                  "discountedRate":3800,
+                  "imageUrl":"/images/mediaOptions/television/time
+.png"
+               }
+            },
+            "regularOptions":{
+               "mediaOption1":{
+                  "showName":"06:00-17:00, Mon-Fri",
+                  "cardRate":2600,
+                  "discountedRate":2300,
+                  "imageUrl":"/images/mediaOptions/television/time.png"
+               },
+               "mediaOption2":{
+                  "showName":"12:00-17:00
+, Mon-Fri",
+                  "cardRate":2340,
+                  "discountedRate":2070,
+                  "imageUrl":"/images/mediaOptions/television/time.png"
+               },
+               "mediaOption3":{
+                  "showName":"17:00-21:00, Mon-Sun",
+                  "cardRate":6500,
+                  "discountedRate":5750,
+                  "imageUrl":"/images/mediaOptions/television/time.png"
+               },
+               "mediaOption4":{
+                  "showName":"21:00-06:00, Mon-Fri",
+                  "cardRate":28600,
+                  "discountedRate":25300,
+                  "imageUrl":"/images/mediaOptions/television/time.png"
+               },
+               "mediaOption5":{
+                  "showName":"06:00-17:00, Sat-Sun",
+                  "cardRate":3900,
+                  "discountedRate":3450,
+                  "imageUrl":"/images/mediaOptions
+/television/time.png"
+               }
+            }
+         },
+         "logo":"/images/medias/55fb00a28ead0e79178b5cc7/55fb00a28ead0e79178b5cc7.jpg",
+         "serviceTaxPercentage":15,
+         "attributes":{
+            "genres":{
+               "value":[
+                  "News"
+               ]
+            },
+            "language":{
+               "value":[
+                  "English"
+               ]
+            },
+            "weeklyReach":{
+               "value":"6,200 viewers ('000s)",
+               "showName":"Weekly Viewers (000s)"
+            },
+            "pricingUnit":{
+               "value":"per 10 sec"
+            }
+         },
+         "weeklyReach":6200,
+         "rate":4150,
+         "toolName":"television",
+         "cardRate":4150
+      },
+      {
+         "_id":"55fb00a38ead0e79178b5ee2",
+         "geography":[
+            "56d097ed8ead0e78498b4567"
+         ],
+         "name":"Sony Entertainment Television",
+         "urlSlug":"sony-advertising",
+         "categoryId":[
+            "55e60e7d8ead0e924f8b458b"
+         ],
+         "mediaOptions":{
+            "planningOptions":{
+               "allDayPlan":{
+                  "showName":"Mixed Time",
+                  "cardRate":21870,
+                  "discountedRate":20772,
+                  "imageUrl":"/images/mediaOptions/television/time
+.png"
+               }
+            },
+            "regularOptions":{
+               "mediaOption1":{
+                  "showName":"22:00-22:30",
+                  "cardRate":53250,
+                  "discountedRate":50592,
+                  "imageUrl":"/images/mediaOptions/television/time.png"
+               },
+               "mediaOption2":{
+                  "showName":"12:00-19:00",
+                  "cardRate":12760,
+                  "discountedRate":12118,
+                  "imageUrl":"/images/mediaOptions/television/time.png"
+               },
+               "mediaOption3":{
+                  "showName":"07:00-09:00",
+                  "cardRate":2860,
+                  "discountedRate":2717,
+                  "imageUrl":"/images/mediaOptions/television
+/time.png"
+               },
+               "mediaOption4":{
+                  "showName":"19:00-20:00",
+                  "cardRate":18930,
+                  "discountedRate":17983,
+                  "imageUrl":"/images/mediaOptions/television/time.png"
+               },
+               "mediaOption5":{
+                  "showName":"20:00-22:00",
+                  "cardRate":32760,
+                  "discountedRate":31121,
+                  "imageUrl":"/images/mediaOptions/television/time.png"
+               }
+            }
+         },
+         "logo":"/images/medias
+/55fb00a38ead0e79178b5ee2/55fb00a38ead0e79178b5ee2.jpg",
+         "serviceTaxPercentage":15,
+         "attributes":{
+            "genres":{
+               "value":[
+                  "Entertainment"
+               ]
+            },
+            "language":{
+               "value":[
+                  "Hindi"
+               ]
+            },
+            "weeklyReach":{
+               "value":"154,140 viewers 
+('000s)",
+               "showName":"Weekly Viewers (000s)"
+            },
+            "pricingUnit":{
+               "value":"per 10 sec"
+            }
+         },
+         "weeklyReach":154140,
+         "rate":21870,
+         "toolName":"television",
+         "cardRate":21870
+      },
+      {
+         "_id":"55fb00a28ead0e79178b5e6a",
+         "geography":[
+            "56d097ed8ead0e78498b4567"
+         ],
+         "name":"Aastha",
+         "urlSlug":"aastha-advertising",
+         "categoryId":[
+            "55e8c8118ead0eb2798b4d3b"
+         ],
+         "mediaOptions":{
+            "otherOptions":{
+               "mediaOption1":{
+                  "showName":"06:00, Mon-Sun",
+                  "minimumQtyUnit1":1,
+                  "pricingUnit1":"X 10 Sec",
+                  "description":"Advertise During Baba Ramdev's Yog Show.",
+                  "vendorRate":2975,
+                  "discountedRate":3300,
+                  "cardRate":3670,
+                  "imageUrl":"/images/mediaOptions/television/time.png"
+               }
+            },
+            "regularOptions":{
+               "mediaOption6":{
+                  "showName":"09:00-12:00",
+                  "imageUrl":"/images/mediaOptions/television/time.png",
+                  "discountedRate":714,
+                  "cardRate":750
+               },
+               "mediaOption5":{
+                  "imageUrl":"/images/mediaOptions/television/time.png",
+                  "discountedRate":857,
+                  "cardRate":900,
+                  "showName":"20:00-22:00"
+               },
+               "mediaOption4":{
+                  "showName":"19:00-20:00",
+                  "imageUrl":"/images
+/mediaOptions/television/time.png",
+                  "discountedRate":714,
+                  "cardRate":750
+               },
+               "mediaOption3":{
+                  "showName":"07
+:30-09:00",
+                  "imageUrl":"/images/mediaOptions/television/time.png",
+                  "discountedRate":1028,
+                  "cardRate":1080
+               },
+               "mediaOption2":{
+                  "imageUrl":"/images/mediaOptions/television/time.png",
+                  "discountedRate":857,
+                  "cardRate":900,
+                  "showName":"12:00-19:00"
+               },
+               "mediaOption1":{
+                  "showName":"22:00-22:30",
+                  "imageUrl":"/images/mediaOptions
+/television/time.png",
+                  "discountedRate":714,
+                  "cardRate":750
+               }
+            },
+            "planningOptions":{
+               "allDayPlan":{
+                  "imageUrl":"/images/mediaOptions/television/time.png",
+                  "discountedRate":809,
+                  "cardRate":850,
+                  "showName":"Mixed Time"
+               }
+            }
+         },
+         "logo":"/images/medias/55fb00a28ead0e79178b5e6a/55fb00a28ead0e79178b5e6a.jpg",
+         "serviceTaxPercentage":15,
+         "attributes":{
+            "genres":{
+               "value":[
+                  "Spiritual"
+               ]
+            },
+            "language":{
+               "value":[
+                  "Hindi"
+               ]
+            },
+            "pricingUnit":{
+               "value":"per 10 sec"
+            }
+         },
+         "rate":850,
+         "toolName":"television",
+         "cardRate":850
+      },
+      {
+         "_id":"55fb00a28ead0e79178b5cca",
+         "geography":[
+            "56d097ed8ead0e78498b4567"
+         ],
+         "name":"ETV Andhra Pradesh",
+         "urlSlug":"etv-andhrapradesh-advertising",
+         "categoryId":[
+            "55e60e7d8ead0e924f8b458b"
+         ],
+         "logo":"/images/medias/55fb00a28ead0e79178b5cca/55fb00a28ead0e79178b5cca
+.jpg",
+         "serviceTaxPercentage":15,
+         "mediaOptions":{
+            "planningOptions":{
+               "allDayPlan":{
+                  "imageUrl":"/images
+/mediaOptions/television/time.png",
+                  "discountedRate":3000,
+                  "cardRate":3160,
+                  "showName":"Mixed Time"
+               }
+            }
+         },
+         "attributes":{
+            "genres":{
+               "value":[
+                  "Entertainment"
+               ]
+            },
+            "language":{
+               "value":[
+                  "Telugu"
+               ]
+            },
+            "weeklyReach":{
+               "showName":"Weekly
+ Viewers (000s)",
+               "value":"19,300 viewers ('000s)"
+            },
+            "pricingUnit":{
+               "value":"per 10 sec"
+            }
+         },
+         "weeklyReach":19300,
+         "rate":3160,
+         "toolName":"television",
+         "cardRate":3160
+      },
+      {
+         "_id":"55fb00a38ead0e79178b5ece",
+         "geography":[
+            "56d097ed8ead0e78498b4567"
+         ],
+         "name":"ABP Majha",
+         "urlSlug":"abp-majha-advertising",
+         "categoryId":[
+            "55e60e7d8ead0e924f8b458b"
+         ],
+         "mediaOptions":{
+            "regularOptions":{
+               "mediaOption3":{
+                  "imageUrl":"/images/mediaOptions/television/time
+.png",
+                  "discountedRate":1310,
+                  "cardRate":1380,
+                  "showName":"06:00-12:00"
+               },
+               "mediaOption2":{
+                  "imageUrl":"/images
+/mediaOptions/television/time.png",
+                  "discountedRate":1561,
+                  "cardRate":1640,
+                  "showName":"17:00-23:00"
+               },
+               "mediaOption1":{
+                  "imageUrl":"/images/mediaOptions/television/time.png",
+                  "discountedRate":857,
+                  "cardRate":900,
+                  "showName":"12:00-17:00"
+               }
+            },
+            "planningOptions":{
+               "allDayPlan":{
+                  "imageUrl":"/images/mediaOptions/television/time.png",
+                  "discountedRate":1364,
+                  "cardRate":1440,
+                  "showName":"Mixed Time"
+               }
+            }
+         },
+         "logo":"/images/medias/55fb00a38ead0e79178b5ece
+/55fb00a38ead0e79178b5ece.jpg",
+         "serviceTaxPercentage":15,
+         "attributes":{
+            "genres":{
+               "value":[
+                  "Entertainment"
+               ]
+            },
+            "language":{
+               "value":[
+                  "Marathi"
+               ]
+            },
+            "weeklyReach":{
+               "showName":"Weekly Viewers (000s)",
+               "value":"21,870
+ viewers ('000s)"
+            },
+            "pricingUnit":{
+               "value":"per 10 sec"
+            }
+         },
+         "weeklyReach":21870,
+         "rate":1440,
+         "toolName":"television",
+         "cardRate":1440
+      },
+      {
+         "_id":"55fb00a28ead0e79178b5e51",
+         "geography":[
+            "56d097ed8ead0e78498b4567"
+         ],
+         "name":"Thanthi
+ TV",
+         "urlSlug":"thanthi-tv-advertising",
+         "categoryId":[
+            "55fafe248ead0e7d228b7280"
+         ],
+         "logo":"/images/medias
+/55fb00a28ead0e79178b5e51/55fb00a28ead0e79178b5e51.jpg",
+         "serviceTaxPercentage":15,
+         "mediaOptions":{
+            "planningOptions":{
+               "allDayPlan":{
+                  "showName":"Mixed Time",
+                  "cardRate":1520,
+                  "discountedRate":1440,
+                  "imageUrl":"/images/mediaOptions
+/television/time.png"
+               }
+            },
+            "regularOptions":{
+               "mediaOption1":{
+                  "showName":"07:00-10:00",
+                  "cardRate":1470,
+                  "discountedRate":1400,
+                  "imageUrl":"/images/mediaOptions/television/time.png"
+               },
+               "mediaOption2":{
+                  "showName":"10:00-18:00",
+                  "cardRate":1050,
+                  "discountedRate":1000,
+                  "imageUrl":"/images/mediaOptions/television/time.png"
+               },
+               "mediaOption3":{
+                  "showName":"18:00-24:00",
+                  "cardRate":1580,
+                  "discountedRate":1500,
+                  "imageUrl":"/images/mediaOptions/television
+/time.png"
+               }
+            }
+         },
+         "attributes":{
+            "genres":{
+               "value":[
+                  "News"
+               ]
+            },
+            "language":{
+               "value":[
+                  "Tamil"
+               ]
+            },
+            "weeklyReach":{
+               "value":"25,280 viewers ('000s)",
+               "showName":"Weekly Viewers (000s)"
+            },
+            "pricingUnit":{
+               "value":"per 10
+ sec"
+            }
+         },
+         "weeklyReach":25280,
+         "rate":1520,
+         "toolName":"television",
+         "cardRate":1520
+      }
+   ]
+}
