@@ -69,8 +69,7 @@
                   "pricingUnit2":"height",
                   "minimumQtyUnit1":12,
                   "pricingUnit1":"width",
-                  "imageUrl":"/images/mediaOptions/newspaper/lastPage
-.png",
+                  "imageUrl":"/images/mediaOptions/newspaper/lastPage.png",
                   "cardRate":325,
                   "discountedRate":293,
                   "vendorRate":249
@@ -145,8 +144,7 @@
                "retail":{
                   "minimumQtyUnit1":1,
                   "pricingUnit1":"Sq Cm",
-                  "imageUrl":"/images/mediaOptions
-/newspaper/retail.png",
+                  "imageUrl":"/images/mediaOptions/newspaper/retail.png",
                   "discountedRate":653,
                   "cardRate":725
                },
@@ -160,8 +158,7 @@
                "publicNoticeAndTender":{
                   "minimumQtyUnit1":1,
                   "pricingUnit1":"Sq Cm",
-                  "imageUrl":"/images/mediaOptions
-/newspaper/publicNoticeAndTender.png",
+                  "imageUrl":"/images/mediaOptions/newspaper/publicNoticeAndTender.png",
                   "discountedRate":315,
                   "cardRate":350
                },
@@ -175,8 +172,7 @@
                "travel":{
                   "minimumQtyUnit1":1,
                   "pricingUnit1":"Sq Cm",
-                  "imageUrl":"/images/mediaOptions
-/newspaper/travel.png",
+                  "imageUrl":"/images/mediaOptions/newspaper/travel.png",
                   "discountedRate":653,
                   "cardRate":725
                },
@@ -190,15 +186,13 @@
                "vehicles":{
                   "minimumQtyUnit1":1,
                   "pricingUnit1":"Sq Cm",
-                  "imageUrl":"/images/mediaOptions/newspaper
-/vehicles.png",
+                  "imageUrl":"/images/mediaOptions/newspaper/vehicles.png",
                   "discountedRate":653,
                   "cardRate":725
                },
                "personal":{
                   "minimumQtyUnit1":1,
-                  "pricingUnit1":"Sq
- Cm",
+                  "pricingUnit1":"Sq Cm",
                   "imageUrl":"/images/mediaOptions/newspaper/personal.png",
                   "discountedRate":563,
                   "cardRate":625
@@ -206,8 +200,7 @@
                "entertainment":{
                   "minimumQtyUnit1":1,
                   "pricingUnit1":"Sq Cm",
-                  "imageUrl":"/images/mediaOptions/newspaper/entertainment
-.png",
+                  "imageUrl":"/images/mediaOptions/newspaper/entertainment.png",
                   "discountedRate":653,
                   "cardRate":725
                },
@@ -221,8 +214,7 @@
                "weddingArrangement":{
                   "minimumQtyUnit1":1,
                   "pricingUnit1":"Sq Cm",
-                  "imageUrl":"/images/mediaOptions/newspaper/weddingArrangement
-.png",
+                  "imageUrl":"/images/mediaOptions/newspaper/weddingArrangement.png",
                   "discountedRate":653,
                   "cardRate":725
                },
@@ -243,8 +235,7 @@
                "property":{
                   "minimumQtyUnit1":1,
                   "pricingUnit1":"Sq Cm",
-                  "imageUrl":"/images/mediaOptions
-/newspaper/property.png",
+                  "imageUrl":"/images/mediaOptions/newspaper/property.png",
                   "discountedRate":1089,
                   "cardRate":1210
                },
@@ -258,8 +249,7 @@
                "recruitment":{
                   "minimumQtyUnit1":1,
                   "pricingUnit1":"Sq Cm",
-                  "imageUrl":"/images/mediaOptions/newspaper
-/recruitment.png",
+                  "imageUrl":"/images/mediaOptions/newspaper/recruitment.png",
                   "discountedRate":1013,
                   "cardRate":1125
                }
@@ -271,8 +261,7 @@
                   "discount%":25,
                   "minimumQtyUnit1":1,
                   "pricingUnit1":"Day",
-                  "imageUrl":"/images
-/mediaOptions/newspaper/skyBus.png",
+                  "imageUrl":"/images/mediaOptions/newspaper/skyBus.png",
                   "cardRate":"1285350"
                },
                "pointerAd":{
@@ -281,8 +270,7 @@
                   "discount%":25,
                   "minimumQtyUnit1":1,
                   "pricingUnit1":"Day",
-                  "imageUrl":"/images/mediaOptions/newspaper
-/pointerAd.png",
+                  "imageUrl":"/images/mediaOptions/newspaper/pointerAd.png",
                   "cardRate":"5842500"
                },
                "jacketFrontInside":{
@@ -291,19 +279,16 @@
                   "discount%":25,
                   "minimumQtyUnit1":1,
                   "pricingUnit1":"Day",
-                  "imageUrl":"/images/mediaOptions/newspaper/jacketFrontInside
-.png",
+                  "imageUrl":"/images/mediaOptions/newspaper/jacketFrontInside.png",
                   "cardRate":"26735280"
                },
                "jacketFrontPage":{
                   "vendorRate":"8521871",
                   "discountedRate":"10025730",
-                  "discount
-%":25,
+                  "discount%":25,
                   "minimumQtyUnit1":1,
                   "pricingUnit1":"Day",
-                  "imageUrl":"/images/mediaOptions/newspaper/jacketFrontPage
-.png",
+                  "imageUrl":"/images/mediaOptions/newspaper/jacketFrontPage.png",
                   "cardRate":"13367640"
                }
             },
@@ -330,8 +315,7 @@
                   "pricingUnit2":"height",
                   "minimumQtyUnit1":12,
                   "pricingUnit1":"width",
-                  "imageUrl":"/images/mediaOptions
-/newspaper/lastPage.png"
+                  "imageUrl":"/images/mediaOptions/newspaper/lastPage.png"
                },
                "page3":{
                   "vendorRate":4338,
@@ -360,15 +344,13 @@
             }
          },
          "logo":"/images/medias/55e986da8ead0e42788b4c16/55e986da8ead0e42788b4c16.jpg",
-         "name":"Times Of India
- - Main, Mumbai",
+         "name":"Times Of India - Main, Mumbai",
          "attributes":{
             "categoryName":{
                "value":"General Interest"
             },
             "circulation":{
-               "value":"1
-,026,153 copies"
+               "value":"1,026,153 copies"
             },
             "areaCovered":{
                "showName":"Edition",
@@ -405,8 +387,7 @@
                   "vendorRate":"21",
                   "discountedRate":23,
                   "cardRate":25,
-                  "imageUrl":"/images/mediaOptions/newspaper
-/anyPage.png"
+                  "imageUrl":"/images/mediaOptions/newspaper/anyPage.png"
                }
             },
             "regularOptions":{
@@ -424,8 +405,7 @@
                }
             }
          },
-         "logo":"/images/medias
-/55e986db8ead0e42788b4db3/55e986db8ead0e42788b4db3.jpg",
+         "logo":"/images/medias/55e986db8ead0e42788b4db3/55e986db8ead0e42788b4db3.jpg",
          "name":"Dashpur Express - Main, Neemuch",
          "attributes":{
             "categoryName":{
@@ -483,8 +463,7 @@
                   "discount%":40,
                   "minimumQtyUnit1":1,
                   "pricingUnit1":"Day",
-                  "imageUrl":"/images
-/mediaOptions/newspaper/jacketFrontInside.png",
+                  "imageUrl":"/images/mediaOptions/newspaper/jacketFrontInside.png",
                   "cardRate":518175
                },
                "jacketFrontPage":{
@@ -493,8 +472,7 @@
                   "discount%":40,
                   "minimumQtyUnit1":1,
                   "pricingUnit1":"Day",
-                  "imageUrl":"/images
-/mediaOptions/newspaper/jacketFrontPage.png",
+                  "imageUrl":"/images/mediaOptions/newspaper/jacketFrontPage.png",
                   "cardRate":435600
                }
             },
@@ -509,8 +487,7 @@
                   "pricingUnit2":"height",
                   "minimumQtyUnit1":12,
                   "pricingUnit1":"width",
-                  "imageUrl":"/images/mediaOptions/newspaper/anyPage
-.png"
+                  "imageUrl":"/images/mediaOptions/newspaper/anyPage.png"
                },
                "lastPage":{
                   "vendorRate":96,
@@ -546,14 +523,12 @@
                   "pricingUnit1":"width",
                   "minimumQtyUnit":1,
                   "pricingUnit":"Sq Cm",
-                  "imageUrl":"/images/mediaOptions/newspaper
-/page1.png"
+                  "imageUrl":"/images/mediaOptions/newspaper/page1.png"
                }
             }
          },
          "logo":"/images/medias/55e986db8ead0e42788b4d21/55e986db8ead0e42788b4d21.jpg",
-         "name":"Daily
- Desher Katha - Main, Agartala",
+         "name":"Daily Desher Katha - Main, Agartala",
          "attributes":{
             "categoryName":{
                "value":"General Interest"
@@ -596,8 +571,7 @@
                "retail":{
                   "minimumQtyUnit1":1,
                   "pricingUnit1":"Sq Cm",
-                  "imageUrl":"/images/mediaOptions
-/newspaper/retail.png",
+                  "imageUrl":"/images/mediaOptions/newspaper/retail.png",
                   "discountedRate":639,
                   "cardRate":710
                },
@@ -611,8 +585,7 @@
                "publicNoticeAndTender":{
                   "minimumQtyUnit1":1,
                   "pricingUnit1":"Sq Cm",
-                  "imageUrl":"/images/mediaOptions
-/newspaper/publicNoticeAndTender.png",
+                  "imageUrl":"/images/mediaOptions/newspaper/publicNoticeAndTender.png",
                   "discountedRate":585,
                   "cardRate":650
                },
@@ -626,8 +599,7 @@
                "travel":{
                   "minimumQtyUnit1":1,
                   "pricingUnit1":"Sq Cm",
-                  "imageUrl":"/images/mediaOptions
-/newspaper/travel.png",
+                  "imageUrl":"/images/mediaOptions/newspaper/travel.png",
                   "discountedRate":405,
                   "cardRate":450
                },
@@ -641,15 +613,13 @@
                "vehicles":{
                   "minimumQtyUnit1":1,
                   "pricingUnit1":"Sq Cm",
-                  "imageUrl":"/images/mediaOptions/newspaper
-/vehicles.png",
+                  "imageUrl":"/images/mediaOptions/newspaper/vehicles.png",
                   "discountedRate":585,
                   "cardRate":650
                },
                "personal":{
                   "minimumQtyUnit1":1,
-                  "pricingUnit1":"Sq
- Cm",
+                  "pricingUnit1":"Sq Cm",
                   "imageUrl":"/images/mediaOptions/newspaper/personal.png",
                   "discountedRate":356,
                   "cardRate":395
@@ -657,8 +627,7 @@
                "entertainment":{
                   "minimumQtyUnit1":1,
                   "pricingUnit1":"Sq Cm",
-                  "imageUrl":"/images/mediaOptions/newspaper/entertainment
-.png",
+                  "imageUrl":"/images/mediaOptions/newspaper/entertainment.png",
                   "discountedRate":626,
                   "cardRate":695
                },
@@ -672,8 +641,7 @@
                "weddingArrangement":{
                   "minimumQtyUnit1":1,
                   "pricingUnit1":"Sq Cm",
-                  "imageUrl":"/images/mediaOptions/newspaper/weddingArrangement
-.png",
+                  "imageUrl":"/images/mediaOptions/newspaper/weddingArrangement.png",
                   "discountedRate":626,
                   "cardRate":695
                },
@@ -694,8 +662,7 @@
                "property":{
                   "minimumQtyUnit1":1,
                   "pricingUnit1":"Sq Cm",
-                  "imageUrl":"/images/mediaOptions/newspaper
-/property.png",
+                  "imageUrl":"/images/mediaOptions/newspaper/property.png",
                   "discountedRate":891,
                   "cardRate":990
                },
@@ -709,8 +676,7 @@
                "recruitment":{
                   "minimumQtyUnit1":1,
                   "pricingUnit1":"Sq Cm",
-                  "imageUrl":"/images/mediaOptions/newspaper
-/recruitment.png",
+                  "imageUrl":"/images/mediaOptions/newspaper/recruitment.png",
                   "discountedRate":689,
                   "cardRate":765
                }
@@ -749,8 +715,7 @@
                   "discount%":25,
                   "minimumQtyUnit1":1,
                   "pricingUnit1":"Day",
-                  "imageUrl":"/images
-/mediaOptions/newspaper/skyBus.png",
+                  "imageUrl":"/images/mediaOptions/newspaper/skyBus.png",
                   "cardRate":"791175"
                }
             },
@@ -765,8 +730,7 @@
                   "pricingUnit1":"width",
                   "minimumQtyUnit":1,
                   "pricingUnit":"Sq Cm",
-                  "imageUrl":"/images/mediaOptions/newspaper
-/page1.png"
+                  "imageUrl":"/images/mediaOptions/newspaper/page1.png"
                },
                "page3":{
                   "vendorRate":2785,
@@ -802,8 +766,7 @@
                   "pricingUnit2":"height",
                   "minimumQtyUnit1":12,
                   "pricingUnit1":"width",
-                  "imageUrl":"/images/mediaOptions
-/newspaper/anyPage.png"
+                  "imageUrl":"/images/mediaOptions/newspaper/anyPage.png"
                }
             }
          },
@@ -842,8 +805,7 @@
          "mediaOptions":{
             "regularOptions":{
                "page1":{
-                  "imageUrl":"/images
-/mediaOptions/newspaper/page1.png",
+                  "imageUrl":"/images/mediaOptions/newspaper/page1.png",
                   "pricingUnit":"Sq Cm",
                   "minimumQtyUnit":1,
                   "pricingUnit1":"width",
@@ -867,8 +829,7 @@
                   "vendorRate":255
                },
                "lastPage":{
-                  "imageUrl":"/images/mediaOptions/newspaper/lastPage
-.png",
+                  "imageUrl":"/images/mediaOptions/newspaper/lastPage.png",
                   "pricingUnit1":"width",
                   "minimumQtyUnit1":12,
                   "pricingUnit2":"height",
@@ -895,8 +856,7 @@
             "otherOptions":{
                "jacketFrontPage":{
                   "cardRate":2323200,
-                  "imageUrl":"/images/mediaOptions
-/newspaper/jacketFrontPage.png",
+                  "imageUrl":"/images/mediaOptions/newspaper/jacketFrontPage.png",
                   "pricingUnit1":"Day",
                   "minimumQtyUnit1":1,
                   "discount%":40,
@@ -905,8 +865,7 @@
                },
                "jacketFrontInside":{
                   "cardRate":2763600,
-                  "imageUrl":"/images/mediaOptions
-/newspaper/jacketFrontInside.png",
+                  "imageUrl":"/images/mediaOptions/newspaper/jacketFrontInside.png",
                   "pricingUnit1":"Day",
                   "minimumQtyUnit1":1,
                   "discount%":40,
@@ -915,8 +874,7 @@
                },
                "pointerAd":{
                   "cardRate":480000,
-                  "imageUrl":"/images/mediaOptions/newspaper
-/pointerAd.png",
+                  "imageUrl":"/images/mediaOptions/newspaper/pointerAd.png",
                   "pricingUnit1":"Day",
                   "minimumQtyUnit1":1,
                   "discount%":40,
@@ -934,8 +892,7 @@
                }
             }
          },
-         "logo":"/images
-/medias/55e986db8ead0e42788b4dde/55e986db8ead0e42788b4dde.jpg",
+         "logo":"/images/medias/55e986db8ead0e42788b4dde/55e986db8ead0e42788b4dde.jpg",
          "name":"Rakhewal Daily - Main, Palanpur",
          "attributes":{
             "categoryName":{
@@ -972,8 +929,7 @@
                "skyBus":{
                   "vendorRate":"85202",
                   "discountedRate":"100238",
-                  "discount
-%":25,
+                  "discount%":25,
                   "minimumQtyUnit1":1,
                   "pricingUnit1":"Day",
                   "imageUrl":"/images/mediaOptions/newspaper/skyBus.png",
@@ -1015,8 +971,7 @@
                   "pricingUnit2":"height",
                   "minimumQtyUnit1":12,
                   "pricingUnit1":"width",
-                  "imageUrl":"/images/mediaOptions/newspaper/anyPage
-.png",
+                  "imageUrl":"/images/mediaOptions/newspaper/anyPage.png",
                   "cardRate":500,
                   "discountedRate":450,
                   "vendorRate":383
@@ -1059,8 +1014,7 @@
                }
             }
          },
-         "logo":"/images/medias/55e986d98ead0e42788b48e4
-/5268ddd10e9574b748620beae63cb217.jpg",
+         "logo":"/images/medias/55e986d98ead0e42788b48e4/5268ddd10e9574b748620beae63cb217.jpg",
          "name":"Mirror - Main, Bangalore",
          "attributes":{
             "categoryName":{
@@ -1080,8 +1034,7 @@
                "value":"English"
             }
          },
-         "categoryName":"General
- Interest"
+         "categoryName":"General Interest"
       },
       {
          "_id":"55e986d88ead0e42788b4860",
@@ -1099,8 +1052,7 @@
                   "vendorRate":6732,
                   "discountedRate":7920,
                   "cardRate":8800,
-                  "imageUrl":"/images/mediaOptions/newspaper
-/page1.png",
+                  "imageUrl":"/images/mediaOptions/newspaper/page1.png",
                   "pricingUnit":"Sq Cm",
                   "minimumQtyUnit":1,
                   "pricingUnit1":"width",
@@ -1136,8 +1088,7 @@
                   "vendorRate":3672,
                   "discountedRate":4320,
                   "cardRate":4800,
-                  "imageUrl":"/images/mediaOptions
-/newspaper/anyPage.png",
+                  "imageUrl":"/images/mediaOptions/newspaper/anyPage.png",
                   "pricingUnit1":"width",
                   "minimumQtyUnit1":12,
                   "pricingUnit2":"height",
@@ -1170,15 +1121,13 @@
                   "imageUrl":"/images/mediaOptions/newspaper/pointerAd.png",
                   "pricingUnit1":"Day",
                   "minimumQtyUnit1":1,
-                  "discount
-%":25,
+                  "discount%":25,
                   "discountedRate":4950000,
                   "vendorRate":"4207500"
                },
                "skyBus":{
                   "cardRate":1452000,
-                  "imageUrl":"/images
-/mediaOptions/newspaper/skyBus.png",
+                  "imageUrl":"/images/mediaOptions/newspaper/skyBus.png",
                   "pricingUnit1":"Day",
                   "minimumQtyUnit1":1,
                   "discount%":25,
@@ -1187,8 +1136,7 @@
                }
             }
          },
-         "logo":"/images/medias/55e986d88ead0e42788b4860/55e986d88ead0e42788b4860
-.jpg",
+         "logo":"/images/medias/55e986d88ead0e42788b4860/55e986d88ead0e42788b4860.jpg",
          "name":"Hindustan Times - Main, Delhi",
          "attributes":{
             "categoryName":{
@@ -1223,8 +1171,7 @@
          "mediaOptions":{
             "regularOptions":{
                "page1":{
-                  "imageUrl":"/images/mediaOptions
-/newspaper/page1.png",
+                  "imageUrl":"/images/mediaOptions/newspaper/page1.png",
                   "pricingUnit":"Sq Cm",
                   "minimumQtyUnit":1,
                   "pricingUnit1":"width",
@@ -1248,8 +1195,7 @@
                   "vendorRate":120
                },
                "lastPage":{
-                  "imageUrl":"/images/mediaOptions/newspaper/lastPage
-.png",
+                  "imageUrl":"/images/mediaOptions/newspaper/lastPage.png",
                   "pricingUnit1":"width",
                   "minimumQtyUnit1":12,
                   "pricingUnit2":"height",
@@ -1276,8 +1222,7 @@
             "otherOptions":{
                "jacketFrontPage":{
                   "cardRate":580800,
-                  "imageUrl":"/images/mediaOptions
-/newspaper/jacketFrontPage.png",
+                  "imageUrl":"/images/mediaOptions/newspaper/jacketFrontPage.png",
                   "pricingUnit1":"Day",
                   "minimumQtyUnit1":1,
                   "discount%":40,
@@ -1286,8 +1231,7 @@
                },
                "jacketFrontInside":{
                   "cardRate":690900,
-                  "imageUrl":"/images/mediaOptions
-/newspaper/jacketFrontInside.png",
+                  "imageUrl":"/images/mediaOptions/newspaper/jacketFrontInside.png",
                   "pricingUnit1":"Day",
                   "minimumQtyUnit1":1,
                   "discount%":40,
@@ -1296,8 +1240,7 @@
                },
                "pointerAd":{
                   "cardRate":131250,
-                  "imageUrl":"/images/mediaOptions/newspaper
-/pointerAd.png",
+                  "imageUrl":"/images/mediaOptions/newspaper/pointerAd.png",
                   "pricingUnit1":"Day",
                   "minimumQtyUnit1":1,
                   "discount%":40,
@@ -1315,8 +1258,7 @@
                }
             }
          },
-         "logo":"/images
-/medias/55e986da8ead0e42788b4c78/55e986da8ead0e42788b4c78.jpg",
+         "logo":"/images/medias/55e986da8ead0e42788b4c78/55e986da8ead0e42788b4c78.jpg",
          "name":"Vanglaini - Main, Aizawl",
          "attributes":{
             "categoryName":{
@@ -1395,8 +1337,7 @@
                   "pricingUnit2":"height",
                   "minimumQtyUnit1":12,
                   "pricingUnit1":"width",
-                  "imageUrl":"/images/mediaOptions/newspaper/anyPage
-.png",
+                  "imageUrl":"/images/mediaOptions/newspaper/anyPage.png",
                   "cardRate":1550,
                   "discountedRate":1395,
                   "vendorRate":1186
@@ -1439,8 +1380,7 @@
                }
             }
          },
-         "logo":"/images/medias/55e986d78ead0e42788b4584
-/55e986d78ead0e42788b4584.jpg",
+         "logo":"/images/medias/55e986d78ead0e42788b4584/55e986d78ead0e42788b4584.jpg",
          "name":"Ananda Bazar Patrika - Kajer Bazar, Kolkata",
          "attributes":{
             "categoryName":{
@@ -1531,8 +1471,7 @@
                   "pricingUnit2":"height",
                   "minimumQtyUnit1":12,
                   "pricingUnit1":"width",
-                  "imageUrl":"/images/mediaOptions/newspaper/lastPage
-.png",
+                  "imageUrl":"/images/mediaOptions/newspaper/lastPage.png",
                   "cardRate":330,
                   "discountedRate":297,
                   "vendorRate":252
@@ -1596,8 +1535,7 @@
          "mediaOptions":{
             "regularOptions":{
                "lastPage":{
-                  "imageUrl":"/images/mediaOptions
-/newspaper/lastPage.png",
+                  "imageUrl":"/images/mediaOptions/newspaper/lastPage.png",
                   "pricingUnit1":"width",
                   "minimumQtyUnit1":12,
                   "pricingUnit2":"height",
@@ -1648,8 +1586,7 @@
             "otherOptions":{
                "skyBus":{
                   "cardRate":"556875",
-                  "imageUrl":"/images/mediaOptions
-/newspaper/skyBus.png",
+                  "imageUrl":"/images/mediaOptions/newspaper/skyBus.png",
                   "pricingUnit1":"Day",
                   "minimumQtyUnit1":1,
                   "discount%":40,
@@ -1658,8 +1595,7 @@
                },
                "pointerAd":{
                   "cardRate":"2531250",
-                  "imageUrl":"/images/mediaOptions/newspaper
-/pointerAd.png",
+                  "imageUrl":"/images/mediaOptions/newspaper/pointerAd.png",
                   "pricingUnit1":"Day",
                   "minimumQtyUnit1":1,
                   "discount%":40,
@@ -1673,13 +1609,11 @@
                   "discount%":"25",
                   "minimumQtyUnit1":"1",
                   "pricingUnit1":"Day",
-                  "imageUrl":"/images/mediaOptions/newspaper
-/jacketFrontInside.png"
+                  "imageUrl":"/images/mediaOptions/newspaper/jacketFrontInside.png"
                },
                "jacketFrontPage":{
                   "cardRate":"5791500",
-                  "imageUrl":"/images/mediaOptions/newspaper
-/jacketFrontPage.png",
+                  "imageUrl":"/images/mediaOptions/newspaper/jacketFrontPage.png",
                   "pricingUnit1":"Day",
                   "minimumQtyUnit1":1,
                   "discount%":40,
@@ -1730,15 +1664,13 @@
                   "discount%":40,
                   "minimumQtyUnit1":1,
                   "pricingUnit1":"Day",
-                  "imageUrl":"/images/mediaOptions
-/newspaper/skyBus.png",
+                  "imageUrl":"/images/mediaOptions/newspaper/skyBus.png",
                   "cardRate":52800
                },
                "pointerAd":{
                   "vendorRate":97920,
                   "discountedRate":115200,
-                  "discount
-%":40,
+                  "discount%":40,
                   "minimumQtyUnit1":1,
                   "pricingUnit1":"Day",
                   "imageUrl":"/images/mediaOptions/newspaper/pointerAd.png",
@@ -1818,8 +1750,7 @@
                }
             }
          },
-         "logo":"/images/medias/55e986d98ead0e42788b49ca
-/55e986d98ead0e42788b49ca.jpg",
+         "logo":"/images/medias/55e986d98ead0e42788b49ca/55e986d98ead0e42788b49ca.jpg",
          "name":"Star Of Mysore - Main, Mysore",
          "attributes":{
             "categoryName":{
@@ -1866,8 +1797,7 @@
                   "vendorRate":1721
                },
                "page3":{
-                  "imageUrl":"/images/mediaOptions/newspaper/page3
-.png",
+                  "imageUrl":"/images/mediaOptions/newspaper/page3.png",
                   "pricingUnit1":"width",
                   "minimumQtyUnit1":12,
                   "pricingUnit2":"height",
@@ -1933,8 +1863,7 @@
                },
                "skyBus":{
                   "cardRate":445500,
-                  "imageUrl":"/images/mediaOptions
-/newspaper/skyBus.png",
+                  "imageUrl":"/images/mediaOptions/newspaper/skyBus.png",
                   "pricingUnit1":"Day",
                   "minimumQtyUnit1":1,
                   "discount%":40,
@@ -1968,8 +1897,7 @@
       {
          "_id":"5656e41a8ead0ef007d1b3a1",
          "urlSlug":"the-afternoon-despatch-courier-main-mumbai",
-         "name":"The Afternoon Despatch & Courier - Main
-, Mumbai",
+         "name":"The Afternoon Despatch & Courier - Main, Mumbai",
          "editionName":"Main",
          "categoryId":[
             "55d70b748ead0e960c8b4577"
@@ -2033,8 +1961,7 @@
                   "pricingUnit2":"height",
                   "minimumQtyUnit1":12,
                   "pricingUnit1":"width",
-                  "imageUrl":"/images/mediaOptions/newspaper/lastPage
-.png",
+                  "imageUrl":"/images/mediaOptions/newspaper/lastPage.png",
                   "cardRate":300,
                   "discountedRate":270,
                   "vendorRate":230
@@ -2117,8 +2044,7 @@
                   "vendorRate":3228,
                   "discountedRate":3798,
                   "cardRate":4220,
-                  "imageUrl":"/images/mediaOptions
-/newspaper/page3.png",
+                  "imageUrl":"/images/mediaOptions/newspaper/page3.png",
                   "pricingUnit1":"width",
                   "minimumQtyUnit1":12,
                   "pricingUnit2":"height",
@@ -2142,8 +2068,7 @@
                   "vendorRate":2785,
                   "discountedRate":3276,
                   "cardRate":3640,
-                  "imageUrl":"/images/mediaOptions/newspaper/anyPage
-.png",
+                  "imageUrl":"/images/mediaOptions/newspaper/anyPage.png",
                   "pricingUnit1":"width",
                   "minimumQtyUnit1":12,
                   "pricingUnit2":"height",
@@ -2155,8 +2080,7 @@
             "otherOptions":{
                "jacketFrontPage":{
                   "cardRate":"9558120",
-                  "imageUrl":"/images
-/mediaOptions/newspaper/jacketFrontPage.png",
+                  "imageUrl":"/images/mediaOptions/newspaper/jacketFrontPage.png",
                   "pricingUnit1":"Day",
                   "minimumQtyUnit1":1,
                   "discount%":25,
@@ -2168,8 +2092,7 @@
                   "imageUrl":"/images/mediaOptions/newspaper/jacketFrontInside.png",
                   "pricingUnit1":"Day",
                   "minimumQtyUnit1":1,
-                  "discount
-%":25,
+                  "discount%":25,
                   "discountedRate":"14337180",
                   "vendorRate":"12186603"
                },
@@ -2184,8 +2107,7 @@
                },
                "skyBus":{
                   "cardRate":"919050",
-                  "imageUrl":"/images
-/mediaOptions/newspaper/skyBus.png",
+                  "imageUrl":"/images/mediaOptions/newspaper/skyBus.png",
                   "pricingUnit1":"Day",
                   "minimumQtyUnit1":1,
                   "discount%":25,
@@ -2204,8 +2126,7 @@
                "matrimonial":{
                   "cardRate":875,
                   "discountedRate":788,
-                  "imageUrl":"/images/mediaOptions/newspaper/matrimonial
-.png",
+                  "imageUrl":"/images/mediaOptions/newspaper/matrimonial.png",
                   "pricingUnit1":"Sq Cm",
                   "minimumQtyUnit1":1
                },
@@ -2226,8 +2147,7 @@
                "business":{
                   "cardRate":900,
                   "discountedRate":810,
-                  "imageUrl":"/images/mediaOptions
-/newspaper/business.png",
+                  "imageUrl":"/images/mediaOptions/newspaper/business.png",
                   "pricingUnit1":"Sq Cm",
                   "minimumQtyUnit1":1
                },
@@ -2241,8 +2161,7 @@
                "astrology":{
                   "cardRate":900,
                   "discountedRate":810,
-                  "imageUrl":"/images/mediaOptions
-/newspaper/astrology.png",
+                  "imageUrl":"/images/mediaOptions/newspaper/astrology.png",
                   "pricingUnit1":"Sq Cm",
                   "minimumQtyUnit1":1
                },
@@ -2250,15 +2169,13 @@
                   "cardRate":900,
                   "discountedRate":810,
                   "imageUrl":"/images/mediaOptions/newspaper/entertainment.png",
-                  "pricingUnit1":"Sq
- Cm",
+                  "pricingUnit1":"Sq Cm",
                   "minimumQtyUnit1":1
                },
                "personal":{
                   "cardRate":290,
                   "discountedRate":261,
-                  "imageUrl":"/images/mediaOptions
-/newspaper/personal.png",
+                  "imageUrl":"/images/mediaOptions/newspaper/personal.png",
                   "pricingUnit1":"Sq Cm",
                   "minimumQtyUnit1":1
                },
@@ -2272,8 +2189,7 @@
                "announcement":{
                   "cardRate":304,
                   "discountedRate":274,
-                  "imageUrl":"/images/mediaOptions/newspaper/announcement
-.png",
+                  "imageUrl":"/images/mediaOptions/newspaper/announcement.png",
                   "pricingUnit1":"Sq Cm",
                   "minimumQtyUnit1":1
                },
@@ -2301,8 +2217,7 @@
                "services":{
                   "cardRate":950,
                   "discountedRate":855,
-                  "imageUrl":"/images/mediaOptions/newspaper/services
-.png",
+                  "imageUrl":"/images/mediaOptions/newspaper/services.png",
                   "pricingUnit1":"Sq Cm",
                   "minimumQtyUnit1":1
                },
@@ -2322,8 +2237,7 @@
                }
             }
          },
-         "logo":"/images/medias/55e986da8ead0e42788b4c55/55e986da8ead0e42788b4c55
-.jpg",
+         "logo":"/images/medias/55e986da8ead0e42788b4c55/55e986da8ead0e42788b4c55.jpg",
          "name":"Times Of India - Main, Delhi",
          "attributes":{
             "categoryName":{
@@ -2370,8 +2284,7 @@
                   "vendorRate":240
                },
                "lastPage":{
-                  "imageUrl":"/images/mediaOptions/newspaper/lastPage
-.png",
+                  "imageUrl":"/images/mediaOptions/newspaper/lastPage.png",
                   "pricingUnit1":"width",
                   "minimumQtyUnit1":12,
                   "pricingUnit2":"height",
@@ -2400,8 +2313,7 @@
          "name":"The Indian Express - Financial Express, Ahmedabad",
          "attributes":{
             "categoryName":{
-               "value":"Business
- and Finance"
+               "value":"Business and Finance"
             },
             "circulation":{
                "value":"25,000 copies"
@@ -2417,8 +2329,7 @@
                "value":"English"
             }
          },
-         "categoryName":"Business and
- Finance"
+         "categoryName":"Business and Finance"
       },
       {
          "_id":"55e986d88ead0e42788b4702",
@@ -2436,8 +2347,7 @@
                   "vendorRate":3959,
                   "discountedRate":4658,
                   "cardRate":5175,
-                  "imageUrl":"/images/mediaOptions/newspaper
-/page1.png",
+                  "imageUrl":"/images/mediaOptions/newspaper/page1.png",
                   "pricingUnit":"Sq Cm",
                   "minimumQtyUnit":1,
                   "pricingUnit1":"width",
@@ -2473,8 +2383,7 @@
                   "vendorRate":2639,
                   "discountedRate":3105,
                   "cardRate":3450,
-                  "imageUrl":"/images/mediaOptions
-/newspaper/anyPage.png",
+                  "imageUrl":"/images/mediaOptions/newspaper/anyPage.png",
                   "pricingUnit1":"width",
                   "minimumQtyUnit1":12,
                   "pricingUnit2":"height",
@@ -2507,15 +2416,13 @@
                   "imageUrl":"/images/mediaOptions/newspaper/pointerAd.png",
                   "pricingUnit1":"Day",
                   "minimumQtyUnit1":1,
-                  "discount
-%":40,
+                  "discount%":40,
                   "discountedRate":"2910938",
                   "vendorRate":"2474297"
                },
                "skyBus":{
                   "cardRate":853875,
-                  "imageUrl":"/images
-/mediaOptions/newspaper/skyBus.png",
+                  "imageUrl":"/images/mediaOptions/newspaper/skyBus.png",
                   "pricingUnit1":"Day",
                   "minimumQtyUnit1":1,
                   "discount%":40,
@@ -2524,8 +2431,7 @@
                }
             }
          },
-         "logo":"/images/medias/55e986d88ead0e42788b4702/55e986d88ead0e42788b4702
-.jpg",
+         "logo":"/images/medias/55e986d88ead0e42788b4702/55e986d88ead0e42788b4702.jpg",
          "name":"DNA - Main, Mumbai",
          "attributes":{
             "categoryName":{
@@ -2565,8 +2471,7 @@
                   "discount%":10,
                   "minimumQtyUnit1":1,
                   "pricingUnit1":"Day",
-                  "imageUrl":"/images
-/mediaOptions/newspaper/skyBus.png",
+                  "imageUrl":"/images/mediaOptions/newspaper/skyBus.png",
                   "cardRate":579150
                },
                "pointerAd":{
@@ -2575,8 +2480,7 @@
                   "discount%":10,
                   "minimumQtyUnit1":1,
                   "pricingUnit1":"Day",
-                  "imageUrl":"/images/mediaOptions/newspaper
-/pointerAd.png",
+                  "imageUrl":"/images/mediaOptions/newspaper/pointerAd.png",
                   "cardRate":"2632500"
                },
                "jacketFrontInside":{
@@ -2585,19 +2489,16 @@
                   "discount%":25,
                   "minimumQtyUnit1":1,
                   "pricingUnit1":"Day",
-                  "imageUrl":"/images/mediaOptions/newspaper/jacketFrontInside
-.png",
+                  "imageUrl":"/images/mediaOptions/newspaper/jacketFrontInside.png",
                   "cardRate":12046320
                },
                "jacketFrontPage":{
                   "vendorRate":"3839765",
                   "discountedRate":"4517370",
-                  "discount
-%":25,
+                  "discount%":25,
                   "minimumQtyUnit1":1,
                   "pricingUnit1":"Day",
-                  "imageUrl":"/images/mediaOptions/newspaper/jacketFrontPage
-.png",
+                  "imageUrl":"/images/mediaOptions/newspaper/jacketFrontPage.png",
                   "cardRate":6023160
                }
             },
@@ -2624,8 +2525,7 @@
                   "pricingUnit2":"height",
                   "minimumQtyUnit1":12,
                   "pricingUnit1":"width",
-                  "imageUrl":"/images/mediaOptions
-/newspaper/lastPage.png"
+                  "imageUrl":"/images/mediaOptions/newspaper/lastPage.png"
                },
                "page3":{
                   "vendorRate":1958,
@@ -2654,8 +2554,7 @@
             }
          },
          "logo":"/images/medias/55e986d88ead0e42788b4711/55e986d88ead0e42788b4711.jpg",
-         "name":"Economic Times
- - Main, Mumbai",
+         "name":"Economic Times - Main, Mumbai",
          "attributes":{
             "categoryName":{
                "value":"Business and Finance"
@@ -2704,8 +2603,7 @@
                   "vendorRate":81,
                   "discountedRate":95,
                   "cardRate":106,
-                  "imageUrl":"/images/mediaOptions/newspaper/page3
-.png",
+                  "imageUrl":"/images/mediaOptions/newspaper/page3.png",
                   "pricingUnit1":"width",
                   "minimumQtyUnit1":12,
                   "pricingUnit2":"height",
@@ -2741,8 +2639,7 @@
             "otherOptions":{
                "jacketFrontPage":{
                   "cardRate":219648,
-                  "imageUrl":"/images/mediaOptions/newspaper
-/jacketFrontPage.png",
+                  "imageUrl":"/images/mediaOptions/newspaper/jacketFrontPage.png",
                   "pricingUnit1":"Day",
                   "minimumQtyUnit1":1,
                   "discount%":40,
@@ -2751,8 +2648,7 @@
                },
                "jacketFrontInside":{
                   "cardRate":439296,
-                  "imageUrl":"/images/mediaOptions/newspaper
-/jacketFrontInside.png",
+                  "imageUrl":"/images/mediaOptions/newspaper/jacketFrontInside.png",
                   "pricingUnit1":"Day",
                   "minimumQtyUnit1":1,
                   "discount%":40,
@@ -2761,8 +2657,7 @@
                },
                "pointerAd":{
                   "cardRate":96000,
-                  "imageUrl":"/images/mediaOptions/newspaper/pointerAd
-.png",
+                  "imageUrl":"/images/mediaOptions/newspaper/pointerAd.png",
                   "pricingUnit1":"Day",
                   "minimumQtyUnit1":1,
                   "discount%":40,
@@ -2780,8 +2675,7 @@
                }
             }
          },
-         "logo":"/images/medias
-/55e986d98ead0e42788b489b/55e986d98ead0e42788b489b.jpg",
+         "logo":"/images/medias/55e986d98ead0e42788b489b/55e986d98ead0e42788b489b.jpg",
          "name":"Lokmat Hello Nadurbar - Main, Nandurbar",
          "attributes":{
             "categoryName":{
@@ -2818,8 +2712,7 @@
                "skyBus":{
                   "vendorRate":"90987",
                   "discountedRate":"107044",
-                  "discount
-%":40,
+                  "discount%":40,
                   "minimumQtyUnit1":1,
                   "pricingUnit1":"Day",
                   "imageUrl":"/images/mediaOptions/newspaper/skyBus.png",
@@ -2861,8 +2754,7 @@
                   "pricingUnit2":"height",
                   "minimumQtyUnit1":12,
                   "pricingUnit1":"width",
-                  "imageUrl":"/images/mediaOptions/newspaper/anyPage
-.png",
+                  "imageUrl":"/images/mediaOptions/newspaper/anyPage.png",
                   "cardRate":690,
                   "discountedRate":621,
                   "vendorRate":528
@@ -2905,8 +2797,7 @@
                }
             }
          },
-         "logo":"/images/medias/55e986d88ead0e42788b482a
-/55e986d88ead0e42788b482a.jpg",
+         "logo":"/images/medias/55e986d88ead0e42788b482a/55e986d88ead0e42788b482a.jpg",
          "name":"Ei Samay - Main, Kolkata",
          "attributes":{
             "categoryName":{
@@ -2955,8 +2846,7 @@
                   "discount%":40,
                   "minimumQtyUnit1":1,
                   "pricingUnit1":"Day",
-                  "imageUrl":"/images
-/mediaOptions/newspaper/pointerAd.png",
+                  "imageUrl":"/images/mediaOptions/newspaper/pointerAd.png",
                   "cardRate":63000
                },
                "jacketFrontInside":{
@@ -2965,8 +2855,7 @@
                   "discount%":40,
                   "minimumQtyUnit1":1,
                   "pricingUnit1":"Day",
-                  "imageUrl":"/images/mediaOptions/newspaper
-/jacketFrontInside.png",
+                  "imageUrl":"/images/mediaOptions/newspaper/jacketFrontInside.png",
                   "cardRate":362723
                },
                "jacketFrontPage":{
@@ -2975,8 +2864,7 @@
                   "discount%":40,
                   "minimumQtyUnit1":1,
                   "pricingUnit1":"Day",
-                  "imageUrl":"/images/mediaOptions/newspaper/jacketFrontPage
-.png",
+                  "imageUrl":"/images/mediaOptions/newspaper/jacketFrontPage.png",
                   "cardRate":304920
                }
             },
@@ -2988,8 +2876,7 @@
                   "pricingUnit2":"height",
                   "minimumQtyUnit1":12,
                   "pricingUnit1":"width",
-                  "imageUrl":"/images/mediaOptions
-/newspaper/anyPage.png",
+                  "imageUrl":"/images/mediaOptions/newspaper/anyPage.png",
                   "cardRate":105,
                   "discountedRate":79,
                   "vendorRate":67
@@ -3013,8 +2900,7 @@
                   "pricingUnit2":"height",
                   "minimumQtyUnit1":12,
                   "pricingUnit1":"width",
-                  "imageUrl":"/images/mediaOptions/newspaper/page3
-.png",
+                  "imageUrl":"/images/mediaOptions/newspaper/page3.png",
                   "cardRate":105,
                   "discountedRate":79,
                   "vendorRate":67
@@ -3034,8 +2920,7 @@
             }
          },
          "logo":"/images/medias/55e986db8ead0e42788b4cd1/55e986db8ead0e42788b4cd1.jpg",
-         "name":"Gangaputra Times - Main
-, Jind",
+         "name":"Gangaputra Times - Main, Jind",
          "attributes":{
             "categoryName":{
                "value":"General Interest"
@@ -3074,19 +2959,16 @@
                   "discount%":40,
                   "minimumQtyUnit1":1,
                   "pricingUnit1":"Day",
-                  "imageUrl":"/images/mediaOptions/newspaper/jacketFrontPage
-.png",
+                  "imageUrl":"/images/mediaOptions/newspaper/jacketFrontPage.png",
                   "cardRate":"3517800"
                },
                "jacketFrontInside":{
                   "vendorRate":"4485195",
                   "discountedRate":"5276700",
-                  "discount
-%":40,
+                  "discount%":40,
                   "minimumQtyUnit1":1,
                   "pricingUnit1":"Day",
-                  "imageUrl":"/images/mediaOptions/newspaper/jacketFrontInside
-.png",
+                  "imageUrl":"/images/mediaOptions/newspaper/jacketFrontInside.png",
                   "cardRate":"7035600"
                },
                "pointerAd":{
@@ -3143,8 +3025,7 @@
                   "pricingUnit2":"height",
                   "minimumQtyUnit1":12,
                   "pricingUnit1":"width",
-                  "imageUrl":"/images/mediaOptions
-/newspaper/lastPage.png"
+                  "imageUrl":"/images/mediaOptions/newspaper/lastPage.png"
                },
                "anyPage":{
                   "vendorRate":785,
@@ -3160,8 +3041,7 @@
                }
             }
          },
-         "logo":"/images/medias/55e986d88ead0e42788b46f6
-/55e986d88ead0e42788b46f6.jpg",
+         "logo":"/images/medias/55e986d88ead0e42788b46f6/55e986d88ead0e42788b46f6.jpg",
          "name":"Divya Bhaskar - Main, Ahmedabad",
          "attributes":{
             "categoryName":{
@@ -3181,8 +3061,7 @@
                "value":"Gujarati"
             }
          },
-         "categoryName":"General
- Interest"
+         "categoryName":"General Interest"
       },
       {
          "_id":"55e986db8ead0e42788b4ddf",
@@ -3253,8 +3132,7 @@
                   "pricingUnit2":"height",
                   "minimumQtyUnit1":12,
                   "pricingUnit1":"width",
-                  "imageUrl":"/images/mediaOptions/newspaper/lastPage
-.png",
+                  "imageUrl":"/images/mediaOptions/newspaper/lastPage.png",
                   "cardRate":400,
                   "discountedRate":360,
                   "vendorRate":306
@@ -3335,8 +3213,7 @@
                   "vendorRate":421,
                   "discountedRate":495,
                   "cardRate":660,
-                  "imageUrl":"/images/mediaOptions/newspaper
-/page3.png",
+                  "imageUrl":"/images/mediaOptions/newspaper/page3.png",
                   "pricingUnit1":"width",
                   "minimumQtyUnit1":12,
                   "pricingUnit2":"height",
@@ -3360,8 +3237,7 @@
                   "vendorRate":351,
                   "discountedRate":413,
                   "cardRate":550,
-                  "imageUrl":"/images/mediaOptions/newspaper/anyPage
-.png",
+                  "imageUrl":"/images/mediaOptions/newspaper/anyPage.png",
                   "pricingUnit1":"width",
                   "minimumQtyUnit1":12,
                   "pricingUnit2":"height",
@@ -3373,8 +3249,7 @@
             "otherOptions":{
                "jacketFrontPage":{
                   "cardRate":2395800,
-                  "imageUrl":"/images
-/mediaOptions/newspaper/jacketFrontPage.png",
+                  "imageUrl":"/images/mediaOptions/newspaper/jacketFrontPage.png",
                   "pricingUnit1":"Day",
                   "minimumQtyUnit1":1,
                   "discount%":40,
@@ -3383,8 +3258,7 @@
                },
                "jacketFrontInside":{
                   "cardRate":2849963,
-                  "imageUrl":"/images
-/mediaOptions/newspaper/jacketFrontInside.png",
+                  "imageUrl":"/images/mediaOptions/newspaper/jacketFrontInside.png",
                   "pricingUnit1":"Day",
                   "minimumQtyUnit1":1,
                   "discount%":40,
@@ -3393,8 +3267,7 @@
                },
                "pointerAd":{
                   "cardRate":495000,
-                  "imageUrl":"/images/mediaOptions
-/newspaper/pointerAd.png",
+                  "imageUrl":"/images/mediaOptions/newspaper/pointerAd.png",
                   "pricingUnit1":"Day",
                   "minimumQtyUnit1":1,
                   "discount%":40,
@@ -3413,8 +3286,7 @@
             }
          },
          "logo":"/images/medias/55e986da8ead0e42788b4b73/55e986da8ead0e42788b4b73.jpg",
-         "name":"The Shillong
- Times - Main, Shillong",
+         "name":"The Shillong Times - Main, Shillong",
          "attributes":{
             "categoryName":{
                "value":"General Interest"
@@ -3438,8 +3310,7 @@
       {
          "_id":"56cae53c8ead0e12178b4797",
          "urlSlug":"poknapham-main-imphal-manipuri",
-         "logo":"/images/medias/56cae53c8ead0e12178b4797/56cae53c8ead0e12178b4797
-.jpg",
+         "logo":"/images/medias/56cae53c8ead0e12178b4797/56cae53c8ead0e12178b4797.jpg",
          "name":"Poknapham - Main, Imphal",
          "editionName":"Main",
          "categoryId":[
@@ -3493,8 +3364,7 @@
                   "vendorRate":383
                },
                "lastPage":{
-                  "imageUrl":"/images/mediaOptions
-/newspaper/lastPage.png",
+                  "imageUrl":"/images/mediaOptions/newspaper/lastPage.png",
                   "pricingUnit1":"width",
                   "minimumQtyUnit1":12,
                   "pricingUnit2":"height",
@@ -3524,8 +3394,7 @@
                   "imageUrl":"/images/mediaOptions/newspaper/jacketFrontPage.png",
                   "pricingUnit1":"Day",
                   "minimumQtyUnit1":1,
-                  "discount
-%":25,
+                  "discount%":25,
                   "discountedRate":1029600,
                   "vendorRate":926640
                },
@@ -3534,15 +3403,13 @@
                   "imageUrl":"/images/mediaOptions/newspaper/jacketFrontInside.png",
                   "pricingUnit1":"Day",
                   "minimumQtyUnit1":1,
-                  "discount
-%":25,
+                  "discount%":25,
                   "discountedRate":2059200,
                   "vendorRate":1853280
                },
                "pointerAd":{
                   "cardRate":600000,
-                  "imageUrl":"/images
-/mediaOptions/newspaper/pointerAd.png",
+                  "imageUrl":"/images/mediaOptions/newspaper/pointerAd.png",
                   "pricingUnit1":"Day",
                   "minimumQtyUnit1":1,
                   "discount%":25,
@@ -3551,8 +3418,7 @@
                },
                "skyBus":{
                   "cardRate":132000,
-                  "imageUrl":"/images/mediaOptions/newspaper/skyBus
-.png",
+                  "imageUrl":"/images/mediaOptions/newspaper/skyBus.png",
                   "pricingUnit1":"Day",
                   "minimumQtyUnit1":1,
                   "discount%":25,
@@ -3618,8 +3484,7 @@
                   "discountedRate":225,
                   "cardRate":300,
                   "minimumQtyUnit":1,
-                  "pricingUnit":"Sq
- Cm",
+                  "pricingUnit":"Sq Cm",
                   "minimumQtyUnit2":8,
                   "pricingUnit2":"height",
                   "minimumQtyUnit1":12,
@@ -3648,8 +3513,7 @@
                   "pricingUnit2":"height",
                   "minimumQtyUnit1":12,
                   "pricingUnit1":"width",
-                  "imageUrl":"/images/mediaOptions
-/newspaper/page3.png"
+                  "imageUrl":"/images/mediaOptions/newspaper/page3.png"
                },
                "page1":{
                   "vendorRate":383,
@@ -3665,8 +3529,7 @@
                }
             }
          },
-         "logo":"/images/medias/55e986da8ead0e42788b4b31
-/55e986da8ead0e42788b4b31.jpg",
+         "logo":"/images/medias/55e986da8ead0e42788b4b31/55e986da8ead0e42788b4b31.jpg",
          "name":"The Meghalaya Guardian - Main, Shillong",
          "attributes":{
             "categoryName":{
@@ -3686,8 +3549,7 @@
                "value":"English"
             }
          },
-         "categoryName":"General
- Interest"
+         "categoryName":"General Interest"
       },
       {
          "_id":"55e986d98ead0e42788b48e3",
@@ -3714,8 +3576,7 @@
                   "vendorRate":260
                },
                "page3":{
-                  "imageUrl":"/images/mediaOptions/newspaper/page3
-.png",
+                  "imageUrl":"/images/mediaOptions/newspaper/page3.png",
                   "pricingUnit1":"width",
                   "minimumQtyUnit1":12,
                   "pricingUnit2":"height",
@@ -3781,8 +3642,7 @@
                },
                "skyBus":{
                   "cardRate":"56100",
-                  "imageUrl":"/images
-/mediaOptions/newspaper/skyBus.png",
+                  "imageUrl":"/images/mediaOptions/newspaper/skyBus.png",
                   "pricingUnit1":"Day",
                   "minimumQtyUnit1":1,
                   "discount%":25,
@@ -3791,8 +3651,7 @@
                }
             }
          },
-         "logo":"/images/medias/55e986d98ead0e42788b48e3/fd629c698ce03da1090ee6490e9a63b7
-.jpg",
+         "logo":"/images/medias/55e986d98ead0e42788b48e3/fd629c698ce03da1090ee6490e9a63b7.jpg",
          "name":"Mirror - Main, Ahmedabad",
          "attributes":{
             "categoryName":{
@@ -3842,8 +3701,7 @@
                   "vendorRate":1499,
                   "discountedRate":1764,
                   "cardRate":1960,
-                  "imageUrl":"/images/mediaOptions
-/newspaper/page3.png",
+                  "imageUrl":"/images/mediaOptions/newspaper/page3.png",
                   "pricingUnit1":"width",
                   "minimumQtyUnit1":12,
                   "pricingUnit2":"height",
@@ -3867,8 +3725,7 @@
                   "vendorRate":1377,
                   "discountedRate":1620,
                   "cardRate":1800,
-                  "imageUrl":"/images/mediaOptions/newspaper/anyPage
-.png",
+                  "imageUrl":"/images/mediaOptions/newspaper/anyPage.png",
                   "pricingUnit1":"width",
                   "minimumQtyUnit1":12,
                   "pricingUnit2":"height",
@@ -3880,8 +3737,7 @@
             "otherOptions":{
                "jacketFrontPage":{
                   "cardRate":"4290000",
-                  "imageUrl":"/images
-/mediaOptions/newspaper/jacketFrontPage.png",
+                  "imageUrl":"/images/mediaOptions/newspaper/jacketFrontPage.png",
                   "pricingUnit1":"Day",
                   "minimumQtyUnit1":1,
                   "discount%":25,
@@ -3893,8 +3749,7 @@
                   "imageUrl":"/images/mediaOptions/newspaper/jacketFrontInside.png",
                   "pricingUnit1":"Day",
                   "minimumQtyUnit1":1,
-                  "discount
-%":25,
+                  "discount%":25,
                   "discountedRate":"6435000",
                   "vendorRate":"5469750"
                },
@@ -3909,8 +3764,7 @@
                },
                "skyBus":{
                   "cardRate":412500,
-                  "imageUrl":"/images
-/mediaOptions/newspaper/skyBus.png",
+                  "imageUrl":"/images/mediaOptions/newspaper/skyBus.png",
                   "pricingUnit1":"Day",
                   "minimumQtyUnit1":1,
                   "discount%":25,
@@ -3919,8 +3773,7 @@
                }
             }
          },
-         "logo":"/images/medias/55e986d88ead0e42788b46a0/55e986d88ead0e42788b46a0
-.jpg",
+         "logo":"/images/medias/55e986d88ead0e42788b46a0/55e986d88ead0e42788b46a0.jpg",
          "name":"Deccan Herald - Main, Bangalore",
          "attributes":{
             "categoryName":{
@@ -3953,8 +3806,7 @@
          "mediaOptions":{
             "regularOptions":{
                "page1":{
-                  "imageUrl":"/images/mediaOptions
-/newspaper/page1.png",
+                  "imageUrl":"/images/mediaOptions/newspaper/page1.png",
                   "pricingUnit":"Sq Cm",
                   "minimumQtyUnit":1,
                   "pricingUnit1":"width",
@@ -3978,8 +3830,7 @@
                   "vendorRate":1721
                },
                "lastPage":{
-                  "imageUrl":"/images/mediaOptions/newspaper/lastPage
-.png",
+                  "imageUrl":"/images/mediaOptions/newspaper/lastPage.png",
                   "pricingUnit1":"width",
                   "minimumQtyUnit1":12,
                   "pricingUnit2":"height",
@@ -4018,15 +3869,13 @@
                   "imageUrl":"/images/mediaOptions/newspaper/jacketFrontPage.png",
                   "pricingUnit1":"Day",
                   "minimumQtyUnit1":1,
-                  "discount
-%":40,
+                  "discount%":40,
                   "discountedRate":"4633200",
                   "vendorRate":"3938220"
                },
                "skyBus":{
                   "cardRate":"594000",
-                  "imageUrl":"/images
-/mediaOptions/newspaper/skyBus.png",
+                  "imageUrl":"/images/mediaOptions/newspaper/skyBus.png",
                   "pricingUnit1":"Day",
                   "minimumQtyUnit1":1,
                   "discount%":40,
@@ -4035,8 +3884,7 @@
                },
                "pointerAd":{
                   "cardRate":"2700000",
-                  "imageUrl":"/images/mediaOptions/newspaper
-/pointerAd.png",
+                  "imageUrl":"/images/mediaOptions/newspaper/pointerAd.png",
                   "pricingUnit1":"Day",
                   "minimumQtyUnit1":1,
                   "discount%":40,
