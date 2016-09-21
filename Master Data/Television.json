@@ -26,8 +26,7 @@
                   "showName":"19:00-20:00"
                },
                "mediaOption3":{
-                  "imageUrl":"/images
-/mediaOptions/television/time.png",
+                  "imageUrl":"/images/mediaOptions/television/time.png",
                   "discountedRate":3830,
                   "cardRate":4030,
                   "showName":"07:00-09:00"
@@ -47,8 +46,7 @@
             },
             "planningOptions":{
                "allDayPlan":{
-                  "imageUrl":"/images
-/mediaOptions/television/time.png",
+                  "imageUrl":"/images/mediaOptions/television/time.png",
                   "discountedRate":32448,
                   "cardRate":34160,
                   "showName":"Mixed Time"
@@ -73,8 +71,7 @@
                "value":"164,210 viewers ('000s)"
             },
             "pricingUnit":{
-               "value":"per 10
- sec"
+               "value":"per 10 sec"
             }
          },
          "weeklyReach":164210,
@@ -95,12 +92,10 @@
          "mediaOptions":{
             "regularOptions":{
                "mediaOption10":{
-                  "imageUrl":"/images
-/mediaOptions/television/time.png",
+                  "imageUrl":"/images/mediaOptions/television/time.png",
                   "discountedRate":97412,
                   "cardRate":102540,
-                  "showName":"22:00-23:00,
- Mon-Sat"
+                  "showName":"22:00-23:00,Mon-Sat"
                },
                "mediaOption9":{
                   "imageUrl":"/images/mediaOptions/television/time.png",
@@ -109,8 +104,7 @@
                   "showName":"21:00-22:00, Mon-Sat"
                },
                "mediaOption8":{
-                  "imageUrl":"/images/mediaOptions
-/television/time.png",
+                  "imageUrl":"/images/mediaOptions/television/time.png",
                   "discountedRate":97412,
                   "cardRate":102540,
                   "showName":"20:00-21:00, Mon-Sat"
@@ -128,8 +122,7 @@
                   "showName":"17:00-19:00, Mon-Sat"
                },
                "mediaOption5":{
-                  "imageUrl":"/images/mediaOptions
-/television/time.png",
+                  "imageUrl":"/images/mediaOptions/television/time.png",
                   "discountedRate":15724,
                   "cardRate":16550,
                   "showName":"16:00-17:00, Mon-Sat"
@@ -147,8 +140,7 @@
                   "showName":"12:00-14:00, Mon-Sat"
                },
                "mediaOption2":{
-                  "imageUrl":"/images/mediaOptions
-/television/time.png",
+                  "imageUrl":"/images/mediaOptions/television/time.png",
                   "discountedRate":11269,
                   "cardRate":11860,
                   "showName":"09:00-12:00, Mon-Sat"
@@ -162,16 +154,14 @@
             },
             "planningOptions":{
                "allDayPlan":{
-                  "imageUrl":"/images/mediaOptions/television
-/time.png",
+                  "imageUrl":"/images/mediaOptions/television/time.png",
                   "discountedRate":46882,
                   "cardRate":49350,
                   "showName":"Mixed Time"
                }
             }
          },
-         "logo":"/images/medias
-/55fb00a38ead0e79178b5edf/55fb00a38ead0e79178b5edf.jpg",
+         "logo":"/images/medias/55fb00a38ead0e79178b5edf/55fb00a38ead0e79178b5edf.jpg",
          "serviceTaxPercentage":15,
          "attributes":{
             "genres":{
@@ -185,8 +175,7 @@
                ]
             },
             "weeklyReach":{
-               "showName":"Weekly Viewers
- (000s)",
+               "showName":"Weekly Viewers(000s)",
                "value":"182,120 viewers ('000s)"
             },
             "pricingUnit":{
@@ -211,8 +200,7 @@
          "mediaOptions":{
             "regularOptions":{
                "mediaOption3":{
-                  "imageUrl":"/images/mediaOptions/television/time
-.png",
+                  "imageUrl":"/images/mediaOptions/television/time.png",
                   "discountedRate":17647,
                   "cardRate":18580,
                   "showName":"11:00-19:00, Sun"
@@ -221,8 +209,7 @@
                   "imageUrl":"/images/mediaOptions/television/time.png",
                   "discountedRate":10000,
                   "cardRate":10530,
-                  "showName":"11:00-18
-:00, Sat"
+                  "showName":"11:00-18:00, Sat"
                },
                "mediaOption1":{
                   "imageUrl":"/images/mediaOptions/television/time.png",
@@ -233,8 +220,7 @@
             },
             "planningOptions":{
                "allDayPlan":{
-                  "imageUrl":"/images
-/mediaOptions/television/time.png",
+                  "imageUrl":"/images/mediaOptions/television/time.png",
                   "discountedRate":18309,
                   "cardRate":19270,
                   "showName":"Mixed Time"
@@ -259,8 +245,7 @@
                "value":"57,040 viewers ('000s)"
             },
             "pricingUnit":{
-               "value":"per 10
- sec"
+               "value":"per 10 sec"
             }
          },
          "weeklyReach":57040,
@@ -304,8 +289,7 @@
                   "showName":"13:00-15:30, Mon-Sat",
                   "cardRate":23900,
                   "discountedRate":21500,
-                  "imageUrl":"/images/mediaOptions
-/television/time.png"
+                  "imageUrl":"/images/mediaOptions/television/time.png"
                },
                "mediaOption4":{
                   "showName":"15:30-18:00, Mon-Sat",
@@ -314,8 +298,7 @@
                   "imageUrl":"/images/mediaOptions/television/time.png"
                },
                "mediaOption5":{
-                  "showName":"18:00-18:59
-, Mon-Sat",
+                  "showName":"18:00-18:59, Mon-Sat",
                   "cardRate":27700,
                   "discountedRate":25000,
                   "imageUrl":"/images/mediaOptions/television/time.png"
@@ -336,8 +319,7 @@
                   "showName":"19:30-20:00, Mon-Sat",
                   "cardRate":50000,
                   "discountedRate":45000,
-                  "imageUrl":"/images/mediaOptions
-/television/time.png"
+                  "imageUrl":"/images/mediaOptions/television/time.png"
                },
                "mediaOption9":{
                   "showName":"20:00-20:30, Mon-Sat",
@@ -346,8 +328,7 @@
                   "imageUrl":"/images/mediaOptions/television/time.png"
                },
                "mediaOption10":{
-                  "showName":"20:30-21:30
-, Mon-Sat",
+                  "showName":"20:30-21:30, Mon-Sat",
                   "cardRate":52500,
                   "discountedRate":47250,
                   "imageUrl":"/images/mediaOptions/television/time.png"
@@ -368,8 +349,7 @@
                   "showName":"22:30-23:00, Mon-Fri",
                   "cardRate":25000,
                   "discountedRate":22500,
-                  "imageUrl":"/images/mediaOptions
-/television/time.png"
+                  "imageUrl":"/images/mediaOptions/television/time.png"
                },
                "mediaOption14":{
                   "showName":"22:00-23:00, Sat",
@@ -378,8 +358,7 @@
                   "imageUrl":"/images/mediaOptions/television/time.png"
                },
                "mediaOption15":{
-                  "showName":"23:00-25:30
-, Mon-Sat",
+                  "showName":"23:00-25:30, Mon-Sat",
                   "cardRate":11100,
                   "discountedRate":10000,
                   "imageUrl":"/images/mediaOptions/television/time.png"
@@ -388,8 +367,7 @@
                   "showName":"09:00-10:00, Sat",
                   "cardRate":22200,
                   "discountedRate":20000,
-                  "imageUrl":"
-/images/mediaOptions/television/time.png"
+                  "imageUrl":"/images/mediaOptions/television/time.png"
                },
                "mediaOption17":{
                   "showName":"07:00-07:30, Sun",
@@ -401,8 +379,7 @@
                   "showName":"08:00-08:30, Sun",
                   "cardRate":13300,
                   "discountedRate":12000,
-                  "imageUrl":"/images/mediaOptions
-/television/time.png"
+                  "imageUrl":"/images/mediaOptions/television/time.png"
                },
                "mediaOption19":{
                   "showName":"08:30-10:00, Sun",
@@ -411,8 +388,7 @@
                   "imageUrl":"/images/mediaOptions/television/time.png"
                },
                "mediaOption20":{
-                  "showName":"10:00-11:00
-, Sun",
+                  "showName":"10:00-11:00, Sun",
                   "cardRate":33300,
                   "discountedRate":30000,
                   "imageUrl":"/images/mediaOptions/television/time.png"
@@ -421,8 +397,7 @@
                   "showName":"11:00-12:00, Sun",
                   "cardRate":36650,
                   "discountedRate":33000,
-                  "imageUrl":"
-/images/mediaOptions/television/time.png"
+                  "imageUrl":"/images/mediaOptions/television/time.png"
                },
                "mediaOption22":{
                   "showName":"12:00-18:00, Sun",
@@ -434,8 +409,7 @@
                   "showName":"18:00-18:30, Sun",
                   "cardRate":36650,
                   "discountedRate":33000,
-                  "imageUrl":"/images/mediaOptions
-/television/time.png"
+                  "imageUrl":"/images/mediaOptions/television/time.png"
                },
                "mediaOption24":{
                   "showName":"18:30-22:00, Sun",
@@ -444,8 +418,7 @@
                   "imageUrl":"/images/mediaOptions/television/time.png"
                },
                "mediaOption25":{
-                  "showName":"22:00-23:00
-, Sun",
+                  "showName":"22:00-23:00, Sun",
                   "cardRate":33300,
                   "discountedRate":30000,
                   "imageUrl":"/images/mediaOptions/television/time.png"
@@ -454,13 +427,11 @@
                   "showName":"23:00-24:00, Sun",
                   "cardRate":11100,
                   "discountedRate":10000,
-                  "imageUrl":"
-/images/mediaOptions/television/time.png"
+                  "imageUrl":"/images/mediaOptions/television/time.png"
                }
             }
          },
-         "logo":"/images/medias/55fb00a28ead0e79178b5e50/55fb00a28ead0e79178b5e50
-.jpg",
+         "logo":"/images/medias/55fb00a28ead0e79178b5e50/55fb00a28ead0e79178b5e50.jpg",
          "serviceTaxPercentage":15,
          "attributes":{
             "genres":{
@@ -507,16 +478,14 @@
             },
             "planningOptions":{
                "allDayPlan":{
-                  "imageUrl":"/images/mediaOptions/television
-/time.png",
+                  "imageUrl":"/images/mediaOptions/television/time.png",
                   "discountedRate":3200,
                   "cardRate":3370,
                   "showName":"Mixed Time"
                }
             }
          },
-         "logo":"/images/medias/55fb00a28ead0e79178b5ca9
-/55fb00a28ead0e79178b5ca9.jpg",
+         "logo":"/images/medias/55fb00a28ead0e79178b5ca9/55fb00a28ead0e79178b5ca9.jpg",
          "serviceTaxPercentage":15,
          "attributes":{
             "genres":{
@@ -531,8 +500,7 @@
             },
             "weeklyReach":{
                "showName":"Weekly Viewers (000s)",
-               "value":"105,140 viewers ('000s
-)"
+               "value":"105,140 viewers ('000s)"
             },
             "pricingUnit":{
                "value":"per 10 sec"
@@ -568,8 +536,7 @@
                   "showName":"20:00-21:00"
                },
                "mediaOption6":{
-                  "imageUrl":"/images/mediaOptions/television
-/time.png",
+                  "imageUrl":"/images/mediaOptions/television/time.png",
                   "discountedRate":11500,
                   "cardRate":12000,
                   "showName":"17:00-20:00"
@@ -578,8 +545,7 @@
                   "imageUrl":"/images/mediaOptions/television/time.png",
                   "discountedRate":5500,
                   "cardRate":5720,
-                  "showName":"10:00-17
-:00, Sat-Sun"
+                  "showName":"10:00-17:00, Sat-Sun"
                },
                "mediaOption4":{
                   "imageUrl":"/images/mediaOptions/television/time.png",
@@ -588,8 +554,7 @@
                   "showName":"10:00-17:00"
                },
                "mediaOption3":{
-                  "imageUrl":"/images/mediaOptions/television
-/time.png",
+                  "imageUrl":"/images/mediaOptions/television/time.png",
                   "discountedRate":11000,
                   "cardRate":11450,
                   "showName":"09:00-10:00, Sat-Sun"
@@ -609,8 +574,7 @@
             },
             "planningOptions":{
                "allDayPlan":{
-                  "imageUrl":"/images
-/mediaOptions/television/time.png",
+                  "imageUrl":"/images/mediaOptions/television/time.png",
                   "discountedRate":5900,
                   "cardRate":6250,
                   "showName":"Mixed Time"
@@ -631,8 +595,7 @@
                ]
             },
             "weeklyReach":{
-               "showName":"Weekly Viewers
- (000s)",
+               "showName":"Weekly Viewers(000s)",
                "value":"130,780 viewers ('000s)"
             },
             "pricingUnit":{
@@ -657,8 +620,7 @@
          "mediaOptions":{
             "regularOptions":{
                "mediaOption3":{
-                  "imageUrl":"/images/mediaOptions/television/time
-.png",
+                  "imageUrl":"/images/mediaOptions/television/time.png",
                   "discountedRate":19000,
                   "cardRate":20000,
                   "showName":"18:30-19:00, Mon-Sat"
@@ -667,8 +629,7 @@
                   "imageUrl":"/images/mediaOptions/television/time.png",
                   "discountedRate":4500,
                   "cardRate":4740,
-                  "showName":"11:30-12
-:30, Mon-Sat"
+                  "showName":"11:30-12:30, Mon-Sat"
                },
                "mediaOption1":{
                   "imageUrl":"/images/mediaOptions/television/time.png",
@@ -704,8 +665,7 @@
                "value":"30,530 viewers ('000s)"
             },
             "pricingUnit":{
-               "value":"per 10
- sec"
+               "value":"per 10 sec"
             }
          },
          "weeklyReach":30530,
@@ -726,8 +686,7 @@
          "mediaOptions":{
             "regularOptions":{
                "mediaOption5":{
-                  "imageUrl":"/images/mediaOptions
-/television/time.png",
+                  "imageUrl":"/images/mediaOptions/television/time.png",
                   "discountedRate":20638,
                   "cardRate":21720,
                   "showName":"20:00-22:00"
@@ -745,8 +704,7 @@
                   "showName":"07:00-09:00"
                },
                "mediaOption2":{
-                  "imageUrl":"/images/mediaOptions/television
-/time.png",
+                  "imageUrl":"/images/mediaOptions/television/time.png",
                   "discountedRate":6253,
                   "cardRate":6580,
                   "showName":"12:00-19:00"
@@ -755,8 +713,7 @@
                   "imageUrl":"/images/mediaOptions/television/time.png",
                   "discountedRate":17045,
                   "cardRate":17940,
-                  "showName":"22:00-22
-:30"
+                  "showName":"22:00-22:30"
                }
             },
             "planningOptions":{
@@ -768,8 +725,7 @@
                }
             }
          },
-         "logo":"/images/medias/55fb00a38ead0e79178b5ede/55fb00a38ead0e79178b5ede
-.jpg",
+         "logo":"/images/medias/55fb00a38ead0e79178b5ede/55fb00a38ead0e79178b5ede.jpg",
          "serviceTaxPercentage":15,
          "attributes":{
             "genres":{
@@ -811,8 +767,7 @@
                   "imageUrl":"/images/mediaOptions/television/time.png",
                   "discountedRate":910,
                   "cardRate":960,
-                  "showName":"09:00-12
-:00"
+                  "showName":"09:00-12:00"
                },
                "mediaOption5":{
                   "imageUrl":"/images/mediaOptions/television/time.png",
@@ -827,8 +782,7 @@
                   "showName":"19:00-20:00"
                },
                "mediaOption3":{
-                  "imageUrl":"/images
-/mediaOptions/television/time.png",
+                  "imageUrl":"/images/mediaOptions/television/time.png",
                   "discountedRate":747,
                   "cardRate":790,
                   "showName":"07:00-09:00"
@@ -848,8 +802,7 @@
             },
             "planningOptions":{
                "allDayPlan":{
-                  "imageUrl":"/images
-/mediaOptions/television/time.png",
+                  "imageUrl":"/images/mediaOptions/television/time.png",
                   "discountedRate":3251,
                   "cardRate":3420,
                   "showName":"Mixed Time"
@@ -870,8 +823,7 @@
                ]
             },
             "weeklyReach":{
-               "showName":"Weekly
- Viewers (000s)",
+               "showName":"Weekly Viewers (000s)",
                "value":"32,940 viewers ('000s)"
             },
             "pricingUnit":{
@@ -907,8 +859,7 @@
                   "showName":"07:00-09:00, Mon-Sun",
                   "cardRate":4143,
                   "discountedRate":3936,
-                  "imageUrl":"/images/mediaOptions/television
-/time.png"
+                  "imageUrl":"/images/mediaOptions/television/time.png"
                },
                "mediaOption2":{
                   "showName":"09:00-12:00, Mon-Sun",
@@ -926,8 +877,7 @@
                   "showName":"19:00-20:00, Mon-Sun",
                   "cardRate":4630,
                   "discountedRate":4399,
-                  "imageUrl":"/images/mediaOptions/television
-/time.png"
+                  "imageUrl":"/images/mediaOptions/television/time.png"
                },
                "mediaOption5":{
                   "showName":"20:00-23:00, Mon-Sun",
@@ -937,8 +887,7 @@
                }
             }
          },
-         "logo":"/images/medias/55fb00a28ead0e79178b5cb7/55fb00a28ead0e79178b5cb7
-.jpg",
+         "logo":"/images/medias/55fb00a28ead0e79178b5cb7/55fb00a28ead0e79178b5cb7.jpg",
          "serviceTaxPercentage":15,
          "attributes":{
             "genres":{
@@ -980,19 +929,16 @@
                   "showName":"Scrollers",
                   "minimumQtyUnit1":100,
                   "pricingUnit1":"Scrollers",
-                  "description":"Scroller Ad runs at the
- bottom of the TV screen",
+                  "description":"Scroller Ad runs at the bottom of the TV screen",
                   "vendorRate":450,
                   "discountedRate":500,
                   "cardRate":555,
-                  "imageUrl":"/images/mediaOptions
-/television/Scroller.png"
+                  "imageUrl":"/images/mediaOptions/television/Scroller.png"
                }
             },
             "regularOptions":{
                "mediaOption4":{
-                  "imageUrl":"/images/mediaOptions/television
-/time.png",
+                  "imageUrl":"/images/mediaOptions/television/time.png",
                   "discountedRate":2500,
                   "cardRate":2630,
                   "showName":"24:00-05:00 (US)"
@@ -1001,8 +947,7 @@
                   "imageUrl":"/images/mediaOptions/television/time.png",
                   "discountedRate":4600,
                   "cardRate":6000,
-                  "showName":"06:00-12
-:00"
+                  "showName":"06:00-12:00"
                },
                "mediaOption2":{
                   "imageUrl":"/images/mediaOptions/television/time.png",
@@ -1091,16 +1036,14 @@
                   "imageUrl":"/images/mediaOptions/television/time.png"
                },
                "mediaOption4":{
-                  "showName":"06:00-17:00
-, Sat-Sun",
+                  "showName":"06:00-17:00, Sat-Sun",
                   "imageUrl":"/images/mediaOptions/television/time.png",
                   "cardRate":3560,
                   "discountedRate":3200
                },
                "mediaOption3":{
                   "showName":"17:00-24:00, Mon-Sun",
-                  "imageUrl":"/images/mediaOptions/television/time
-.png",
+                  "imageUrl":"/images/mediaOptions/television/time.png",
                   "discountedRate":6200,
                   "cardRate":6890
                },
@@ -1114,8 +1057,7 @@
                   "showName":"07:00-11:00, Mon-Fri",
                   "discountedRate":2600,
                   "cardRate":2890,
-                  "imageUrl":"/images/mediaOptions/television
-/time.png"
+                  "imageUrl":"/images/mediaOptions/television/time.png"
                }
             }
          },
@@ -1167,8 +1109,7 @@
                   "showName":"09:30-24:00, Mon-Fri",
                   "cardRate":1260,
                   "discountedRate":1200,
-                  "imageUrl":"/images/mediaOptions/television
-/time.png"
+                  "imageUrl":"/images/mediaOptions/television/time.png"
                },
                "mediaOption2":{
                   "showName":"09:30-24:00, Sat-Sun",
@@ -1184,8 +1125,7 @@
                }
             }
          },
-         "logo":"/images
-/medias/55fb00a28ead0e79178b5e36/55fb00a28ead0e79178b5e36.jpg",
+         "logo":"/images/medias/55fb00a28ead0e79178b5e36/55fb00a28ead0e79178b5e36.jpg",
          "serviceTaxPercentage":15,
          "attributes":{
             "genres":{
@@ -1199,8 +1139,7 @@
                ]
             },
             "weeklyReach":{
-               "value":"17,590 viewers
- ('000s)",
+               "value":"17,590 viewers ('000s)",
                "showName":"Weekly Viewers (000s)"
             },
             "pricingUnit":{
@@ -1260,22 +1199,19 @@
             "regularOptions":{
                "mediaOption3":{
                   "showName":"22:00-23:00, Mon-Sun",
-                  "imageUrl":"/images/mediaOptions
-/television/time.png",
+                  "imageUrl":"/images/mediaOptions/television/time.png",
                   "discountedRate":3330,
                   "cardRate":3700
                },
                "mediaOption2":{
-                  "showName":"21:00-22:00
-, Mon-Sun",
+                  "showName":"21:00-22:00, Mon-Sun",
                   "imageUrl":"/images/mediaOptions/television/time.png",
                   "discountedRate":1780,
                   "cardRate":1980
                },
                "mediaOption1":{
                   "showName":"20:00-21:00, Mon-Sun",
-                  "imageUrl":"/images/mediaOptions/television/time
-.png",
+                  "imageUrl":"/images/mediaOptions/television/time.png",
                   "discountedRate":3890,
                   "cardRate":4320
                }
@@ -1303,8 +1239,7 @@
                ]
             },
             "weeklyReach":{
-               "showName":"Weekly Viewers
- (000s)",
+               "showName":"Weekly Viewers (000s)",
                "value":"62,680 viewers ('000s)"
             },
             "pricingUnit":{
@@ -1329,8 +1264,7 @@
          "mediaOptions":{
             "regularOptions":{
                "mediaOption10":{
-                  "imageUrl":"/images/mediaOptions/television/time
-.png",
+                  "imageUrl":"/images/mediaOptions/television/time.png",
                   "discountedRate":4750,
                   "cardRate":5000,
                   "showName":"23:00-24:00, Fri-Sun"
@@ -1339,8 +1273,7 @@
                   "imageUrl":"/images/mediaOptions/television/time.png",
                   "discountedRate":7600,
                   "cardRate":8000,
-                  "showName":"21:00-23
-:00, Fri-Sun"
+                  "showName":"21:00-23:00, Fri-Sun"
                },
                "mediaOption8":{
                   "imageUrl":"/images/mediaOptions/television/time.png",
@@ -1349,8 +1282,7 @@
                   "showName":"19:00-21:00, Fri-Sun"
                },
                "mediaOption7":{
-                  "imageUrl":"/images/mediaOptions
-/television/time.png",
+                  "imageUrl":"/images/mediaOptions/television/time.png",
                   "discountedRate":3800,
                   "cardRate":4000,
                   "showName":"16:00-19:00, Fri-Sun"
@@ -1368,8 +1300,7 @@
                   "showName":"23:00-24:00, Mon-Thu"
                },
                "mediaOption4":{
-                  "imageUrl":"/images/mediaOptions
-/television/time.png",
+                  "imageUrl":"/images/mediaOptions/television/time.png",
                   "discountedRate":5225,
                   "cardRate":5500,
                   "showName":"21:00-23:00, Mon-Thu"
@@ -1387,8 +1318,7 @@
                   "showName":"16:00-19:00, Mon-Thu"
                },
                "mediaOption1":{
-                  "imageUrl":"/images/mediaOptions
-/television/time.png",
+                  "imageUrl":"/images/mediaOptions/television/time.png",
                   "discountedRate":380,
                   "cardRate":400,
                   "showName":"07:00-16:00, Mon-Thu"
@@ -1403,8 +1333,7 @@
                }
             }
          },
-         "logo":"/images/medias/55fb00a28ead0e79178b5c95/55fb00a28ead0e79178b5c95
-.jpg",
+         "logo":"/images/medias/55fb00a28ead0e79178b5c95/55fb00a28ead0e79178b5c95.jpg",
          "serviceTaxPercentage":15,
          "attributes":{
             "genres":{
@@ -1446,8 +1375,7 @@
                   "showName":"Mixed Time",
                   "cardRate":7630,
                   "discountedRate":7244,
-                  "imageUrl":"/images/mediaOptions/television/time
-.png"
+                  "imageUrl":"/images/mediaOptions/television/time.png"
                }
             },
             "regularOptions":{
@@ -1458,8 +1386,7 @@
                   "imageUrl":"/images/mediaOptions/television/time.png"
                },
                "mediaOption2":{
-                  "showName":"17:00-24:30
-, Mon-Sat",
+                  "showName":"17:00-24:30, Mon-Sat",
                   "cardRate":16720,
                   "discountedRate":15883,
                   "imageUrl":"/images/mediaOptions/television/time.png"
@@ -1468,8 +1395,7 @@
                   "showName":"17:00-24:30, Sun",
                   "cardRate":10530,
                   "discountedRate":10000,
-                  "imageUrl":"
-/images/mediaOptions/television/time.png"
+                  "imageUrl":"/images/mediaOptions/television/time.png"
                },
                "mediaOption4":{
                   "showName":"08:30-17:00, Sun",
@@ -1479,8 +1405,7 @@
                }
             }
          },
-         "logo":"/images/medias
-/55fb00a28ead0e79178b5e9c/55fb00a28ead0e79178b5e9c.jpg",
+         "logo":"/images/medias/55fb00a28ead0e79178b5e9c/55fb00a28ead0e79178b5e9c.jpg",
          "serviceTaxPercentage":15,
          "attributes":{
             "genres":{
@@ -1495,8 +1420,7 @@
                ]
             },
             "weeklyReach":{
-               "value":"27,160
- viewers ('000s)",
+               "value":"27,160 viewers ('000s)",
                "showName":"Weekly Viewers (000s)"
             },
             "pricingUnit":{
@@ -1524,8 +1448,7 @@
             "regularOptions":{
                "mediaOption4":{
                   "showName":"06:00-18:00, Sat-Sun",
-                  "imageUrl":"
-/images/mediaOptions/television/time.png",
+                  "imageUrl":"/images/mediaOptions/television/time.png",
                   "discountedRate":1750,
                   "cardRate":1945
                },
@@ -1537,8 +1460,7 @@
                },
                "mediaOption2":{
                   "showName":"10:00-18:00, Mon-Fri",
-                  "imageUrl":"/images/mediaOptions/television
-/time.png",
+                  "imageUrl":"/images/mediaOptions/television/time.png",
                   "discountedRate":1750,
                   "cardRate":1945
                },
@@ -1598,8 +1520,7 @@
                   "imageUrl":"/images/mediaOptions/television/time.png",
                   "discountedRate":22000,
                   "cardRate":23160,
-                  "showName":"18:00-24
-:00, Sat-Sun"
+                  "showName":"18:00-24:00, Sat-Sun"
                },
                "mediaOption5":{
                   "imageUrl":"/images/mediaOptions/television/time.png",
@@ -1608,8 +1529,7 @@
                   "showName":"07:00-18:00, Sat-Sun"
                },
                "mediaOption4":{
-                  "imageUrl":"/images/mediaOptions
-/television/time.png",
+                  "imageUrl":"/images/mediaOptions/television/time.png",
                   "discountedRate":4000,
                   "cardRate":4210,
                   "showName":"23:00-24:00, Mon-Fri"
@@ -1627,8 +1547,7 @@
                   "showName":"12:00-18:00, Mon-Fri"
                },
                "mediaOption1":{
-                  "imageUrl":"/images/mediaOptions
-/television/time.png",
+                  "imageUrl":"/images/mediaOptions/television/time.png",
                   "discountedRate":2000,
                   "cardRate":2110,
                   "showName":"07:00-12:00, Mon-fri"
@@ -1643,8 +1562,7 @@
                }
             }
          },
-         "logo":"/images/medias/55fb00a28ead0e79178b5cd4/55fb00a28ead0e79178b5cd4
-.jpg",
+         "logo":"/images/medias/55fb00a28ead0e79178b5cd4/55fb00a28ead0e79178b5cd4.jpg",
          "serviceTaxPercentage":15,
          "attributes":{
             "genres":{
@@ -1686,8 +1604,7 @@
                   "showName":"Mixed Time",
                   "cardRate":30480,
                   "discountedRate":28954,
-                  "imageUrl":"/images/mediaOptions/television/time
-.png"
+                  "imageUrl":"/images/mediaOptions/television/time.png"
                }
             },
             "regularOptions":{
@@ -1698,8 +1615,7 @@
                   "imageUrl":"/images/mediaOptions/television/time.png"
                },
                "mediaOption2":{
-                  "showName":"09:00-10:30
-, Mon-Fri",
+                  "showName":"09:00-10:30, Mon-Fri",
                   "cardRate":21050,
                   "discountedRate":20000,
                   "imageUrl":"/images/mediaOptions/television/time.png"
@@ -1720,8 +1636,7 @@
                   "showName":"09:00-10:30, Sat-Sun",
                   "cardRate":26320,
                   "discountedRate":25000,
-                  "imageUrl":"/images/mediaOptions
-/television/time.png"
+                  "imageUrl":"/images/mediaOptions/television/time.png"
                }
             }
          },
@@ -1770,8 +1685,7 @@
                   "showName":"21:30-22:00, Mon-Sun"
                },
                "mediaOption9":{
-                  "imageUrl":"/images/mediaOptions/television
-/time.png",
+                  "imageUrl":"/images/mediaOptions/television/time.png",
                   "discountedRate":18414,
                   "cardRate":19380,
                   "showName":"21:00-21:30, Mon-Sun"
@@ -1789,8 +1703,7 @@
                   "showName":"20:00-20:30, Mon-Sun"
                },
                "mediaOption6":{
-                  "imageUrl":"/images/mediaOptions
-/television/time.png",
+                  "imageUrl":"/images/mediaOptions/television/time.png",
                   "discountedRate":23815,
                   "cardRate":25070,
                   "showName":"19:30-20:00, Mon-Sun"
@@ -1808,8 +1721,7 @@
                   "showName":"18:30-19:00, Mon-Sun"
                },
                "mediaOption3":{
-                  "imageUrl":"/images/mediaOptions
-/television/time.png",
+                  "imageUrl":"/images/mediaOptions/television/time.png",
                   "discountedRate":23430,
                   "cardRate":24660,
                   "showName":"18:00-18:30, Mon-Sun"
@@ -1832,8 +1744,7 @@
                   "imageUrl":"/images/mediaOptions/television/time.png",
                   "discountedRate":24659,
                   "cardRate":25960,
-                  "showName":"Mixed
- Time"
+                  "showName":"Mixed Time"
                }
             }
          },
@@ -1856,8 +1767,7 @@
                "value":"28,970 viewers ('000s)"
             },
             "pricingUnit":{
-               "value":"per 10
- sec"
+               "value":"per 10 sec"
             }
          },
          "weeklyReach":28970,
@@ -1878,16 +1788,14 @@
          "mediaOptions":{
             "planningOptions":{
                "allDayPlan":{
-                  "imageUrl":"/images/mediaOptions
-/television/time.png",
+                  "imageUrl":"/images/mediaOptions/television/time.png",
                   "discountedRate":500,
                   "cardRate":600,
                   "showName":"Mixed Time"
                }
             }
          },
-         "logo":"/images
-/medias/55fb00a28ead0e79178b5e2f/55fb00a28ead0e79178b5e2f.jpg",
+         "logo":"/images/medias/55fb00a28ead0e79178b5e2f/55fb00a28ead0e79178b5e2f.jpg",
          "serviceTaxPercentage":15,
          "attributes":{
             "genres":{
@@ -1901,8 +1809,7 @@
                ]
             },
             "weeklyReach":{
-               "showName":"Weekly Viewers
- (000s)",
+               "showName":"Weekly Viewers (000s)",
                "value":"18,470 viewers ('000s)"
             },
             "pricingUnit":{
@@ -1938,8 +1845,7 @@
                ]
             },
             "weeklyReach":{
-               "showName":"Weekly Viewers
- (000s)",
+               "showName":"Weekly Viewers (000s)",
                "value":"153,170 viewers ('000s)"
             },
             "pricingUnit":{
@@ -1973,8 +1879,7 @@
                   "showName":"17:00-23:00, Mon-Fri",
                   "cardRate":2910,
                   "discountedRate":2765,
-                  "imageUrl":"/images/mediaOptions/television
-/time.png"
+                  "imageUrl":"/images/mediaOptions/television/time.png"
                },
                "mediaOption2":{
                   "showName":"17:00-23:00, Sat-Sun",
@@ -1984,8 +1889,7 @@
                }
             }
          },
-         "logo":"/images/medias/55fb00a28ead0e79178b5e8a/55fb00a28ead0e79178b5e8a
-.jpg",
+         "logo":"/images/medias/55fb00a28ead0e79178b5e8a/55fb00a28ead0e79178b5e8a.jpg",
          "serviceTaxPercentage":15,
          "attributes":{
             "genres":{
@@ -2028,8 +1932,7 @@
                   "showName":"Mixed Time",
                   "cardRate":4150,
                   "discountedRate":3800,
-                  "imageUrl":"/images/mediaOptions/television/time
-.png"
+                  "imageUrl":"/images/mediaOptions/television/time.png"
                }
             },
             "regularOptions":{
@@ -2040,8 +1943,7 @@
                   "imageUrl":"/images/mediaOptions/television/time.png"
                },
                "mediaOption2":{
-                  "showName":"12:00-17:00
-, Mon-Fri",
+                  "showName":"12:00-17:00, Mon-Fri",
                   "cardRate":2340,
                   "discountedRate":2070,
                   "imageUrl":"/images/mediaOptions/television/time.png"
@@ -2062,8 +1964,7 @@
                   "showName":"06:00-17:00, Sat-Sun",
                   "cardRate":3900,
                   "discountedRate":3450,
-                  "imageUrl":"/images/mediaOptions
-/television/time.png"
+                  "imageUrl":"/images/mediaOptions/television/time.png"
                }
             }
          },
@@ -2109,8 +2010,7 @@
                   "showName":"Mixed Time",
                   "cardRate":21870,
                   "discountedRate":20772,
-                  "imageUrl":"/images/mediaOptions/television/time
-.png"
+                  "imageUrl":"/images/mediaOptions/television/time.png"
                }
             },
             "regularOptions":{
@@ -2130,8 +2030,7 @@
                   "showName":"07:00-09:00",
                   "cardRate":2860,
                   "discountedRate":2717,
-                  "imageUrl":"/images/mediaOptions/television
-/time.png"
+                  "imageUrl":"/images/mediaOptions/television/time.png"
                },
                "mediaOption4":{
                   "showName":"19:00-20:00",
@@ -2147,8 +2046,7 @@
                }
             }
          },
-         "logo":"/images/medias
-/55fb00a38ead0e79178b5ee2/55fb00a38ead0e79178b5ee2.jpg",
+         "logo":"/images/medias/55fb00a38ead0e79178b5ee2/55fb00a38ead0e79178b5ee2.jpg",
          "serviceTaxPercentage":15,
          "attributes":{
             "genres":{
@@ -2162,8 +2060,7 @@
                ]
             },
             "weeklyReach":{
-               "value":"154,140 viewers 
-('000s)",
+               "value":"154,140 viewers  ('000s)",
                "showName":"Weekly Viewers (000s)"
             },
             "pricingUnit":{
@@ -2213,14 +2110,12 @@
                },
                "mediaOption4":{
                   "showName":"19:00-20:00",
-                  "imageUrl":"/images
-/mediaOptions/television/time.png",
+                  "imageUrl":"/images/mediaOptions/television/time.png",
                   "discountedRate":714,
                   "cardRate":750
                },
                "mediaOption3":{
-                  "showName":"07
-:30-09:00",
+                  "showName":"07:30-09:00",
                   "imageUrl":"/images/mediaOptions/television/time.png",
                   "discountedRate":1028,
                   "cardRate":1080
@@ -2233,8 +2128,7 @@
                },
                "mediaOption1":{
                   "showName":"22:00-22:30",
-                  "imageUrl":"/images/mediaOptions
-/television/time.png",
+                  "imageUrl":"/images/mediaOptions/television/time.png",
                   "discountedRate":714,
                   "cardRate":750
                }
@@ -2279,14 +2173,12 @@
          "categoryId":[
             "55e60e7d8ead0e924f8b458b"
          ],
-         "logo":"/images/medias/55fb00a28ead0e79178b5cca/55fb00a28ead0e79178b5cca
-.jpg",
+         "logo":"/images/medias/55fb00a28ead0e79178b5cca/55fb00a28ead0e79178b5cca.jpg",
          "serviceTaxPercentage":15,
          "mediaOptions":{
             "planningOptions":{
                "allDayPlan":{
-                  "imageUrl":"/images
-/mediaOptions/television/time.png",
+                  "imageUrl":"/images/mediaOptions/television/time.png",
                   "discountedRate":3000,
                   "cardRate":3160,
                   "showName":"Mixed Time"
@@ -2305,8 +2197,7 @@
                ]
             },
             "weeklyReach":{
-               "showName":"Weekly
- Viewers (000s)",
+               "showName":"Weekly Viewers (000s)",
                "value":"19,300 viewers ('000s)"
             },
             "pricingUnit":{
@@ -2331,15 +2222,13 @@
          "mediaOptions":{
             "regularOptions":{
                "mediaOption3":{
-                  "imageUrl":"/images/mediaOptions/television/time
-.png",
+                  "imageUrl":"/images/mediaOptions/television/time.png",
                   "discountedRate":1310,
                   "cardRate":1380,
                   "showName":"06:00-12:00"
                },
                "mediaOption2":{
-                  "imageUrl":"/images
-/mediaOptions/television/time.png",
+                  "imageUrl":"/images/mediaOptions/television/time.png",
                   "discountedRate":1561,
                   "cardRate":1640,
                   "showName":"17:00-23:00"
@@ -2360,8 +2249,7 @@
                }
             }
          },
-         "logo":"/images/medias/55fb00a38ead0e79178b5ece
-/55fb00a38ead0e79178b5ece.jpg",
+         "logo":"/images/medias/55fb00a38ead0e79178b5ece/55fb00a38ead0e79178b5ece.jpg",
          "serviceTaxPercentage":15,
          "attributes":{
             "genres":{
@@ -2376,8 +2264,7 @@
             },
             "weeklyReach":{
                "showName":"Weekly Viewers (000s)",
-               "value":"21,870
- viewers ('000s)"
+               "value":"21,870 viewers ('000s)"
             },
             "pricingUnit":{
                "value":"per 10 sec"
@@ -2393,14 +2280,12 @@
          "geography":[
             "56d097ed8ead0e78498b4567"
          ],
-         "name":"Thanthi
- TV",
+         "name":"Thanthi TV",
          "urlSlug":"thanthi-tv-advertising",
          "categoryId":[
             "55fafe248ead0e7d228b7280"
          ],
-         "logo":"/images/medias
-/55fb00a28ead0e79178b5e51/55fb00a28ead0e79178b5e51.jpg",
+         "logo":"/images/medias/55fb00a28ead0e79178b5e51/55fb00a28ead0e79178b5e51.jpg",
          "serviceTaxPercentage":15,
          "mediaOptions":{
             "planningOptions":{
@@ -2408,8 +2293,7 @@
                   "showName":"Mixed Time",
                   "cardRate":1520,
                   "discountedRate":1440,
-                  "imageUrl":"/images/mediaOptions
-/television/time.png"
+                  "imageUrl":"/images/mediaOptions/television/time.png"
                }
             },
             "regularOptions":{
@@ -2429,8 +2313,7 @@
                   "showName":"18:00-24:00",
                   "cardRate":1580,
                   "discountedRate":1500,
-                  "imageUrl":"/images/mediaOptions/television
-/time.png"
+                  "imageUrl":"/images/mediaOptions/television/time.png"
                }
             }
          },
@@ -2450,8 +2333,7 @@
                "showName":"Weekly Viewers (000s)"
             },
             "pricingUnit":{
-               "value":"per 10
- sec"
+               "value":"per 10 sec"
             }
          },
          "weeklyReach":25280,
